@@ -1,0 +1,104 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Hidejb VNeID(Rootless)\n\n- Ẩn Jailbreak cho Ứng dụng VNeID:\n\n- Yêu cầu cài thêm Tweak Choicy,có thể cài ở nguồn mình sẽ có Tiếng Việt ,sau khi cài xong Tweak Choicy bạn vào Choicy chọn(Ứng dụng>VNeID>Vô hiệu hoá Tweak injection)\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/HidejbVNeID/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/HidejbVNeID/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin tinh chỉnh"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Sơn Siro"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.8" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"5/7/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 đến 16.4.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.0.8\n\n- Hỗ trợ ứng dụng VNeID phiên bản 2.0.8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

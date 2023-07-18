@@ -1,0 +1,93 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/Zetsu/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Zetsu VH(Rootless).\n\nMở nhiều cửa sổ ứng dụng trên iOS 13/14/15 Tinh chỉnh Zetsu miễn phí được tạo bởi @Csyhi có tính năng mở nhiều ứng dụng cùng một lúc trên iPhone và iPad\n\nĐể kích hoạt bất kỳ ứng dụng nào trong Màn hình chính,  bạn chỉ cần nhấn Giữ ứng dụng và chọn Zetsu để thu nhỏ nó thành của sổ\n\nCác bạn có thể xem ảnh phía trên \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Dcsyhi"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"23/5/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.4"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.2\n\nHỗ trợ Rootless Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

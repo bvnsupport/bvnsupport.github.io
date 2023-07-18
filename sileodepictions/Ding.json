@@ -1,0 +1,97 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/Ding/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/Ding/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Ding VH(Rootless)\n\nThay đổi chức năng của nút gạt im lặng sang các chức năng khác \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook NHẬT BIỆN**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Nebula"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"7/6/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 13 đến 16.4"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.0.0\n\nHỗ trợ Rootless Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

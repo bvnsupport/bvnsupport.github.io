@@ -1,0 +1,93 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/SneakyCam/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# SneakyCam VH(Rootlessl)  \n\n### Kín đáo chụp ảnh hoặc quay video từ bất cứ đâu, ngay cả khi màn hình của bạn tắt\n\n### Cách sử dụng:\n\n+ Để sử dụng: Bạn chỉ cần nhấn hai lần nút tăng âm lượng để quay video hoặc nhấn hai lần nút giảm âm lượng để chụp ảnh khi màn hình tắt chả hạn \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Contact me via Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Sparkdev"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"3/6/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 đến 16.4"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 2.0.6\n\nHỗ trợ Rootless Jailbreak."
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

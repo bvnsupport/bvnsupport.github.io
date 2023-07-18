@@ -1,0 +1,109 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"BatteryPercent (Rootless)\n\n- Hiển thị phần trăm pin trên các dòng máy có tai thỏ iOS 15 trở xuống giống iOS 16 \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/BatteryPercent/Screenshots/1.mp4",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"NQT1195"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+{
+"class":"DepictionTableTextView",
+"title":"Hỗ trợ Rootless bởi",
+"text":"BIỆN VĂN NHẬT"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"13/7/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"23 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 16.4.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.1\n\n- Hỗ trợ Rootless Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

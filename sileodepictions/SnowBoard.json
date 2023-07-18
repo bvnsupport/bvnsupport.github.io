@@ -1,0 +1,93 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/SnowBoard.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/SnowBoard/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Snowboard (Rootless) \n\n### Tweak này dùng để thay đổi chủ đề trên iPhone đã Jailbreak\n\n### Các tính năng:\n\n+ Tweak này được coi là sự kế thừa cổ xưa của WinterBoard : có khả năng thay thế themes nhanh chóng và thay đổi giữ các themes một cách liên tục.\n\n+ Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác\n\n+ Cho phép bạn thêm các chủ đề vào Màn hình chính. Có khả năng thay phông chữ, thay thế hình ảnh Respring, thay đổi thanh Dock, chuyển dấu chấm trang, đổi các biểu tượng trong cài đặt, chèn thanh trạng thái \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Spark "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"10/7/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 10.0 đến 16.4"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.6.4\n\nfix 1 số lỗi"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

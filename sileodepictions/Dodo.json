@@ -1,0 +1,93 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/Dodo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/Dodo1/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"#  Dodo là Tweak Hỗ trợ Màn Hình Khoá hoàn hảo với mọi thứ bạn cần. Bạn có thể thêm các ứng dụng yêu thích của mình để truy cập nhanh từ Màn hình khóa, nhận các đề xuất phương tiện tùy thuộc vào ứng dụng nào đang phát nhạc và kiểm soát phát lại nhạc! Bạn cũng có thể kiểm tra thời tiết thoải mái \n\nCác tính năng: \n\nTruy cập nhanh vào các ứng dụng \n\nĐề xuất phương tiện truyền thông \n\nTrình phát đa phương tiện \n\nThời tiết \n\nThiết kế đẹp, tùy biến và thông minh. \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ cho tôi qua Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Ginsu"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"5/5/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.4"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 4.0.8.1\n\nKhông có thay đổi nào cho gói này"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

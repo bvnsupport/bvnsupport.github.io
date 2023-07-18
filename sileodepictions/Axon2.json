@@ -1,0 +1,102 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/Axon2/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/Axon2/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Axon VH(Rootless). \n\n### Nhóm và xem các thông báo chưa đọc trên màn hình khoá \n\n### Có nhiều cách để nhóm các biểu ngữ thông báo cho từng ứng dụng trên màn hình khoá của bạn \n\n+ Axon sắp xếp các thông báo đến chưa được xem của bạn bằng ứng dụng trên màn hình khoá \n\n+ Bạn có thể lọc giữa các thông báo bằng cách nhấn vào các biểu tượng ứng dụng tương ứng xuất hiện ngay bên dưới thời gian.\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Nepeta & Baw Appie "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Hỗ trợ cho Rootless bởi",
+"text":"Biện Văn Nhật"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"30/6/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 đến 16.4.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.4\n\nĐã thêm hỗ trợ cho bản bẻ khóa Dopamine\n\nĐã thêm hỗ trợ cho Palera1n không root trên iOS15 & 16"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

@@ -1,0 +1,97 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/PullOver1/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/PullOver1/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"#  PullOver là một tinh chỉnh bẻ khóa miễn phí mới cho phép bạn ghim một ứng dụng vào màn hình để dễ dàng truy cập từ mọi nơi trong iOS \n\nCác tính năng: \n\nVới giao diện người dùng tối thiểu và hình ảnh động trông hấp dẫn và cấu hình linh hoạt để truy cập bất kỳ ứng dụng nào bạn cần, PullOver là một phím tắt đa nhiệm mới thanh lịch mà bất kỳ jailbreak nào cũng có thể được hưởng lợi \n\nPullOver có thể được mở hoặc đóng bằng một hành động Activator đơn giản mà bạn có thể định cấu hình. Khi bạn gọi nó, bạn sẽ thấy một thanh trượt nhỏ ở cạnh màn hình của bạn; gọi hành động một lần nữa ẩn thanh trượt khỏi chế độ xem \n\nTrong khi thanh trượt ở trên màn hình của bạn, bạn có thể kéo vào nó để hiển thị giao diện cửa sổ của ứng dụng bạn đã chọn. Ở chế độ cửa sổ, bạn vẫn có thể tương tác với ứng dụng như bình thường, làm những việc như chạm vào nút và cuộn xung quanh \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ cho tôi qua Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"c1d3r"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"13/7/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 11 đến 16.4"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 2.1.4-1\n\nĐã thêm hỗ trợ cho bản bẻ khóa Dopamine,XinaA15\n\nĐã thêm hỗ trợ cho Palera1n không root trên iOS15 & 16\n\nKhắc phục sự cố cho iOS15\n\nSửa lỗi bàn phím không hiển thị\n\nSửa nút di chuột sẽ không được rút lại tự động sau khi chuyển nhanh đến ứng dụng (khi chức năng được kích hoạt) Khắc phục sự cố văng cài đặt sau khi gỡ cài đặt ứng dụng trong mục yêu thích\n\nThêm tất cả các giao diện ngôn ngữ cho các mục cài đặt\n\nTối ưu xác suất màn hình trắng Tối ưu hóa giao diện người dùng nút di chuột\n\nThêm quyền truy cập máy ảnh  "
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
