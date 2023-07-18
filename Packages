@@ -1012,6 +1012,174 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SemiRestore/?p=inf
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 Author: Pwn20wnd
 
+Package: com.BIENVANNHAT.Shny2
+Architecture: iphoneos-arm
+Version: 1.9.7
+Section: Themes
+Maintainer: Biện Văn Nhật
+Depends: com.BIENVANNHAT.Shny
+Filename: ./debs/com.BIENVANNHAT.Shny2_1.9.7_iphoneos-arm.deb
+Size: 31122372
+MD5sum: de038448367f6fbe6aebbbefd6a734da
+SHA1: bbe044d0eca2d5784b404e62c2e06b7aa78d29f7
+SHA256: 51482437886843b065abd4d75c0ae50350517feb74b963ad10001cb3abf8c023
+SHA512: 61cc141c825574be73897be9cf151538fc2d9ff6dafeaa5e662cd3bf5e7b0739fa10b0e2ac00f5deab3a56de1af7b8bb70e2c3f814d27085828d402be0b9904e
+Description: Gói phụ trợ
+Name: Sh!!ny V2
+Author: a7lafe
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.Shny
+Architecture: iphoneos-arm
+Version: 1.9.7
+Section: Themes
+Maintainer: Biện Văn Nhật
+Depends: com.BIENVANNHAT.Shny2
+Filename: ./debs/com.BIENVANNHAT.Shny_1.9.7_iphoneos-arm.deb
+Size: 23950612
+MD5sum: 78940abbef9fe6f39dfb4ee3e992ea4d
+SHA1: 30886623e5d79acd3df709e0a70eb1c02366c2bc
+SHA256: 9f59819a6b66cede5442f053337c7540deef65e87a398a39c4e81b01687a863c
+SHA512: 0b4b35c773efe924024b6e564c71786525cacb8c84d0d55ba06534c5358429366f9520a5cfac487aa3b63b2554c194631987ccc38b38b0f5db5e30bcb69aaa04
+Description: chủ đề Sh!!ny V2
+Name: Sh!!ny V2
+Author: a7lafe
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Sh!!ny/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Sh!!ny/?p=info
+
+Package: com.BIENVANNHAT.SlipstreamLET-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.BIENVANNHAT.SlipstreamLET-rootless_1.0_iphoneos-arm64.deb
+Size: 66576
+MD5sum: df3d926f4a71c67af79b4d600cafb72b
+SHA1: 020d9d1ab115af82c777cfc0ec370bc26523ee2d
+SHA256: 16b511a02a8696be1015ad03b9256bcfe634c302efcb50460af22ccdfd81b8cd
+SHA512: b5bbd2e4cc8d36e82b878099bb6712f40726c314b012ab1d67c6f8f8e5d8b75414b1cc62f84af1935a715169c8fb0786f003d72ecd818d959572c5d488856c8e
+Description: Phông chữ cho AIM
+Name: Slipstream_LETf(Rootless)
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font3/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font3.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.BIENVANNHAT.SlipstreamLET
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.BIENVANNHAT.SlipstreamLET_1.0_iphoneos-arm.deb
+Size: 66452
+MD5sum: 6b639e011fd676850f985e93e662ef50
+SHA1: 98fd44f68bd08d7e4c0e4e48a3c6d3b5a9561f8c
+SHA256: 61bffb46127d42d467f3e558901515e13a28597e8db6ea7f3be6d773747881f8
+SHA512: 2d26056c162a86fffbc93252568c7b9333a9ef1b87155da60f742c10f84f4ff9241d30116a4e68ebe6400d75f476f1bddd106a17499a875e12beb3458b04ded5
+Description: Phông chữ cho AIM
+Name: Slipstream_LET
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font3/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font3/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.SmartDND
+Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, com.opa334.ccsupport
+Conflicts: com.eliassfeir.SmartDND
+Filename: ./debs/com.BIENVANNHAT.SmartDND_1.0_iphoneos-arm.deb
+Size: 2515614
+MD5sum: ac800060c9a24daa10bccda8b3641e16
+SHA1: b48e89ecd3639b6235c0e777761352436afe08c0
+SHA256: 90c50ea5e681a944d94b24280ddef27f2567ebc4a8ef6bf36a4c2d1c202b0a44
+SHA512: 3d4e9c7934e7e07ee1f4a2d085873a81244002c964f87028148e2b5a920c5e838e2fe4f9e618fb69521754333e88ccf7b97175fb9aa20b4118449acd7cb5a45d
+Description: Chế độ không làm phiền của iOS 15 cho iOS cũ hơn.
+Name: SmartDND VH
+Author: Elias Sfeir
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SmartDND/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SmartDND/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.SmartDND
+Architecture: iphoneos-arm
+Version: 1.1
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, com.opa334.ccsupport
+Conflicts: com.eliassfeir.SmartDND
+Filename: ./debs/com.BIENVANNHAT.SmartDND_1.1_iphoneos-arm.deb
+Size: 2516342
+MD5sum: 63754b3bf598d0575879ca8a73f0a6e0
+SHA1: 9fe48f9069eb9745856703350871d7f219e329ad
+SHA256: e2b8193e9c5cb35bc63f194a0f1328e7c9e9638e7ee910090166de47f2131855
+SHA512: d7f3030783825e881c1e5e41ad412d93603729eefc96cac38afb297628dd41f8889fea1aa4f502c82254c6a824575f6b8ede56bafb5cd76ae4d8345b545db2ce
+Description: Chế độ không làm phiền của iOS 15 và hơn nữa.​
+Name: SmartDND VH
+Author: Elias Sfeir
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SmartDND/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SmartDND/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.Springtomize
+Architecture: iphoneos-arm
+Version: 5.2.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2424
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.BIENVANNHAT.Springtomize_5.2.0_iphoneos-arm.deb
+Size: 683166
+MD5sum: ce0d8e4104b69f2e92aea274f476b0be
+SHA1: ee568a814d26461e1649072485b8edd54fa38837
+SHA256: e0a6ac528b6ff77598cc1466b87db0169639e9d860fc7a9089c805e4624a1a40
+SHA512: 96c82c5017c907dc4fdacc82adc7b8b871865e0eb8c43ae843e8ef0abea22341a2400c1b2be4abe4275a4bd459eb00e295d3a939e77277584c8d8ef98b07eb1a
+Description: Tùy chỉnh thiết bị của bạn hơn bao giờ hết.
+Name: Springtomize 5 VH
+Author: sharedRoutine
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.Springtomize
+Architecture: iphoneos-arm
+Version: 5.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2456
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.BIENVANNHAT.Springtomize_5.2.3_iphoneos-arm.deb
+Size: 695162
+MD5sum: 8b289488daf62354357701682f25d7cd
+SHA1: dd014f4aaf562a16cc0174ac63ec02fa56bdeb88
+SHA256: ea05127c3740b42f66c829df28f5718afc57bac609e850ddee3c07a06fcb33b0
+SHA512: 630a2637422124ef1e4221811a2ae2e7bbe266f5edb21678061815379979ef01d70af7363404a3564e7778be917739ec2bbe5b877acec82848d706cd20c4b567
+Description: Tùy chỉnh thiết bị của bạn hơn bao giờ hết.
+Name: Springtomize 5 VH
+Author: sharedRoutine
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.Starfall
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Laetus Themes
+Maintainer: Repo BVN
+Filename: ./debs/com.BIENVANNHAT.Starfall_0.1_iphoneos-arm.deb
+Size: 26391506
+MD5sum: ee4908bf538d9e4317c497841fcb052b
+SHA1: 18ff1512502feb273199f42c2b0a1b4c16c585f6
+SHA256: cc3dd30e2f2c2edb0d24ae7749ad0172359b85aea028dd3f66fee862df3029fe
+SHA512: 0f8a1dde3d3ec19207d001bad25d8e3666e3d44aeb04b84d25f5f20d28b47ed055d1d9492e58b9dcb086c4539ddbff8dc71f7485cf7e4cef40847b9eb1f1baf3
+Description: Chủ đề bàn phím cho Tweak Laetus.
+Name: Starfall
+Author: Starfall
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
 Package: com.BIENVANNHAT.a-font
 Architecture: iphoneos-arm
 Version: 1.9.4
@@ -8692,6 +8860,975 @@ Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.settingswidgets
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.settingswidgets_1.2.2_iphoneos-arm.deb
+Size: 100896
+MD5sum: c80532b79672811ba9f07ced84c30734
+SHA1: 15a3aa475120b2d311679a1e35ab2ea7cca37b1c
+SHA256: caa50e2d0d9322468fd375b006a4ca461dbce89d6975f08794d6259a254b6935
+SHA512: bd92c6f3aa742871857d7cb2c3d6c1464364b70203525d31e421facc30541b1cc149560ba7c5455f39e91cebfb5fd2291a0308441403e1530e84f5ad8fac9d03
+Description:  Đưa các vật dụng đẹp mắt lên trang đầu của cài đặt!
+Name: SettingsWidgets VH
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SettingsWidgets/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SettingsWidgets/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: shepgoba
+
+Package: com.BIENVANNHAT.settingswidgets
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.settingswidgets_1.2.3_iphoneos-arm.deb
+Size: 100894
+MD5sum: 8ce84e55be3a4a2c4109f3ab4e7728b3
+SHA1: 6657fbf7c4677e40672a45226a73c486e7e7c323
+SHA256: c348946bce04de505a4e4e8233301d5402a09ee852610dd5f51c8c83d23cb7e0
+SHA512: ce9bacabb74b17f7e8e6f72a7649c0bdc544e4a4fc60205c7efb6d9d25b58b22546cf00f04ff55e2b1a7591e37f23c71665f110fb426df3a07f35b41ce761b50
+Description:  Đưa các vật dụng đẹp mắt lên trang đầu của cài đặt!
+Name: SettingsWidgets VH
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SettingsWidgets/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SettingsWidgets/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: shepgoba
+
+Package: com.BIENVANNHAT.sh4dow
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2000
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.peterdev.libpddokdo, com.opa334.altlist, ws.hbang.alderis
+Conflicts: com.sugiuta.sh4dow, net.kenhtao.sh4dow
+Filename: ./debs/com.BIENVANNHAT.sh4dow_1.0.3_iphoneos-arm.deb
+Size: 419186
+MD5sum: 2fec3da19f7f195d652e61cabf8dca9a
+SHA1: 90672381a8033c22ae470adea78cd2f95614dbcc
+SHA256: 3619d59350fbb4f62063d6aea2ba755e5dc1660ad9614fef9d64277b0c3a3946
+SHA512: b48da54afb40300da9f9c4016e191b7c4b8703e92549b17469df70fff306f14629aa3ba838faab122fcf40426a311f42e029252477cf8fd62aae25037aa65b29
+Description: Thiết kế màn hình khoá hiện đại hơn.
+Name: Sh4dow VH
+Author: sugiuta
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/sh4dow/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/sh4dow?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shortlook
+Architecture: iphoneos-arm
+Version: 1.0.23
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2128
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Conflicts: net.kenhtao.shortlook, org.mr.shortlook
+Filename: ./debs/com.BIENVANNHAT.shortlook_1.0.23_iphoneos-arm.deb
+Size: 1368084
+MD5sum: d4bb28660f59c3593af8f9eb22895570
+SHA1: ecc00b5930028d8c20deb00afd0e5815a4184cd2
+SHA256: c268b81fbac96d8c313f4b22fafe4226a78e6c9648857c0f049b9a5b34515f2c
+SHA512: b93fa1e723068cf2b139e9e89a3b0cda65485bc7cbd21072679ce04a3d1dba1d4afa78214fc9095357a4d6d01d868038b36d6191b8a7e02dd9cdfdcc88d915e8
+Homepage: https://dynastic.co/shortlook/
+Description: Phong cách thông báo hoàn toàn mới.
+Name: ShortLook VH
+Author: Dynastic Development
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/ShortLook/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/ShortLook/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shortmoji2
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2700
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.miro.libmiro (>= 1.0.16), com.miro.libmiroprefs (>= 1.0.4)
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.ya7yajb.shortmoji, com.miro.shortmoji
+Filename: ./debs/com.BIENVANNHAT.shortmoji2_1.1.5_iphoneos-arm.deb
+Size: 953596
+MD5sum: dd213c295f621f6a842d7541c22b0290
+SHA1: d7eaea18e6551bcdce941bdd681aab699ac9b0ca
+SHA256: c8e6d5acc00cc514b875d18c6eb43f81fe1a50bf655ff458188366c64ace2544
+SHA512: 7d1b0d65a6f4c049001363f1fe26d353f49b96877c8e3b9c18042f2b8a114d3ca62f068342b3e8f8f64b79d262cc00da644047bc0f1ff5c680cf96e0247a855e
+Description: Một tinh chỉnh tuyệt vời cho bàn phím của bạn.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Shortmoji 2 VH
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.shortmoji2
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.shortmoji2
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.3.5
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2000
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.3.5_iphoneos-arm.deb
+Size: 470424
+MD5sum: af442722f342bc705e49e5bcc4dff853
+SHA1: 12ca19d0ca2399f4af433dcb11c65971344c264a
+SHA256: 6ddb533c849816467e1e0bfeaea684f1f1b8259b6be895e3dc4401f8e399265a
+SHA512: 9e81a8479807297eb9b4bf94b0f30175d529092768ff31dcc71e47ffe549f2deebf5def688e011708fd4dd02a1330a611350fd28b3e6dd165620e29cdc0a542d
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 8 tới ios 14.5.1
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.2R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2324
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.5.2R_iphoneos-arm.deb
+Size: 557486
+MD5sum: 050b60a9c891a5141c96df9a3a0ea311
+SHA1: 0e8c14c93c72bcdf7fd0f4c93c9027fa162125e8
+SHA256: 8d19b715a3f9ba30923b881d4cebafea03c185c8462aff9326801b906c4ef197
+SHA512: 8d6cf302e36be0c052a5e856b0f8d8488f393a168c5de671f9de8b392e7c4fe408c0bd580377a46a303cbf4eb9c4ecc0d6fbe9f261755e02bc1eaa7ee0b31c87
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 10 tới ios 14.9
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2292
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.5.5_iphoneos-arm.deb
+Size: 547196
+MD5sum: 66a12edf9339f227bcf013200d620c6b
+SHA1: 94aaaef3cbb2846ca1042f7eae5bbb4e39fba3a4
+SHA256: c6347010d8d8e1aa2a9968b42b9eb64231475ad70cb90b4864d01f5c0aca6fe6
+SHA512: 739903ffdd165382f017f33d1ffb9839362522167c25eee00e2a82e47fa0e566386590a29e6565bcea0ac07441bf45afa68875056297139866b50ce96dc8dded
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 10 tới ios 14.9
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.7
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2292
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.5.7_iphoneos-arm.deb
+Size: 558870
+MD5sum: 40ae6071b249e6eacf2d9dfc35ffd477
+SHA1: a49047254d64ac23efd8d77308d2179660a9f69f
+SHA256: 2e5219d20cc7e538603af35c198b1468a420ae3b2a65a50b5648feeff567f6ad
+SHA512: a9d0246822ea7e7bbcdf1487f373c1b96ef5d4abe13a5a28f2447485c61ffec3a85c1c8d03db74c9f7c69cf759c5eeba12e6f3ba53cb2046296b1bc46c27039c
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 10 tới ios 14.9
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.8
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2292
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.5.8_iphoneos-arm.deb
+Size: 560790
+MD5sum: a369139003b529ce001323d93dd11b52
+SHA1: 9e68428111f4602743c15030a5e4e56365abc92d
+SHA256: fb60189da196055f30ede45c349326aaf0a538e88bad5c5766bee6b79c635574
+SHA512: c223b74d8ec40029764b96298244363316787055d515ba257c1dc204fbe774ec69d32f4f04228ee5867d02f827d27e68681f11c87357a55bdaf24ce3eae4f172
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 10 tới ios 14.9
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.8r
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2000
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.5.8r_iphoneos-arm.deb
+Size: 470452
+MD5sum: e1abb6b0cbc5d74129643bdd26cf3062
+SHA1: 59a05927239a4bc6edb90bd0cfbbae4807553aa4
+SHA256: ac5077ad101e3c8de7925e8313b65e5a48236b379115002ad0dd22571bbfe333
+SHA512: a57ba694382c72df6ab9fe9f3fc9be3a4e412deb42575bd5a35f66a77eeee727ae615cb8df76274bb16e36d9a2726a38c16055943506f15e1e352c665033f5f7
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ ios 8 tới ios 14.9
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2364
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder, com.creaturecoding.shuffle
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.6.0_iphoneos-arm.deb
+Size: 574590
+MD5sum: 7f53b0b75401582fa7703d9cc43a08bf
+SHA1: ea12233f0b5b1b98f0ac2c2b2ecb71cb56ce0df0
+SHA256: 5498bd6e894b8624b8bb07fb705b401e6fa0dd545b7671d302838fb90c191092
+SHA512: 84f80542d16dfd4186877ff661b169ade54eed8dd93cc9ed46272c2afdd2fd420846bbdc1d2c6913c98637671f0e969f9a870cd5082de5f2126a169333e73d13
+Description: Phân chia các mục trong Cài đặt của bạn!Hỗ trợ Ios 8.0-14.8
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.shuffle
+Architecture: iphoneos-arm
+Version: 1.6.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2364
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.BIENVANNHAT.shuffle_1.6.1_iphoneos-arm.deb
+Size: 574896
+MD5sum: f887462e9c4e6dc3b9bd421600aefad7
+SHA1: 0e604a7218356e56da91663b2d3e1f307012b1f4
+SHA256: de19a5b77b19b719a91a5b6253e871108f7d73ff95750dd2be8cd7126a4cf1a1
+SHA512: c623fe050a867bf3a5aeda293619adbe29d727ade2224814bb188a78aa1199477d71711d01fc28b509834f942c0fe5120edd49597e517e7f3385f1128bb37251
+Description: Sắp xếp cài đặt của bạn
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle Việt Hoá
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/Shuffle/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Shuffle/?p=info
+
+Package: com.BIENVANNHAT.simplus
+Architecture: iphoneos-arm
+Version: 1.14-beta-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 678
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.libiarrays (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Filename: ./debs/com.BIENVANNHAT.simplus_1.14-beta-2_iphoneos-arm.deb
+Size: 699620
+MD5sum: f30119c825716f838c6bacf62f1dbf3a
+SHA1: 2d9345469616391ce0e4330fb39f9d94c9d43eed
+SHA256: 93fd2b56d616adecb76da9724667b0d8fd954d4316f4f51e34854eba61e37adb
+SHA512: 7aaac776b85e0b0c2fba6bec65d015a6071c7ba49ecbf6b24d2d56dd736bacea62bf44812aa8e638c7904136a67b2c3aa83f4fd827c91dca878591fa44125857
+Description: Chọn SIM để liên hệ trên iPhone eSim.
+Name: eSim+ VH
+Author: IArrays <support@iarrays.com>
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.simplus
+Architecture: iphoneos-arm
+Version: 1.16-beta-2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xrays, com.rpetrich.rocketbootstrap, com.opa334.ccsupport | com.BIENVANNHAT.libiarrays
+Filename: ./debs/com.BIENVANNHAT.simplus_1.16-beta-2_iphoneos-arm.deb
+Size: 699748
+MD5sum: 1a98e52183e63dd1b77cece1db9d680a
+SHA1: 4ad2b007dd9138afa9604a5395aed562af6c955a
+SHA256: a4a8f09dcd4aaa6ab2dfa2dfa8af3c48c4ccc423e4fc66d3e8789d40bf7057d7
+SHA512: 4fe1c2d75fc640f10a1cc25f08c474e710214287c46beecb2dbe937ac05059908037ff1c6fc1ce085b4f2ad85da7a4614d8dad8e4d1f8ae74238d9acad13c593
+Description: Cách mà lẽ ra Apple nên làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH
+Author: IArrays
+Depiction: http://support-jailbreak.github.io/infodeb/Esim/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Esim/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.sixls
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2200
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware(>= 12.2) | org.swift.libswift (>= 5.0) | com.BIENVANNHAT.modern6
+Filename: ./debs/com.BIENVANNHAT.sixls_1.1_iphoneos-arm.deb
+Size: 1589154
+MD5sum: 6fcbef393d9162509f4bb199cc637451
+SHA1: 05e8ab847aa84fd1b3e0bdfd467cbaa221ffd04e
+SHA256: 17c241ee557dd3ac25c234f94890aede40824c5decbc6ab5346e4d13ab3cc58d
+SHA512: 3d820b15290b0f9bf659e0b73b92a62b804829f6bc372e6a684758409e6c07628bbf3846444aa1bccbd7b3a98173db5bad6f7640ed7922b696df1b865dc48f87
+Description: Màn hình khóa kiểu iOS 6!,mình đã cho Theme Ios 6 đi kèm với Tweak này,bạn có thể cài thêm Snowboard để kích hoạt Theme Ios6
+Name: Six (LS) Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Skitty
+
+Package: com.BIENVANNHAT.smartvolumemixer2
+Architecture: iphoneos-arm
+Version: 1.1-2k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 764
+Depends: mobilesubstrate, preferenceloader, firmware(>=13.0), firmware(<=14.9)
+Filename: ./debs/com.BIENVANNHAT.smartvolumemixer2_1.1-2k_iphoneos-arm.deb
+Size: 280890
+MD5sum: 25fd3c3c8c07737c685d12475247218e
+SHA1: dca5849c5fa5bc1a5c67bdc11f956d37ce37aa5b
+SHA256: 04e0a365ebd4b633762546b15a64eb07201d7b5a19bbc026919f42aaf613a56b
+SHA512: 539682e925808df852bda47c54d1e4b46c7b2e07040292b78977572e673233046c7c34419dc59a05a9efc544110d20d84636123958911a5734234cfe05ee52cb
+Description: Bộ trộn âm lượng tiên tiến nhất của iOS.
+Name: SmartVolumeMixer2 Vh
+Author: midkin <midkin@hotmail.com>
+Depiction: https://mainrepo.org/package/2646
+SileoDepiction: https://mainrepo.org/sileo/2646
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snapper2
+Architecture: iphoneos-arm
+Version: 2.5.10-1k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1712
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.BIENVANNHAT.snapper2_2.5.10-1k_iphoneos-arm.deb
+Size: 492386
+MD5sum: a6a07c2a79e14a0fea677872449fb54e
+SHA1: 96d2573307f4861e3b4382e033c1c2ff9127a143
+SHA256: bf4350ef0b43370e7021655d16f7b1aec93cbbc7e7e4e1681ea270af6014021e
+SHA512: 5204291d9a75e914fd2d91de1839a1b6e83e8595d63a2bc0737264db95577c208a0cd126d7f9b9a624fbdd15182bf5e90100a6a3d1b22bf2c23d4bdc8c4a1043
+Description: Chụp ảnh màn hình nâng cao hơn.Snapper là một tinh chỉnh cho phép bạn cắt một phần màn hình và giữ cho nó nổi trên màn hình . Điều này hữu ích cho ( ví dụ ) : Không bao giờ chuyển đổi giữa hai ứng dụng nhiều lần để nhập mật khẩu một lần nữa So sánh nội dung trên màn hình ! Kiểm duyệt ngay lập tức một hình ảnh mà bạn muốn chia sẻ Giữ một tham chiếu đến một cái gì đó trong khi tìm kiếm trong ví dụ Safari Tuyệt vời khi bạn có một từ khó đánh vần mà bạn cần nhập vào đâu đó Chụp ảnh màn hình một phần nhỏ của màn hình Thu phóng hình ảnh không thể nhìn thấy Không thể sao chép văn bản trong một số ứng dụng ? Chỉ cần chụp và lưu vào cuộn camera để xem sau và hơn thế nữa !Hỗ trợ Ios 12 tới 14.5
+Name: Snapper 2 VH
+Author: Jonathan Winger-lang
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.sniper
+Architecture: iphoneos-arm
+Version: 1.1
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 244
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.BIENVANNHAT.sniper_1.1_iphoneos-arm.deb
+Size: 47916
+MD5sum: 02d5ac24473fc4e8db68c15c327898e7
+SHA1: a494fab51ecec49e23ba4ff70070e8be1e674988
+SHA256: 5eb258628d02c7b2d5c8194b61fdd56d13b7d7ee19c4d1a06d837cab64b64ed0
+SHA512: c16ff65e57f3625ff195fbe4b92edd3ffcd4654f0b9814500d60ceee94083095f3d22047accf3456b7cf5978fd964d8de2a3f5542d25ec8d7105ba9711bf3cec
+Description: Công cụ xóa quảng cáo khỏi một số Ứng dụng
+Tag: purpose::extension
+Name: SniperTool VH
+Author: Sniper @DNS_Sys <aeeo@hotmail.com>
+dev: sniper
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SniperTool/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SniperTool/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snoverlay
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Ryan Nair
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Replaces: com.leftyfl1p.snoverlay
+Filename: ./debs/com.BIENVANNHAT.snoverlay_1.0.0_iphoneos-arm.deb
+Size: 122504
+MD5sum: 4decde39be9f965c06ce70ded8780a62
+SHA1: f467178c0805cbb7a5ac7c98cadccc53f1135904
+SHA256: d4858f89fddbb44412e0040ed9964ea97f2200e025cce80a37efc6241fd3df0a
+SHA512: 207c9e033315c7c582a7bf0e97cda0ec088b1dfbf10163bd6be51da29683f43e1e5bd735889eca4290cf23a2168bb49d6a0bacecfa3d2b11356b02fdf6c78af9
+Description: Bông tuyết rơi
+Name: Bông Tuyết Rơi
+Author: Ryan Nair
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Snoverlay/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Snoverlay/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.dock
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: Biện Văn Nhật
+Installed-Size: 512
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.dock_1.1.0~Beta4_iphoneos-arm.deb
+Size: 91066
+MD5sum: a89160da9cbb07fede661f44f89f5e5c
+SHA1: bd54c69550503763c2d39154f40eab56f8f9430f
+SHA256: c1738579c4bf9fb8a211d2a30d210bdd715153f3a3d5a3835834fdb45800919d
+SHA512: 290d87f14dd5c8fdc66fe30f8e97aaaa75f630d35e2077c79af0edf7fad6abe8c3ae8983a4c28a5d429833f1c0d2b3a0266b9c45b9c3d210ba3cca70fb176c57
+Description: Gói tiện ích dock cho Snowboard
+Name: SnowBoard Dock Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.effects
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 408
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.effects_1.1.0~Beta4_iphoneos-arm.deb
+Size: 107222
+MD5sum: 84dd7da6b49c7b860dacd9f81a81efb9
+SHA1: 9faa80f6e8bb723cc20c8c98f73835547e06d4f9
+SHA256: a3139ae98b4ac4dcaeb71751ce6d137f62ea691571c951480bc910a33f5d263f
+SHA512: 8198f3f20f99f99bb1d553f6ecd8b1267d8e231b3525e39d49232d840e1fde6b7cff6bc04c5d6362baa8553ab44d41d5e951ae7df61df26d0d49ad0d6eb7c6ac
+Description: Icon Effects for SnowBoard
+Name: SnowBoard Icon Effects Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.fonts
+Architecture: iphoneos-arm
+Version: 1.0.12~Beta4
+Section: SnowBoard Extensions
+Maintainer: Biện Văn Nhật
+Installed-Size: 400
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.BIENVANNHAT.snowboard.fonts_1.0.12~Beta4_iphoneos-arm.deb
+Size: 37948
+MD5sum: 9a7bfc5ef83ed3a2b50bf3e15cb2ae87
+SHA1: 37e6e51d710862668060b39cdfbb303a60de0469
+SHA256: 83b652023bbc4c08bf8d96635b3fb4bb67e68446fbb782ec29c9ff1c26a3e71b
+SHA512: d453f281756c5a597be967a6cc57eae81717ce627329bdd42097f58b525d676a0b1966b3b15f8f8329ad52c93c8bab4d51fd4db3fb08884c033b82e0128052aa
+Description: Phông chữ cho SnowBoard
+Name: SnowBoard Fonts Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.labels
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 400
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.labels_1.1.0~Beta4_iphoneos-arm.deb
+Size: 40426
+MD5sum: 99565d0943aacdacb3ddd9b2be2649fe
+SHA1: c099d91610b4ce6819cf4a7df768c75f167e346e
+SHA256: 62b87724c5bc6fd1587f3d1f5a22af0245623e3880939abdf4471041fed34a14
+SHA512: 0f2a7fe4dcdb71b72f28ddd0a340cf1e54d98f28ffa561baf2643e3a3c30fa550a566797fed068dfa43ef4c457c29868b3a66d6407ea8fc846dbadbecf424d54
+Description: Labels for SnowBoard
+Name: SnowBoard Labels Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.masks
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 356
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.masks_1.1.0~Beta4_iphoneos-arm.deb
+Size: 55600
+MD5sum: 78488e6349564a4af9dbfaee49bb8d7b
+SHA1: 0a1a6328395da175a563da6ab74d99ff1fc0e92e
+SHA256: 742c64072de62ab2b3cb4bce0457ea30876003b7ec58219cff1738663691501d
+SHA512: fc0e683782b6be4849996fc98a9ef64d83e6dabdf95fb0ca49634b04c9c0e845ceb6afad06cc7f70eb342e50fbdc605347dde33c044e43b2f8d84082bda9b11b
+Description: Icon masks for SnowBoard
+Name: SnowBoard Icon Masks Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.pagedots
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 452
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.pagedots_1.1.0~Beta4_iphoneos-arm.deb
+Size: 62366
+MD5sum: b851c769fba68917614e3ae89ea10bc7
+SHA1: 556956c9b2e840d1f373dbaeb47e13fa7e6ed289
+SHA256: 312ae38658ca2c361b4482f3d2cd7c549365059a13126dbff3902331fa048c03
+SHA512: bdf3fc3db99263a6de3173556755b57ddc986a92ed0f3b0c05fb6e3a4fc6b172064bd74ba091fbf37efb231b6270f1124ca9cfe3685b0939661ee6849fc06ff2
+Description: Page Dots for SnowBoard
+Name: SnowBoard Page Dots Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.respringextension
+Architecture: iphoneos-arm
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
+Size: 79618
+MD5sum: ba9a21442df48f89e94f83651efef9a3
+SHA1: 19c7f1de4a817633fb2bb6f46212174b08742274
+SHA256: 235c64f393d3d66e1c4924379afa6ca933737a8406ee03d882e7068d8e127051
+SHA512: 1ed789ce1b37ae7544ef1441cbc96fdeeaba4baaa38cdf8278d6d071cf011427988803e179e5c380917257faaecc39323616f5c1cf1e4d4f4e2514cefc7034d7
+Description: Respring icon extension for SnowBoard
+Name: SnowBoard Respring Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.settingsicons
+Architecture: iphoneos-arm
+Version: 1.0.25~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 452
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.0)
+Filename: ./debs/com.BIENVANNHAT.snowboard.settingsicons_1.0.25~Beta3_iphoneos-arm.deb
+Size: 54494
+MD5sum: 0ce212d4ecc4dd469c1e16793c18a56f
+SHA1: 2c1ce34fa7bca203d636c802f5ebe9b280853a48
+SHA256: f51e865021f767685d30f5205ab6fa885ec2c979e3036bbae6e256b62e1f97a8
+SHA512: 53878c2c7afe4a4eda06f003b0cb1b3cceb5931c8a2157eb48f5e02e9b7bf39ea5c94c39f7222cdfc17a1f9483d4d35a9fb11ca7976bfb345f0106664cf5de58
+Description: Settings Icons for SnowBoard
+Name: SnowBoard Settings Icons Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.settingsicons
+Architecture: iphoneos-arm
+Version: 1.0.26~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 452
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.0)
+Filename: ./debs/com.BIENVANNHAT.snowboard.settingsicons_1.0.26~Beta4_iphoneos-arm.deb
+Size: 75362
+MD5sum: f4e904303b0a4cd8a59913d612fa38a6
+SHA1: f3abf9d377d2b3000c953b8764412bf738ec22a1
+SHA256: 6078dc73c441eea2e9325460864c8717c530a1ec25a1a7b0281f2e7cbc19f5b7
+SHA512: 9b7650adec40eb8e3081db2eca1e9ea1404e4c6dea6810b18f29cfc72a9e9bd534dafa9a83e089cda0723217e495f4987b1a3ea9ee38760608832ccd0f5b97c1
+Description: Settings Icons for SnowBoard
+Name: SnowBoard Settings Icons Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard.sounds
+Architecture: iphoneos-arm
+Version: 0.0.3~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 400
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.sounds_0.0.3~Beta4_iphoneos-arm.deb
+Size: 41012
+MD5sum: 4a0f04518cdedd1c156263ff0a0b2d15
+SHA1: 3e8c7583013489215abf1901366a3c85d72e87cb
+SHA256: e0d04f2bc4f71ad5aee2ea210a96b4012a83eeb361dce887a63415ed46a3c3ad
+SHA512: 40ca5ea99d2080954e2a19f1e6654b6f951786d78a746539a216fd82515fe2f238ebe7d019f4582764cabc50ee67b5ebb7f677eed7e0a472ea2b985e82864172
+Description: Sounds for SnowBoard
+Name: SnowBoard Sounds Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.statusbar
+Architecture: iphoneos-arm
+Version: 1.0.10-Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 456
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>= 1.2.100)
+Filename: ./debs/com.BIENVANNHAT.snowboard.statusbar_1.0.10-Beta3_iphoneos-arm.deb
+Size: 73002
+MD5sum: 5564bf88ec453cc05034af722de29e58
+SHA1: b691f052f70eb52246362767fac64fad7ba20c14
+SHA256: 62acb9d3e5695ab2d475404aa4c06ca3152f6e20455872df757aad20129dbda4
+SHA512: 7f0496b0680615c0c56bbc21d7cffc87c58441d7b377ba7310c3ca9ee428284478d1bcac6aaf9c7850ad3be525282bd1b7cc29ddbb7af7ce847b81098a91d9f9
+Description: StatusBar for SnowBoard
+Name: SnowBoard StatusBar Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.snowboard.ui
+Architecture: iphoneos-arm
+Version: 1.0.58~Beta3
+Section: SnowBoard Extensions
+Maintainer: Biện Văn Nhật
+Installed-Size: 476
+Depends: mobilesubstrate, com.BIENVANNHAT.snowboard (>> 1.2.22)
+Filename: ./debs/com.BIENVANNHAT.snowboard.ui_1.0.58~Beta3_iphoneos-arm.deb
+Size: 122706
+MD5sum: 0f16400c4f489999192dfa5a183d2ff4
+SHA1: a1c59589763c4ea7a0611d0f664df612d1461c67
+SHA256: 949171af400730ebaf5f34d8f57f9863032ac173da427d41ecd4c883a1058a41
+SHA512: 89c38b33b016cbb105da0e43c5a88f0b966a3105a629197ae78722db05617552f121b2e61ef188c6abe63a529655658064ed88313bb5648ddfbc5e6193513aec
+Description: UI Extension for SnowBoard
+Name: SnowBoard UI Extension
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Spark
+
+Package: com.BIENVANNHAT.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.12~Beta4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 4828
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.BIENVANNHAT.snowboard_1.4.12~Beta4_iphoneos-arm.deb
+Size: 2170720
+MD5sum: 5cc5ae1a2e729da5c765ac5303ed14c9
+SHA1: 5f6f52cc9dca75a73b00857cbb77fab672dbfd76
+SHA256: 70cf736d9029043fc4ab93309af6b9bc51ac22b20e4c664ebeddf0a1fbd5a957
+SHA512: 26c78db9bcdba2ca1898c86f7736f2e4565e7fe79e3cb5118f6c670414728e763fe5101a31a7937365089dba14f2b6cf7756e1f279df722e3063e8384d541d7d
+Description: Snowboard theming engine
+Name: SnowBoard Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.snowboard
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.snowboard
+Author: Spark & Dennis D. Bednarz
+
+Package: com.BIENVANNHAT.socialcomposer
+Architecture: iphoneos-arm
+Version: 1.5.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 584
+Depends: org.thebigboss.libcolorpicker, mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences (>= 1.1.5)
+Filename: ./debs/com.BIENVANNHAT.socialcomposer_1.5.4_iphoneos-arm.deb
+Size: 133934
+MD5sum: 3caed2d8f13a233fc273cb54bae3f579
+SHA1: 546f617aa83962167c2b1dd44c630d4b90d3f012
+SHA256: 7bdd37e2795f8e2362c0d25d941032a8a3cc025da5b260998474e814cf25bf52
+SHA512: 221cdf71dbf7c759a1aeae8551ecd75ecd9752c741b511970c074f689b13d3ba709a9eea1207ebbd1f313ec866ca805c4b8dd44a3ab3ce09a4456efd33edaaec
+Description: Đăng nhanh bài viết trên các mạng xã hội.
+Name: Social Composer VH
+Author: 0xkuj
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Social/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Social/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.spectral
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 548
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.ryannair05.libmitsuhaforever, ws.hbang.alderis
+Filename: ./debs/com.BIENVANNHAT.spectral_1.0.0_iphoneos-arm.deb
+Size: 243190
+MD5sum: 0445fae6e4b01199fc73fad2add94953
+SHA1: 1b2b509bfad93e91a79313e68dd5d253d4834796
+SHA256: a751c9273aab2ae66128a55bf1b43fee431204c6b1c6b403448f61d039442e09
+SHA512: e9f09cbad7c3668d0924ac93a88636b1c124d5c13ecd3821ee0e08df89a35af534569dab4dfbb0aa400ef1a5ce821cce0f45b562a765e6be392893ec63b09c61
+Description: Trình phát nhạc màn hình khóa với trình hiển thị âm thanh tích hợp
+Name: Spectral Việt Hoá
+Author: Beckett O'Brien <support@becketto.dev>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.spore
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 700
+Depends: mobilesubstrate (>= 0.9.5000), com.spark.libsparkapplist, ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.devvix.nicho1asdev.spore
+Filename: ./debs/com.BIENVANNHAT.spore_1.0.2_iphoneos-arm.deb
+Size: 215304
+MD5sum: c1d564cff1479f94bdb706c1f247132d
+SHA1: d4dc4ed2160459d0530b2e9b3371e36bfb7a3f0a
+SHA256: 18827d35ac6d4504edac2b99bc77ab0c5a22dd264fdf453b608d838a7a76c450
+SHA512: 0043aeb6a40b0d89b0da05d34dac47feae321ce63876e4634472241ca0de753a5945ec7932692fe987cbaf8562342758edf7a52ec018225a0b5b171739dfb600
+Description: Dễ dàng ẩn và bảo vệ ứng dụng của bạn.
+Name: Spore VH
+Author: Devvix & nicho1asdev
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Spore/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Spore/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.spotilife
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.spotilife_1.2.3_iphoneos-arm.deb
+Size: 200430
+MD5sum: 9f125e6e12aced3989a7cba4f54d7006
+SHA1: 6f7374a1dfc20e0707295d3c446829caf44c4a83
+SHA256: 3f633dee830a417959b07795178b18cf03be0992041f43143138c5c74022b28f
+SHA512: a760680905b9d3ce087079dea458d268ed9c7598e3dd2090a50808b404b40c4ae50a04e062e059fa535a4c768d528a5917f90e4459f497447028fc9911361f47
+Description: Mở khóa tính năng cao hơn cho Spotify,loại bỏ quảng cáo,mở khoá luồn chất lượng cao.Hỗ trợ từ ios 8 tới 14.9
+Name: Spotify Premium
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.spotilife
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Conflicts: com.julioverne.spotilife, net.kenhtao.spotilife
+Filename: ./debs/com.BIENVANNHAT.spotilife_1.6_iphoneos-arm.deb
+Size: 220034
+MD5sum: 5ffd651a8f45f59fb30afbb866e69156
+SHA1: cc608529ab1f25a10c8623cbc04e4b8a7cd91fa5
+SHA256: 1c0121722486ba192d2d5bba3b37b5ab2c24997309917c0b7a67c70a50ada7e3
+SHA512: 8843f7d92dcd52339e51ae8fa56a11eda1d65d3619b0832cfe9bb610f8d63c00d9dc9d71b4cdd0bed1da8dfc162b2c07290289f597fff92d3e93e011808f95ec
+Description: Mở khóa tính năng cao hơn cho Spotify
+Name: Spotify Premium
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.springtomize
+Architecture: iphoneos-arm
+Version: 5.2.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2135
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.BIENVANNHAT.springtomize_5.2.5_iphoneos-arm.deb
+Size: 702128
+MD5sum: 783a26929a2a37e7c9bbe24305b604b7
+SHA1: a37f5dc1263746a6cd0ffa1346a0dde1637cad96
+SHA256: 54faefb15c5f428da5f123685f01a7552f0203c8b26d79d29cf9f6c9b9961503
+SHA512: 20c937e24cdeeaf8d0d0fa03d3b71473bfb191eb6f9181c8ea8217ebd411f988f705acfa836a99a1809320d8f2b6c274f2418617b0cdf2618109cee75e6e4cae
+Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
+Name: Springtomize 5 VH
+Author: sharedRoutine
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.springtomize
+Architecture: iphoneos-arm
+Version: 5.2.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2488
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.BIENVANNHAT.springtomize_5.2.6_iphoneos-arm.deb
+Size: 713972
+MD5sum: fb96337cf4a62e377486578d8042d92a
+SHA1: b59d7f1733f98887d2e9ddabde9aee51409b52d8
+SHA256: d6db53287ca97ea6031a534a2488c7ae6af2db7c9589c90f5ef8c55401fd6fe1
+SHA512: d1431d4fb88fce43f0131ffc62c0a37091e69f3b1d2bfc549ac5ac6697782161b122e0fc3c01b77a87dbd933d5a6694d1ec79c1e343df9182d0f95b11eecfbe3
+Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
+Name: Springtomize 5 VH
+Author: sharedRoutine
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Springtomize/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Springtomize/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.spy2
+Architecture: iphoneos-arm
+Version: 1.3-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2912
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common
+Conflicts: com.elias.spy
+Filename: ./debs/com.BIENVANNHAT.spy2_1.3-1_iphoneos-arm.deb
+Size: 1433320
+MD5sum: fc33f3dadde0f4cf5ead43e9fa0001db
+SHA1: 0e090145a8091d426213fe9ac83bae28c7cf3f8d
+SHA256: 3aa9cdaeeb763ae3d7ea4673ae50adba2fce78dc3ccbb784745f48f36cbaf0af
+SHA512: c39c3df6dab1c8266b0e8e7255158d55d4ffcef7fb48542a12de9cc6fe52c2348030ca422b1f73ec56baf83c9e2de3468aea9d8348807686c257b6ffe45187be
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: Spy 2 Việt Hoá
+Author: elias
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Spy/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Spy/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.strangerwp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, com.BIENVANNHAT.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.strangerwp_1.0_iphoneos-arm.deb
+Size: 12331786
+MD5sum: 71a9dcbf2562d68a4bd1ff8d2eb20417
+SHA1: e88d3aaab2f13c7d9dce55c1f9cb6b6b397bf630
+SHA256: bae109859537dd4f1d426f130c77f0ae34bb4cfef35d4218fa1ea14b2b4eb3a2
+SHA512: f6824f4190862b90e9d94ea5f8e4859b8b5253d93d545d2a758d9f75b029dc010343dc75dab368c14b7887aa8024ffbe4fac44da524aed9aad3b9ed888658849
+Description: Một hình nền Tối / Sánh Stranger.
+Name: Stranger Things Wallpaper
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.strangerwp
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.strangerwp
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Author: Skitty
+
+Package: com.BIENVANNHAT.strongerfi12-14
+Architecture: iphoneos-arm
+Version: 1.0.0~beta5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 412
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.strongerfi
+Filename: ./debs/com.BIENVANNHAT.strongerfi12-14_1.0.0~beta5_iphoneos-arm.deb
+Size: 86208
+MD5sum: 5d089a559f4b81b3e5cee4787ab682bd
+SHA1: bb82935d20fe19c434e55882adcb75f205535819
+SHA256: ae06723c294a0eb2d3fbb2902ae0e3528f824b871789762c3463e12ae9c8ca39
+SHA512: ec5b8d045d6b948db3e606a0987bbf33ec48657e09a6366198246ca061022a958ef131899ec6264a6dbfb0317d8535c430c12aacecce1fc6f9d9e100e91dfe31
+Description: Tự động chuyển sang Mạng WiFi mạnh nhất.
+Name: StrongerFi12-14
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/StrongerFi12-14/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/StrongerFi12-14/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.successionrestore
+Architecture: iphoneos-arm
+Version: 1.4.16~b4
+Section: Utilities
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.BIENVANNHAT.successionrestore_1.4.16~b4_iphoneos-arm.deb
+Size: 1179418
+MD5sum: af800610ab9c4aabbe7261fc06d9c8ca
+SHA1: 8b7aa84d4f39347ab2df09231fd70415622f10a0
+SHA256: 8f39715ccedabf4fac4e2f3b391a1d48345faebe61ea7440740b6d8109261618
+SHA512: b3e8a125a36e428bc212cc6426a1220cc9af138cfb9aef211a78d33c9fcb137e133bb9a99d54ba84ec269e5a52ffeb503626c99817970d3a527432260d2452c7
+Description: Khôi phục thiết bị của bạn và dữ lại Ios hiện tại.Hỗ trợ ios 10 tới Ios 14.9
+Name: Succession VH
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.BIENVANNHAT.swipecontrolx
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.swipecontrolx_1.0.1_iphoneos-arm.deb
+Size: 7544
+MD5sum: e8cca1b14c5efba34588cffea715b8e1
+SHA1: e24fa8e629b98b179605c6cf30e02b61822ebea5
+SHA256: 2b70413b9415df48a12fb1ba814280b3c828c6ca64cef39da6595c7528de3506
+SHA512: 449b44e764f32904c80413f8b2abfcd6f94b90fb916254af0d935486b2ba9351c2f34b4c5da50dfd5a04d4a7cebade6ebb383460ba17ac3e8b2dc3538edd6671
+Description: Fake cử chỉ của Iphone X cho Ios 10.Không có cấu hình tinh chỉnh trong cài đặt...Tweaks sẽ hoạt động sau khi cài đặt xong..
+Name: SwipeControlX (Ios10)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
+Package: com.BIENVANNHAT.swipecontrolx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.swipecontrolx_1.0_iphoneos-arm.deb
+Size: 7538
+MD5sum: bb5dcab8527f2724150a95759c14d6ab
+SHA1: ca9ec614a7fdc2f1b4e05cac855965d0a4c51ef9
+SHA256: d2a2e7ae992e48c47db16ee0228865be5817940eecebcc951bf1daa99745a247
+SHA512: bc583f8d21d855aec9c4c8dca5ea2ee428b4d654d6f8d83db1086ad9a657b3768ad5d77903c0b3eeeb163fc1979321ca8d5b82debd63c89ed47afd577caa846c
+Description: Fake cử chỉ của Iphone X cho Ios 10.Không có cấu hình tinh chỉnh trong cài đặt...Tweask sẽ hoạt động sau khi cài đặt
+Name: SwipeControlX (Ios10)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
+Package: com.BIENVANNHAT.swipeextenderx
+Architecture: iphoneos-arm
+Version: 1.5.3-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 624
+Depends: firmware (>= 12.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.BIENVANNHAT.swipeextenderx_1.5.3-1_iphoneos-arm.deb
+Size: 167710
+MD5sum: ec9508600f9c366703df3231bc6b8fae
+SHA1: 3ffe94a67a2f054a460f6191ba6a7700e70aef4c
+SHA256: 758fd923d5a83aea32ff786d17d93d9d284c4e9f746a38f720928a79318411ea
+SHA512: 47a8cbe89c3f25c7b67a5153f09ce692ed97817adac40b2c07a10732bfab19c49f1111102125346a6293d6bf35eb2228decb876e6a58f0a8d001b157f35e9c0a
+Description: Cải tiến bàn phím của bạn với bản làm lại đầy đủ này của tinh chỉnh SwipeExpander huyền thoại, được thiết kế để hoạt động trên iOS hiện đại!
+Tag: compatible_min::ios12.0
+Name: SwipeExtenderX VH
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SwipeExtenderX/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SwipeExtenderX/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.systeminfo
+Architecture: iphoneos-arm64
+Version: 2.7.2-3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/com.BIENVANNHAT.systeminfo.deb
+Size: 437318
+MD5sum: 21120abe7d6819dce81c63c56e8af48b
+SHA1: 53e5ecc5a88f54455aa16d4f89edd7704f2aacee
+SHA256: ee19bf5b0f52990eb37467520a8f83d4a6e7b07878f29a9adf6ac9cb54cde009
+SHA512: b07c66c033c9047677df6adcd390515b4889febcf9554928245ab298460c411e2f2683fb2be3b82e2084f3b8a9c2594c6ca6bb819ea3c066d9546d982414830d
+Description: Thông tin hệ thống trong ứng dụng Cài đặt > Cài đặt chung > Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.
+Name: System Info (Rootless)
+Author: ARX8x
+Depiction: http://support-jailbreak.github.io/infodeb/SystemInfo/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SystemInfo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.tapflash
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.BIENVANNHAT.tapflash_1.0.2_iphoneos-arm.deb
+Size: 6482
+MD5sum: ed61c999a9082d1b9689c61606ae0ba9
+SHA1: b297c5fd70c8621f9671abf477ac65e671732480
+SHA256: 3cda98c9f1d09511d4b689e7e9a8116491a379c814fe683ea32e070ee01649b7
+SHA512: 6a113bb97bcbed437c3d021a9bfe07f0926860e725a4ec26af6c7a937f7a3dc61570b1c095c1f1e070b258e2ad19a098a635476b4a41f38f755de1ea60461274
+Description: Nhấn đồng thời các nút âm lượng để bật đèn pin!
+Name: TapFlash VH
+Author: Chr1s
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/TapFlash/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/TapFlash/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVannhat.liddell
 Architecture: iphoneos-arm
 Version: 1.2.2
@@ -9327,6 +10464,48 @@ MD5sum: dc8aa38e170a7c6cba7888742340a46b
 SHA1: 3abe9e79338f38ec087ccdc608452a3906473d5f
 SHA256: 80bd7d3d64eb26e5068521c7bd275efc3432a00b4d9ea8887d0a9dc447699452
 SHA512: 0728171d147dc90afc4026dcf303a35612af6f6ec78fdc9f8e7e655e545d7c4b5b5b5ceec9bb55403e5ed63a60a053f45258bbfa467236b0cd31cdb9b0a00f32
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.0.7
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.bienvannhat.settingsrevamp_2.0.7_iphoneos-arm.deb
+Size: 121042
+MD5sum: c8fccfdb38b4be807b9eef379231777d
+SHA1: b4518bea29395bc2d33a69107f8afee0bb024918
+SHA256: 28f48fb9780cc55768bc1b4640ac49307ee916a300e9869ef8d2e305271f3088
+SHA512: c2e98117a576bdfaf7d645464bc65df127ff4b583d05d87a8c4a3b5e196c3f4a2d9e58559662bbe5e27b40cadb593a16e7f101644fbc58df6213619d09f0c114
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.bienvannhat.settingsrevamp_2.0.8_iphoneos-arm.deb
+Size: 130930
+MD5sum: eb930a222bdb346899373a8394dd0925
+SHA1: fe6f616607836535ef96fb8632e7d2a41906408c
+SHA256: 89821d9338e1f83ef6959788cea0a3a3d27858c56a83cbde89649a392ad4e312
+SHA512: d460cd029c6616edc02f5f0007d1ff9ef10854815a1b55af491492dde88daff72d907b284f6ffecdcd3abe9514b5ec63af07ff79df2c4b5b78e44b485f65a586
 Description: Tùy chỉnh trang cài đặt ios
 Name: SettingsRevamp VH
 Author: SOPPPra
