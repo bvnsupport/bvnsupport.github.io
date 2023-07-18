@@ -1,0 +1,12 @@
+Package: com.BIENVANNBAT.runaway
+Name: Runaway Việt Hoá
+Architecture: iphoneos-arm
+Description: Hiển thị tốc độ mạng trên thanh trạng thái của bạn...
+Maintainer: Repo Cydia BVN
+Author: ned
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+Version: 0.0.6
+Installed-Size: 356
+MD5sum: a49a4a10c89b93b60143cd34e0fa4ed6
