@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"BatteryPercent (Rootless)\n\n- Hiển thị phần trăm pin trên các dòng máy có tai thỏ iOS 15 trở xuống giống iOS 16 \n\nㅤ\n\n",
+"markdown":"IAmLazy VH\n\n- Dễ dàng sao lưu và khôi phục các Tweaks của bạn \n\n- Các tính năng:\n\n- Sao lưu\n\n- Gói người dùng (Tiêu chuẩn)\n\n- Tất cả các gói (Nhà phát triển*)\n\n- Khôi Phục\n\n- Khôi phục từ bản sao lưu mới nhất\n\n- Một bản sao lưu cụ thể được chọn từ danh sách\n\n- Cho phép\n\n- Nhập bản sao lưu\n\n- Xuất bản sao lưu\n\n- Xoá bản sao lưu \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,7 +21,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/BatteryPercent/Screenshots/1.mp4",
+"url":"https://bvnsupport.github.io/infodeb/IAmLazy/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/IAmLazy/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/IAmLazy/Screenshots/3.png",
+"accessibilityText":"Screenshot" 
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/IAmLazy/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -45,19 +57,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Thông tin "
+"title":"Thông tin tinh chỉnh"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"NQT"
+"text":"Lghtmann"
 },
-{
-"class":"DepictionTableTextView",
-"title":"Fix BY",
-"text":"BVN Repo"
-},
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -70,13 +77,8 @@
 },
 {
 "class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"112 KB"
-},
-{
-"class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.4.1"
+"text":"iOS 13.0 đến 16"
 },
 {
 "class":"DepictionLabelView",
@@ -93,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 2.0.4\n\n- Đã sửa lỗi hỗ trợ iPad\n\n- điều chỉnh bộ chứa chế độ xem tiến trình để thích ứng với kích thước thiết bị\n\n- Cập nhật Tiếng Việt VI.LPROJ"
 },
 {
 "class":"DepictionLabelView",
@@ -104,4 +106,7 @@
 }
 ],
 "class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
 }

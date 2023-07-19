@@ -12916,6 +12916,50 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Harpy/?p=info
 Author: MidnightChips <midnightchips@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 
+Package: com.bienvannhat.iamlazy
+Architecture: iphoneos-arm
+Version: 2.4.0
+Section: Utilities
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 502
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/com.bienvannhat.iamlazy_2.4.0_iphoneos-arm.deb
+Size: 197546
+MD5sum: 18c4a98d4e637fc20f43b3c00c51371d
+SHA1: e1d7c6795e583264f787eb8640ef3270c75c3d25
+SHA256: 631e5f3ec87cf5b1a56e741fcf24a8bde2d047ac897dbf5e4642c474d6a522d9
+SHA512: ad3360f4c8f1c41ab18d5faecf3826ca62ef6348ec14fda933d31047ddd3c09b4dd1a957b3cee82741092ed55c885c71abb7b3de1b2add3612794c2285361822
+Description: Dễ dàng sao lưu và khôi phục các chỉnh sửa của bạn
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Name: IAmLazy VH
+Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bienvannhat.iamlazy
+Architecture: iphoneos-arm64
+Version: 2.4.0
+Section: Utilities
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 531
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/com.bienvannhat.iamlazy_2.4.0_iphoneos-arm64.deb
+Size: 198278
+MD5sum: 6c52d2446d8be49fabab12a7d1d4379f
+SHA1: a6a6640e4b0bd5f0fcc99885f14386e17593af00
+SHA256: 2cadf570a29562e4177374b72094f6497ef53fe7f1bc0b606d9883c11c4ac6a3
+SHA512: 663b9b403474a94b4ca31785511a6ca7b0f79ea7e3138b5de354c6a780f0270e2ac4b2900cd91e5fc51a9d461cc0e063f5fc2116e1e593bfd4a8a2163698396a
+Description: Dễ dàng sao lưu và khôi phục các chỉnh sửa của bạn
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Name: IAmLazy VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bienvannhat.kinehack
 Architecture: iphoneos-arm
 Version: 5.0.8
