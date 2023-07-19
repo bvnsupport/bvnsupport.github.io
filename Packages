@@ -1256,6 +1256,118 @@ Depiction: http://support-jailbreak.github.io/infodeb/Font4/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Font4/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Wifi
+Architecture: iphoneos-arm
+Version: 1.0~Beta
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.Wifi_1.0~Beta_iphoneos-arm.deb
+Size: 42534
+MD5sum: f4984866c41373782b449bd079845694
+SHA1: 974f0c841374da4fec97622ed332495e71b3292c
+SHA256: ad283aa1095e690c4887ee462306c377975a51d0b8a818c7a2d593f950ab0d62
+SHA512: 1c76bd6e502794d8c1e4cc11e23e20305289dc3bcff34f5ea8ea4acc52a53f378bbb7c110879f183458a285784a91c7b09f26fcb66d8aaf34f08a20bef501765
+Description: Luôn kết nối WIFI,hỗ trợ Ios 11 đến Ios 14.7
+Name: Luôn kết nối WiFi
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiExodar-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.BIENVANNHAT.YangJiiiExodar-rootless_1.0_iphoneos-arm64.deb
+Size: 14002
+MD5sum: 3be786756a0f5dbfe1feaf2b181eeac7
+SHA1: 438be2f2c36bce4a49276177e0cec98ecf96fea9
+SHA256: 541e8f2b993ededfed47a8c428d4df092d4237f20cc71e1c4562996449b59c83
+SHA512: 7e47081817f6eb667ef7607f99f26110455ab3886c786b72d5597924744fa11e0007416564dc7751c239695e3a385cb08ae25fce531ea6a7e35c2c54718b5bb9
+Description: Phông chữ cho AIM
+Name: YangJiii_Exodar(Rootless)
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font8.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.BIENVANNHAT.YangJiiiExodar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.BIENVANNHAT.YangJiiiExodar_1.0_iphoneos-arm.deb
+Size: 13940
+MD5sum: 5c51d4ca52695d62ca95d1f0da81d5de
+SHA1: 41d7067e033b6a1611aaae299070d2f3eebf10e6
+SHA256: 8131e1858c39360ed97007bb218ff745336472e0db16c8d829560801121ca466
+SHA512: 45a8169fd5de7dace336cc4bbcd68318cca4d052059985b539235fbe86a2f93fa8de4d477508f06a10eb92c2d13761ad8cbe59ede643e61c1ca4a470f6d9e6de
+Description: Phông chữ cho AIM
+Name: YangJiii_Exodar
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiLineat
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.BIENVANNHAT.YangJiiiLineat_1.0_iphoneos-arm.deb
+Size: 19340
+MD5sum: a7cf459d4d993db10e5177f1264939c9
+SHA1: ae0be35f524a1aa29e25901755425d318c878e63
+SHA256: 58e680749b5dee3175187a9962858c2571559e2ffae5a9b69074875ad663c6d1
+SHA512: 2716b52d29e00c83bd7c1469e9022ea96abeae3ae68af84a303965b4fe90d0bc740395de133fcf2343943d360e5381e93214d3db52aafee76d7415311bcd8407
+Description: Phông chữ cho AIM
+Name: YangJiii_Lineat
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font1/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font1/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiMango
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.BIENVANNHAT.YangJiiiMango_1.0_iphoneos-arm.deb
+Size: 9468
+MD5sum: 6fa0dae0655d9f80699ca7da3c35c0ab
+SHA1: d56da0e61bbd432ca0ae37b0f545ab28a0cfb512
+SHA256: b2a033fc579addd6643687bc7b41d3a80611d5803b489ae7d8ee76888d1fee47
+SHA512: 21dc3711377ddc09bb288eaa537180d0202b08889a47b7e7a575d50ab6fc961b8a741f2ce98127b71f8403ab80630f3e53cb9190a4cdbdfb545aa11d5d7cbaea
+Description: Phông chữ cho AIM
+Name: YangJiii_Mango
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font9/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font9/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiReteak
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.BIENVANNHAT.YangJiiiReteak_1.0_iphoneos-arm.deb
+Size: 13194
+MD5sum: a8f1ad35bce9c037f492dc3d397c8a03
+SHA1: e9315aeb659a8c3efa6c97640ce73d7cec3438ff
+SHA256: 0c959f895b9fd6272c12a71233eb7786bb642bab2b4a97ea5fab0fae1fd75462
+SHA512: 0423dd5c6d0cf1c870341d913fd1a61c8d9cdb48a13b4618efb6c60d1751bf8ec26ec1724a413a9a2066f7c58cefbfa31963f35df5877f6a4e9a627d6bc6cb36
+Description: Phông chữ cho AIM
+Name: YangJiii_Reteak
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font10/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font10/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.a-font
 Architecture: iphoneos-arm
 Version: 1.9.4
@@ -10884,6 +10996,421 @@ Name: uYouImport VH
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ve
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2728
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Filename: ./debs/com.BIENVANNHAT.ve_1.0_iphoneos-arm.deb
+Size: 4573284
+MD5sum: 13dbb6260a40650aaad3f0035137d25a
+SHA1: e798fa2e3a123ee4828fac3353a9faa45b9dc790
+SHA256: 6444192293514c28ab660498479c66857c9df319e9d72b4fe09509ce0cb42ef2
+SHA512: 4d31d2d9c69dd0db27d46f15571ccdd8841438a0e1525f888ac1cf832ecc50bf83e32dae251d77f1d2d3734a0e2055ccbc1fa504df232244e5cd6325315ca497
+Description: Natively integrated notification logger
+Name: Vē Việt Hoá 💌
+Author: Litten & 74k1_
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Ve/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Ve/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.vinyl
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.vinyl_1.0_iphoneos-arm.deb
+Size: 12046
+MD5sum: e68c1f8e59fe9827b4dfaf28a4ee7a08
+SHA1: 488a49e7e68bbbd39c3ff678ffd1e1b78586d847
+SHA256: 35a2b10356a4f08103ae48eae1efd63e5c790add409189ee6157ba9847c19c08
+SHA512: 85871fd9791d630bbc9b675b1013be47a1906c58e2cbb0c7bae00668a27a9db9909e0eace79c1fda6d60bd9a333e7b9ebf18fd5431c0dc07ea22660ebeabcb59
+Description: Thu gọn & làm mờ trình phát nhạc trên màn hình khoá của bạn!
+Name: Vinyl
+Author: NTQ1195
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Vinyl/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Vinyl/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.visualyzer
+Architecture: iphoneos-arm
+Version: 0.3.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.audiosnapshotserver, ws.hbang.common (>= 1.16), com.xyaman.libsona (>= 0.1.0), com.xyaman.libkuro, com.BIENVANNHAT.libgcuniversal
+Filename: ./debs/com.BIENVANNHAT.visualyzer_0.3.2_iphoneos-arm.deb
+Size: 46010
+MD5sum: 9d46991e4d42c5e7443f1c8404385955
+SHA1: e91f6539f2b935f35b17f0bc9ed81ab8ece52845
+SHA256: 3598890fec8b2b24fac9a1452f8278709a292d40662d0ab7ec83b10811496e0a
+SHA512: 07598014ee995db3b095d0d7303afe6dae46b7913b34c475bc5c3784d21a6069fa48e249be6290d8b55c3ce5db7de113ce706db8703e83454d65aca8bbf75d44
+Description: Trình hiển thị âm thanh thanh trạng thái đơn giản.
+Name: Visualyzer VH
+Author: Xyaman
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.visualyzer
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.visualyzer
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.vnodebypass
+Architecture: iphoneos-arm
+Version: 0.2.5
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 784
+Filename: ./debs/com.BIENVANNHAT.vnodebypass_0.2.5_iphoneos-arm.deb
+Size: 391940
+MD5sum: 1b983defdd9664f2ff3d793dfd3f28fb
+SHA1: 2cc04685632ffc2e0dc7c1163b071de00de8418a
+SHA256: efc193baccacef8299db9ac65aba8c9972c051e6a3918f7534a84c5f6aa24216
+SHA512: c815bc849d7489862b2a15c3954a1c8dbcda7839309bad68ed014aa2cb14f35125d8b78ca5c3ce356ddb42b241908651618aca318b28819cc611525bed8c159f
+Description: An expermental tool to hide jailbreak files for bypass detection.
+Tag: role::hacker
+Name: vnodebypass VH
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: XsF1re
+
+Package: com.BIENVANNHAT.wallpaperloader
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BIENVANNHAT
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.wallpaperloader_1.1.1_iphoneos-arm.deb
+Size: 19780
+MD5sum: a7c5980d6431d263d9e98d561ceef2bc
+SHA1: 5ea1c3ed21a25ea03783d0d677302cff0dbceb5c
+SHA256: 83855e0a7e4c325c248e262a4a5d62d36f8d295ea98eaf8b5b7580f107b9f7a0
+SHA512: 46beadfd597ba315fe248c58a7b274059f935f975f49b11a4d33dd7707acbf583ded66f03fc8522caf999f833fa931a99c232d17864c4658bdf92a795bc2601b
+Description: Thêm nhiều hình nền mặc định!
+Name: Wallpaperloader VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Skitty
+
+Package: com.BIENVANNHAT.wificarrier
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.wificarrier_1.0.4_iphoneos-arm.deb
+Size: 51758
+MD5sum: aa8700f88d9939c9a38a6355003ae62b
+SHA1: c3eff017485c1bb74cb96c0716547b98003b54ee
+SHA256: 18164bd0df2c3489ef4fec1b838ad60d3366b04778ba47637ad37929514fcb94
+SHA512: d1110e21f90961d2d68944cddb0764a0c7118f3eb6615c33997fdcf7edfd77f3e482af632d1db8f1da7d071844952408bfa4b23e4add929f0dfc08bcd6bf03d1
+Description: Phiên bản nâng cao của NoisyFlake WiFiCarrier cho iOS 13. Hỗ trợ bổ sung cho Gọi qua WiFi
+Name: WiFiCarrier+ VH
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/WiFiCarrier/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/WiFiCarrier/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Phil, NoisyFlake
+
+Package: com.BIENVANNHAT.wifikey
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 184
+Filename: ./debs/com.BIENVANNHAT.wifikey_1.9_iphoneos-arm.deb
+Size: 35876
+MD5sum: 9b81ba8bfc0d3e11cc92b7c4eaafd57f
+SHA1: fc3c708a130a4578d50a140ebf591991ce2517ae
+SHA256: 8ce55d4bb9878ea2be48d051f1f356f8ec06e6da65c55088ab2c7f46e36630ea
+SHA512: da4682118860b87c03e2e5d875ffbdfddd94e420a20a59bee3eccb7af6b216aacf50d70d377e35fead5cc6cb81972f4247e85ef64e46d6e0607fd433c580b1fb
+Description: Xem lại các mật khẩu Wifi đã kết nối
+Tag: purpose::extension
+Name: WiFi Key VH
+Author: fahlnbg
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.BIENVANNHAT.win10fp
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Addons (FrontPage)
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: mobilesubstrate, com.BIENVANNHAT.frontpage
+Conflicts:
+Filename: ./debs/com.BIENVANNHAT.win10fp_0.2_iphoneos-arm.deb
+Size: 438586
+MD5sum: e2d57a290c0b4586378e33409b916f20
+SHA1: 164d4c1575c6fa514e1231b7e8851bae0f1bfb02
+SHA256: 260add52f85279525424cedb5d28bbd18dc076327db67f22577386e05b5b8f95
+SHA512: d8fec390faf5d4a5a1e8b19503d62c553674e167c330188ed9c1ac4bc393f4faddd8cf077e9dbb6347f73d30b9a83e37b1f3bc0c44052d6bca6dc4a49177f9cd
+Description: Chủ đề cho FrontPage
+Name: Windows 10
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: JunesiPhone <junesgraphics@gmail.com>
+
+Package: com.BIENVANNHAT.youtubepatcher
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.youtubepatcher_0.3_iphoneos-arm.deb
+Size: 5108
+MD5sum: cdbba004bb17b9232fc2a7ecd5c592ca
+SHA1: 036f1f67d28f6988a8f8614cd310074bcfc78bda
+SHA256: 5d2e9f697d927035ce3f07093eec0b51fb1047f5024f4e2b46c41e649c093e6e
+SHA512: f39334fb4d854a8b5a57e17eb00780ca0ba77fd3db6bb378a7ef4085932d420c00ed18a711e0d8aa5b2afde481d3cedf51a52c9a3867ce80b515f78c9d356cbc
+Description: Chặn quảng cáo Youtube&phát lại nền.Hỗ trợ ios 10=>14.7&Youtube Phiên bản mới nhất
+Name: YouTubePatcher VH
+Author: ichitaso
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.2.5_iphoneos-arm.deb
+Size: 4090
+MD5sum: f64cc47d6b712fdaba0bbb426c655b1e
+SHA1: 8efc82757ae133f71d9210d5c995505c2f78b902
+SHA256: 8185300ab61e56873579c1c288003156a446d15f492bc5669f6ffa4b2bc205bb
+SHA512: 8b3f7000c8c89234e5b146b432ab38e3da8802a0c0bd30dbcb7fb6fb8318ef86bf02adbe151da13706799066cb2fcb8617080317622f69da79540b03c0288d8f
+Description: Chặn quảng cáo và phát lại nền trên ứng dụng Youtube.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: http://support-jailbreak.github.io/infodeb/YouTube/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/YouTube/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.3.0_iphoneos-arm.deb
+Size: 4156
+MD5sum: c8061a2276a9f247a18bed20771e2588
+SHA1: 7370c11bc9471cfcff5cbdce95aae11ac8d965fc
+SHA256: 87d1cfddab19755f5ce137c99dd19979f6606753b9b90a60b3c0daf74aac05bf
+SHA512: 87f1cb3d8ab233900e2fbc8de3450de78a0231954568636f3bb375ede6d4bc2b828db5f3adb19d46f9ecac298af97b06df3d6000db67e68ca944d10ad116d3e6
+Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/ytx.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.zephyr
+Architecture: iphoneos-arm
+Version: 1.6.4-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 112
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
+Conflicts: com.dapetcu21.MultiCleaner (<= 2.9.4), com.xsellize.multicleaner, com.xsellize.zephyr
+Filename: ./debs/com.BIENVANNHAT.zephyr_1.6.4-1_iphoneos-arm.deb
+Size: 44452
+MD5sum: 8834ba62842b0daf51b98003ef0fa3f5
+SHA1: fa8c97fef1a24974db865de206075e2a9d21392b
+SHA256: d7541b8dac616dacbbcc4d38c802b630a2c09f728028136c32fa225d76e6825e
+SHA512: 9acbc088a3a9c70d7e456446f02a8004e60be2541b7a983dc98d4238dcfc6678324e1fdca6c8d737fa70499d1c58dea6254e7caa42843e28f3020e0d0dec6d59
+Homepage: http://chpwn.com/cydia/zephyr.html
+Description: Thao tác đa nhiệm và cử chỉ vuốt tuyệt vời!
+Name: Zephyr VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: chpwn <support@chpwn.com>
+dev: chpwn
+
+Package: com.BIENVANNHAY.androidls
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 380
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), com.spark.libsparkcolourpicker, preferenceloader, cy+model.iphone | cy+model.ipod
+Conflicts: weeb.lillie.androidls, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.bengiannis.complications, com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta
+Filename: ./debs/com.BIENVANNHAY.androidls_1.0.1_iphoneos-arm.deb
+Size: 29150
+MD5sum: ef74ca2bd0f1dd16976dde9bac4be836
+SHA1: a9ce45c1a4ede4399f80de8265474deb54576c28
+SHA256: af839b0126d48f1633a10073cc3b0880068618842ffdcb79614fc81867397d68
+SHA512: 154c08407b3803f48dbd5f352dd3fec96b8d922ca9a52069ddc714810b3fdd2c29e6b30acdf73e958c6b7bbbf9be863b584e50482e8da7640d06a4de6f26798d
+Homepage: https://repo.lillieweeb001.xyz/
+Description: Màn hình khoá như trên Android cho iPhone.
+Name: Android LS VH
+Author: Lillie
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AndroidLS/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AndroidLS?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAY.autoscroll14
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAY.autoscroll14_1.0.0_iphoneos-arm.deb
+Size: 34526
+MD5sum: 7b558e209b48949de92c723bc3197d26
+SHA1: 7010fce53dcdb6b64086303c52695b03d4e35c35
+SHA256: 5a9140dc4d2102e3bec1eb8738fc7e71727da5ffc3c31aa47d5e0b8d2b1e5c7a
+SHA512: c571373ba47ab102eadee6f3778815aa58b7135596c6d0075f76dc6a000627f97769fc4104acb4ed5c17ac2d06eb4294111631cf84488be2d1db24b357e1a894
+Description: Tự động cuộn trong toàn bộ hệ thống và trong tất cả các ứng dụng
+Name: AutoScroll iOS14 VH
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAY.autoscroll14
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAY.autoscroll14_1.0.1_iphoneos-arm.deb
+Size: 34408
+MD5sum: fda22b5ba460d39eae0dfceb4b14330e
+SHA1: 0b8c0492c7e37bbc200451311bb989b9b094f12c
+SHA256: e665ae69090e698bfc80c47b648bc6a0ede493700c8c5f9b83204bf238acf9a8
+SHA512: 1af8629c1d35a62e17966473e77d6ebf62c14ae4ec5332d8de54932c4999e0614e300a895b452fbe59ba99a6b451a98786ea4b6a1d1058da3202505788e2b92a
+Description: Tự động cuộn trong toàn bộ hệ thống và trong tất cả ứng dụng
+Depiction: http://support-jailbreak.github.io/infodeb/AutoScroll/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AutoScroll/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: AutoScroll (iOS 13/14/15)
+Author: pxcex
+
+Package: com.BIENVANNHAY.vezaIos14
+Architecture: iphoneos-arm
+Version: 0.2-beta
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 5036
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.BIENVANNHAY.vezaIos14_0.2-beta_iphoneos-arm.deb
+Size: 3480410
+MD5sum: c7a2713d55be00d43740a00bfbe14d0f
+SHA1: 4786bd68604a033a1f0282e6b1424ffcaea9c15a
+SHA256: 998a596cea982d7e8f58f4513ea4b7efaefe307f6cbb4dee4b383f0120de521f
+SHA512: 2837770b21604263ca52b85622126d817e1ff8e6a3ffde6e5d5351948d54c214d690f7f5a3b72b38cfc9414f4473dcacf8b0ef6c758296ab8719d1791d1c1a4d
+Description: Bổ sung mô-đun trên màn hình khóa của bạn!
+Name: Veza (11-14) VH
+Author: ApexTweaks
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNNAT.uyoucompat
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), firmware (<< 13.0)
+Conflicts: com.ps.uyoucompat
+Filename: ./debs/com.BIENVANNNAT.uyoucompat_1.0.0_iphoneos-arm.deb
+Size: 3368
+MD5sum: 90ff330b834d703b30474443f625120e
+SHA1: 867e71d81255464a009a775019637d89bcc5572a
+SHA256: 05903f9a48ac5f1adc38c7f5c8cf82d5a377021e819d7b5edfdec655d5a53d85
+SHA512: a5165921f74a8601baaac5422191d15609ad578851cf657a1e0b0cc7ea6c9770e2397d2e1da9284fa5758f8b61d4393c3a375d13c5e18bd5cf2ac728b8222d85
+Homepage: https://poomsmart.github.io/repo/
+Description: Bổ sung các tính năng hữu ích cho YouTube.
+Name: uYou (Ios 11-12)
+Author: PoomSmart
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Uyou11/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Uyou11/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNNAT.uyoucompat
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện văn Nhật
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), firmware (<< 13.0), com.bienvannhat.uyou
+Conflicts: com.ps.uyoucompat
+Filename: ./debs/com.BIENVANNNAT.uyoucompat_1.0.2_iphoneos-arm.deb
+Size: 4208
+MD5sum: 60956fa1e9d797bd1e458ed142777073
+SHA1: 3a7961e3e266ce90df3cc32fee482ab6795dfaa3
+SHA256: 9b4073365adbf05b5f229d8528a8f587dd562fe89143b7ee08be61ab4290da36
+SHA512: 335e6a5b7037bd9218ddbd88f3c364aca88cf512a4a35147a6cb31f1bffa7ece71ad1a323278b8060cca6a6dcb5dc8e8da0939c42a68900e41f8301f95727bae
+Homepage: https://poomsmart.github.io/repo/
+Description: Bổ sung các tính năng hữu ích cho YouTube.
+Name: uYou (iOS 11-12)
+Author: PoomSmart
+Depiction: http://support-jailbreak.github.io/infodeb/Uyou11/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Uyou11/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNNAT.youpip
+Architecture: iphoneos-arm
+Version: 1.5.7
+Section: Tweaks
+Maintainer: Biện  Văn Nhật
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.BIENVANNNAT.youpip_1.5.7_iphoneos-arm.deb
+Size: 23044
+MD5sum: 69ae67618eb024623ff012e301ca9cff
+SHA1: 18f6330a7b00a7c7173dafe900a56ec613757390
+SHA256: ba52c9f76e7c6a8b9ffdc319428f259f850c37e1112ae71bcdad0343ee3195c2
+SHA512: d9f09be7d4e5367a597f4c1b22f2f7bd70815ef6085b4f2deb093763e4489bfb5d520c249e5cd1174f4c13a6f1b4ae93ea707262e3486c437361005f7729fb96
+Description: Bật PiP gốc trong ứng dụng YouTube.
+Name: YouPiP VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: PoomSmart
+
+Package: com.BIENVANNNHAT.preferred
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 756
+Provides: preferenceloader (= 3.0.3), com.artikus.preferenceloader
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Conflicts: preferenceloader, com.artikus.preferenceloader
+Replaces: preferenceloader, com.artikus.preferenceloader
+Filename: ./debs/com.BIENVANNNHAT.preferred_1.0.3_iphoneos-arm.deb
+Size: 92302
+MD5sum: c8e4c6904c98079e1502bcaebd1e56eb
+SHA1: d5ddc16b83e9ce11b2c7afe8ffb79d93b41fddbf
+SHA256: 14bc33c2996a458c66bbda097494ecf59ed9d353b85d7656c733f7cdbb1a4643
+SHA512: e0d9bbcfd8ff5fb6bac035bfcb600aa45dd46f0e99ad5a4d6776d8c8e6080559e88bcef60fd022221af99a2cc4285268f1c402fecdd0772d57bdcd12aa0987a1
+Description: Preferred cho phép tải các gói PreferenceLoader trong ứng dụng Cài đặt , cũng như bao gồm một miếng đệm để cung cấp chức năng libprefs . Gói này cung cấp khả năng xử lý lỗi được cải thiện và cải thiện tốc độ so với PreferenceLoader ,Không có cài đặt nào để định cấu hình .
+Tag: role::hacker, purpose::library, compatible_min::iOS8
+Name: preferred
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+dev: CreatureSurvive
+
+Package: com.BIENVANNNHAT.tranzlomodules
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2408
+Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport, com.miro.tranzlo (>=2.4)
+Filename: ./debs/com.BIENVANNNHAT.tranzlomodules_1.0_iphoneos-arm.deb
+Size: 347700
+MD5sum: fe0fbced73ba2b87ee7f759089688941
+SHA1: ddfe1196346cb47695624e6a33b8fdb7a313b1f0
+SHA256: 105140e649637f2ef4255e4f10a49105fc7472eda4f4069e5f25aabf35e664c6
+SHA512: 21fee2ef47985ba8d9dbd19b9653372afb4da385b4f134cc78260c4b2c018fe98b6d8de49ebfc214157df74e46041f39b6a2f97535edd4963cab94e03473eefc
+Description: Mô-đun CC cho Tranzlo
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: TranzloModules VH
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVannhat.liddell
 Architecture: iphoneos-arm
 Version: 1.2.2
@@ -10904,6 +11431,80 @@ Author: Litten
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Liddell/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Liddell/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIEVANNHAT.callassistbar
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.BIEVANNHAT.callassistbar_1.0.1_iphoneos-arm.deb
+Size: 42636
+MD5sum: 026f754dc0d017aeac3ff2679791645f
+SHA1: 98e882621f493028dc61e20f3c6e52c93629da02
+SHA256: 4903eb7761888dd39d0f121ce5d91602355c719d9f285544c336ca49f7abf0ca
+SHA512: 1637a641a811a7bb7f5fdcd4104a3f7934687f42e24e4d99443ffa043b279bd815483cab90973fd889b243a660c4933d4f5abe74222db8958fee089157a1fc5f
+Description: Cuộc gọi đơn giản không làm bị phiền & Rung khi cuộc gọi của bạn được kết nối!
+Name: CallAssistBar VH
+Author: nqt1195
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/CallAssistBar/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/CallAssistBar/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIEVANNHAT.callassistbar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.BIEVANNHAT.callassistbar_1.0_iphoneos-arm.deb
+Size: 42124
+MD5sum: 132fb2269f484b8a2e836a9ea511a710
+SHA1: 113a42fc7bc3a7f82e6acde7458a31b3effd1ae9
+SHA256: 748d863e3053c1766065036b04ac071bae41a0acdb585fa5810ea938902a1b5a
+SHA512: d93451d8f506562ebd10c145cdbcccdf5cdcbd7aab8f437631d404b289772021db5c6b5ad6746e74886a5310cbe86138fe277c8357bc1f4e929523b4854b75ac
+Description: Cuộc gọi đơn giản không làm bị phiền. Trò chơi sẽ không bị gián đoạn! Hỗ trợ Ios 12-13
+Name: CallAssistBar VH
+Author: nqt1195
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BVNREPO.AEFloatingrootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Theme Rootless
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debs/com.BVNREPO.AEFloatingrootless_1.0_iphoneos-arm64.deb
+Size: 372202
+MD5sum: a6507e5e171bc9c442663bc5052054af
+SHA1: 1a36bc30e84227969ea39914bc650acf283b5514
+SHA256: 82f3c6f9a992149d5e1f456195ca7653b4d61ece66e8875ecec6e858e89a4e8b
+SHA512: 3422d835c005ced3e61be71147e6876c013a733aeda766300377db86f2be1f801a2913c4a9382f845549007ee216455754bf60101f019e3c56a09e1a7ea85027
+Description: Gói AE nổi cho Theme
+Name: AE Floating(Rootless)
+Author: theprestigext
+Depiction: http://support-jailbreak.github.io/infodeb/AEFloating/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AEFloating.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.BVNREPO.OnyxRootless
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Theme Rootless
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debs/com.BVNREPO.OnyxRootless_1.6_iphoneos-arm64.deb
+Size: 28045172
+MD5sum: c6f4769a7af3fb8a1971bc3de62bbb0d
+SHA1: a50d542c390b384149f237bfc0844075459a976d
+SHA256: 0dfdeb31af2e5043251588515818c54111f53474c7c05a4175ae9f6fd86cf05e
+SHA512: 3259f987b26e6539f81ac71a4dee1d67ca54e1d877c533beca78036c46fa7e8f3f3e162a9072a2411f8a1aa15e7184552d9e095fd3d7c9fa66ed120f7f0e89c4
+Description: Chủ để Onyx
+Name: Onyx (Rootless)
+Author: theprestigext
+Depiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.Bienvannhat-jb.kernbypassVN
 Architecture: iphoneos-arm
@@ -10950,6 +11551,24 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
+
+Package: com.Bvnsupport-chucmungnammoi.Chucmungnammoi
+Architecture: iphoneos-arm
+Version: 110
+Section: Themes
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.Bvnsupport-chucmungnammoi.Chucmungnammoi_110_iphoneos-arm.deb
+Size: 25581714
+MD5sum: 2e92ff76d3f94af71f40b4b520e8cd98
+SHA1: 725f380d022d9288e723271daaba058e4a332d19
+SHA256: 5a49af436ced4462d3253bc73a596af8eba14273a4cde61f9732655709f8155c
+SHA512: e00c916d336fe11b36c607dbca3dac747d93a9eb65c1d2739fe19e82cf35f38691234dd78629c424b5df54c5beb11d8d9af11869bccd3883472fcc5e29cb7dac
+Description: Chủ đề Tết dành cho bạn.
+Name: Happy New Year
+Author: Mỹ Korg
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-chucmungnammoi.Chucmungnammoi
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-chucmungnammoi.Chucmungnammoi
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.ali7assan.hyperixa
 Architecture: iphoneos-arm
@@ -11701,4 +12320,567 @@ Depiction: http://support-jailbreak.github.io/infodeb/Uyou/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Uyou/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.bienvannhat.vscocrack-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bienvannhat.vscocrack-rootless_1.1-3_iphoneos-arm64.deb
+Size: 124792
+MD5sum: 778c32acc4255279d567881ea4569d86
+SHA1: cfe4657627d9ff590af6ebb7938f62889c07a953
+SHA256: ba6eebd4af06c7f976c69c3ab8eff8f40778e149a37d80c960b6d95adfe76e1f
+SHA512: 22bbe109bf6b66ac65698156988a88515b005a760bae3b75cdaec4c71e4124dc79a9ad1447d4e982bc7a9b074b8fa7ace8822fdef8df3c9e52816021ce5dde8e
+Description: VSCO Cao cấp, chỉ hỗ trợ phiên bản 316.0.0 trở lên
+Name: VSCO Pro (Rootless)
+Author: Netskao
+Depiction: http://support-jailbreak.github.io/infodeb/VSCO/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/VSCO.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bienvannhat.vscocrack
+Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Tweals
+Maintainer: Biện Văn Nhật
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bienvannhat.vscocrack_1.1-3_iphoneos-arm.deb
+Size: 125336
+MD5sum: 2677198477f7c1918b9a1d78d86a329c
+SHA1: aee4eef784d78d9a8a60863459534ef858432494
+SHA256: b638c18cc28e28255372ae15ee428299b1dcb4af19501f3c04376bac84ed0f8a
+SHA512: 1e214269a8abf3d17efa05446442154d50d6315c1f7334f58e5623d1295c7518b51ad5324ca4a4063618bc27bcc7528c497cd43cdc7bdc382e549661c16fbfec
+Description: VSCO Cao cấp, chỉ hỗ trợ phiên bản 316.0.0 trở lên
+Name: VSCO Pro
+Author: Netskao
+Depiction: http://support-jailbreak.github.io/infodeb/VSCO/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/VSCO.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bienvannhat.ytmusicultimate_1.4.1_iphoneos-arm.deb
+Size: 130566
+MD5sum: e8aaa2eedf28d4fdaaceeff8a9f5143d
+SHA1: a12232a09a1aafb46fa8d332c6834e80d7760cef
+SHA256: 6d4538391bee5f0ce10f29f94846587cde37a17ea3ac1dbcabe4b8b68ca6808d
+SHA512: 948ae75d920fe55deeb35cee633739a10ee41766f2ebbf3cd4b8714e019b80f772d40634661d25bfe1ada3092838724b5868b59bfa543df520f0192f201b1cf1
+Description: YouTube Music Premium
+Name: YTMusicUltimate VH
+Author: Ginsu
+Depiction: http://support-jailbreak.github.io/infodeb/YTMusicUltimate/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/YTMusicUltimate.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bienvannhat.ytmusicultimate_1.4.1_iphoneos-arm64.deb
+Size: 130652
+MD5sum: 36b3c10babec4282270283ddf1f09760
+SHA1: b05f904c3af336443062ca053b9a9f643de0f715
+SHA256: 0f70a68f1e16369b02f05e153cad97a3c7cf01bbf0b7d76a01c48639c8b1783b
+SHA512: d7e0285c108fd7a3273a88ec4f7beee3c3d14829a683ebae2ed507019ff293c109c4f0c40234d13764b0926c1f1285d42ffffe3ba84a4731516adcb6a5191b9e
+Description: YouTube Music Premium
+Name: YTMusicUltimate VH(Rootless)
+Author: Ginsu
+Depiction: http://support-jailbreak.github.io/infodeb/YTMusicUltimate/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/YTMusicUltimate.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
+Version: 1.5.15
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.5.15_iphoneos-arm.deb
+Size: 24416
+MD5sum: b84eff3d0a4de7af452ba172b8ecc6ad
+SHA1: 6dda9129edca31fe8a4328b4605fa728bc355b6b
+SHA256: a4851a9b2482aaa7ab450bd511e26233a42f84a99f679ca59694a15da926b410
+SHA512: 5e2b9eca8368e0185d9f645dfd3982911bb8e8948d87050f832664bf2bc642151776c602c8156c99a6b1a82aa822a2e13a79bef1ba79b4c8a7d0130fbafb1352
+Description: Bật PiP gốc trong ứng dụng YouTube.Hỗ trợ Ios 11-14.8
+Name: YouPiP VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Author: PoomSmart
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
+Version: 1.7.19
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 296
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.7.19_iphoneos-arm.deb
+Size: 35658
+MD5sum: 7be061c5d5b2205449b126c832196438
+SHA1: c918e86795c850e2b8de826ef7dd679eb6f603ae
+SHA256: 554ae4b7a83ae606250f83cf4a66c38c4c30a5c9acae5035ce719e17c5b10fcb
+SHA512: 9f4101814667e4e4c4ea47ec4fba32113fdcc200bf64f804f49c9bdba2066e1f0c0fdbb276b680384f05d10b7cf0557400f90969e364a502a03f87a095b664eb
+Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.Hỗ trợ Ios 11-16.3
+Name: YouPiP VH
+Author: PoomSmart
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
+Version: 1.7.7
+Section: Tweaks
+Maintainer: Repo Cydia BVN <Bienvannhat97@mail.com>
+Installed-Size: 236
+Provides: com.spicat.youpip, com.ps.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip, com.ps.youpip
+Replaces: com.spicat.youpip, com.ps.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.7.7_iphoneos-arm.deb
+Size: 29080
+MD5sum: ca378fc4a30da561abf9141e72e2e289
+SHA1: c5f3108d08f257846fc9cc2026708684f220be35
+SHA256: bf6c6a473f49b52db146e3c2813d2b58970d112c589d9efad4b0931833efc5e8
+SHA512: deb3c660603e17907172a1195781901b0ab398082854266f2950b313cf9b0637e657de779c00c1554ffd4929a7525ca6c5ae98dcdfb6c0a6f88814189a71da3d
+Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.Hỗ trợ Ios 11-14.8.1
+Name: YouPiP VH
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.burritoz.croutons13
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11), mobilesubstrate
+Filename: ./debs/com.burritoz.croutons13_1.0.2_iphoneos-arm.deb
+Size: 89128
+MD5sum: 97820d9d52f61bea3972251fa9b575d6
+SHA1: a6f025309a977046738cb90ebfdac28b51fe535c
+SHA256: bf6af81905b6aa4da403ff0eee941eda1cfd4ea4edef7cab0140d27c41030781
+SHA512: f925c93c2f7637cc6742319c583ff753f242b8c34303fa7c904e293ead04c9b82727a18cffcc4a76c231fa3115e960ca6fb5d0b342dbc60d03af035060da570f
+Description: Mang đến tinh chỉnh croutons cho iOS 13&14
+Name: croutons13 Việt Hoá
+Tags: compatible_min::ios11, compatible_max::ios14.9
+Author: ren7995 <lau7995ren@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+
+Package: com.burritoz.croutons13
+Architecture: iphoneos-arm
+Version: 1.0.2k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11), mobilesubstrate
+Filename: ./debs/com.burritoz.croutons13_1.0.2k_iphoneos-arm.deb
+Size: 89372
+MD5sum: 16871c025c137d9ece82908ad1aa90af
+SHA1: 22472882186826632be9667fae54fb384dd977b8
+SHA256: c084ab894c717b6c53097310655e4438676508011b87f019265501b68d4e62b5
+SHA512: c4cbe70cdd494b9570f3bd9cdc1c60159a2dd269494a0da0ae33adea7625fe1c1ec2ad1c581e6af79da9a4e96df9cafa3c58830ce953c665c64361b053ff059d
+Description: Brings croutons tweak to iOS 13+
+Name: croutons13 Việt Hoá
+Tags: compatible_min::ios11, compatible_max::ios14.9
+Author: ren7995 <lau7995ren@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.burritoz.croutons13
+
+Package: com.bvn-supportjailbreak.CustomSounds2Vn
+Architecture: iphoneos-arm
+Version: 7.8.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 7532
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.15), com.support-jailbreak.libnebbs
+Replaces: xyz.tylerd3v.customsounds13
+Filename: ./debs/com.bvn-supportjailbreak.CustomSounds2Vn_7.8.9_iphoneos-arm.deb
+Size: 2779942
+MD5sum: ec0db9f78a32d973866f064f13fba1a9
+SHA1: ab1dce1cf790fbdba30ca3ee9c0a982c1ec29378
+SHA256: ff0d73961bc37018a515e00537cc6141e4d88abc93f161f4751d33210558ebb7
+SHA512: ccf9176de72ff9db5e09e4f0cd0d7f96759fa5f370ebfed4fbb54138d56039cbbdf1f7128ab2438be7d744badfcfe897d2b862a67cb38fe233fd82575c907264
+Description: Âm thanh hệ thống tùy chỉnh cho iOS 13 và 14!
+   Tính Năng:
+ - Tuỳ chỉnh Âm Thanh hệ thống cho IOS 13 và 14!
+ - Đã thêm 1 số ÂM THANH khi cắm sạc độc đáo cho anh em💕
+Name: CustomSounds 2 Việt Hoá
+Author: Nebbs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn-supportjailbreak.CustomSounds2vn
+Architecture: iphoneos-arm
+Version: 4.5.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 7532
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.15), com.support-jailbreak.libnebbs
+Replaces: xyz.tylerd3v.customsounds13
+Filename: ./debs/com.bvn-supportjailbreak.CustomSounds2vn_4.5.6_iphoneos-arm.deb
+Size: 2724592
+MD5sum: cd44f4cef3a005db6f1f8bb32d063db7
+SHA1: 1923781308a9f2df6f30e0a8967a6c0febf18245
+SHA256: d6577c246b5424c72b23b443b0da1b6c93a143e95d7a1b941826b5e7b4cbd0ac
+SHA512: c4c418ce1236bea6bda2ba9fa0eee3641d2dc86926e2bbb4ac6ca4df7bd3f852abccb08c61937d8581e84dde5364c59c1f92aae5f5f6c466fce40174922d8037
+Description: Âm thanh hệ thống tùy chỉnh cho iOS 13 và 14!
+   Tính Năng:
+ - Tuỳ chỉnh Âm Thanh hệ thống cho IOS 13 và 14!
+Name: CustomSounds 2 Việt Hoá
+Author: Nebbs
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn-supportjailbreak.hacklolmobi
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 788
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn-supportjailbreak.hacklolmobi_1.2.3_iphoneos-arm.deb
+Size: 7925022
+MD5sum: 0ce757dab7761ea71ab8944204b5178c
+SHA1: 08c5c223d5b850e29de1b50bd5606e6f53e162fa
+SHA256: d5d524573d075673501a04d3d404aa4236a15b7956f36469719101efd6a76849
+SHA512: 5d61de0e02f2e772e5cb30e285a46da571546d3daf0ec4cad8d8d63b750f1d24cb2ebc3907536871e2a098ef7bc40e6a91d7e572480187d682843e9d042d8fb4
+Description: Hãy sử dụng nó nếu bạn muốn😁
+Name: Hack LOL Mobi
+Author: Samsiu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn-supportjailbreak.hacklolmobi
+Architecture: iphoneos-arm
+Version: 2.3.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 448
+Depends: mobilesubstrate, com.ps.letmeblock, co.azozzalfiras.azflibrary
+Filename: ./debs/com.bvn-supportjailbreak.hacklolmobi_2.3.0_iphoneos-arm.deb
+Size: 200396
+MD5sum: 8e7e42c19860a89012b2fbe2adf85730
+SHA1: 7ee82eb4f12fde04c7e38675572a649a954184e2
+SHA256: 647338b6bdab28b8bf48c17fc0bd9c84b49de931eafa7f348fe74f05271885b8
+SHA512: e1e9970f3947c8cd16863870726b8695cf09e0ffe35acc0bdd2f1767ef24d9d4197fc87a5e487ac711d611b0b1096f29bf487f97d6b39b93501f159b196bbf7d
+Description: Hack LOL mobi Việt Nam
+Name: Hack LOL Mobi
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: IPALibrary
+
+Package: com.bvn-supportjailbreak.hacklolmobi
+Architecture: iphoneos-arm
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 6344
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn-supportjailbreak.hacklolmobi_4.0.0_iphoneos-arm.deb
+Size: 1854410
+MD5sum: 78c0294f92862691852d442532609263
+SHA1: 9d1d1387cf3b3fbfcad2d90cf22f0499edb8b144
+SHA256: 5150258f417134537df7c1cc5405edb3b3d1b18111aa24bcb6f467ef1993aea2
+SHA512: 829fd677d33e1cf2760e6d7bf184640b4247eee9e0e2bcb355f728c1a1c94609fbb4c9281ed5f992107ed18a757b7655db19bfea10dcebd732d92c3b6041fbea
+Homepage: https://support-jailbreak.github.io
+Description: Hack LMHT Tốc Chiến
+Name: Hack LMHT: Tốc Chiến
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: ThanhDark1909
+Depiction: http://support-jailbreak.github.io/infodeb/LMHT/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/LMHT/?p=info
+
+Package: com.bvn-supportjailbreak.little11viethoa
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 912
+Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Filename: ./debs/com.bvn-supportjailbreak.little11viethoa_3.4.5_iphoneos-arm.deb
+Size: 384020
+MD5sum: fb3763a474e9f402c3c3f82ea6e1835a
+SHA1: b97397db69c8e47e3e58c1f54f2dfd86fb0aaf86
+SHA256: 6b04a45b398b9c2afe69b907662c62a01c5591b8fbae8f3dcee686960ce06764
+SHA512: 5bf91ecb64925ca09bdae7d000bfbd3d6dd91602e21e66c0c447a4fd5ea68e3f666d3aac0845ea69fcf2d926ccf4e0a3a19014b8cb94069f0c60b0ac2931d4a1
+Description: Cử chỉ iPhone 11 và hơn thế nữa cho iOS 13&14
+  Tính Năng:
+ Fake củ chỉ Iphone X cho các máy đời cũ.Hỗ trợ từ ios 13 đến ios14
+Name: Little11 Việt Hoá
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnrepo.Starfall
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Filename: ./debs/com.bvnrepo.Starfall_0.1_iphoneos-arm64.deb
+Size: 26391926
+MD5sum: 1a6bc7d19f72becc01c21a1d69bea6ef
+SHA1: e0ffc02de53ed49b226d2a47d95950750350bd24
+SHA256: 1e124e3194a1fe64d37182ead8c3539f3f791a2914771aba719ea7677c3708a3
+SHA512: 9018fb0c2b898c5fa4670ed038e3ff73a97c91b2dcd8dab8eb79a719e45fc692a4285e1ec1dcd3ad82f3dca2dae09f2acead5ee432adbed7ad046de65ea21476
+Description: Chủ đề bàn phím cho Laetus
+Name: Starfall (Rootless)
+Author: Starfall
+Depiction: http://support-jailbreak.github.io/infodeb/Starfall/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Starfall.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvnrepo.amber-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.bvnrepo.amber-rootless_1.2.0_iphoneos-arm64.deb
+Size: 18180
+MD5sum: 9ab234f9c475fffac1202f0d6db357dc
+SHA1: bef2197396ccad8b682b41de51e3b3ea327e83fe
+SHA256: 626084c41c96ebf11f222f6c10f292997b3b7a2af014bb96f1a09cb21a2dbf50
+SHA512: 1dcf1bea4650c3776ce021f91f53acc0d4ffc016bc3c27fbe2ff88d8d911a8ed9505e562ee1cc3e0d568a06185ee417c0666f25c153c3747140da14d6ec7d8fe
+Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
+Name: Amber (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/amber.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvnrepo.copylogrootless
+Architecture: iphoneos-arm64
+Version: 1.5.6
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.bvnrepo.copylogrootless_1.5.6_iphoneos-arm64.deb
+Size: 2274
+MD5sum: f1a9000dfad0a07bb091375c065ece1e
+SHA1: ebd4336c8192b2545c25e530241aabe8e3ae3e33
+SHA256: 473df9798f199fde35921818c87a285932797145b9de06eb08a8601dc81639cc
+SHA512: 0183d927efe06540ff780449ad9609abc81f242e59c01bfb0772312cffc86943b5deeb50a0cf4351c34e93f08e0cfd1644f5390108efa239abf198527e69f5e2
+Description: Gói Tiếng Việt cho Tinh chỉnh Copy Log
+Name: Copylog Gói TV (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Biện Văn Nhật
+
+Package: com.bvnrepo.uyouimport
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.bvnrepo.uyouimport_1.0_iphoneos-arm64.deb
+Size: 134660
+MD5sum: 18f109fb0a868d4b11550be9de198899
+SHA1: 25ef96e5e3c5c008c552d386c117e14bd8f395fa
+SHA256: fa1721b8a0f759b7bdc922eab99deddfb53e5031cc92529041a07934f2f064ce
+SHA512: 5abf9241a0ebd5e30c7229e4fc8ee6f3f67f3f4d735bcf5b3569775ec6ec4ecf410d67f1468107f35024c3bfe7133d8385929b443cdbc1a1f0ac98296428a16a
+Description: Thư viện để nhập bài hát/video vào ứng dụng Âm nhạc.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.bvnsupport-4kvcl.vcl
+Architecture: iphoneos-arm
+Version: 102
+Section: Themes
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport-4kvcl.vcl_102_iphoneos-arm.deb
+Size: 345090
+MD5sum: d32c60b6a817eb3fec591a218d663a1a
+SHA1: cd9c0f404728160c03514b1096819283246b9b37
+SHA256: a4edc15e0dcf578e9f24a7dbfc6f9edd5d0a865c2a1684cf8058ba8b13ce76ab
+SHA512: af475b141deb52e947987b1298805feb1e2127f5b78da52021cb853ea35aa802fec92c72a5d6cb1e0c02394b372274f70ea5f1c4a9fc4431e77a4c84191c94fe
+Description: Chủ đề dành cho bạn
+Name: 4KVCL
+Author: ?
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-4kvcl.vcl
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-4kvcl.vcl
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-60fps.fgotw60FPS
+Architecture: iphoneos-arm
+Version: 4.5.6
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 365
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.bvnsupport-60fps.fgotw60FPS_4.5.6_iphoneos-arm.deb
+Size: 99780
+MD5sum: fb15079fa2608c687645deff307d7151
+SHA1: 0edd23a32aef5746a5591d4f3278726c43560564
+SHA256: 4c1d03338a150b4aea0e4a2e67f2bf2468c71c64728af7b7d255b2cb5778353d
+SHA512: 0d190867fca3b1a8af83f007d726d1acd0d465bc2ae8d29fbb95c06e6f8eb3b6d879f0b9b81c86deccef798baa3ef84afc6ec975885dcaa47b463b04bb53d3cd
+Description: Buộc trò chơi Unity hiển thị ở tốc độ khung hình tùy chỉnh (60/30).
+Tag: purpose::extension
+Name: Unity60FPS Việt Hoá
+Sponsor: bvnsupport-jailbreak.github.io <bienvannhat97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Brend0n <brendonjkding@126.com>
+dev: brend0n
+
+Package: com.bvnsupport-60fps.fgotw60fps
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 537
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.bvnsupport-60fps.fgotw60fps_1.2.3_iphoneos-arm.deb
+Size: 109956
+MD5sum: 8755bb6dcfecd7dfbb1fa39e75123184
+SHA1: fbb7213c8e4752126189806a36f4261af67ea1f8
+SHA256: 5a2362e42c0aab157a1703ed3a7fa73d24668a12880e3f1a6fab97351146a2f5
+SHA512: b13edc9651803c8bb9db89bd58894b8c5818569da6272ce9fff48e72c71793bed917151b7104703eaff0466c913e378a15d428d98fed3c11e93e3a90d4ce9fb2
+Description: Buộc trò chơi thống nhất hiển thị ở tốc độ khung hình tùy chỉnh (60/30).
+Tag: purpose::extension
+Name: Unity60FPS
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Brend0n <brendonjkding@126.com>
+dev: brend0n
+
+Package: com.bvnsupport-fakex.little12
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 1024
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debs/com.bvnsupport-fakex.little12_1.2.3_iphoneos-arm.deb
+Size: 455058
+MD5sum: e846950ca91d2bcf8471cfb379698a8f
+SHA1: 86a8887cb02c9617a537fc3f801a7e502db34509
+SHA256: 72aae146fc956808225c6217c856718a08aa91de3324fb026dab97769d6eaa35
+SHA512: e0339a9eb54649b4cc98669f9a59cd28e503d01a0fbeeda466f6436e4a4b0eefcc4bd6d941f1504ab143f254dd0e9ca84004412d5f3a16dadf10fe0d73d1f809
+Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
+Name: Little12 Việt Hoá
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-giamcuocgoi.Giamcuocgoi
+Architecture: iphoneos-arm
+Version: 5.6.7
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 21820
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.bvnsupport-limneos.limneos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.bvnsupport-giamcuocgoi.Giamcuocgoi_5.6.7_iphoneos-arm.deb
+Size: 4876656
+MD5sum: d62ab0d49651932c4f3ee11050f30d60
+SHA1: 3d6c0268c461e6f279aeed15db28f76929f7c719
+SHA256: d709a3b04638d447a7f00c135099a17b1ee287457326ecf12a714bffee05edc3
+SHA512: 40685268d932ae32cca0425654bbb4b3594cc83bbc9144a6b8c777b850b99ae10f68f9d2f510ccfb0c520673bda16e9efc4e6546efd2fda8cced6cfcc959c6d8
+Description: Ghi âm cuộc gọi điện thoại của bạn.
+Name: Ghi Âm Cuộc Gọi (12/14)
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-jailbreak.11cam14
+Architecture: iphoneos-arm
+Version: 0.0.11
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.bvnsupport-jailbreak.11cam14_0.0.11_iphoneos-arm.deb
+Size: 4932
+MD5sum: fc8f207a01da645d408c87b3d692d877
+SHA1: ba08850d0d441331fee37eea2336472600501960
+SHA256: c9610b04e071965a4eadbb1b328978171e7b5dadd5b89a09b9527d56f93439f4
+SHA512: 71f5702b9544dd7964f7cdbc1148d3ff9bcfaf6063939b7bc1e31a7b7f46fad088b463eb0314b76ae3e8d8668369944563704cd516035f139a4218659527dc4c
+Description: 
+   Tính Năng:
+ - 11Cam thêm Ứng dụng Camera của iPhone 11 vào iPhone của bạn
+ - Zom 10X
+ - Tương thích với iPhone SE-->iPhone X trên iOS 14
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Michael Melita
+Name: 11Cam14 VH
+
+Package: com.bvnsupport-jailbreak.DepthsP
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Laetus Themes
+Maintainer: Polyphian
+Filename: ./debs/com.bvnsupport-jailbreak.DepthsP_1.2.3_iphoneos-arm.deb
+Size: 40080838
+MD5sum: dcd0fd6514d24b4f4b54c75b95dd3795
+SHA1: 342c473b6323c73573c401276a616cd0b0769f2a
+SHA256: e166a2aa58b6e4c084bc72d76f588e81cd53158dab795d74445515283b1c0c66
+SHA512: b94333b64930e34ac69eecc89767f0da79a19a88b1c59251c54a033dee076e4e64180e6bb28b4d5252e0fb999c8f3ad460966b51137cef88754232561e662c0a
+Description: 
+   Tính Năng:
+ - Chủ đề bàn phím Laetus cho các máy 6s đến 7G,mình đã chỉnh sửa nên anh em dùng các dòng máy nhỏ cứ cài thoải mái nhé
+Name: Depths P
+Author: Polyphian
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.bvnsupport-jailbreak.DepthsPplus
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Laetus Themes
+Maintainer: Polyphian
+Filename: ./debs/com.bvnsupport-jailbreak.DepthsPplus_3.4.5_iphoneos-arm.deb
+Size: 40080496
+MD5sum: 785d9b09d6b449dd1edb63e6ff9a4f1c
+SHA1: cbe12ff455d4db64ca11b2982011ee6c40aec741
+SHA256: bdb96a4daac9632c7e334607a034b5fc8d9346ffc28a093a743f577472a431e1
+SHA512: 36d5c476f0ed7eaf1bdf5227b25a3e3c96f1eb9f0d303f486e970eacbd177ba9881d7c3b344b294feb80f3a03453374b633c27206a02fc36e61e61804e13717b
+Description: 
+   Tính Năng:
+ - Chủ đề bàn phím Laetus cho các dòng máy Plus,mình đã chỉnh sửa nên anh em dùng các dòng máy Plus cứ cài thoải mái nhé
+Name: Depths P Plus
+Author: Polyphian
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.bvnsupport-jailbreak.xeninfo
+Architecture: iphoneos-arm
+Version: Beta
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1072
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Filename: ./debs/com.bvnsupport-jailbreak.deb
+Size: 269660
+MD5sum: 41bca801cc2b2b270c000afc1b324e0b
+SHA1: eb154a32ac52e82db91caa7cc4730d3340245dda
+SHA256: a5fdd65a42612603037a265d06c802a6f93b6a81c144122508fd31498413d224
+SHA512: 4eacd622d8b15b323c97ff812a600bc48bf9d2f95a07361ce7cff3a4a624cc57e2d4c72f055be75839ff7f8d385b773429b87408222a364558ee308cb5edfd60
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML.
+Name: XenInfo Việt Hoá
+Author: JunesIphone & Matchstic
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
