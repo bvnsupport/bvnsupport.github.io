@@ -14958,6 +14958,24 @@ Author: iGameGod
 
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
+Version: 0.4.0.1
+Section: Utilities
+Maintainer: Repo BvN
+Installed-Size: 195200
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg_0.4.0.1_iphoneos-arm.deb
+Size: 77942314
+MD5sum: 3a169c55442758564289f22be788864b
+SHA1: 9911295e387e218e16f53e339b5638780a7bd8cf
+SHA256: 67b8e5c2d723cb6e2d45a4bf58dc1ca536f5afb2570e6f0982f9fc31655d9eb9
+SHA512: 5acea62a393ffd410e61301fc97a60de0740294c770f801b6c5712e8cbd2c16c9fed9c11b1de6885a318fc1d6a7310a1c435626b85e918329dbc51b3e28c9618
+Description: Hãy là vị thần của trò chơi của bạn!
+Name: iGameGod VH
+Author: iGameGod
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
 Version: 0.4.2.1
 Section: Utilities
 Maintainer: iGameGod
@@ -20967,6 +20985,26 @@ Name: iCleaner Pro (Rootless)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: org.mr.libiarrays-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.16-beta-2k
+Section: Development
+Maintainer: MainRepo
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
+Filename: ./debs/org.mr.libiarrays-rootless_1.0.16-beta-2k_iphoneos-arm.deb
+Size: 548282
+MD5sum: 8d715dadae71be47e2b089ef432773e9
+SHA1: 82cc15c9368bc73289e9a5fd7e66ee2faea00090
+SHA256: a39b3acd3614833c12d9b4805ee33a443ef7e67f3dba9afa350c17ef3b20e90e
+SHA512: fc35e62036e2b7377f4e9d0757d1d3f5c4964aa10861d2d32d9d7ff8ad54bb603797a48ea4e547a77f84249110f1f72a68414117e8655117db4c142aa87a1357
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (rootless)
+Author: IArrays <support@iarrays.com>
+Depiction: https://mrepo.org/depiction/5461
+SileoDepiction: https://mrepo.org/sileo/5461
+Icon: https://mrepo.org/CydiaIcon.png
+
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -21268,4 +21306,280 @@ Author: Geometric Software
 Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
 SileoDepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+
+Package: sileot.afsocial
+Architecture: iphoneos-arm
+Version: 2.6.1R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, sileoturkiye.azflibrary (>= 3.1)
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+Filename: ./debs/sileot.afsocial_2.6.1R_iphoneos-arm.deb
+Size: 3436646
+MD5sum: c7265a99b6ecaea4a65f2539aaf9ef05
+SHA1: f21fdbbeb8637c4a7f2feae59285b442c431c2d5
+SHA256: 3e50ac7b6de40a268ba7a864b6bdbfff5408b9c47b0c6c1ac25bcabf4f61a8e7
+SHA512: 2090e129bd4a0b836838f3a697d52aee8cafad673f4791a974917bc455eceeb898fe00e50b3b166a11115eb4b043037b26c167d15439fb248fe4bb08c33709e2
+Description: Thêm nhiều tính năng hơn vào ứng dụng Xã hội...
+Name: AFSocial VH
+Author: Azozz ALFiras
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AFSocial/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AFSocial/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: sileot.afsocial
+Architecture: iphoneos-arm
+Version: 2.6.2R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, sileoturkiye.azflibrary (>= 3.1)
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+Filename: ./debs/sileot.afsocial_2.6.2R_iphoneos-arm.deb
+Size: 2329768
+MD5sum: 24b9e282ed45680e3652fd6a692403a0
+SHA1: 39cc2ad92db4ee8c8dbd6f8066aad0bfe6c81fa8
+SHA256: 41e3a7ad6a3ee245259e5c3208df4499135322fb75bad1e7fc1531f1ef7ddd26
+SHA512: 6e0b8d841054d60d976195bbe0fcb27da45700ce61e574b79114afbd46cbb4d1990eb26c149cfb0a476117380836946c89c0fba8c9b514c163a8169cd90c6387
+Description: Sosyal Medya uygulamalarına daha fazla özellik ekleyin.
+Name: AFSocial VH
+Author: Azozz ALFiras
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AFSocial/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AFSocial/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: sileoturkiye.azflibrary
+Architecture: iphoneos-arm
+Version: 3.2
+Section: Development
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: co.azozzalfiras.azflibrary
+Filename: ./debs/sileoturkiye.azflibrary_3.2_iphoneos-arm.deb
+Size: 540668
+MD5sum: dd8c149700d55cc4ea0e9820b90f118b
+SHA1: f84b9ff79acec03ff477077af196b1afed56d9fd
+SHA256: c664bffc9bc0a2ba7f29cc4b86385a783dbb1210515bb6384ddb3d2a00a5f994
+SHA512: 7c35bb14384f4eca87fd0efd4fd2629ee39c8d60ae2818cb530a16f9881fc7e011ec2add27551f6cac8bafcfdf1bc55238642e86923263a70cfbbbb02f54a6c0
+Description: Công cụ cần thiết cho Azozz ALFiras Tweaks.
+Name: azfLibrary
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: Azozz ALFiras
+
+Package: sileoturkiye.mejor
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật <Bienvannhat97@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.ouraigua.jodebox, ws.hbang.common
+Conflicts: n.uf.mejor.bigboss, n.uf.mejor
+Filename: ./debs/sileoturkiye.mejor_1.4_iphoneos-arm.deb
+Size: 1924942
+MD5sum: cb273363d4352f1b5d7435800d981c40
+SHA1: 3e831050c3c67ce988db5683d289f597e235d8fe
+SHA256: a4a4615ff4754f9e4605b80dc0eaeee2fb96971c2fd457bb55daed2078cc4f11
+SHA512: 9018d7f5181ef01eb98eca24ddac9376d8f45f96e5458b9cbe3a172bfacaa57eb807a7869302383d5fe4a9085de9b66679b54ac40b29a950b0320cd35201cf1c
+Description: Tải xuống các video và chặn Quảng cáo ở các Apps:Facebook,Instagram,Jodel,Snapchat,Tiktok,Tweetbot,Tumblr,Twitter,whatsapp,Youtube.
+Name: Mejor Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: AzozzALFiras
+
+Package: ws.REPOCYDIABVN.newterm3
+Architecture: iphoneos-arm
+Version: 3.0~beta1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 14891
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.REPOCYDIABVN.newterm3_3.0~beta1_iphoneos-arm.deb
+Size: 6354766
+MD5sum: d5713dca72812f3c18a690f95c663e58
+SHA1: 5c3a0993ddb75e34f7aabf43d9d452f175f54735
+SHA256: fc2a52b5da54d0b17b9fbbdaf696a2973a621647fab882a655fcfe402c1a279f
+SHA512: 036f19202ab52bc8cbd8bc288fc4cbb486e77da7a046bb8b7e09f169b258f919d2d86112408cb1897ae74ff61af53c5adfce1b410c34f4d1c6e4cb6f0cb03bd4
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Name: NewTerm 3(iOS 14-16)
+Support: https://hashbang.productions/support/
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: https://chariz.com/get/newterm-beta
+
+Package: ws.hbang.alderis
+Architecture: iphoneos-arm
+Version: 1.1.2R
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6468
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Filename: ./debs/ws.hbang.alderis_1.1.2R_iphoneos-arm.deb
+Size: 2850568
+MD5sum: 8b189d67e6b8c14958ccbe2b40934e0b
+SHA1: b969f79f3b52e9c9c096a4d2b96d8164a33ed57b
+SHA256: c4455eeb4751304a26e0e72bfecb29051efa49e489ecc2edfe630ae55f57d284
+SHA512: 5e7b5582f70921cc9e596511c27187fa9162e234d0cf5f93bda07adde0433a09ba5eb90884405fdc1bc29926cb944b278c192d8009b76b03f2e91728e5d69699
+Description: Color picker support library for tweaks
+Tag: role::developer, compatible_min::ios12.0
+Name: Alderis Color Picker
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/alderis
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Support: https://hashbang.productions/support/
+dev: hbang
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm
+Version: 1.17
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 1852
+Depends: firmware (<< 8.0) | firmware (>= 11.0) | com.rpetrich.rocketbootstrap
+Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Size: 337782
+MD5sum: bc16d05216da9b32a206147fe2d35b22
+SHA1: a63aec35b5784902d52dce76913faadd8bae9d43
+SHA256: 6ea90d7d9f30f13b977f3663b6e1d2f88d627374cfe67929cbaba2efa9ce43a3
+SHA512: 5d48d7dad18561e5d073905fa2d8ab7c13cc94a0d34c45a98a9f3894f3027494122fd0f1374653eeb77e4ce8aa4252b771fc3331d459caba5d1ee4bc71bb12b0
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios5.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+dev: hbang
+
+Package: xyz.coolstar.wzrypj
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/xyz.coolstar.wzrypj_1.0.1_iphoneos-arm.deb
+Size: 932108
+MD5sum: 8cdb32858ed0951d8d249a0b9a8fcc0c
+SHA1: 8a9407676cfa001b06d24222c2c8914068768667
+SHA256: 65a897b2673baef5a217f3c4e6b15d599b2d9ac46ddfaf90a9284822d528e93a
+SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e213f70d763964ea3b80f43e5164a5544c6bfdee98954fefdf1cc2aeb7d
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Hack Cam Xa Liên Quân
+Author: 1
+
+Package: xyz.cypwn.xrays
+Architecture: iphoneos-arm
+Version: 1.0.15b8k
+Section: Development
+Maintainer: Repo Cydia BVN
+Depends: ldid, firmware(>= 7.0)
+Filename: ./debs/xyz.cypwn.xrays_1.0.15b8k_iphoneos-arm.deb
+Size: 431214
+MD5sum: a85912f827472ca0252ca7905b3bbf1a
+SHA1: 5221791ee1c6e983e7078ce563b2f80871f089a5
+SHA256: a803abe93447c8d41e68860d3c8c32dfb8ce825d912ddc3cefaa992b2b1032b7
+SHA512: 15641c29bcee22136296b9a9bc4e53d2064ff73f29164967ed2fa73322080cd7464fa9ae976d9d7c28295a4d0eadedec18f6c94e662c01b620e5cd85b81caefc
+Description: Kích hoạt các tinh chỉnh của iarrays!
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: CyPwn
+Name: xrays
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm
+Version: 1.1.15
+Section: Packaging
+Maintainer: Biện Văn Nhật <wilson@styres.me>
+Installed-Size: 58328
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/xyz.willy.zebra_1.1.15_iphoneos-arm.deb
+Size: 27470232
+MD5sum: 75ed3a7e0e3d0df64fd9507db5a44f21
+SHA1: 52e73f3a21df8b491406e4da3e1679f47f5358d8
+SHA256: 21670f357df0075d0b55690357cc16d2d11c81a540c3299040a9ca5bb590b881
+SHA512: 1cf97596aec8a71d124a63ec6b203f9d4e3ce258e15db5196b8951cab99d4f4831ebeb91029c1c6310de0b6bf786e07dc2d8ac4f9518fb50f6a12933b768b103
+Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung nó với Cydia và Sileo.Hỗ trợ từ ios 9-14.5
+Tag: compatible::9.0-14.2
+Name: Zebra VH
+Author: Wilson Styres <wilson@styres.me>
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm
+Version: 1.1.19
+Section: Packaging
+Maintainer: Biện Văn Nhật
+Installed-Size: 58372
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/xyz.willy.zebra_1.1.19_iphoneos-arm.deb
+Size: 27470662
+MD5sum: bcc01bb3eab938b6d521170d783c4410
+SHA1: 1d2fd8a06a2ae8861e962f1a8c26c491333c9b5f
+SHA256: f0b8dd0e352579316ecee301485556a9f9e1898937a5778b643df4e25d5a9487
+SHA512: 154d6e326c802fe64f518f02205f15dcaf4f9d06621435b24603bd566f8e41d6e0986254b0102e1e17ed34e47f144a5701b50814c3f9cac1cb4610147f24f34f
+Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung nó với Cydia và Sileo.Hỗ trợ từ ios 9-14.7
+Tag: compatible::9.0-15
+Name: Zebra VH
+Author: Wilson Styres <wilson@styres.me>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm
+Version: 1.1.20
+Section: Packaging
+Maintainer: Biện Văn Nhật
+Installed-Size: 16324
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/xyz.willy.zebra_1.1.20_iphoneos-arm.deb
+Size: 9839624
+MD5sum: f878fff1912b208503b1e90342cd868e
+SHA1: 889bdd83c1b75d57855b78731ded5666b0e82d70
+SHA256: 944d1c1c66857f0a5b39bab0aa7b6393ee600edb6245731587e04a927c134daa
+SHA512: 8fba0fa77caee823366f042caca403e933785e00f0cd6bc29c57cba57616d31bc6bf3792bbd5375abcdf0c2f7a56c1740cff7660d5ba04c08446a2610669068f
+Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung nó với Cydia và Sileo.Hỗ trợ từ ios 10-14.9
+Tag: compatible::9.0-14.9
+Name: Zebra VH
+Author: Wilson Styres <wilson@styres.me>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm
+Version: 1.1.29
+Section: Packaging
+Maintainer: Repo Cydia BVN
+Installed-Size: 12580
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/xyz.willy.zebra_1.1.29_iphoneos-arm.deb
+Size: 8276548
+MD5sum: 3e78e66631cfecff9c4e5bbd6292b581
+SHA1: 5839096106145c43e66561b2785fa0ccf6294540
+SHA256: f06ad2c751290fba076229bdb4d0a75c5464603e2f650fa6580d6351acf50762
+SHA512: 27ff2331f98081284f9ddc0732454ff606764d3fdd54fc59f4497a6eb820dc4d632bb3e5f95c18ed75142dbd8876b38cb60f436fef941b17f29cb4d5b39b5364
+Description: A Useful Package Manager
+Tag: compatible::9.0-15.7
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+
+Package: zp.preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0.18
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 256
+Provides: preferenceloader (= 2.2.6)
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Filename: ./debs/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
+Size: 29162
+MD5sum: f71ca0aac43e11b3e2708066ecf15f77
+SHA1: 5b04466720b48c5681d3e2f1f33acf017ac3c7cb
+SHA256: b7aa22255a92ec008e296a61d4172281e18fdff8f6628daa6f6f2ef5e665ce55
+SHA512: e9056b5605746a582339892ed5a36e5db7ea8738d666ea6c4c42c7b5f8301cdd56218d12d006479cda2ad246ee6c58fd255b8d233c8a36c04430934c54e1caf1
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Name: PreferenceLoader - rootless
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: ArtikusHG,zp
 
