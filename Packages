@@ -2891,6 +2891,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/BatteryPercent/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/BatteryPercent/?p=info
 
+Package: com.BIENVANNHAT.batterypercent
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.batterypercent_1.1_iphoneos-arm64.deb
+Size: 22752
+MD5sum: 6ea07e52a3557bfa0479e75557a92d29
+SHA1: d30dc590a56b0bea5aefb58bd34eefb3632f3fce
+SHA256: 63d76d08c8e3d72cd0eb50a85c741da6552c9280abd2ba44adbe906209224bc3
+SHA512: 35ee0c74b9075d52ac04b8d23ea33f8718dd4dbdd0bfe7f05f95b62f136fe09e3a7d579ac5cac3f9054c81c9e2a9119a1328f3e4d01f9cbf11d6e72676b20b3e
+Description: Hiển thị phần trăm pin iOS 16 cho thiết bị đã bẻ khóa!
+Name: BatteryPercent iOS16 (Rootless)
+Author: nqt1195
+Depiction: http://bvnsupport.github.io/infodeb/BatteryPercent/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryPercent.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.bazzi2
 Architecture: iphoneos-arm
 Version: 2.1.1
