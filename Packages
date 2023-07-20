@@ -6397,6 +6397,26 @@ Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
 Sponsor: BVN REPO <Bienvannhat97@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
+Package: com.BIENVANNHAT.iconreporootless
+Architecture: iphoneos-arm64
+Version: 1.1
+Priority: required
+Essential: yes
+Section: System
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Filename: ./debs/com.BIENVANNHAT.iconreporootless_1.1_iphoneos-arm64.deb
+Size: 2260914
+MD5sum: 0a1a9c145797a38d1508b9a3dafb15a8
+SHA1: b20c5dfa3ed7b6fd46141ab447c6d10afd4bc369
+SHA256: 55f9286c36bc3dadb01ad3baa717d07925d941336cc09df47255a35477ff3b88
+SHA512: 2776183237bb60aa4df9dbcddc34b0b7047b3035a0a4cefd1dedd08866e565446030e32ff0a8f84eaf37431b1e1dff5543e8c8c27bde89a4aee80950ff6a253d
+Description: Gói iCon dành cho Repo BVN
+Tag: purpose::extension
+Name: BVN-iCon Repo (Rootless)
+Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Sponsor: BVN REPO <Bienvannhat97@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.BIENVANNHAT.iconstate
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -10332,16 +10352,16 @@ Maintainer: TTJB Team <admin@thuthuatjb.com>
 Installed-Size: 804
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.BIENVANNHAT.tiktokpro_3.2+Rootless_iphoneos-arm64.deb
-Size: 229416
-MD5sum: 5fdb8781de6f8a11b09822349bfce670
-SHA1: 3903812ce367a67f9ce9c1771eee592fe2bd80cb
-SHA256: 6d0e1e48c854674fab96d2d9c8c00b7f68be513b9d4b908200ac295d554f2f38
-SHA512: 3651099adef39fa218b0d63452048b7869647fec4f7700b9331406776e6540999b72b74fe57d30f401a414dcac04589232533e1c51d060ea7e392481646ce18d
+Size: 229418
+MD5sum: 4e5390c11cfee33a9b822ed7379060ea
+SHA1: 7876d0bc808341849184262599bceef769b200d8
+SHA256: 841eb6880231c25f1ebbc05a87c624d0cea10f0c2144ab0f8539e2e21da8c248
+SHA512: b1aa6095c33a524c0f1d50e8b9197a66b0248dd61c2e9538fe0fe2123094ffa50eec6bbfb794ff314120c26d6ea88a24fc2e1d97ddc65822299fca95c68c096f
 Description: Các tùy chọn nâng cao cho ứng dụng TikTok
 Tag: purpose::extension
 Depiction: http://support-jailbreak.github.io/infodeb/TikTokpro/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TikTokpro.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: TikTok Pro
 Author: TTJB Team
 
@@ -14558,6 +14578,25 @@ Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
 Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.3
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.icon_6.3_iphoneos-arm.deb
+Size: 2260896
+MD5sum: acafc4c180936456b624653cfdd31c71
+SHA1: 5b1f811e7dee4ba87fe8e5ee956d4b8bc60b1ce1
+SHA256: 62a2325e38bb485c210c9a74f879b6f12470708bf308c216809389c008c78a47
+SHA512: ae3703d8566b8fb36218409b18f0903dd3e00172d47cfe6de72913fbe4fa40a0378cb56e9871242f6f38f4bc348f2614ec5ba6ce0813cf83fa47e3fefc43d5a3
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: com.bvnsupport.tranzloVH
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -16221,16 +16260,17 @@ Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 992
 Filename: ./debs/com.repobvn.Bauhaus-Rootless_1.0.0_iphoneos-arm64.deb
-Size: 20152712
-MD5sum: bef0402b543c74fe7344de8e3a72672a
-SHA1: 568a701d0a53c1804bd261ca31f3e14b7aad0fed
-SHA256: 8bc5557a201f044f187bcbce79968aabadb93a9981430978448437c5ef8066c7
-SHA512: 5a6f89134ae0423095fc50d4526316e301d2c24a9f27be3837f40d70903268d1d931d9c68b7e0146b53987eb2297399b4ed9d9e7432a63d1bcb801dbed4fc0da
+Size: 20152766
+MD5sum: 080155d57486acb10780496d44091a1b
+SHA1: 1abcfcff2b55708357c9fd51527c30ac40b26a44
+SHA256: 267a988289fee44444f2b131461fb04f6e412ea3262e9119db502122fc8500d3
+SHA512: feeca12e872261b610d3ac3394dd353df7711e2ef86ee8d679812916962d82015b7ac03e5c5d6de2ed97ad8b99d491bdc24fafb0168651c055b71668699e2499
 Description: Phông chữ sử dụng qua tiện ích Snowboard
 Name: Phông chữ Bauhaus(Rootless)
 Author: unknow
-Depiction: http://support-jailbreak.github.io/infodeb/Bauhaus/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Bauhaus.json
+Depiction: http://bvnsupport.github.io/infodeb/Bauhaus/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bauhaus.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.DepthsL-Rootless
 Architecture: iphoneos-arm64
@@ -16513,14 +16553,15 @@ Section: Tweaks
 Maintainer: Repo Bvn
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.repobvn.iapstorefugu-rootless_0.0.1_iphoneos-arm64.deb
-Size: 59566
-MD5sum: 83ae3231a10f5674bdfee5c6cf70dae5
-SHA1: f46f9bce97bfdb0185e06c00de3d2d1d8446b2d4
-SHA256: 7c761019d6c2a7f3a49604ef9b22f86a09d3b2289f9ff848ef5a7a9f9eee83ce
-SHA512: 8f68c39fa8f04b5344a2209c31a57c7939032944d8a96242816ad56107230359d39b7cca9ff15fc1b7d478eca86b625bfbfb2c9132b557e52ae6cb3b32ddffc4
-Description: Fugu15应用内购神器，弹窗付款点击取消即可。
+Size: 59610
+MD5sum: a231bc6da727b09c40044b5cf7be0369
+SHA1: d04bb269fb6c46b4a1e17a5eca33d76e5bedc55e
+SHA256: 844e7e12f532607015c690b9668f1b323b3dca2bc6219d02bdf47c0d0730fbd7
+SHA512: bd1cd3c87cd9004467d56e8faeda0cc59ddef65d83466d093b36ac44852e247bcbb23c5bf36fe5fcc2902cbca0156762be396b0b373214344a85cde9dfddcf83
+Description: Hiện vật mua hàng trong ứng dụng Fugu15, nhấp vào thanh toán bật lên để hủy.
 Name: IAPStore (Rootless)
 Author: lenglengyu
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.instagramnoads-rootless
 Architecture: iphoneos-arm64
@@ -17171,16 +17212,16 @@ Section: System
 Maintainer: Spark
 Installed-Size: 408
 Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
-Size: 44036
-MD5sum: 1df5c18d9d244045219334aa28eaeefe
-SHA1: f45114b241bd26218ce5aab789787f6a51335553
-SHA256: b1f2e6c8062b90e8415c5aca9398a066b82dad9c52d6cb38a4f890c6ff804676
-SHA512: 6baaea697e21a8ee0e9a9f9e065102b24b3b444a87f709cc7806977c56a8f6bdb5baa4de2d91e14ba80f23943108e0c9c8c4397260e614e44cd8fc3af6ca70fa
+Size: 44030
+MD5sum: 5509798b31d99b481207387c0fec4655
+SHA1: ddd7ac5877ec25e846142f3e4456a7f1224194f5
+SHA256: b38d5eae051e1d155bde107da3595805bca6157dcbbf7e833f2808f6681db523
+SHA512: 05ffc6cf3f67503bdd20272eb05b23d06eafb13a927f44057ce043a026393da0ab9ca7df372e2c0391ca056e9c040443b1751dfd6443f0b249dd7c9f1ff2019e
 Description: AppList alternative
 Tag: role::developer
 Name: libSparkAppList
 Author: Spark
-Icon: file:///var/jb/Library/IconRepo/hẹtongg1.png
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64
@@ -20622,15 +20663,15 @@ Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
 Filename: ./debs/me.jjolano.shadow_3.7.4_iphoneos-arm64.deb
 Size: 171622
-MD5sum: f4687b3f90d1d881d282b3242dd9e15b
-SHA1: 7fdfc0e3d112d93561a168ffec3a05cda439cccf
-SHA256: 478512acda6e5d5724919c67837120ebdc270f1e619deeb68e8764d5d74d2d50
-SHA512: fcc1e27c368b5efd61abde1326529bae6e6867863d93797e92c358409ef5bd5e4c9c87fedcc0ae9d1567f00b095fbe4cfd7bd2eed088905927a369b48f4061c2
+MD5sum: 1e0a8cb7d50cd76443dd9f61494066c0
+SHA1: fb06a2c3401d64eee4b54a636f48049f6a7cf212
+SHA256: 4bf64e8ba340619866c7176074fbd7ece07c0d5924582f0cfe557e62dc328297
+SHA512: 04f003bf48a44411ee545926104ad3eb891f80c74d9f26ef58410b5d30afcb0b398669ff8796e57000e5bfdf727eb6bf927cef68187395a5801ee560ac1b790f
 Description: Một tinh chỉnh bỏ qua phát hiện bẻ khóa hiện đại.
 Name: Shadow VH(Rootless)
 Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: jjolano
 
 Package: me.lau.liblauren
@@ -20761,35 +20802,17 @@ Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/net.limneos.simpleactivationactions-rootless_0.1-1_iphoneos-arm.deb
-Size: 7294
-MD5sum: 2c00009f01d2b7262bef2935a58f0d70
-SHA1: 4c23994cf82201d54a79140b3214dd3f56231789
-SHA256: c5f7ff846f8600604bc23f7cf7422db1486e99b4a9b72a74a661e8910a2ceca2
-SHA512: 6d777e0f3c8c681f428cff5a3a41e931a71f30095829db08c42bf78a6670b9a80b7ff264d5cf5b107dea099111a2665d0f24d25024112611798621cf469b5ad9
-Description: Simple Activation Actions
- Handles StatusBar actions for simple activation events
-Name: SimpleActivationActions (rootless)
-Author: Elias Limneos <limneoselias@gmail.com>
-
-Package: net.limneos.simpleactivationactions-rootless
-Architecture: iphoneos-arm64
-Version: 0.1-1
-Section: Tweaks
-Maintainer: Repo BVN <limneoselias@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
 Filename: ./debs/net.limneos.simpleactivationactions-rootless_0.1-1_iphoneos-arm64.deb
-Size: 10644
-MD5sum: 2ab8b61875233183496f0a5d41acd31b
-SHA1: 02933948d802d6c8cbd1e03479042bda35473deb
-SHA256: 80b454d8babaf6d993e13ac7b53ea9e28ad93b026c8bec3e85ba2c7d751852e5
-SHA512: fa27f42a12a407a7140179b00fee3a6b066225338755561791bed022ffab5efb363298f917032cd4850d14b0281071b300afada9be19b0ee6f92f41c9d281092
+Size: 10640
+MD5sum: c37f9a2e3a074a508ac6bbab091c41c8
+SHA1: 71a266e1ad1e6fe9cbb191ea86c393803c6ebc98
+SHA256: 8b3047e77d824af9cf8e573f9e82399a6acf6f2357b09c78e712c7decd81ff16
+SHA512: 97599863ab8430117c5c48e47f0a74a776693935609e1c5ad6439b594498eda54f35277583f7882fd92713887fae71d30e9e2a4fd70667c920397dd414775059
 Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Name: SimpleActivationActions (rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: net.repobvn.bioprotectxs-rootless
 Architecture: iphoneos-arm64
