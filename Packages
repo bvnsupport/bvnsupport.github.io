@@ -20947,6 +20947,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 dev: coolstar
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/org.coolstar.sileo_2.5_iphoneos-arm.deb
+Size: 3544918
+MD5sum: 6bcb23a959b7ec09289aeca7b787b12e
+SHA1: fa5cb69975ed6642b14f82685602fc05b4ccf3b5
+SHA256: 9886491b984baa7b38de49559ce77458126524b0d9bc7aa5edbfcb5c84a84418
+SHA512: 53ae2f8e19390b0bbd853d2b33de3818e2546066c5dfbdc652db8ead13aa2087f78c90748ff96da75b18a337e35a80bcaec49757d479db289dd0e5210911f2f2
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package:  org.hahalosah.nofreeapplimit
 Architecture: iphoneos-arm
 Version: 0.1R
