@@ -2893,6 +2893,26 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/BatteryPercent/?p=inf
 
 Package: com.BIENVANNHAT.batterypercent
 Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.batterypercent_1.1.2_iphoneos-arm64.deb
+Size: 22754
+MD5sum: 50a9bd1a8463c5be45bb95b7a8bd8a16
+SHA1: b65fdbf476c94244227e56d209f0fff7bee94d32
+SHA256: 7e2776b6f95287dafaa5f5c405b4c3a05c0dade5b73286b128eab35ed0fdd60f
+SHA512: 871e054c287f508c67fe2dc5979cefce5fcc4cf9e7cf7859276216e6cee45fb78ae2c227ffc2f33d151a0f90b95adc2f4287490721ff86d9fac3d8c195e05647
+Description: Hiển thị phần trăm pin iOS 16 cho thiết bị đã bẻ khóa!
+Name: BatteryPercent iOS16 (Rootless)
+Author: nqt1195
+Depiction: http://bvnsupport.github.io/infodeb/BatteryPercent/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryPercent.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.batterypercent
+Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Maintainer: Repo Cydia BVN

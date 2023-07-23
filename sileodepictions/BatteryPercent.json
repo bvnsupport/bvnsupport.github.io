@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"BatteryPercent (Rootless)\n\n- Hiển thị phần trăm pin trên các dòng máy có tai thỏ iOS 15 trở xuống giống iOS 16 \n\nㅤ\n\n",
+"markdown":"BatteryPercentiOS16\n\n- Hiển thị phần trăm pin trên các dòng máy có tai thỏ iOS 15 trở xuống giống iOS 16\n\n- Các bạn có thể xem hình ảnh phía dưới \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,7 +21,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/BatteryPercent/Screenshots/1.mp4",
+"url":"https://support-jailbreak.github.io/infodeb/BatteryPercent/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/BatteryPercent/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -52,12 +56,7 @@
 "title":"Nhà phát triển",
 "text":"NQT"
 },
-{
-"class":"DepictionTableTextView",
-"title":"Fix BY",
-"text":"BVN Repo"
-},
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -66,17 +65,22 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"19/7/2023"
+"text":"22/7/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"112 KB"
+"text":"8 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Hỗ trợ cho Rootless",
+"text":"Biện Văn Nhật"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.4.1"
+"text":"iOS 12.0 đến 16.4.1"
 },
 {
 "class":"DepictionLabelView",
@@ -93,7 +97,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 1.1.2\n\n- Hỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
@@ -104,4 +108,7 @@
 }
 ],
 "class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
 }
