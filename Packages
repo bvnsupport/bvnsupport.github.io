@@ -11717,6 +11717,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOBVN.crane-rootless
 Architecture: iphoneos-arm64
+Version: 1.3.11-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 3060
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.11-2_iphoneos-arm64.deb
+Size: 864762
+MD5sum: 3423ac905ac5c24cf890596b9e9e19f5
+SHA1: b8e565b2cf815cf6c679b2c9a3015e6bf2944b5c
+SHA256: 7f7983d3560018f1dd2da9145d8025fda9844322143a0789feef5cc66cd38075
+SHA512: 1f7693265005236026f540600c086a8fb8cb85f565866f08ee209f8f4d7f0033188ad93a3ba69324ed31362601b51e218fc8145a5899d0e2f771d18ba59aebcc
+Description: Crane cho phép bạn tạo nhiều vùng chứa cho mỗi ứng dụng!
+Name: Crane (Rootless)
+Author: opa334
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64
 Version: 1.3.9
 Section: Tweaks
 Maintainer: BVN REPO
