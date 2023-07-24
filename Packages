@@ -12974,6 +12974,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 Author: TIGI Software
 
+Package: com.bienvannhat.filza64bit
+Architecture: iphoneos-arm64
+Version: 4.0.1-5
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.bienvannhat.filza64bit_4.0.1-5_iphoneos-arm64.deb
+Size: 8707334
+MD5sum: 19a9d5aa7472a15e095b399964d40579
+SHA1: 795711f4533f3abac094ebca45c38834875237db
+SHA256: 052cf360b5253861619a244da67d760274d62c47e0090145b95c0847e39ae9c0
+SHA512: c854e680ceef3902b0b37f0f8a017c27b3dd70d2a22383957557eab43f0137a2e55853ac8da64be104045b206c920a790c355efcf732a50aba0f44d267f2bb0d
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 11+. Phiên bản này chỉ hỗ trợ các thiết bị 64-bit
+Name: Filza File Manager (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: TIGI Software
+
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -16676,16 +16697,16 @@ Package: com.repobvn.simplus.rootless
 Architecture: iphoneos-arm64
 Version: 1.15-CRK
 Section: Utilities
-Maintainer: IArrays <support@iarrays.com>
+Maintainer: Biện Văn Nhật
 Installed-Size: 678
 Pre-Depends: firmware (>=12.0)
 Depends: mobilesubstrate, preferenceloader, org.mr.libiarrays-rootless (>= 1.0.16), com.opa334.ccsupport
 Filename: ./debs/com.repobvn.simplus.rootless_1.15-CRK_iphoneos-arm64.deb
-Size: 882624
-MD5sum: 276163df63edf2b072942f0f3abc0315
-SHA1: 734ab1d3508362bf88ed8cf1d0562b8bf0d69493
-SHA256: 0fe23a2d085b1a8c8ca26e077d8c6156141ec48dda8e02fda8cf81bec5dda6f8
-SHA512: 98c174ecf30cba78a78ac18ff267a76f9b619fe2939af0848c5d70785557ccdc600de8e10d5ce4cfe89fce0a9e040ef8a37e826c8378b493e8e8d56318cf3593
+Size: 882650
+MD5sum: 226641375fc5b5443f0278fc6ccdc7c0
+SHA1: 06f466331840a15794feefb3ad13b64cb5f2c186
+SHA256: d9619a1b5f0434ecc874081cdd31bf43cfa025382bed795e1089cd042e8f2741
+SHA512: e877bcb94ed038812e58dea6f5905a0428ab17c75e39348ab3a65dc9a5608f27722d709064a2ac8ff4fb76c6f8332b9ceda30be72f1fd138513d34b67819de87
 Homepage: http://support-jailbreak.github.io/
 Description: Cách mà Apple nên làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
 Name: eSim+ VH(Rootless)
@@ -16693,7 +16714,7 @@ Depiction: http://support-jailbreak.github.io/infodeb/eSim+/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/eSim+.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.repobvn.sixls
 Architecture: iphoneos-arm64
