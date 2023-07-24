@@ -13353,14 +13353,14 @@ Version: 3.0.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
 Installed-Size: 31200
-Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Depends: firmware (>=13.0), mobilesubstrate, com.bienvannhat.uyouimport
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
 Filename: ./debs/com.bienvannhat.uyou_3.0.1_iphoneos-arm.deb
-Size: 14731578
-MD5sum: cf9a47e1c7a0a046c05aef187a31c541
-SHA1: 3e3407ebfb90dab1415d6a4eeeb95e23374839f3
-SHA256: c89140cbb4718d2c24f98978ce5b761b87ccccb2dad9eb2955f14cd87c1555b7
-SHA512: 6d6abdedbd53839d695830bc606a012c11c0bebaaffc49d1bf6d57ecec86328a0c5b33036a74004bb085eb15964e90251fddbb3cb32d5d38babe31de9ab66500
+Size: 14731580
+MD5sum: 79e8e02ac64204446eec799fe21d22d0
+SHA1: 52af577ea226e565c6af20d8efe32784fd25e2a8
+SHA256: 9c0f9ca5a0299d6178d45a8485bb8d9b0aa475dc9cb53576af65ee1d67cf1b25
+SHA512: 7cbdb1619100298a592e845cbf80dd49d4f5b8f7286c388198dca62cb715c1aa2d0900313eebd1959392de8988cbb65950039344d24db5e8b96cfe583536329c
 Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
 Tag: purpose::extension, compatible_min::ios13
 Name: uYou (VH)
