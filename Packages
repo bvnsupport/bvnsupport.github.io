@@ -13307,78 +13307,6 @@ Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
 SileoDepiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bienvannhat.uyou1
-Architecture: iphoneos-arm
-Version: 17.25.1
-Section: Development
-Maintainer: google
-Depends: firmware (>=12.0)
-Filename: ./debs/com.bienvannhat.uyou1_17.25.1_iphoneos-arm.deb
-Size: 50957866
-MD5sum: c9b9518c2ffdb1f0cd01db75163bef3f
-SHA1: d1f8ed31121d57c57480bbd2eb179bd2b90fe29c
-SHA256: feb9c6b5f849c5485684a8072b631755b6229b9740cafdbbd005ad54412ba802
-SHA512: 41452cdfdfcd3d18aed50cdaf73f3d32622e607cfd3084209af4e5dce8c550886e236767441026e54b5ab7149403c142d9cdac5104e842b377512e085189a09a
-Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Name: Uyou (Phụ trợ)
-Author: google
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-Tags: compatible_min::ios12.0
-
-Package: com.bienvannhat.uyou1
-Architecture: iphoneos-arm
-Version: 17.25.2
-Section: Development
-Maintainer: google
-Depends: firmware (>=12.0)
-Filename: ./debs/com.bienvannhat.uyou1_17.25.2_iphoneos-arm.deb
-Size: 50957988
-MD5sum: 92035a00cdb9237271f578129bd029a6
-SHA1: 5ea9d476274ea938432c73813fe5a3006f555b56
-SHA256: 69b53860fbe6b0ed88317a94ccab1ad8baf26e142436872e6331561381621d21
-SHA512: 5749a3dfbeaf402235f7b40d9acc7f282562e8ac8f376c1c0ad7d9a2ebd438461b383c29b61a2b42548a8ee88d6fe0c31bae76618ff26ab205922a369604d9d7
-Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Name: Uyou (Phụ trợ)
-Author: google
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-Tags: compatible_min::ios12.0
-
-Package: com.bienvannhat.uyou2
-Architecture: iphoneos-arm
-Version: 17.25.1
-Section: Development
-Maintainer: google
-Depends: firmware (>=12.0)
-Filename: ./debs/com.bienvannhat.uyou2_17.25.1_iphoneos-arm.deb
-Size: 43177386
-MD5sum: 075cce60f5d8830b38d5a79495e84840
-SHA1: 360c1163cd205bea6d03d818de8baa0082c402db
-SHA256: a86b593c9be746a43ed59989bd105d949f3d37e8ccbf12291ec84acf839025a7
-SHA512: 0e393c97f7c1d8f077b487e3d81bbacf783e9faed3196089e59f779523daa153277758cb78cacc9184f570bb8897cd878d048dcf01a2cea3ebb41ab6cbf51e47
-Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-Name: Uyou (Phụ trợ)
-Author: google
-Tags: compatible_min::ios12.0
-
-Package: com.bienvannhat.uyou2
-Architecture: iphoneos-arm
-Version: 17.25.2
-Section: Development
-Maintainer: google
-Depends: firmware (>=12.0)
-Filename: ./debs/com.bienvannhat.uyou2_17.25.2_iphoneos-arm.deb
-Size: 43177686
-MD5sum: aa68814cd024fad4e172dc0e2fa7c3e5
-SHA1: ee24035914fb1ad59ef7014fe85e1452f45140e8
-SHA256: 9b33ad95a6a3b5df6b65ff551345c87a0782f71c70b636f8d2af32d95c0e62e3
-SHA512: 54c4a45065b90d911bea32139dd5a733f9584dd1c29195df6c14a8452f6decac2462b5272334e4036e85ba1c2eb7a92225ce7febaf6431dd7a5eb3a4c52a6133
-Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-Name: Uyou (Phụ trợ)
-Author: google
-Tags: compatible_min::ios12.0
-
 Package: com.bienvannhat.uyou
 Architecture: iphoneos-arm
 Version: 2.2
@@ -13418,6 +13346,28 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Uyou/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: google
 Tags: compatible_min::ios12.0
+
+Package: com.bienvannhat.uyou
+Architecture: iphoneos-arm
+Version: 3.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/com.bienvannhat.uyou_3.0.1_iphoneos-arm.deb
+Size: 14731578
+MD5sum: cf9a47e1c7a0a046c05aef187a31c541
+SHA1: 3e3407ebfb90dab1415d6a4eeeb95e23374839f3
+SHA256: c89140cbb4718d2c24f98978ce5b761b87ccccb2dad9eb2955f14cd87c1555b7
+SHA512: 6d6abdedbd53839d695830bc606a012c11c0bebaaffc49d1bf6d57ecec86328a0c5b33036a74004bb085eb15964e90251fddbb3cb32d5d38babe31de9ab66500
+Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou (VH)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uyou.json
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.uyou
 Architecture: iphoneos-arm
@@ -16912,6 +16862,28 @@ Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.uyou
+Architecture: iphoneos-arm64
+Version: 3.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate, com.bvnrepo.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/com.repobvn.uyou_3.0.1_iphoneos-arm64.deb
+Size: 14731590
+MD5sum: 3bbb12edcaec7a5d1369f1f69e215dbe
+SHA1: 5366e0911ef5c9709f1917ae08f1f0f52c44e3e6
+SHA256: 50eb7fc68e8882e1e55919cd1005fd41bce9ca60d0dc7fc21c86b42851073669
+SHA512: 93539b203af2bf12d726d54d45684d52b65198b4fc88ba9da84217813c81fabdb690d8835d54e34f8e9d2295bc8bdad33aeab750f8b073b3287d8f3f697a4f4a
+Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Uyou/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uyou.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.repobvn.uyou
 Architecture: iphoneos-arm64

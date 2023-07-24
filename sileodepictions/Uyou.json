@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"TikTok Pro\n\n- TikTok Pro giúp thêm một số tính năng cho ứng dụng TikTok như:\n\n- Tải xuống Video, Hình ảnh không có Logo, tải Âm thanh\n\n- Chặn quảng cáo trong Tiktok\n\n- Xoá bỏ các nút chức năng khi xem\n\n- Tự động phát video tiếp sau khi xem\n\n- Giả mạo Tích xanh, số lượt Follow\n\n- Khoá Ứng dụng\n\n- Yêu cầu xác nhận khi thả Tim\n\n- Yêu cầu xác nhận khi Bình luận v.v\n\n- Cấu hình các tùy chọn bên trong ứng dụng TikTok vào phần Cài đặt và quyền riêng tư. \n\nㅤ\n\n",
+"markdown":"Tinh chỉnh uYou\n\n- Bổ sung các tính năng hữu ích cho YouTube\n\n- Các tính năng như sau\n\n- Chặn quảng cáo.\n\n- Phát nhạc trên nền cho video.\n\n- Tài về Video/Âm thanh/Clip ngắn để xem lại ngoại tuyến (hỗ trợ > 4K)\n\n- Phát video đã lưu trong một trình phát có hỗ trợ phát lại nền.\n\n- Hỗ trợ trình phát thu nhỏ để điều khiển dễ dàng hơn\n\n- Hỗ trợ điều khiển từ Trung tâm điều khiển\n\n- Chia sẻ/Xuất video đã lưu vào Thư viện ảnh hoặc bất kỳ ứng dụng nào khác.\n\n- Điều khiển tốc độ phát lại.\n\n- Điều khiển bằng cử chỉ trên video (vuốt sang trái,phải để tăng,giảm âm lượng,độ sáng,tìm kiếm)\n\n- Xem video Ở chế độ PiP\n\n- Kiểu hiển thị như iPad\n\n- Còn nhiều hơn nữa..\n\n- LƯU Ý: MIỄN PHÍ KHÔNG CÓ QUẢNG CÁO \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,19 +21,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/TikTokpro/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/Uyou/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/TikTokpro/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/Uyou/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/TikTokpro/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/TikTokpro/Screenshots/4.png",
+"url":"https://bvnsupport.github.io/infodeb/Uyou/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -62,9 +58,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"TTJB TEAM"
+"text":"Miro92"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,12 +69,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"14/7/2023"
+"text":"24/7/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"212 KB"
+"text":"11 MB"
 },
 {
 "class":"DepictionTableTextView",
@@ -100,7 +96,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 3.2\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 3.0.1\n\n- Hỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
