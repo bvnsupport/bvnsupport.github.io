@@ -11887,6 +11887,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.PullOverPro15
 Architecture: iphoneos-arm
+Version: 15.17-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1488
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.REPOCYDIABVN.PullOverPro15_15.17-2_iphoneos-arm.deb
+Size: 495518
+MD5sum: c334a0394b8e15422ab8971a122ff6c8
+SHA1: a6f3934c242bc792443592beebf23b002a4363a9
+SHA256: 0304396b11a905f93f1bfc54a3a56fe679c9c8dbdd85ffe6b196ac3a4bf82d60
+SHA512: 56d0a55bca535dacd95ce0b60e8b9a36ce278f6d8f0f7baf94fa3dc6bf3ac59bcf700676f479545a5350a15f83658dd7cb5b1d000dba759920e714cfda0f7469
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS16
+Name: PullOver Pro VH(iOS11/15)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.REPOCYDIABVN.PullOverPro15
+Architecture: iphoneos-arm
 Version: 15.17
 Section: Tweaks
 Maintainer: Bvn Repo
