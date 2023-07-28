@@ -12919,6 +12919,26 @@ Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bienvannhat.appdatamanager
+Architecture: iphoneos-arm64
+Version: 1.8.2-4
+Section: Utilities
+Maintainer: Bien Van Nhat
+Installed-Size: 5236
+Recommends: ldid
+Filename: ./debs/com.bienvannhat.appdatamanager_1.8.2-4_iphoneos-arm64.deb
+Size: 1910182
+MD5sum: b0fe9d61f3a61ddb63526842a41b06db
+SHA1: f74376b8688c5d59c5fb6db584eaf6425d64fbd3
+SHA256: b55637721c728bda4380f0619b08c8afd75e738805e23c64ca0b743d0c1cb6c1
+SHA512: cd531a85e1516ae1f736141644c9a62846474bf13023f43f0e762add7fb5bfb26fae14aa85ed6053642d89e6378389306506d95adec02542387335423c3ff6e4
+Description: Công cụ này cung cấp cách XÓA, SAO LƯU, KHÔI PHỤC AppData cho các Ứng dụng đã cài đặt
+Name: Apps Manager VH
+Depiction: http://bvnsupport.github.io/infodeb/AppsManager/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppsManager.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: TIGI Software
+
+Package: com.bienvannhat.appdatamanager
 Architecture: iphoneos-arm
 Version: 1.8.2-5
 Priority: optional
