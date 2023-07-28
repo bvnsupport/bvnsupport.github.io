@@ -12918,6 +12918,29 @@ Name: AppColorClose (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.appdatamanager
+Architecture: iphoneos-arm
+Version: 1.8.2-5
+Priority: optional
+Section: Utilities
+Maintainer: Bien Van Nhat
+Installed-Size: 9121
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.bienvannhat.appdatamanager_1.8.2-5_iphoneos-arm.deb
+Size: 3732798
+MD5sum: 6fe624f7d50f725b5f1812c9e7773cc6
+SHA1: 73c467ceeb9c26a86ac900c16cc9208d5462b558
+SHA256: 3052c090809a7c0a5842fc05d57f4af7f0f08ce830ceb6141eded866761c2716
+SHA512: d2ae14b5c3d01719c52fa354214e18afa17ce8fb51ad2aef0724917a1597b2e2367e1643d20d2f8349876248ef51159c30d14a35b01b49aa33aef5122b4ba372
+Description: Công cụ XÓA, SAO LƯU, KHÔI PHỤC AppData cho các Ứng dụng đã cài đặt
+Tag: purpose::uikit
+Name: Apps Manager VH
+Depiction: http://bvnsupport.github.io/infodeb/AppsManager/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppsManager.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+
 Package: com.bienvannhat.april
 Architecture: iphoneos-arm
 Version: 2.0.1
