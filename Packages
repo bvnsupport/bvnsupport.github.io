@@ -6419,6 +6419,26 @@ Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: com.BIENVANNHAT.iconreporootless
 Architecture: iphoneos-arm64
+Version: 1.1-2
+Priority: required
+Essential: yes
+Section: System
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Filename: ./debs/com.BIENVANNHAT.iconreporootless_1.1-2_iphoneos-arm64.deb
+Size: 332698
+MD5sum: a6b52aaa2f0420f5b8478f7ac00ec040
+SHA1: 4ccff589c05e78f8dd0c93dcd13548aae07a9ecf
+SHA256: 78bf4597aaea3cb7b2f34b8cd1e521f4ee363cf1e59e805fff3c3c7e9bcdabf2
+SHA512: d41c5ff29ce067551cbe8e2612265340dec0d0f34faa3c30fd5ef6f0f9453bf5d17401b57f9240ec5f0aa3325d2ec698d5933fb6cb592dfd82af454e9ec1fb88
+Description: Gói iCon dành cho Repo BVN
+Tag: purpose::extension
+Name: BVN-iCon Repo (Rootless)
+Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Sponsor: BVN REPO <Bienvannhat97@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.BIENVANNHAT.iconreporootless
+Architecture: iphoneos-arm64
 Version: 1.1
 Priority: required
 Essential: yes
@@ -14628,6 +14648,25 @@ MD5sum: 11dd68827045b3bc66f5a0a498a1db3c
 SHA1: e1baa02505af6d864869810ecc20615ae33ded89
 SHA256: a59a02bbc3429c51517730591b75dc926b27efe93a408bee575a245d0989fd2f
 SHA512: 99d6cc49c597727784137b3f30e7db125d4aadaef81456ab018a03d280011eece3e38acc2602f74f8973c05cc728b5b74b756ad45c9469cce4b0e0fb27837fba
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.3-2
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.icon_6.3-2_iphoneos-arm.deb
+Size: 332614
+MD5sum: 619ba764ca732cee579f3639502b47a4
+SHA1: 25e0a6085522f96ccd5053477160892e2695f2cc
+SHA256: 548eb15dba03b89c0a6ae7cf7c21a1a7e04792c391d81c3e0810845161891e68
+SHA512: 88599dbe7a2c9883ea54aeb244ab6d3cf648ca825b048455b389d1982ec463f63a785e06a79037a194e75627d03db1dfe3c45a698392fb5ff570c14246868ffe
 Description: Biểu tượng Cydia cho kho lưu trữ BVN
 Name: BVN-Icon Repo
 Author: Biện Văn Nhật
