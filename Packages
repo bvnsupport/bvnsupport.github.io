@@ -12878,6 +12878,29 @@ Name: AccDemo VH(Rootless)
 Author: Brend0n
 Sponsor: 搬运工
 
+Package: com.bienvannhat.adsspee
+Architecture: iphoneos-arm64
+Version: 1.1.1k
+Section: Tweaks
+Maintainer: Bien Van Nhat
+Installed-Size: 893
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.bienvannhat.adsspee_1.1.1k_iphoneos-arm64.deb
+Size: 161466
+MD5sum: 72b25ae5e4b65a63a9eddfd9ba5ba146
+SHA1: 8dcfcd6a7d69edbce26fa3b59251526f0b39a235
+SHA256: 6485a0f79714c7b234d81ce6018ad8829d9ac3ef26b3ecb8d7df02e3ddee9056
+SHA512: 0bcb6023c3ad8cd08c73da86c46043019e9e221df9c930a6f5978b0fde2af5d1a5487642fb1f423caab2c941031f0d11ad015b21549116451784b7e1466710c2
+Description: Nhanh tay bỏ qua video quảng cáo và nhận thưởng bình thường.
+Tag: purpose::extension, compatible::ios15, compatible::ios15.4.1
+Author: lenglengyu <lenglengyu@126.com>
+Name: VideoAdsSpeed VH(Rootless)
+dev: lenglengyu
+Depiction: http://bvnsupport.github.io/infodeb/VideoAdsSpeed/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideoAdsSpeed.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bienvannhat.aim
 Architecture: iphoneos-arm64
 Version: 1.3
