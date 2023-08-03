@@ -16243,6 +16243,46 @@ Author: Fouad Raheb
 
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm64
+Version: 1.4.1-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.1-1_iphoneos-arm64.deb
+Size: 7401276
+MD5sum: 57c267ae12437b5eaa91a4603b34b8df
+SHA1: 32c6521e0e1aa055d7399c759a579a5e37fe8a73
+SHA256: d4af013fa1de4f2db187ecfcb1effec125392f0f69f09646ffc1b5b2b398349c
+SHA512: bc0422b8e8be42739873412a24548e17a398e531149be3c7a8297b105a0fd47a22f839d67f1855175f1b22191694b6fab9140737b8eb551dd6cf8c9d10869051
+Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
+Name: AppData (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Fouad Raheb
+
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2456
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.1_iphoneos-arm.deb
+Size: 926092
+MD5sum: e85bfc4d612440c6f46af27043f5f060
+SHA1: f6e7865457a4d2a8463374d54e867476c3c3a02b
+SHA256: a3e60ba4f178d6c3683fe6fdfb2d1c140fb3897f8623b32dd0eca8152778be35
+SHA512: 06e44dd381fcba87ca8f57baefadef506c92b64fa2db79de90fa116cb9921c4abedf8bd72fe400dacae8041d79937027e5468553d05225e454b9180604ffc621
+Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
+Name: AppData VH
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Fouad Raheb
+
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm64
 Version: 1.4.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
