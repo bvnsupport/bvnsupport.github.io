@@ -15532,6 +15532,26 @@ Name: LibGcUniversal
 Author: MrGcGamer
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.6.4
+Section: Development
+Maintainer: MrGcGamer
+Installed-Size: 380
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm.deb
+Size: 105626
+MD5sum: 86eb5c834516ce63dece049cbd85d924
+SHA1: 983140709b09d8f7086e86cc0425b04ead2cafbf
+SHA256: 550b5b453b4802530f2c82c3818a810801fbed1036cb176f18cf21801d10799f
+SHA512: aaa616e2e999abb5fbae9a3f2444f108ac95be69035931fb76a65ba08ff647cbc2c3f1bbe502984305843e9bdfacbd6a05cba7119a7fde36362c075fb64d9b66
+Description: An awesome library of some sort!!
+Tag: role::developer
+Name: LibGcUniversal
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: MrGcGamer
+
 Package: com.muirey03.libimagepicker
 Architecture: iphoneos-arm
 Version: 1.0.4R
@@ -19349,13 +19369,13 @@ Version: 1.4
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 612
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.BIENVANNHAT.libgcuniversal, com.BIENVANNHAT.libkitten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
 Filename: ./debs/com.supportjailbreak.safariwallpapervitho_1.4_iphoneos-arm.deb
-Size: 253294
-MD5sum: d893dd979d8a3b3c474f0ea0ffb36381
-SHA1: 0c7f0dbb27912391666071607cadde9949e55382
-SHA256: cf3bae65699ce28d46efb2ae25a4d230b308cf386ac32888e2238494a3cbf492
-SHA512: 14816032c3c05d05e3b12718df1c51c6925de9ee7df6d68098c494d04153143271367435d659e0c736ecc3b8aec58515cdc5e83683f87ca83f32446aacb6e70b
+Size: 253296
+MD5sum: 3f96eadff5feadf267764d8876fca336
+SHA1: 8ceac5accb71ff751bdf97f3f7c3c5b84b0a0620
+SHA256: 17b07e90ae5fe721e0ba56bfed4b070137d4f19bec8599d3cd3b613d29baa2d3
+SHA512: 824e19bb825344e2c2701b1f2d4e2610a70f58fc0c5f99573171139362f2623b9a3a43669dc15b64acdd79721944109b83853ff7669948e123752cd4029ced08
 Description: Thêm hình nền vào Safari
 Name: SafariWallpaper Việt Hoá
 Author: Litten
@@ -20318,6 +20338,25 @@ MD5sum: c9290caf58219c0a228cb3aef5261f0f
 SHA1: 1d1d88fd0050c8007f385d1299fd4eed53b9cc86
 SHA256: f49ae9db1f8e06ff4c0be938b3364ade4e034f7a89b6e75b646259939c9884df
 SHA512: a2b0d9de3db8d5591ba543a7478e4731c761ef0d4153b696fa6893b322f54dcd1fe7866bbb0334ec6eda6584601f096b91d6d9a448c559b9cd373633ab92e597
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Name: libKitten
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: love.litten.libkitten
+Architecture: iphoneos-arm
+Version: 1.3.2-1
+Section: System
+Maintainer: Bien Van Nhat
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.3.deb
+Size: 15504
+MD5sum: 71ff455dfb359fea5ac70e5edfa4d02f
+SHA1: 2d86d8f294ffe56f073a0af3fef25176f9906229
+SHA256: 01542c345c449ce1d88d87e29a1550c1a6940bd32239e1a6c91bb4a66c649cd6
+SHA512: 79815f2f9416bec051bdd2f9d1bbf4e9ebb75da6ddba2be23cb92bc310de93eb89beaf2259b181825b5510a7d963db7ca0cbc16be6791062ac7964dc73e2e0a6
 Description: Library to get three different colors from an image and detect if one is light or dark
 Tag: role::developer
 Name: libKitten
