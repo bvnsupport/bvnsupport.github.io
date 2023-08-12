@@ -13167,6 +13167,49 @@ Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bienvannhat.iamlazy
+Architecture: iphoneos-arm
+Version: 2.5.0
+Section: Utilities
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 509
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/com.bienvannhat.iamlazy_2.5.0_iphoneos-arm.deb
+Size: 201524
+MD5sum: bd1357c4abe09c5e12a170e963bb043a
+SHA1: a4349eed0d8d741096ca4b9ea766da4241addc0c
+SHA256: 626f8489181bd0f98f86dca452459eecd104b7b26137221d221b5e23debded23
+SHA512: 3d78fc8441f2053cba23c5b7a69090e60d8c3094f70fd7b53012a269c02de06165ed8227bc649583a7c3f7a41f2f6823947996e2aabed799379043821bd33009
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Name: IAmLazy VH
+Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bienvannhat.iamlazy
+Architecture: iphoneos-arm64
+Version: 2.5.0
+Section: Utilities
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 533
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/com.bienvannhat.iamlazy_2.5.0_iphoneos-arm64.deb
+Size: 201194
+MD5sum: 1d52174a4251316b0868c5265c7b7004
+SHA1: 0008bcccc7fce1f1b6251dc120cb1858fa2e8e7e
+SHA256: 51e0f63fcefc978335c2455821093ec100688aceac14c6bda63687a401d1c622
+SHA512: 6318d799c12dd35be89c0113c6911eee0a2d26143b6ef324f6da569f93487c5e0744dbc7ef2f4a1529a79001f61fd136da83a04d61397d8a4ee779339944d9ad
+Description: Dễ dàng sao lưu và khôi phục các Tweaks của bạn
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Name: IAmLazy VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bienvannhat.kinehack
 Architecture: iphoneos-arm
 Version: 5.0.8
