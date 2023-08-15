@@ -13133,13 +13133,13 @@ Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./debs/com.bienvannhat.filza64bit_4.0.1-5_iphoneos-arm64.deb
-Size: 8707334
-MD5sum: 19a9d5aa7472a15e095b399964d40579
-SHA1: 795711f4533f3abac094ebca45c38834875237db
-SHA256: 052cf360b5253861619a244da67d760274d62c47e0090145b95c0847e39ae9c0
-SHA512: c854e680ceef3902b0b37f0f8a017c27b3dd70d2a22383957557eab43f0137a2e55853ac8da64be104045b206c920a790c355efcf732a50aba0f44d267f2bb0d
+Size: 8707346
+MD5sum: dd5eab225d7ca544b7b0c95d8fe4252f
+SHA1: 3adf646b9b9e5cb7fc52685625941975e35864e9
+SHA256: a00a9fb2d68c7c18bf4378e0342c47773940e14048aa5f0343a94d30bc42dda2
+SHA512: f5621db57b4989e0d0445a25e8fdfdd9598b6ad0b179e9a7d621d9e8079df72f57fbc485ebc0744f61a79102eab13c7cf4d96435eddce3e4cdaf06401214491c
 Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 11+. Phiên bản này chỉ hỗ trợ các thiết bị 64-bit
-Name: Filza File Manager (Rootless)
+Name: Filza File Manager 64-bit (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
@@ -14706,6 +14706,48 @@ Author: Khoảng Lặng
 Depiction: http://support-jailbreak.github.io/infodeb/RedWhite/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/RedWhite.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvnsupport.filza
+Architecture: iphoneos-arm
+Version: 4.0.1-2
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bvnsupport.filza_4.0.1-2_iphoneos-arm.deb
+Size: 13940132
+MD5sum: e92fb1970fcc2efab2703e0195823ba1
+SHA1: b56eba7d10b5cfcacf7aeb9b6f1bb2c7c0f24bec
+SHA256: 56af6583e2679cbe2b84be62b86cd6d228b09d79f272ea9dcd45d2126b75b53f
+SHA512: 94f9970723299403d2890aefefadf4c4fbb77c88d9ca9e5c88c398309187e8876babb9b4908c7b0b3218d91832334e393fd0eb2f09d91b1ab171a990b31f70f4
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
+Name: Filza File Manager VH
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+Author: TIGI Software
+
+Package: com.bvnsupport.filza
+Architecture: iphoneos-arm64
+Version: 4.0.1-2
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bvnsupport.filza_4.0.1-2_iphoneos-arm64.deb
+Size: 13936026
+MD5sum: b343eb95c91925b897791796879b53b7
+SHA1: 7e1c2a4ec79bf526ec690b96cdeeae4c31dfd3f4
+SHA256: bbfdd4800b455a42914bae07f9e5bc040ae847e58bfd78932dec406f178ae6f0
+SHA512: 258faa6b6797170adc396659595b11d8485a150d56f3abef0d636fffc9344a4cd5064278c7f39aa2bd2ef55a3659c2e0c4c8c0eb0157783ee65b6a3cd2c788bd
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
+Name: Filza File Manager (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: TIGI Software
 
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
@@ -18885,14 +18927,14 @@ Installed-Size: 31815
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
 Filename: ./debs/com.supportjailbreak.filza64bit_4.0.1-3_iphoneos-arm.deb
-Size: 13919500
-MD5sum: da4111f26c354b05212e2560dfeacddb
-SHA1: 5df20378dca41af66ba7348b622617f91a24c6a0
-SHA256: 41df8030853edd6aa07664096755d0360e0b6ac12dd051166c62503e851dc065
-SHA512: 8f320f15cc573013a71bb9e05cc10581ab295253dbf4226c157e5c7b9a1380f07cd65562870e1a0d6acfef7cb61df4dacfe4ef7821e0858f4828a0fbf5762977
+Size: 13919496
+MD5sum: 717f798418eb543d471db0ca8d922439
+SHA1: 5a4cb50931152aec87eb6b6d86255aa3578418d9
+SHA256: 67ce14b58a3b2a82cee9588a257f12ed0460c738ebcb65085b3e3db77b3a59b2
+SHA512: fb82c023fdb6d0c60afa86b97f6617e5374c1d975d4dbac8cdea531373bebfd75d3f074add52decacbaa4e77da52dde8f409330cfffd6ceeedbd16bf96dcb243
 Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
 Tag: purpose::uikit
-Name: Filza File Manager VH
+Name: Filza File Manager 64-bit
 Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
 Author: TIGI Software <satashi2009@gmail.com>
