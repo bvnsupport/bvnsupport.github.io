@@ -19966,6 +19966,29 @@ Depiction: https://repo.xyaman.xyz/depictions/index.html?p=libsona
 SileoDepiction: https://repo.xyaman.xyz/depictions/libsona/depiction.json
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: combvnrepo.autotouch.ios8
+Architecture: iphoneos-arm64
+Version: 8.0.11
+Priority: optional
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 74872
+Depends: firmware (>= 11.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/combvnrepo.autotouch.ios8_8.0.11_iphoneos-arm64.deb
+Size: 33416536
+MD5sum: 01773bafb7b066c9f5f81b5023d13086
+SHA1: 168008a852592f5c14fd2acf4203a878810ab97c
+SHA256: 4e213d28175e8e163b77a110379155c0329f4036d2b5850d851483d17b4c239d
+SHA512: 6253bd636dbd3b8cd07f5457bccf4a4d48085fac5dfc0e27e51c630d3e7c69b8c1512db15a87a5f6de721c481ae5579945d1dffc571c4d9ea37e98e397209d25
+Homepage: https://autotouch.net
+Description: Ghi và phát lại các thao tác chạm, phát các tập lệnh macro tự động.
+Name: AutoTouch VH(Rootless)
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: curl
 Architecture: iphoneos-arm
 Version: 7.65.0-1
