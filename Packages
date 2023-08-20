@@ -19,6 +19,30 @@ Author: Erast
 Sponsor: 搬运工
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64
+Version: 112.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 676
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64.deb
+Size: 77434
+MD5sum: b425c5d02457ebba374dc7e660b69b04
+SHA1: f198ef31846ed471450852cda138ac3e640844b8
+SHA256: c49fba63f994c5da1ccb3cd59049bd247ac96bfab8fc86baead39d1a80ee098c
+SHA512: b47ed8818bc2f0e75130b47f3acb479528b6bc0c59e8b1d1244219507a07120386020261449b7380ed8e5683f00c018d4ce28147fc5ba108db7e669326350d25
+Homepage: https://cydia.akemi.ai/
+Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
+Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AppSync Unified (iOS 5-16)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
