@@ -18213,54 +18213,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
-Version: 112.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Installed-Size: 636
-Provides: appsync, net.angelxwind.appsyncunified
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
-Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
-Filename: ./debs/com.supportjailbreak.appsyncunified_112.0_iphoneos-arm.deb
-Size: 78222
-MD5sum: f2ec0816f8d1d197be21af45783a4c1a
-SHA1: 867d5782e032b63c3b902ee620358688a14750e5
-SHA256: fb94a810c2fda9ba8636cdf58c065ced71f7eae186c8aa41646d9aff3a1ab6a6
-SHA512: 3eb6304c524fa4a00ca62f82773868f3f635c5171d82f6af351093559625ce5279bbb9a2a1a63243ac2a964de3881e821ee23b93c9dc19db2024d9db7bce2fa7
-Homepage: https://cydia.akemi.ai/
-Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
-Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: AppSync Unified (iOS 5-16)
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-
-Package: com.supportjailbreak.appsyncunified
-Architecture: iphoneos-arm64
-Version: 112.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 676
-Provides: appsync, net.angelxwind.appsyncunified
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
-Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
-Filename: ./debs/com.supportjailbreak.appsyncunified_112.0_iphoneos-arm64.deb
-Size: 77442
-MD5sum: de712729bcc93bb73b115a2c32c3e7f0
-SHA1: e2e6e79f247eb737623e5415fb95e35efc352586
-SHA256: 4430cfc0f9c3f3576096579e4dbe8c4423ce0d0f4203473a24d6031e19c2fb39
-SHA512: 9b5a51c12645775e1526d6c3cda5f3058ec14ffeb1b81993dd064dbf1baaa20118e2bc37fe44d27fbfc54b9203d3b28b2346757036ee7e278dbb9aeaa27b0633
-Homepage: https://cydia.akemi.ai/
-Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
-Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: AppSync Unified (iOS 5-16)
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-
-Package: com.supportjailbreak.appsyncunified
-Architecture: iphoneos-arm
 Version: 84.1
 Section: Plugin ứng dụng
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
