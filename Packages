@@ -11849,6 +11849,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.REPOBVN.crane-rootless
 Architecture: iphoneos-arm64
+Version: 1.3.11-5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.11-5_iphoneos-arm64.deb
+Size: 864744
+MD5sum: 0a061c22d923b311d3fadf88ffca82c3
+SHA1: 853fc80b8c85d1ec87308e046a6a2fb3decab4e4
+SHA256: 92391744e2c0d14599c388c5eb356f5e0faf3afe87618c6c3ae334e492e4d737
+SHA512: 0db19ea9172b9f3a857bcffd1533388e008d70baa30dcab2348ca781027290fb544898673594d9a67376de7faa2789e35db9d6dd930fe0f629f87c1f1b18c12e
+Description: Crane cho phép bạn tạo nhiều vùng cho mỗi ứng dụng!
+Name: Crane (Rootless)
+Author: opa334
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64
 Version: 1.3.9
 Section: Tweaks
 Maintainer: BVN REPO
@@ -13994,6 +14014,26 @@ Name: Copylog Gói TV (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Biện Văn Nhật
 
+Package: com.bvnrepo.crane
+Architecture: iphoneos-arm
+Version: 1.3.11-5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.bvnrepo.crane_1.3.11-5_iphoneos-arm.deb
+Size: 1106178
+MD5sum: 35d3a93639b86f34b6eac348fe8bd3c9
+SHA1: 7027121a1ac9125dba9d65621f48d922e5b4b2bf
+SHA256: 28eb7b55ecf16a8a88c996f02a1bba57d26aa5e14f926342d66efa64fa4a3d90
+SHA512: b5ebd4abb20213ca749ce52ed79fe9377ac7cbd0312ea0359532928a4d218b8a2f418c60307fb534ce93ff5f34c8c6920d01ec41af9b870bfe6656a40c7a556d
+Description: Nhiều vùng chứa cho ứng dụng của bạn!
+Name: Crane VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+
 Package: com.bvnrepo.uyouimport
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -15367,15 +15407,15 @@ Installed-Size: 4168
 Depends: mobilesubstrate, com.spark.libsparkapplist
 Filename: ./debs/com.hmodei.arico_3 (1).deb
 Size: 2022514
-MD5sum: dc4415fd82c4b7651e3d82ce624771b7
-SHA1: 273a59aa7e4eea46df1b96c081c6877f434f98de
-SHA256: 6dbbd706b24729b8182c2f3695ce862c2f22c7fe7007a801cc7b098de526da09
-SHA512: 910c4ea07b98aef8dfad8f9d30958c18c57a0790bfdd536ba632f2f7a6b2af75d587a08f8d62f2b6f0463b38822596c0dda15257f663abcf584c35319abe701e
+MD5sum: 77df0f3aa5f963b9ef2c56c6431fb487
+SHA1: b22beba11fc142bbd5e3a6b8a5fc301168e7fae5
+SHA256: d0aca383117575126131e42117ee0ac99ca6ef5bf23966ed589088dc779fe8ae
+SHA512: 2c29f79efb49d9fe10b259e323e6e35ea70dddf4ff0a24afd77a6c924819f13c553829937a74a30ed1f386a5e2dc4002089c5499365404f8955fb06d2db25e02
 Depiction: http://bvnsupport.github.io/infodeb/Arico/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Arico.json
 Name: Arico
 Author: hmodei96
- Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.hmodei.arico
 Architecture: iphoneos-arm
