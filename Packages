@@ -1418,6 +1418,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.a-font
 Architecture: iphoneos-arm
+Version: 1.10
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.a-font_1.10_iphoneos-arm.deb
+Size: 839784
+MD5sum: 61811d1db37dc8a86f6e6d338cbd9193
+SHA1: 95e3e28fa3a17835844a78ecdef49f58bfd709f6
+SHA256: 99608cd53c512faa61f531d915082140f8debdf9434f3e590e006b6e22d7f003
+SHA512: b687c832ed36648671b1a935903b6263f96e8b88d447685278dcc4e38acbe819a317d48c451983b8ff7402688e64f9d8c1cd17616327ab037f8b076f2a55656f
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.BIENVANNHAT.a-font
+Architecture: iphoneos-arm
 Version: 1.9.4
 Section: Tweaks
 Maintainer: Biện Văn Nhật
@@ -16733,6 +16753,26 @@ Name: LetMeKnow VH (Rootless)
 Author: P2KDev
 Depiction: https://support-jailbreak.github.io/depictions/LetMeKnow.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/LetMeKnow.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.a-font-rootless
+Architecture: iphoneos-arm64
+Version: 1.10
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.a-font-rootless_1.10_iphoneos-arm64.deb
+Size: 838860
+MD5sum: aa20d430f3a91ed25d7bf5a87d74e53b
+SHA1: 9cbd3a82ce7f83578d1b448209e678bd537445c9
+SHA256: f1578f08c0659e743de1e104447060ceefc43b52478a9193b1796c8c7a2747db
+SHA512: 963acf487bd3c90a03c1fb0b4e85c1b45f4745ae58d211477952692868823601460fcc4f00d9d5aaf43b7f18d45083fc70908def057b259fbef84cb34eac8909
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH(Rootless)
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.a-font-rootless
