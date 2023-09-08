@@ -14020,6 +14020,24 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.coolcc
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.bvn.coolcc_2.0_iphoneos-arm64.deb
+Size: 37638
+MD5sum: f5f0016ee8f5cf8603ff3142b667a65f
+SHA1: 0c6de292a5e2cdcf9167a5732be45ef087119dd6
+SHA256: 36f3300ddb5aa7864ec11cbb274d2c8149d36936ec94cf64a3852f976c1a6f06
+SHA512: b53e0d639249cdf88818199642c52fd636d7ab48eec7178f5430ef98d2b3c867c73d1b6417ee0085d5f284858694fffd819777de01edb34ebed61a13ad2b8a34
+Description: Tinh chỉnh này làm cho ControlCenter trở nên thú vị! Tương thích với iOS 15/không cần root.
+Name: CoolCC Reborn
+Author: alias20
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.strangerwp
 Architecture: iphoneos-arm64
 Version: 1.0
