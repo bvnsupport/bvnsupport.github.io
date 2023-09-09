@@ -1,0 +1,77 @@
+Package: com.BIENVANNHAT.a-font
+Architecture: iphoneos-arm
+Version: 1.10
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.a-font_1.10_iphoneos-arm.deb
+Size: 839784
+MD5sum: 61811d1db37dc8a86f6e6d338cbd9193
+SHA1: 95e3e28fa3a17835844a78ecdef49f58bfd709f6
+SHA256: 99608cd53c512faa61f531d915082140f8debdf9434f3e590e006b6e22d7f003
+SHA512: b687c832ed36648671b1a935903b6263f96e8b88d447685278dcc4e38acbe819a317d48c451983b8ff7402688e64f9d8c1cd17616327ab037f8b076f2a55656f
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.bvn.coolcc
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.bvn.coolcc_2.0_iphoneos-arm64.deb
+Size: 37638
+MD5sum: f5f0016ee8f5cf8603ff3142b667a65f
+SHA1: 0c6de292a5e2cdcf9167a5732be45ef087119dd6
+SHA256: 36f3300ddb5aa7864ec11cbb274d2c8149d36936ec94cf64a3852f976c1a6f06
+SHA512: b53e0d639249cdf88818199642c52fd636d7ab48eec7178f5430ef98d2b3c867c73d1b6417ee0085d5f284858694fffd819777de01edb34ebed61a13ad2b8a34
+Description: Tinh chỉnh này làm cho ControlCenter trở nên thú vị! Tương thích với iOS 15/không cần root.
+Name: CoolCC Reborn
+Author: alias20
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.strangerwp
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Wallpaper
+Maintainer: BVN
+Depends: mobilesubstrate, wallpaperloader
+Filename: ./debs/com.bvn.strangerwp_1.0_iphoneos-arm64.deb
+Size: 12331192
+MD5sum: cab210000e6d4d379774d8f37492213b
+SHA1: ec0af26541daa316d0efdeb40fab3a448c5c5e34
+SHA256: e06fc0bb4b9f715a3671c5815ee93357da9b241cdcfca3cc5cec88b668cf243e
+SHA512: 26fab7bef8782d9022f24700dd5928fd996fd441535d03c273f5da64e90c3931be661219d41f0f762c6d63da5684037376f9aee91319b488814dbdb9284a645e
+Description: Một hình nền Tối / sáng Stranger.
+Name: Stranger Things Wallpaper
+Depiction: http://bvnsupport.github.io/infodeb/Stranger/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stranger.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Author: Skitty
+
+Package: wallpaperloader
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/wallpaperloader_1.1.2_iphoneos-arm64.deb
+Size: 18566
+MD5sum: 4a38ca2d07e019b540e84af6c97a1757
+SHA1: d95f159a4488a67fbb29e7fd80d9dd83b95d31f7
+SHA256: dfdc8f1e2e7eff04a57412ed01a2d754f1cbe4942acd4b306617dafd33672142
+SHA512: e828da273979e376c2c78bf04fc6d1f635da49f52ab062d3589f5aa1e2453f4c4c2423f3512d51b2264e912cfc2b784391d8ab9661e3395277ba0c6a4db37643
+Description: Thêm nhiều hình nền mặc định!
+Name: WallpaperLoader (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/WallpaperLoader/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WallpaperLoader.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Skitty
+
