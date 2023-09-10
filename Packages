@@ -1,0 +1,421 @@
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm
+Version: 113.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 636
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm.deb
+Size: 78208
+MD5sum: 5ad81ef0c0e00bbfbf4020087e33fa91
+SHA1: 88f6a3d238f142f28c52dad7575edf42efec6fa1
+SHA256: 02ecade7e624007f5a13c0338bb7fb0cee85fbe4097e6e574a5bd80226252443
+SHA512: baf2d656dd7b1da93ece5b8b3b7b8c1a25c83e9509cc381b512a8571ee749e013277d918ece200ff1ddb79460f9c465ef0b64e1dcdd19c02f49af650a2475021
+Homepage: https://cydia.akemi.ai/
+Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
+Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: AppSync Unified (iOS 5-16)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64
+Version: 113.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 676
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm64.deb
+Size: 77432
+MD5sum: 0d33db4466257498e4035be5808be008
+SHA1: d2645d4f24b5adfa6b0847e3b9296ce1011cab10
+SHA256: df4bb1348ca3ee291418f8808c87447ea5f21b2ca9e0a80d8d14014b3be76394
+SHA512: 5956df86d02368aee42ad834b4c0198fac36a024babf59798ba081b3aa63aee115f0dde06bae27acbb60a1acba93c1f96c037f3586a841b2ada2470f767f3fa5
+Homepage: https://cydia.akemi.ai/
+Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
+Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AppSync Unified (iOS 5-16)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: com.BIENVANNHAT.a-font
+Architecture: iphoneos-arm
+Version: 1.10
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.a-font_1.10_iphoneos-arm.deb
+Size: 839784
+MD5sum: 61811d1db37dc8a86f6e6d338cbd9193
+SHA1: 95e3e28fa3a17835844a78ecdef49f58bfd709f6
+SHA256: 99608cd53c512faa61f531d915082140f8debdf9434f3e590e006b6e22d7f003
+SHA512: b687c832ed36648671b1a935903b6263f96e8b88d447685278dcc4e38acbe819a317d48c451983b8ff7402688e64f9d8c1cd17616327ab037f8b076f2a55656f
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.BIENVANNHAT.fingerlock
+Architecture: iphoneos-arm64
+Version: 3.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 936
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.BIENVANNHAT.fingerlock_3.0.2_iphoneos-arm64.deb
+Size: 267348
+MD5sum: fe5f07a7a93193e6a15f9d9766ab81c4
+SHA1: f957c98c1806ab33389d3cbf624ec0b80e1b6c00
+SHA256: cc158b6cc09d63be037713fbd47e6b8f31a9ad39d0b52f407673bd63e84d9770
+SHA512: c7a1f93aef97bed4f9f140e5c6a25097d830682d60b0106a981182235d27931808808e52cffbb481a4dc3454914d5f1630d39d5bedea79d07a4c52322f1b4b3d
+Description: Cách tốt nhất để mở khóa thiết bị của bạn
+Name: FingerLock VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/FingerLock/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FingerLock.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Tags: compatible_min::ios14.0, compatible_max::ios15.0
+Author: MTAC <mtac@mtac.app>
+
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.4.2_iphoneos-arm.deb
+Size: 4558
+MD5sum: d6eede0e820df4af9e658f1967f193e2
+SHA1: 7070482a111bc6dfb72364613bc7ea6f74e740ee
+SHA256: d0db0785afb956c7bec9611776a7d726446eaf923405da166d5def052e7c0dfa
+SHA512: 1546339fd82c2a3017c0da3e710403fc8b429e556bb79fa7bd307c05b9ec51dec69cc70fb763c4806977d506c61b25bde13ff19e53aeb019fbae95c709d8725e
+Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64
+Version: 1.3.11-5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.11-5_iphoneos-arm64.deb
+Size: 864744
+MD5sum: 0a061c22d923b311d3fadf88ffca82c3
+SHA1: 853fc80b8c85d1ec87308e046a6a2fb3decab4e4
+SHA256: 92391744e2c0d14599c388c5eb356f5e0faf3afe87618c6c3ae334e492e4d737
+SHA512: 0db19ea9172b9f3a857bcffd1533388e008d70baa30dcab2348ca781027290fb544898673594d9a67376de7faa2789e35db9d6dd930fe0f629f87c1f1b18c12e
+Description: Crane cho phép bạn tạo nhiều vùng cho mỗi ứng dụng!
+Name: Crane (Rootless)
+Author: opa334
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bienvannhat.filza64bit
+Architecture: iphoneos-arm64
+Version: 4.0.1-5
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.bienvannhat.filza64bit_4.0.1-5_iphoneos-arm64.deb
+Size: 8707346
+MD5sum: dd5eab225d7ca544b7b0c95d8fe4252f
+SHA1: 3adf646b9b9e5cb7fc52685625941975e35864e9
+SHA256: a00a9fb2d68c7c18bf4378e0342c47773940e14048aa5f0343a94d30bc42dda2
+SHA512: f5621db57b4989e0d0445a25e8fdfdd9598b6ad0b179e9a7d621d9e8079df72f57fbc485ebc0744f61a79102eab13c7cf4d96435eddce3e4cdaf06401214491c
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 11+. Phiên bản này chỉ hỗ trợ các thiết bị 64-bit
+Name: Filza File Manager 64-bit (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: TIGI Software
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
+Version: 1.7.21
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.7.21_iphoneos-arm.deb
+Size: 35772
+MD5sum: 84b4006f564132262d05dd8dcfaeb9a3
+SHA1: f6874c8379896eece7efdc32ebbe4b8c3081f64b
+SHA256: 8daf19130de812afd6721d6783a1e3f1eebcaf6bbcfd1c3e74c3cf970b49a2ae
+SHA512: a030b2028da57ddd9ba2e9d4505a1af7027ff5e8c4064e16b7e74b34c5cef9e333e611dbc44dd756337125116dfbb0cbafd9df463d43f01c3e9b06df29486934
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.coolcc
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.bvn.coolcc_2.0_iphoneos-arm64.deb
+Size: 37638
+MD5sum: f5f0016ee8f5cf8603ff3142b667a65f
+SHA1: 0c6de292a5e2cdcf9167a5732be45ef087119dd6
+SHA256: 36f3300ddb5aa7864ec11cbb274d2c8149d36936ec94cf64a3852f976c1a6f06
+SHA512: b53e0d639249cdf88818199642c52fd636d7ab48eec7178f5430ef98d2b3c867c73d1b6417ee0085d5f284858694fffd819777de01edb34ebed61a13ad2b8a34
+Description: Tinh chỉnh này làm cho ControlCenter trở nên thú vị! Tương thích với iOS 15/không cần root.
+Name: CoolCC Reborn
+Author: alias20
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.strangerwp
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Wallpaper
+Maintainer: BVN
+Depends: mobilesubstrate, wallpaperloader
+Filename: ./debs/com.bvn.strangerwp_1.0_iphoneos-arm64.deb
+Size: 12331192
+MD5sum: cab210000e6d4d379774d8f37492213b
+SHA1: ec0af26541daa316d0efdeb40fab3a448c5c5e34
+SHA256: e06fc0bb4b9f715a3671c5815ee93357da9b241cdcfca3cc5cec88b668cf243e
+SHA512: 26fab7bef8782d9022f24700dd5928fd996fd441535d03c273f5da64e90c3931be661219d41f0f762c6d63da5684037376f9aee91319b488814dbdb9284a645e
+Description: Một hình nền Tối / sáng Stranger.
+Name: Stranger Things Wallpaper
+Depiction: http://bvnsupport.github.io/infodeb/Stranger/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stranger.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Author: Skitty
+
+Package: com.bvnrepo.crane
+Architecture: iphoneos-arm
+Version: 1.3.11-5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.bvnrepo.crane_1.3.11-5_iphoneos-arm.deb
+Size: 1106178
+MD5sum: 35d3a93639b86f34b6eac348fe8bd3c9
+SHA1: 7027121a1ac9125dba9d65621f48d922e5b4b2bf
+SHA256: 28eb7b55ecf16a8a88c996f02a1bba57d26aa5e14f926342d66efa64fa4a3d90
+SHA512: b5ebd4abb20213ca749ce52ed79fe9377ac7cbd0312ea0359532928a4d218b8a2f418c60307fb534ce93ff5f34c8c6920d01ec41af9b870bfe6656a40c7a556d
+Description: Nhiều vùng chứa cho ứng dụng của bạn!
+Name: Crane VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+
+Package: com.bvnsupport.filza
+Architecture: iphoneos-arm
+Version: 4.0.1-2
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bvnsupport.filza_4.0.1-2_iphoneos-arm.deb
+Size: 13940132
+MD5sum: e92fb1970fcc2efab2703e0195823ba1
+SHA1: b56eba7d10b5cfcacf7aeb9b6f1bb2c7c0f24bec
+SHA256: 56af6583e2679cbe2b84be62b86cd6d228b09d79f272ea9dcd45d2126b75b53f
+SHA512: 94f9970723299403d2890aefefadf4c4fbb77c88d9ca9e5c88c398309187e8876babb9b4908c7b0b3218d91832334e393fd0eb2f09d91b1ab171a990b31f70f4
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
+Name: Filza File Manager VH
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+Author: TIGI Software
+
+Package: com.bvnsupport.filza
+Architecture: iphoneos-arm64
+Version: 4.0.1-2
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bvnsupport.filza_4.0.1-2_iphoneos-arm64.deb
+Size: 13936026
+MD5sum: b343eb95c91925b897791796879b53b7
+SHA1: 7e1c2a4ec79bf526ec690b96cdeeae4c31dfd3f4
+SHA256: bbfdd4800b455a42914bae07f9e5bc040ae847e58bfd78932dec406f178ae6f0
+SHA512: 258faa6b6797170adc396659595b11d8485a150d56f3abef0d636fffc9344a4cd5064278c7f39aa2bd2ef55a3659c2e0c4c8c0eb0157783ee65b6a3cd2c788bd
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
+Name: Filza File Manager (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: TIGI Software
+
+Package: com.hmodei.arico
+Architecture: iphoneos-arm
+Version: 3.6R
+Section: Tweak
+Maintainer: Biện Văn Nhật
+Installed-Size: 4168
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Filename: ./debs/com.hmodei.arico_3 (1).deb
+Size: 2022514
+MD5sum: 77df0f3aa5f963b9ef2c56c6431fb487
+SHA1: b22beba11fc142bbd5e3a6b8a5fc301168e7fae5
+SHA256: d0aca383117575126131e42117ee0ac99ca6ef5bf23966ed589088dc779fe8ae
+SHA512: 2c29f79efb49d9fe10b259e323e6e35ea70dddf4ff0a24afd77a6c924819f13c553829937a74a30ed1f386a5e2dc4002089c5499365404f8955fb06d2db25e02
+Depiction: http://bvnsupport.github.io/infodeb/Arico/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Arico.json
+Name: Arico
+Author: hmodei96
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.repobvn.a-font-rootless
+Architecture: iphoneos-arm64
+Version: 1.10
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.a-font-rootless_1.10_iphoneos-arm64.deb
+Size: 838860
+MD5sum: aa20d430f3a91ed25d7bf5a87d74e53b
+SHA1: 9cbd3a82ce7f83578d1b448209e678bd537445c9
+SHA256: f1578f08c0659e743de1e104447060ceefc43b52478a9193b1796c8c7a2747db
+SHA512: 963acf487bd3c90a03c1fb0b4e85c1b45f4745ae58d211477952692868823601460fcc4f00d9d5aaf43b7f18d45083fc70908def057b259fbef84cb34eac8909
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH(Rootless)
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.7.21
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 284
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.7.21_iphoneos-arm64.deb
+Size: 35720
+MD5sum: 4913de53ddb68a3b104e829f8ccc84fb
+SHA1: 7b5adfff802b487448b4d032e93c64c06fef1abc
+SHA256: 3b31e792053a5dcd23fac99311e211fb4616822ccc907becbdf9e10cdf4dba2d
+SHA512: 20a2ac5e96ba8b25a84b9925d3e26ff1f9b6668f5735738c21d60b55e528d3eff1c79c823fdb95227193dfb9a3bef2211a7c8e1dae304a3103e085b3f3cc3295
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.4.2_iphoneos-arm64.deb
+Size: 4606
+MD5sum: c315ff63117362a1fcfefefb152f20f8
+SHA1: 64fa9b2193ae43d7d2b86a372066fa75dabb60a5
+SHA256: 7feae5f2dc71c8fefb497d231bf010ffd0091fe41356abaf6f087a577421b20f
+SHA512: 70db80c51a47f63ddf195befa991224dd03fcfc3d8d0d3cd0706b854496a3691b426ea8d360635efd1449c84c16d7060bb4b26eeca85fe1e08c4976dc2a9c5f1
+Description: Chặn quảng cáo và phát lại nền cho ứng dụng Youtube!.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.supportjailbreak.filza64bit
+Architecture: iphoneos-arm
+Version: 4.0.1-3
+Priority: optional
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 31815
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.supportjailbreak.filza64bit_4.0.1-3_iphoneos-arm.deb
+Size: 13919496
+MD5sum: 717f798418eb543d471db0ca8d922439
+SHA1: 5a4cb50931152aec87eb6b6d86255aa3578418d9
+SHA256: 67ce14b58a3b2a82cee9588a257f12ed0460c738ebcb65085b3e3db77b3a59b2
+SHA512: fb82c023fdb6d0c60afa86b97f6617e5374c1d975d4dbac8cdea531373bebfd75d3f074add52decacbaa4e77da52dde8f409330cfffd6ceeedbd16bf96dcb243
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
+Tag: purpose::uikit
+Name: Filza File Manager 64-bit
+Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: combvnrepo.autotouch.ios8
+Architecture: iphoneos-arm64
+Version: 8.0.11
+Priority: optional
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 74872
+Depends: firmware (>= 11.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/combvnrepo.autotouch.ios8_8.0.11_iphoneos-arm64.deb
+Size: 33416536
+MD5sum: 01773bafb7b066c9f5f81b5023d13086
+SHA1: 168008a852592f5c14fd2acf4203a878810ab97c
+SHA256: 4e213d28175e8e163b77a110379155c0329f4036d2b5850d851483d17b4c239d
+SHA512: 6253bd636dbd3b8cd07f5457bccf4a4d48085fac5dfc0e27e51c630d3e7c69b8c1512db15a87a5f6de721c481ae5579945d1dffc571c4d9ea37e98e397209d25
+Homepage: https://autotouch.net
+Description: Ghi và phát lại các thao tác chạm, phát các tập lệnh macro tự động.
+Name: AutoTouch VH(Rootless)
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: wallpaperloader
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/wallpaperloader_1.1.2_iphoneos-arm64.deb
+Size: 18566
+MD5sum: 4a38ca2d07e019b540e84af6c97a1757
+SHA1: d95f159a4488a67fbb29e7fd80d9dd83b95d31f7
+SHA256: dfdc8f1e2e7eff04a57412ed01a2d754f1cbe4942acd4b306617dafd33672142
+SHA512: e828da273979e376c2c78bf04fc6d1f635da49f52ab062d3589f5aa1e2453f4c4c2423f3512d51b2264e912cfc2b784391d8ab9661e3395277ba0c6a4db37643
+Description: Thêm nhiều hình nền mặc định!
+Name: WallpaperLoader (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/WallpaperLoader/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WallpaperLoader.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Skitty
+
