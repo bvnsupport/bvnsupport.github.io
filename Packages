@@ -795,6 +795,45 @@ Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: libssl1.0
+Architecture: iphoneos-arm
+Version: 1.0.2s-1
+Priority: standard
+Section: Security
+Maintainer: Biện Văn Nhật
+Installed-Size: 6440
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ca-certificates
+Conflicts: openssl (<<1.0.2q)
+Filename: ./debs/libssl1.0_1.0.2s-1_iphoneos-arm.deb
+Size: 1161116
+MD5sum: 27c9a5a1e39624aefd69b661bbda458b
+SHA1: 9b0362b368fb82cdd5bb10e4c911f93cb9c9b336
+SHA256: 04d2e0b693f82f06a1f21506ff8dbe2735ad21f4f193f291dce7c77e57b5f5aa
+SHA512: 7c777f57cb620694ebeafae9467e119366f02933c7ca9443277f151905c7958683f6ec85f1de19579218302b591a61d1b47775af4b8bc223b4e042325c265bf1
+Description: OpenSSL Libraries for version 1.0
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: OpenSSL 1.0 Libraries
+
+Package: love.litten.libkitten
+Architecture: iphoneos-arm
+Version: 1.3.1R
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.3.1R_iphoneos-arm.deb
+Size: 15512
+MD5sum: c9290caf58219c0a228cb3aef5261f0f
+SHA1: 1d1d88fd0050c8007f385d1299fd4eed53b9cc86
+SHA256: f49ae9db1f8e06ff4c0be938b3364ade4e034f7a89b6e75b646259939c9884df
+SHA512: a2b0d9de3db8d5591ba543a7478e4731c761ef0d4153b696fa6893b322f54dcd1fe7866bbb0334ec6eda6584601f096b91d6d9a448c559b9cd373633ab92e597
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Name: libKitten
+Author: Litten
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: love.litten.libkitten
 Architecture: iphoneos-arm
 Version: 1.3.2-1
@@ -814,6 +853,68 @@ Name: libKitten
 Author: Litten
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: me.BIENVANNHAT.evavh
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Provides: me.lau.eva
+Depends: firmware (>=13), firmware (>= 13.0), mobilesubstrate, me.lau.liblauren (>= 0.1.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: me.lau.eva
+Replaces: me.lau.eva
+Filename: ./debs/me.BIENVANNHAT.evavh_1.0.2_iphoneos-arm.deb
+Size: 136578
+MD5sum: 93fcc16e7da599a9c9b2b0360c1da547
+SHA1: f97c2db2f2892d1cf4aeae9f31ee4bb9d9a37831
+SHA256: d456ba4217a0ef709ebfc420b53b5d675e9f6ff18fe67155ec59815711fa0448
+SHA512: 42f385e90e22a8af4b1004805fce9f683317b21301b52f95ddcae384258533d39362da29652bf48354c52fbc6f09f59ce8d58d83df20045a486aeb8708747615
+Description: Hình nền trải dài...
+Name: Eva Việt Hoá
+Tags: compatible_min::ios13, compatible_max::ios15, compatible_min::ios13.0
+Author: ren7995  <lau7995ren@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/evavh/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/evavh/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: me.REPOBVN.ding
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.REPOBVN.ding_1.0.0_iphoneos-arm64.deb
+Size: 37998
+MD5sum: 7bfe3db31a4c08d290918323046f7437
+SHA1: e6c8d9017d5eeb5ce7b1a6e80310c8d3da5989a1
+SHA256: 46668bad92a7acd52309b881b77477686ebf2dfa61a537cb916940ea52c165b0
+SHA512: 6c917217defe7319f65abb2f9ba82e19b82e9436f9e6e13f36fbe6b9afa17852eb11b7362332d63b32695ac565fec9c99c550d1f78f476dbe20603b6c546ed20
+Description: Kiểm soát công tắc rung của bạn!
+Name: Ding VH (Rootless)
+Author: Nebula
+Depiction: http://support-jailbreak.github.io/infodeb/Ding/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Ding.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: me.jjolano.fmwk.hookkit
+Architecture: iphoneos-arm64
+Version: 1.0.15
+Section: Development
+Maintainer: jjolano
+Installed-Size: 172
+Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
+Filename: ./debs/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64.deb
+Size: 22200
+MD5sum: d6cf4124b2fc2ae54e4eda4dd9185426
+SHA1: 874e9eb19de91354a37255091b70db2f7597826e
+SHA256: fdd5f4d7f698dc52fcd9f4266d9f92754b141410e243045f831c3997b5dcbdb7
+SHA512: 667194fdebf9e076d77cbe8723a331c0a89fb90b35c3e2139ac313a15a9859fc4e945a985e9a916504544ba36c5606586dec8c753e1771cf15cb68f6bd6220f1
+Description: An iOS developer framework for unified hooking methods.
+Tag: role::developer
+Name: HookKit Framework
+Author: jjolano
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
 Package: me.jjolano.fmwk.rootbridge
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -832,6 +933,25 @@ Tag: role::developer
 Name: RootBridge Framework
 Author: jjolano
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+
+Package: me.jjolano.fmwk.rootbridge
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Development
+Maintainer: jjolano
+Installed-Size: 168
+Depends: firmware (>= 8.0)
+Filename: ./debs/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64.deb
+Size: 6142
+MD5sum: ee878e6c050782fe2026813910d3f7bd
+SHA1: 05cddb389545711a3e8d1d852e7227f54b508e63
+SHA256: f76fac44eeee2d5f5aeac688219d59905302707d0655d67c26ceb5c0414631bc
+SHA512: 7634757dd4f28391a7ccf874e2438879d5cf71ea5bfecb03a9ad0011544b11545131645ccc3ec7d91efe7025a85cb857df225fe062a4d73086f5d15f1934b451
+Description: An iOS developer framework for rootless tweak development.
+Tag: role::developer
+Name: RootBridge Framework
+Author: jjolano
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
 Package: me.jjolano.hkmodule.dobby
 Architecture: iphoneos-arm
@@ -871,6 +991,26 @@ Name: HookKit Module (Dobby)
 Author: jjolano
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
+Package: me.jjolano.hkmodule.ellekit
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: HookKit (Modules)
+Maintainer: jjolano
+Installed-Size: 188
+Provides: me.jjolano.hkmodule.substrate
+Pre-Depends: me.jjolano.fmwk.hookkit
+Depends: ellekit
+Filename: ./debs/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm.deb
+Size: 8474
+MD5sum: 259e662aca5a6f76fffd4fd5e8784cc4
+SHA1: 4f61921ee476d90855f44331a323e36289239e6c
+SHA256: 5707cbeef3f17e43478c78a524270d58c18d3266d8dad2837cd4afa1c645839c
+SHA512: 0830ab2630d8bda4d2e2e4f3a50a08ea27e0cc2b9fbcadadc09b439455999df61e35afbffa1fc814b0b9219d7f6a7087f01186afd0fd89d20888ac85192e1557
+Description: This module provides the ElleKit API for HookKit Framework.
+Name: HookKit Module (ElleKit)
+Author: jjolano
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+
 Package: me.jjolano.hkmodule.fishhook
 Architecture: iphoneos-arm64
 Version: 1.0.8
@@ -888,6 +1028,26 @@ Description: This module provides fishhook library support for HookKit Framework
 Name: HookKit Module (fishhook)
 Author: jjolano
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: me.jjolano.hkmodule.libhooker
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: HookKit (Modules)
+Maintainer: jjolano
+Installed-Size: 156
+Provides: me.jjolano.hkmodule.substrate
+Pre-Depends: me.jjolano.fmwk.hookkit
+Depends: org.coolstar.libhooker (>= 1.0.0)
+Filename: ./debs/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm.deb
+Size: 8186
+MD5sum: 87c501c8309a26d2fac8dad62b53f127
+SHA1: 3cf3192ac15d8b9c8321f919e7dc94633f0c370c
+SHA256: c25f15a9fd7cfc0c901c6a2794f1668e19c3c5ce02152a82e013f0c27bb20c56
+SHA512: a6f7787bc7c18a962aeee535d2b9d179b860af03d57ea176b7e429178dab8cd8209459e8aec557a53ab67466e824160c819acef9d05b7569ae91161c540cc21e
+Description: This module provides the libhooker API for HookKit Framework.
+Name: HookKit Module (libhooker)
+Author: jjolano
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
 Package: me.jjolano.hkmodule.substitute
 Architecture: iphoneos-arm
@@ -929,6 +1089,51 @@ Name: HookKit Module (Substitute)
 Author: jjolano
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
+Package: me.jjolano.hkmodule.substrate
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Section: HookKit (Modules)
+Maintainer: jjolano
+Installed-Size: 168
+Pre-Depends: me.jjolano.fmwk.hookkit
+Depends: mobilesubstrate
+Filename: ./debs/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64.deb
+Size: 6510
+MD5sum: 59bef9f2e71dc6652d80b25138755a00
+SHA1: 221ac8a9a00ec7afefe6fc456b2991c37bcef2da
+SHA256: aea2b6546a5fbb2383903e768d8a5df162faea2f75c8d9c5c4426e0396abd440
+SHA512: c3ec6dcedb739f981438f52c1dcce10e1a0cb9c735a96eab8bad302abc2e84a66746b838d075915993509e3a88044ab505dadaeb7dba10675606aae527bfb726
+Description: This module provides the Cydia Substrate API for HookKit Framework.
+Name: HookKit Module (Cydia Substrate)
+Author: jjolano
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: me.jjolano.shadow
+Architecture: iphoneos-arm
+Version: 3.7.4
+Section: System
+Maintainer: Repo BVN
+Installed-Size: 1432
+Provides: me.jjolano.shadow.beta
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: ./debs/me.jjolano.shadow_3.7.4_iphoneos-arm.deb
+Size: 270418
+MD5sum: c61d98ccaa59505c7132dc20d1de1e8f
+SHA1: 65209c3b1be6ff677fe4df8b568a2e66bf890db4
+SHA256: 0fd9a93c40c5723e6f35f03d0cf4849aa50a766b1ddd21d96529fd2f38ba8419
+SHA512: 4aec95e859e4e787ae593a81f3b1b34373a3c0c61b1cdcba5daf9d6096bc17689cc18a48cae3376d9ac9b52a4f6f132c698a2cf2168f7635577f6e6e3dae8733
+Description: Một tinh chỉnh bỏ qua phát hiện bẻ khóa hiện đại.
+Name: Shadow VH
+Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: jjolano
+
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm64
 Version: 3.7.4
@@ -954,6 +1159,203 @@ Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: jjolano
+
+Package: me.lau.liblauren
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: System
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=10)
+Filename: ./debs/me.lau.liblauren_0.1.3_iphoneos-arm.deb
+Size: 914070
+MD5sum: a80c3bdc655eb6a3cd18cfb2df28bfe1
+SHA1: b785a1092a30c0b7ac3228e07921ff0a09c25a6a
+SHA256: 94744ed69af968527ef10686180432e266c2de4adc9081996303e7950ecf8ed3
+SHA512: 7304dba41234666224d391a032aea9f88a2d8ffe8186beaa02fdaf67688587576197e2f9ee1c58f175974a465cc97f806a2fe5fe8cdb3893088d4c97761df074
+Description: Thư viện cho các chỉnh sửa của Lauren
+Name: liblauren
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Tags: compatible_min::ios10, compatible_max::ios15, role::developer
+Author: ren7995  <lau7995ren@gmail.com>
+
+Package: me.nepeta.axon-rootless
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon-rootless_1.4_iphoneos-arm64.deb
+Size: 193920
+MD5sum: edf3e4f9a64289c2c9c02da96db7f61d
+SHA1: 89284129b1e37f0525771c8ae90f9f629f96caa6
+SHA256: b15e99623936f36d744d64a6219bda316d0f6dc9cc8076b98fa10347d23ee6d4
+SHA512: 1202a96f90d8aa5fc8c8a66ccfef55287fdd4e2744c03b95c5a0c53c3e5c4f65762160dd0d701cb015db4d2b0fe9bce24cb36cc86ab0638f5711ef3c5859255b
+Description: Priority Hub for iOS 15
+Name: Axon VH (Rootless)
+Author: Nepeta & Baw Appie
+Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-14
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-14_iphoneos-arm64.deb
+Size: 459078
+MD5sum: 4d1c980981e6288d36650ec4e6085ffe
+SHA1: 26527cb2154053688304f3c75239c2d8dd9b1e4c
+SHA256: 7f4cdd35db72edccc5bfb35ca60985c1bc39c63577e7608f56b71378cc024206
+SHA512: aa22bfc5a66156cb8755bc4141fb041bfcca3ef84b06e7c4469416d52eba6f4f28c7996117a4f250c7a57b7f425fc0229099094e88f84fd5625985e682930d5b
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula VH (Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 05e0085610aba1f19878e4149df380bc
+
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-19
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-19_iphoneos-arm64.deb
+Size: 460168
+MD5sum: 9ba83ab6c8f3f442f41e789cf4f4513a
+SHA1: 71959eb83d87a2760b4b1ebf963c945624104fc9
+SHA256: 14a3badaae06cb232cc3e5c1d49c8b03394baa88a153a4424d64039259e6afdf
+SHA512: 81c1958e012dc1dca3b6c663cedaa732f42aadf78497ac29055ffc7af1a90b66ef0ec5b86624c9ef98d7a7603245e2359225ba79b7f1dcf400e73e5751ec5b8e
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula VH (Rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula1/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DynamicPeninsula1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 921b926fd501306429310a4e8659f913
+
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-19k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-19k_iphoneos-arm64.deb
+Size: 460164
+MD5sum: 6b6ef4e91e561420f09c3878f4e922d2
+SHA1: f37610be18a243ae824066af93a45fea25e85410
+SHA256: f068497e31ad8447157bcd0814a664a00cf4b9da6e2ae2d1ea7bc9ddb89ce125
+SHA512: 227cc0c1c1729d278de4ef748719626b0a80eed50b96da0349dbc3f06697192cbc7b246b339bfc786cfa4ad0a46c6eb5b7cbc444124abc4e05a82e5209274ae1
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula VH (Rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 921b926fd501306429310a4e8659f913
+
+Package: net.jakeashacks.theosinstaller2
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: Biện Văn Nhật
+Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
+Conflicts: net.howett.theos, org.coolstar.cctools, org.coolstar.llvm-clang, org.coolstar.llvm-clang64
+Filename: ./debs/net.jakeashacks.theosinstaller2_1.0.3_iphoneos-arm.deb
+Size: 2448
+MD5sum: 7a3a0d532d8b6546dd442ef619b6db70
+SHA1: 7874902732014202ea84856e632e7f93501c72df
+SHA256: e70f6e06f6583e44908e85cbac557d7ce5060b18096cd45940c896635c2a1b70
+SHA512: 675b353dff6c563b63a4fbe7f0bb8e2fb88d51efda0100d88a7aeda86d107d03cca0fd034888c1d912f0c8a9c2e7a2a1db21ad308421da569d3a015c7a900143
+Description: Cài đặt theos và thiết lập mọi thứ bạn cần chỉ với một cú nhấp chuột! Hoạt động trên iOS 11, 12 và 13,14 un0ver và checkra1n. Hỗ trợ biên dịch arm64e. Cách sử dụng (chạy dưới quyền root): theosinstaller sdk_version_here (example: theosinstaller 10.3)
+Tag: role::hacker
+Name: Theos Installer 2 (unc0ver and checkra1n)
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: Jake James
+
+Package: net.limneos.simpleactivationactions-rootless
+Architecture: iphoneos-arm64
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/net.limneos.simpleactivationactions-rootless_0.1-1_iphoneos-arm64.deb
+Size: 10640
+MD5sum: c37f9a2e3a074a508ac6bbab091c41c8
+SHA1: 71a266e1ad1e6fe9cbb191ea86c393803c6ebc98
+SHA256: 8b3047e77d824af9cf8e573f9e82399a6acf6f2357b09c78e712c7decd81ff16
+SHA512: 97599863ab8430117c5c48e47f0a74a776693935609e1c5ad6439b594498eda54f35277583f7882fd92713887fae71d30e9e2a4fd70667c920397dd414775059
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions (rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: net.repobvn.bioprotectxs-rootless
+Architecture: iphoneos-arm64
+Version: 4.6-30
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Installed-Size: 2168
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.bioprotectxs-rootless_4.6-30_iphoneos-arm64.deb
+Size: 802076
+MD5sum: fae52205be140392c22ca52f612499b9
+SHA1: 51282510aee58c9adec076941f69418afd9a80ba
+SHA256: 42fe25a7036ca421d4cee47c347df42f34579a3071d1d5219ea0637df3162a1c
+SHA512: 2ca6c68b3c45c911e869252c0783b9f7ae78024005ab43b2a527305780bb7058b867224d63aeaa19cfcaacaf3d6ab8c491a11adef547052cb85d7399711e3929
+Description: Bảo vệ ứng dụng của bạn bằng Touch/Face ID!
+Name: BioProtect (Rootless) (iOS 12 to 16)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://limneos.net/bioprotectxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 4f1110aadbd864aa76fe9e6be32ac34d
+
+Package: net.repobvn.voicechangerx-rootless
+Architecture: iphoneos-arm64
+Version: 2.4-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.voicechangerx-rootless_2.4-3_iphoneos-arm64.deb
+Size: 449608
+MD5sum: 9f4ce1d8ed8e756cf1c006b8236ff030
+SHA1: 247f6d5a63ad9159470f5799d63593ba827c3267
+SHA256: c5db9320276e2796a71056bd1e402db6d9f30cd14e16c5d5ae5315c733860ef6
+SHA512: 83542015faeb2e7a6d021e2d82b78d36fa189ea1148f0319338d3f76f53a4e2372668436fdb4349f58d41e81d4135e9298521951fbe92e5e9a48df65e1d596f2
+Description: Thay đổi giọng nói của bạn trong khi gọi!
+Name: VoiceChanger XS (Rootless) (iOS 11 to 16)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: oldabi
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/oldabi_0.3.2_iphoneos-arm64.deb
+Size: 14900
+MD5sum: 2cc9de6dbc75226517fb558ab251b60f
+SHA1: d0f1f502f27764505e8557348f8b9ed58714df84
+SHA256: cb5bb774cd99f5f39c14d2925a5189782a3536583588b8385066dc00c6220d56
+SHA512: e351bb292a5bc8c6a4848aa0cdffcbd097d00f971725b19742aaa807499d17fa1ff2a8bf884fa228a9c6540ae8f93208fe9deac262582db8643b6f05e62efe17
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
 
 Package: org.coolstar.llvm-clang64
 Architecture: iphoneos-arm
