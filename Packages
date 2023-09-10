@@ -622,6 +622,83 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Fouad Raheb
 
+Package: com.repobvn.DepthsThemeRootless
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Theme Rootless
+Maintainer: Repo BVN
+Depends: mobilesubstrate
+Filename: ./debs/com.repobvn.DepthsThemeRootless_2.0_iphoneos-arm64.deb
+Size: 102075890
+MD5sum: 56d024baf96b79c9cd442aa7265e02b2
+SHA1: f83e899a054bcd6242f75dc59c25b363a9800349
+SHA256: 2a7495f0843f29c383891e2d9355c7daae4474884b3f0c4005d9a9bc13205c50
+SHA512: ba81ce4d067434aa119aeea8d87cc51f6ad8d9bb09435a23b773a9f196c4b643b2f67aa16517927d4cfd0e7a40dc3d254b017eeb75e7dd8bbf1b7d63e71cea78
+Description: Chủ đề giống như 3D có thể tùy chỉnh cao.Yêu cầu cài Snowboard hoặc Itheme để sử dụng,hỗ trợ Ios 15-16.4
+Name: Depths Theme (Rootless)
+Author: Polyphian
+
+Package: com.repobvn.DustryBlue-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.DustryBlue-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4918080
+MD5sum: beffdc518cdf0031c7209cf5c9774cf6
+SHA1: c236fb447eef6899c3cfcd64520da39ccc9d27de
+SHA256: c4668f3208efa811575947695e62cc8dd8d8c325a6372e024c675599d3242062
+SHA512: 708823ead81ecaf2d6df0135a18cc5c5fe4656f4f82227a099ed56fc808d5c2fbea9932a260eb31c8372efbb12dd4f6e823fa3f0bab10342f71b67382862298c
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Blue (Rootless)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/Dustry/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dustry.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+
+Package: com.repobvn.GoodWifi-rootless
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.repobvn.GoodWifi-rootless_0.1_iphoneos-arm64.deb
+Size: 65422
+MD5sum: 25b0f57f83704da1c548dd60adc2c73c
+SHA1: 23a821bb7865dabdda67bbac2193601ba1b92dcb
+SHA256: 9e9da9135b1abaa0828e6fb52f2486666963c605b5e492d62dbfae7707dd20bf
+SHA512: ee0768a3ffb8452c4e9a1b62ed35029b7abf6e7ecc93bb8175577a06b3db641864ab25f1e833eed20c275c34713c01f4720f42431703644ca8adf23bbca61f99
+Description: Hiển thị mật khảu Wifi đã kết nối
+Name: GoodWifi (Rootless)
+Author: Julioverne
+Depiction: https://support-jailbreak.github.io/depictions/GoodWifi.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/GoodWifi.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.LetMeKnow-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.repobvn.LetMeKnow-rootless_1.4.2_iphoneos-arm64.deb
+Size: 30618
+MD5sum: af2be82797476b9c8a0f9d9a9fcfb187
+SHA1: 0cc7f533ff6d0581442c3b98a87c8a0590824635
+SHA256: 61afdc9696b3ee25d7d69d2adba69be0945ab74520c1f03ce3540261250df75d
+SHA512: 89a2bb237fa3ad95c53a92dfd076f45237c0a3d8cff25d44272fb22a7eca18df96bc70c77d4e598ac5a11535d0cbe7ec10bb8943de61faa98ba5317012fa7610
+Description: Rung khi kết nối hoặc ngắt cuộc gọi.
+Name: LetMeKnow VH (Rootless)
+Author: P2KDev
+Depiction: https://support-jailbreak.github.io/depictions/LetMeKnow.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/LetMeKnow.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.a-font-rootless
 Architecture: iphoneos-arm64
 Version: 1.10
@@ -640,6 +717,280 @@ Name: A-Font VH(Rootless)
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://bvnsupport.github.io/depictions/A-Font.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.a-font-rootless
+Architecture: iphoneos-arm64
+Version: 1.9.3-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2476
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/com.repobvn.a-font-rootless_1.9.3-2_iphoneos-arm64.deb
+Size: 845886
+MD5sum: e8590fb7ccfe83538759da8e54eaba79
+SHA1: d41db34ecc08b220b8a873abacf57af3ca4bdb49
+SHA256: a8daa840e7398ad9216ff225916f0154211f62b17bd1b5e896cf2b936b233190
+SHA512: a35dd7a55cc9f677671c9fa6fce39172ff7aed567b0c2683d04ec4eeb9a026d470aedc1dd1a9b23b2ed9a42bbf4a3331e89efc60df4e73695a343c6ed0c882df
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH(Rootless)
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://support-jailbreak.github.io/depictions/A-Font.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/A-Font.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.atriarootless
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 733
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/com.repobvn.atriarootless.deb
+Size: 270038
+MD5sum: 5529e4c3a1716f9b66961affc0a627bc
+SHA1: 44e89a2578a7b4624f7ec2667284abd5b1d97679
+SHA256: 6934688296968cde5129ea8454c3389d4e087b66f8a27d910a675c3cba40e1f4
+SHA512: 219539747edb0b2480aa937cb6c04f55529a59ae0f5e94fc3f06bd38cf1bd71ac767e87c658ec2a0330f2e9637d26eaffd00436530d096aee4d1510530ff6ad2
+Description: Trình chỉnh sửa bố cục màn hình chính phù hợp cho iOS 15.0-16.4.1
+Tag: compatible_min::ios15.0
+Author: ren7995 <lau7995ren@gmail.com>
+Name: Atria VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/atria2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/atria.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.autofaceunlock-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-7
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.autofaceunlock-rootless_1.1-7_iphoneos-arm64.deb
+Size: 101122
+MD5sum: 4a32e7684d1e900be1d6071f6d94763a
+SHA1: fe10339ff0c03e9992b37a5aaec100dcc9ab41c7
+SHA256: 3fb072b5e9e3d0b145bd8878a172e89844751a559f6ce6a9032c8a20383d2c90
+SHA512: 2160058d31f95b186ef4cdfdb65f823e057e252c842e055f5c8377251bf2708c49e3ab45d012a68a52b294bc556ebfcfc3a7fc04cb5887a41076ea225facd573
+Description: Nhận dạng khuôn mặt được mở khóa tự động mà không cần trượt lên để vào màn hình chính.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AutoFaceUnlock (Rootless)
+Author: Netskao
+
+Package: com.repobvn.autounlockx
+Architecture: iphoneos-arm64
+Version: 1.1.0-rootless
+Section: Tweaks
+Maintainer: REPO BVN
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.autounlockx_1.1.0-rootless_iphoneos-arm64.deb
+Size: 82280
+MD5sum: 779d7691df710517628876c4620a4b15
+SHA1: 97992597cfd62a6e3af59c532f9e57c5aad4ef75
+SHA256: ee7c6ea779e9d7dd1a599b1b52ace0fbdd0814c8774ae62f54f5377490521f68
+SHA512: 7c0390a827bb1f0cd0c9bd2b9dc8a14cddaaa4900232f7cc2effc25a092364d1a536092adaa790fe8f2f5a87ef46b6dab1c5609181a488b602ec8f4520d1cebb
+Description:  Thiết bị sẽ tự động mở khóa khi phát hiện Face ID hợp lệ
+Name: AutoUnlockX VH(Rootless)
+Author: Spark
+Depiction: http://support-jailbreak.github.io/infodeb/AutoUnlockX1/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AutoUnlockX1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.cask3-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.repobvn.cask3-rootless_1.0.1_iphoneos-arm64.deb
+Size: 318788
+MD5sum: e05600c242f820fe56466b5d5b717f0f
+SHA1: 3c6ec0e23c544db459b54fb981c47c41ec02a549
+SHA256: 7b1c075ce8601849a1caa9fb99b3560c5eb5c67150b2d6d14e6f343b30e7242e
+SHA512: c62886d7bdd0ffab32204767025daa7e4c79dc18706853e1aa53a370c7e4189063eae1b05094493d5966331ffc6eae44ed9532a094706a4b3c68a9764c01d189
+Description: Cask 3 mang tính năng cuộn bảng động đến tất cả các bảng trong iOS 14 trở lên. Đối với  iOS thấp hơn, hãy thử Cask gốc của Ryan Petrich hoặc Cask 2.
+Name: Cask3 VH (Rootless)
+Author: Ryan Nair
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.cask3-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, dev.theos.orion14
+Filename: ./debs/com.repobvn.cask3-rootless_1.0.2_iphoneos-arm64.deb
+Size: 373964
+MD5sum: e72c6b558c8719029d5ce1d7b7dc7995
+SHA1: efcb79a08420158cb0c7301c138df099270f9187
+SHA256: 0dc8bc4e791d6ba9e46c9b9786fdb0a9334aee89392bc1f84b0af2bdb17f4248
+SHA512: f4e8f7d5fc02091a0558a82a75cc6afa2f5e9b8af9f4869e0b3d26aa116e24457f805a4d7498222b5d548a1472dbba4c23e896dfa27ffe6d3b69de71704c1334
+Description: Cask 3 mang tính năng cuộn bảng động đến tất cả các bảng trong iOS 14 trở lên. Đối với  iOS thấp hơn, hãy thử Cask gốc của Ryan Petrich hoặc Cask 2.
+Name: Cask3 VH (Rootless)
+Author: Ryan Nair
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.centeredlabels-rootless
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Filename: ./debs/com.repobvn.centeredlabels-rootless_1.3_iphoneos-arm64.deb
+Size: 17098
+MD5sum: 316e8ef7d362fafe55651fdce0d60ffc
+SHA1: 6f7d15a8f75ee72f19615bc3b812684998a52edd
+SHA256: 787fdfbccd613796e4d340e84e410187c8ab08da8fe6d93b5999f27cb67d8b84
+SHA512: c61a97f1b5b7dc5000b8ae630e393fd0b5351928e24b68e89f8c6c3728173e24a7a703f6c3da1ca6c6de418c3c55c4afbcf91ea66366988f53ecdc2bf76a2a98
+Homepage: https://support-jailbreak.github.io
+Description: Căn giữa tất cả các mục trong trang Cài đặt của bạn.
+Tag: role::enduser
+Name: CenteredLabels (Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/CenteredLabels.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CenteredLabels.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
+Package: com.repobvn.dodo
+Architecture: iphoneos-arm64
+Version: 4.0.8.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 8488
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore
+Filename: ./debs/com.repobvn.dodo_4.0.8.1_iphoneos-arm64.deb
+Size: 1819858
+MD5sum: 47fd07443f85fdf33dbb69068b156690
+SHA1: 1b8876e10a66ae0aa73c6402befb7a90ec66c8ea
+SHA256: a6e0d52a666e4e5f77a37bb0b867e2f6110728e6807d07d9f63165a8c18fbef9
+SHA512: 7fcd94166beedc536d2cea9a4c89f74d4b43558e7eb52cc84a70596ce67b6ebc56aa0003b2aa736942df380551e6ec2124285924f373ab12a97d7571dd73658f
+Description: Thiết kế lại Màn hình khóa hoàn hảo.
+Name: Dodo (Rootless)
+Author: Ginsu
+Depiction: https://support-jailbreak.github.io/depictions/Dodo.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dodo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.iapstorefugu-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Repo Bvn
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.repobvn.iapstorefugu-rootless_0.0.1_iphoneos-arm64.deb
+Size: 59610
+MD5sum: a231bc6da727b09c40044b5cf7be0369
+SHA1: d04bb269fb6c46b4a1e17a5eca33d76e5bedc55e
+SHA256: 844e7e12f532607015c690b9668f1b323b3dca2bc6219d02bdf47c0d0730fbd7
+SHA512: bd1cd3c87cd9004467d56e8faeda0cc59ddef65d83466d093b36ac44852e247bcbb23c5bf36fe5fcc2902cbca0156762be396b0b373214344a85cde9dfddcf83
+Description: Hiện vật mua hàng trong ứng dụng Fugu15, nhấp vào thanh toán bật lên để hủy.
+Name: IAPStore (Rootless)
+Author: lenglengyu
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.instagramnoads-rootless
+Architecture: iphoneos-arm64
+Version: 1.3-5
+Section: Tweaks
+Maintainer: Repo bvn
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.repobvn.instagramnoads-rootless_1.3-5_iphoneos-arm64.deb
+Size: 182292
+MD5sum: 0d143bdae72486a065874ba647121a08
+SHA1: 9c0d9569fd23ded0bb8ab9a5616a900bafd8045d
+SHA256: 6e1a3e8c9314a5819b84d397f22879344d4198e3652f00eee67022c94fcabd04
+SHA512: 77b3c8f59a50c102a2c6e96950b2167f7e0b2875b8277c96d1c26237e34702db7701e0ec93d5e499dc0acec7900e2ca3001763690836fd68c334226e032dc628
+Description: Chặn quảng cáo Instagram,thêm tính năng nhấn đúp để lưu ảnh và Video.Hỗ trợ phiên bản 277.0 trở lên.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Instagram NoAds (Rootless)
+Author: Netskao
+
+Package: com.repobvn.killapps-rootless
+Architecture: iphoneos-arm64
+Version: 1.2-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2160
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.killapps-rootless_1.2-2_iphoneos-arm64.deb
+Size: 1683470
+MD5sum: 2ae0b60d4c57e135b3f84371427ab3ef
+SHA1: abe90d9a389e17d85f212a2493662385471bd316
+SHA256: 13285cf765843cddd28104b12921a8c17330d3990e761463b1ebbd00171c0dfb
+SHA512: b447bed317cddc232c6fb407423558f8d54b913cf9bcbcadc6743b65db99e3322a908c4360bce54ec699ade678d4c8b1cc811a80c177283856e200769f05ed10
+Description: Thêm chức năng xóa nhanh tất cả ứng dụng trong đa nhiệm.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: KillApps (Rootless)
+Author: Netskao
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.0.7_iphoneos-arm64.deb
+Size: 121230
+MD5sum: d63155eb71117607e14832459a5379ee
+SHA1: 6dcce741cd24b20f6428e4c64bfb81c54d6a52e2
+SHA256: 9fc89fd0fc0a6ec102ed684bcd6e5f9358a68e20ea6421ffe6e0dad0d9dd4f60
+SHA512: 2313a662ea5873a3d776af17ad4766a6da356d7258417daccf131cb1b8295af2a1b691883289b41f4c8e020c3e9abee9f1f0db5e2b01299f8ab04c9a34ce60e0
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH (Rootless)
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.0.8_iphoneos-arm64.deb
+Size: 131122
+MD5sum: 7a0913edf1ae649c64e82a45f1cac8eb
+SHA1: 83520859d97d3fd2672f78cba3c479548905593f
+SHA256: babe2a559f38c12282e4a8da0742523bfc2cd62132da2d4e9bbe61cd1a759a88
+SHA512: 2b6b5b6458f2dabd14f3f97cb5a1fd1b3f345264775addab529222e4bfd9c1f702a984f3c3edffac51861bb7e78f7f033f0dadc2652d7807053518ecc1d04522
+Description: Customize the ios settings page
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.1.0_iphoneos-arm64.deb
+Size: 138288
+MD5sum: 9f39b872d57668fe1e931f6070933f27
+SHA1: b798d4b3e96deaea25b6febc0121b9ae1f0b26a2
+SHA256: ebcf8346b311fffb873957f3ccf1e053d6f22ba4d60d18cce272fc212379dc44
+SHA512: c88f0ba64c59c541293e357fde37d913294f6dd96b05db2c72740be1341e693f007479b533ffa0e87846fc71ed15866b4e0fc2a4f618fd22d03f4ccb0786a159
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.simplus.rootless
@@ -664,6 +1015,203 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/eSim+.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.repobvn.sixls
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2236
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.sixls_1.1-1_iphoneos-arm64.deb
+Size: 1597032
+MD5sum: e9c0c0e31bb882651fb01ab91e62fd00
+SHA1: 41b22483a479d578051286b8f8223f084b90ada7
+SHA256: 7e62b1e8ba84e7690c81bc71c1ba5d9f04272e2880fda1bc25dea00796b75cb2
+SHA512: c67b3f639d7b6056f01884a8261462a62f7f34685e38925e3957de06119655708ffc4d06e133dc7a8cab41d47e47da075fe5f7a20cb9d79c03e04bd830925180
+Description: Màn hình khóa phong cách iOS 6!
+Name: Six (LS)VH (Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/Six.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Six.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Skitty
+
+Package: com.repobvn.snapper2-rootless
+Architecture: iphoneos-arm64
+Version: 2.6.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 1840
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.repobvn.snapper2-rootless_2.6.1_iphoneos-arm64.deb
+Size: 521888
+MD5sum: 387995f2a9eb11174891fc8cee20d96c
+SHA1: cf4ea8e9eeb284c1ee2bede3cc776f1b685022d2
+SHA256: 222eb8c2d9224b1e87ae5a8327673163ea2ba143bd53150d826eb1b31741f379
+SHA512: 673c0f7cd89048900130c5d12fa51dc5a5c16a7be2c3fa7c33c2a0b6efda7ee8940f1879474aa108ed0326fc8ba4a9cee600ea412afcd4af6d6e581eb75e32fa
+Description: Ghim ảnh chụp màn hình trên màn hình.
+Name: Snapper 2 VH(Rootless)
+Author: Jonathan Winger-lang
+Depiction: http://support-jailbreak.github.io/infodeb/Snapper/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Snapper.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.snapper2-rootless
+Architecture: iphoneos-arm64
+Version: 2.7.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.repobvn.snapper2-rootless_2.7.0_iphoneos-arm64.deb
+Size: 721382
+MD5sum: e782bea374adf1bbfcd935c0439f6c3c
+SHA1: 16c7f1d7c8d19863ee8ba0f3aaeaaa561817e5ed
+SHA256: 752dfb935ab99fdf1d69aa0eea91ac4780490ff801c0d02284b459fd2a54d3c8
+SHA512: 1f444c2cdaa888be35c4f7497d492f05f9df3c6de42b3223324c682418ede13d57c92e0363469b56b109b161314cca7147192ebda8571c907da99828a9c1721b
+Description: Ghim ảnh chụp màn hình trên màn hình.
+Name: Snapper 2 VH(Rootless)
+Author: Jonathan Winger-lang
+Depiction: http://support-jailbreak.github.io/infodeb/Snapper/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Snapper.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.5.9-Beta3-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-rootless_1.5.9-Beta3-rootless_iphoneos-arm64.deb
+Size: 1409448
+MD5sum: b6bcc08babc02a547e851d4d933ba1b8
+SHA1: 75f86843d84e02367819ebf7bcd1738e7644fac4
+SHA256: 3ba13195b5752f6f35c048b8113fd94c507e86766c656c7bf8fd0ec491ef5aff
+SHA512: 18219b439b716041081293de7abc5fbc1856c74b5e5185671875f224d2b7b9c74e71d90f4f408c880d9e969321851384005170765adf8fc06d44f5557f5506cf
+Description: Snowboard theming engine
+Name: SnowBoard (Rootless)
+Author: Spark & Dennis D. Bednarz
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.0-Beta3
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 4244
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-rootless_1.6.0-Beta3_iphoneos-arm64.deb
+Size: 1842634
+MD5sum: 40af055b547622bba578129ce7d48592
+SHA1: 8839718f4271d6ffcade5c8d70c5b51aa1bb2811
+SHA256: d72646cec3c1e66968a3edd59e5218af48dd4bb6e349ef7d9265d8562e26f1aa
+SHA512: 0a6718bda64da93e1a7b69506e45912b71d6583c0696921676ef92a7303864009470b8b4f45ee67f8e3dc0fc931e19a02dcbd7e0f458d48e0b9350e6a7422b50
+Description: Snowboard theming engine
+Name: SnowBoard (Rootless)
+Author: Spark & Dennis D. Bednarz
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.1-Beta3-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-rootless_1.6.1-Beta3-rootless_iphoneos-arm64.deb
+Size: 1406056
+MD5sum: be6e6bf038d1f2d908f75b722a908bc6
+SHA1: 55021260510be5909b1a0bb317e3e0e581483ceb
+SHA256: c0c49a57d399c5c62bb15ca887bfc09882215f9b64b6708328c7e0854ab91a0a
+SHA512: e0f6af09ca03a1110a36c6aabda0417832cd291f42ffe8258aa1c28f616c628d612752bc29f186d6bcbc432ecf17cddf2639c664b83294f3dac35d951b12f727
+Description: Snowboard theming engine
+Name: SnowBoard VH (Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.2-Beta3-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-rootless_1.6.2-Beta3-rootless_iphoneos-arm64.deb
+Size: 1411780
+MD5sum: 5338e042625e91ac648475173aac15ce
+SHA1: 4a2e8eda6a757f1e56a5d28656be8b32332fee8a
+SHA256: bfde3853b683c302977a7885176bc9d198589a8dcf7b3b1d253cba6f1e74e785
+SHA512: c985bdb5408d9d2655705ad238f26e2df1498298d48e0abd4f51fef24d0376340e74099cd93eff61c683d05e63caf851a74468f5f22ff42370e3168a9c41b13c
+Description: Snowboard theming engine
+Name: SnowBoard VH(Rootless)
+Author: Spark & Dennis D. Bednarz
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.3-Beta3-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-rootless_1.6.3-Beta3-rootless_iphoneos-arm64.deb
+Size: 1410680
+MD5sum: a354103a38c20cf031f77dc55913328c
+SHA1: 874f4e313ab66cda67f2a4826a3f41953af8d709
+SHA256: c9f8f0dd835ef948c8fc53fa3d35ecd691ce6d71ed197b78a628d3574cbc8e9f
+SHA512: 182b71351d9f36b12081532e2f2afd0bcf1ee97f9c8e679ee8e35776acf44416fde35bfa5a40c9e2733a63a95f5bb43fc592572efee1a566eeb1798c78ce1352
+Description: Snowboard theming engine
+Name: SnowBoard VH(Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.4-Beta3-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader,com.spark.snowboardapplication, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-rootless_1.6.4-Beta3-rootless_iphoneos-arm64.deb
+Size: 1410738
+MD5sum: c61bacbe13e9b4f4e12b3c7c7bb81b9c
+SHA1: 935beb47e9d246dbcd466512dc3c1d7250eb7d53
+SHA256: 49a42987d2dce389c2096e4baf0c8583efabe9442f133f2c0a7a6aa6c2481ed2
+SHA512: 44a139b6281f90ea18caa730ab6261a606b2e5948fc6f5c5ba98fb1c2bf465994b2b45005c992df629901f6529700c0844995a7d3edd66ad6fb9bbcb4746aa86
+Description: Snowboard theming engine
+Name: SnowBoard VH(Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Spark & Dennis D. Bednarz
 
 Package: com.repobvn.uyou
 Architecture: iphoneos-arm64
@@ -727,6 +1275,27 @@ Name: Velvet 2 VH (Rootless)
 Author: NoisyFlake <support@noisyflake.com>
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 
+Package: com.repobvn.velvet2-rootless
+Architecture: iphoneos-arm64
+Version: 2.1.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.repobvn.velvet2-rootless_2.1.2_iphoneos-arm64.deb
+Size: 158312
+MD5sum: e201ca7b87d2fb39d3697ed1bd76097d
+SHA1: 67d4b5e805da22ebd5f690bd1716b3cc2799ed62
+SHA256: 7340d9e72ef8f15aa861da40a97c6266484bebc93cc18aa700005b4e5659386c
+SHA512: 3c2d09ceaec01de5a592eb31fe18229b7dd84eafa55ad9a158412800c95f17a7e6683abe13025c80d8c6390d86f0baf86d2f25535ab300b7aa5d690c360eacdb
+Description: Tuỳ chỉnh thông báo của bạn.Hỗ trợ iOS 15-16.3
+Name: Velvet 2 VH (Rootless)
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://support-jailbreak.github.io/depictions/Velvet.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Velvet.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.vneidbypassjb
 Architecture: iphoneos-arm64
 Version: 2.0.7
@@ -769,6 +1338,50 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HidejbVNeID.
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
+Version: 1.7.19-1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.7.19-1_iphoneos-arm64.deb
+Size: 35992
+MD5sum: b24636156ce17a8d8d23890cb65618d2
+SHA1: 234262d0562396b7340a70c4204f1a824f93ae9e
+SHA256: b1f02893b78c89c701c3f6f04370442518dca04cf5bca7cd6505c988f4f7da88
+SHA512: e357a865563d3cdb9515fa35273a777522a4da54b227a4ec8c74d30ac754f7f94541455f140e22e0e8149e57c9a74110a82cca44aea0992772a8b0a9f2047d01
+Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.
+Name: YouPiP (Roorless)
+Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.7.19-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.7.19-2_iphoneos-arm64.deb
+Size: 36044
+MD5sum: b5bb7004d496077449f6a409c9151c7b
+SHA1: a5dfbb8526d6502cff2b5454eed9caec90833e63
+SHA256: 9a8cb1f4c3d25817f9c413663b0b81f4d0ba34643e5e9395dc99e96f808f3088
+SHA512: 112d14d9bd3a1e92d8e9624bced7019f8a63070b3789807c3255bb8bb38666d0f8937abf123e1d04bea492351c63b0cdde3ce496cd8f2bccc40b7795d7e990db
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/youpip.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
 Version: 1.7.21
 Section: Tweaks
 Maintainer: Repo BVN
@@ -804,6 +1417,46 @@ SHA1: cb1c66ff30e1082a39014349cef47b2312a2c589
 SHA256: afffe53fb2f0cd91c10204b0ac0866940ec94856e50d8f1b83e44ecc1c15a551
 SHA512: 1eb92feb44b81e6c474216e76a8d2f5013c73eedf8b3fea7d07d1c918fbbca74f080b4283c59744c0889b38f4ae79928221c382130e81eeb389e352ae8922917
 Description: A lightweight YouTube improvement tweak.
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/ytx.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.2.5_iphoneos-arm64.deb
+Size: 4146
+MD5sum: bf5774c3e1255e5fa668ede1c4f4273b
+SHA1: 64e3b77bd3487e54098d0aefe5e3a535c4a0d734
+SHA256: 622ca06c7d5c5b67f65843b81f15b7c842a95026886ee9a371dd9e44c3a49716
+SHA512: 63577807c1d36341494043ad88666b81bf2eef0f086b8db38fe7db1d51c7ce184e617b57a90b7f343b299e9e962c790272098941f7617735d48c179240b24469
+Description: Chặn quảng cáo,phát lại nền trên ứng dụng Youtube
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/ytx.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package:  com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.3.0_iphoneos-arm64.deb
+Size: 4234
+MD5sum: 0ce8dacc5321b7547904e7f6c83ed5a6
+SHA1: 442cbe64f52fd8a77fa35254c04baef1eecfe5ac
+SHA256: d6758965cd16acc27914c670255536f5d1b3e1014bd3f0df36af88cda97514c0
+SHA512: 4e25fa987acfe328f4d2c38ffd59323059f81ec20a0dd4c70c91bf2d13203d4530a7267bddf9572bcf93899e01fc2e05f26210f99e0dc87aaf2d0617da5f4351
+Description: Chặn quảng cáo và phát lại nền cho ứng dụng Youtube!
 Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://support-jailbreak.github.io/depictions/ytx.html
@@ -891,6 +1544,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: alimaulana
+
+Package: com.repocydiabvn.ampere
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1436
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.repocydiabvn.ampere_1.0.1_iphoneos-arm.deb
+Size: 1285368
+MD5sum: 30c7576364ab579f1bf120aa135a7d56
+SHA1: 7798fa8f2807eeab669811445680d570dacaaa80
+SHA256: 3f69badd13739fbbf48655b1496f47cb0fc7ec6331d5f92b81e350141bc0bb9d
+SHA512: 8f799f680a50a47720837f308e48c80af991a29774bf65117886427594f67eaddc1601c9595cdc6796985f7ed9c1e6792d1ef8166f3f869fce35b88e7aac77d5
+Description: Chỉ báo pin kiểu iOS 16
+Name: Ampere VH
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 
 Package: com.rpgfarm.libaptoast
 Architecture: iphoneos-arm
@@ -980,6 +1653,45 @@ SHA256: 47f255fe1ed95d01f745c3f146766923b776d81a6c3bd9b0185df82d2779bc79
 SHA512: de9f271cc1a65dedeb6553194d4bf6d7673ad4e75d242749f90089709debf59e1b52a25b2bed858a422647c9446e6995cefc86cda4dc02fb60a58379cd6bce8f
 Description: Dock for SnowBoard
 Name: SnowBoard Dock Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.effects
+Architecture: iphoneos-arm64
+Version: 1.2.2-Beta2-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 412
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64.deb
+Size: 59358
+MD5sum: d9a667f76153ae92c729a522c96df1f8
+SHA1: f2465ca46c30aefe4cca6a45538b47fe92d8341a
+SHA256: a67b8421db79609aae711fcdc01c52640dcbbfb74f4479a78703099e5aff9061
+SHA512: 85dac69549f1a42560b3939bfb8639609b4d56e43902f1538260bf62e799f1c1bfa7ee5462dae2d4fa1971abd92e93109ea1146c96b9b4428e0970d03f94eeca
+Description: Icon Effects for SnowBoard
+Name: SnowBoard Icon Effects Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.fonts
+Architecture: iphoneos-arm64
+Version: 1.1.0~Beta4-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 392
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 35522
+MD5sum: 0084e91aa32b037e597ec58fef89c63e
+SHA1: de45d07e5227ec645cdcaf3d1a34794000fb3138
+SHA256: c0e20d6095301621a237878a26c5f8d69ff4b0ba2bd7246c76feaf88eb73ef4e
+SHA512: e559c4434983982a89c2acd7ccfc5d92794e50d4e7b00325515b09fdfca31821720fc5802552861c6f519f8225e48f6eb2f2ab5208e17663e314a527d073950d
+Description: Fonts for SnowBoard
+Name: SnowBoard Fonts Extension
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
@@ -1128,6 +1840,23 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm
+Version: 1.5.2
+Section: Development
+Maintainer: ItzNebbs
+Installed-Size: 284
+Filename: ./debs/com.support-jailbreak.libnebbs_1.5.2_iphoneos-arm.deb
+Size: 53598
+MD5sum: cb44d8c85083a2f78973579dec8f373b
+SHA1: f2224e52bedd01cd07f41e1527aaef903f60da99
+SHA256: 165d04f89424f5fc17473edca99936b8cda910425d845d7d85c8dbbe1b2c9ecd
+SHA512: 7550416e38b277889799da4cb0e3065a08d1bc5547b18570b0c655e0ba45448afafc2ccf0d18ec866a37c86aa7faf401f170322d4fc893de52cb45eaea038127
+Description: Tập hợp các lớp được sử dụng trong các chỉnh sửa của tôi.
+Name: libnebbs
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: ItzNebbs
+
+Package: com.support-jailbreak.libnebbs
+Architecture: iphoneos-arm
 Version: 1.5
 Section: Development
 Maintainer: Biện Văn Nhật
@@ -1142,6 +1871,46 @@ Description: Thư viện những thứ thường được sử dụng trong các
 Name: libnebbs
 Author: ItzNebbs
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.support-jailbreak.libnebbs
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Development
+Maintainer: ItzNebbs
+Installed-Size: 276
+Filename: ./debs/com.support-jailbreak.libnebbs_1.7_iphoneos-arm.deb
+Size: 57834
+MD5sum: 5aedbbf2589c3a898a43f031242cacd8
+SHA1: f8d1ea1b1712d1fdb5588a0f5a1e3ed414877262
+SHA256: 69567078e9b350d995bcc150722fafd6b6ad23acf0f4ef26d972e2ade01b9e0c
+SHA512: d8c40016ca18e585fe014623576e7445b7eb313009b88a4452c1df71178ef0a2ceb29791991ff686d29fb0f976aafaa969a358c7a075b4e8197487d62271a875
+Description: Một tập hợp các lớp được sử dụng trong các chỉnh sửa của tôi.
+Name: libnebbs
+Author: ItzNebbs
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+
+Package: com.support-jailbreak.mywallVH
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 2232
+Depends: mobilesubstrate, com.muirey03.libimagepicker, ws.hbang.common (>= 1.14), applist
+Filename: ./debs/com.support-jailbreak.mywallVH_1.2.deb
+Size: 1874330
+MD5sum: 1bdf8e657e6524289ed29229ca4a0dff
+SHA1: be2fa4191ce05e82c91edd6688f7577ab4491847
+SHA256: 2546f7b42fc3e05801575e6e7ffbf69deba2985bae3bb1576122276018f7f29e
+SHA512: 96f365ab4fd20bb67026e685f42e62f8633ad284267db3a2c072f9a7197e44faf3b1f903e0f85b11fb4cc289d15be94d1cdcae35b5fe549cff189376420c0373
+Description:
+    Tính Năng:
+ - Chèn hình nền vào mọi nơi trên Ios của bạn
+ - Hỗ trợ từ Ios 13 đến Ios 14.2
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.5
+Support: https://www.facebook.com/SUPPORT.BVN.VN
+Name: MyWall Việt Hoá
+Author: Dylan West
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.support-jailbreak.newterm2
 Architecture: iphoneos-arm
@@ -1205,6 +1974,26 @@ SileoDepiction: http://bvtsupport-jailbreak.github.io/depictions?p=com.supportja
 
 Package: com.supportjailbreak.LynxVIETN
 Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2028
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Conflicts: com.supportjailbreak.Lynxviethoa
+Filename: ./debs/com.supportjailbreak.LynxVIETN_2.0_iphoneos-arm.deb
+Size: 1034642
+MD5sum: dce3b904793fd2167fed42f6aa96f8b5
+SHA1: fb7c737d8c5c0b6c379e563bc724b99807576aa4
+SHA256: 65e1b0246f954a9dc6d6fbae95c38909280f8862f4c98b8c9827706592bce464
+SHA512: dcb70aede568866dd95994e32d49fa715cd06566aa809c3dbdc020f76a58fe23661684304c784f16c9a4c004b21451ea6532753648e13ba418e0737e7db0202a
+Description: Cấu hình thiết bị theo cách bạn muốn IOS 14-14.5
+Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios14.2
+Name: Lynx2 Việt Hoá
+Author: MTAC <mtactheming@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreak.LynxVIETN
+Architecture: iphoneos-arm
 Version: 2.3
 Section: Tweaks
 Maintainer: Biện Văn Nhật
@@ -1260,6 +2049,25 @@ Name: AnimPlus Việt Hoá
 Author: eXqusic
 Support: https://www.facebook.com/SUPPORT.BVN.VN
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreak.animplusviethoa
+Architecture: iphoneos-arm
+Version: 1.0-6
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 616
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: ./debs/com.supportjailbreak.animplusviethoa_1.0-6_iphoneos-arm.deb
+Size: 105850
+MD5sum: 83137f74e6a602c3ccb5d0513ffd169e
+SHA1: e2cb4ca4d939f4e4316717b5f0684ced8d9c7572
+SHA256: 356c807519cf64cf91eebe262763a7dcc5807c770a33d4251a99e15b3953b938
+SHA512: ffec1f20a4b2518006652bc31e0a3fdfba28e569e0a1ec2ee6b444bdfeb2b252d8fd403b01feaf0ff529ff3fcc8b5b729220a61e22edd27dc2b80f31982dfa7d
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: AnimPlus Việt Hoá
+Author: eXqusic
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.appstore
 Architecture: iphoneos-arm
