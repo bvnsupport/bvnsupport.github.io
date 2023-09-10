@@ -14020,6 +14020,23 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
+Filename: ./debs/com.bvn.bhtwitter_4.0_iphoneos-arm64.deb
+Size: 1367796
+MD5sum: 342902f9e6f650cbed3b62e0e7716181
+SHA1: bbfd2a7ad2489d780e00de5466b380eff6e9d71f
+SHA256: e823c0938bbfd85cbec1140e46a1f59f5b60759ebf6c408a9ffca6025014d74c
+SHA512: 8b3bb4396a41953d181b9df28eadf92994b0daea7715928cabea4a41086d858fcab8b17896d585f7d58d80ede2692dbde0ad23c04aec76df80307f38ae3e062e
+Description: Tinh chỉnh tuyệt vời cho Twitter
+Name: BHTwitter (Rootless)
+Author: Bandar Alruwaili
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.coolcc
 Architecture: iphoneos-arm64
 Version: 2.0
