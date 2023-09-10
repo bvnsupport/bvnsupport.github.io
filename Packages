@@ -14056,21 +14056,43 @@ Author: alias20
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.jade
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1237
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jade_1.0_iphoneos-arm.deb
+Size: 390110
+MD5sum: bba6632f14d6f33190352f8d9a5171fd
+SHA1: cfdbc385b818c268b99daef05803093f1d90297d
+SHA256: 6586dddf7691edf344f48da054b10933f2b7cd5b6029b1bba78edf06c7917624
+SHA512: d75d1fdb4f36e02a8dd444adad1f047d379f970026c56fd46f551ce3498aaabac4fd202ac3ca1f8b8fa6b137e0cc092cec52bdcc49ea864d9b012f98de813ea4
+Description: Tuỳ chỉnh trung tâm điều khiển.
+Name: Jade VH
+Author: Nightwind and thetimeloop
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.jade
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: Tweals
+Section: Tweaks
 Maintainer: BVN
 Installed-Size: 1245
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.bvn.jade_1.0_iphoneos-arm64.deb
-Size: 390304
-MD5sum: 61949729e570ba129b0b7232d96286c4
-SHA1: f66618a969fd1e98379b8bcda752ab8d1f2a0326
-SHA256: 638a32f97a5f89e3b6ed9e49059e9d27cbbee5124e5523223b2a5a5ec5a5f35f
-SHA512: 81b59fe72c8ffe5365c8c12a7be6d6bd69c5f2a3fb12c69a01774c5454b61900b2f1c98e61c348cd3edffaa3f049a48b8ca20120085b7287cb531014247e46c2
+Size: 390364
+MD5sum: fab95ae6b9f2677438b821b9fa987458
+SHA1: 24eecf7d8a60d7f0b4b77c9e33f4758c8b880997
+SHA256: d3f496cbc2246579a9ff7546297a88bfdb8fca9ae7009b1d0fa9b96c28ad9895
+SHA512: bd8af350c23fbc169c70a292c52d19df99725390e935c5aa711b3824e6a16cd73cad6d1bb82c54b9bc4ff66f3ff40581081e64087438adba2baae769fb5d7134
 Description: Tuỳ chỉnh trung tâm điều khiển.
 Name: Jade VH(Rootless)
 Author: Nightwind and thetimeloop
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.strangerwp
