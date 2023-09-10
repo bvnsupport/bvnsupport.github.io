@@ -14038,6 +14038,24 @@ Name: CoolCC Reborn
 Author: alias20
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.jade
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweals
+Maintainer: BVN
+Installed-Size: 1245
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jade_1.0_iphoneos-arm64.deb
+Size: 390304
+MD5sum: 61949729e570ba129b0b7232d96286c4
+SHA1: f66618a969fd1e98379b8bcda752ab8d1f2a0326
+SHA256: 638a32f97a5f89e3b6ed9e49059e9d27cbbee5124e5523223b2a5a5ec5a5f35f
+SHA512: 81b59fe72c8ffe5365c8c12a7be6d6bd69c5f2a3fb12c69a01774c5454b61900b2f1c98e61c348cd3edffaa3f049a48b8ca20120085b7287cb531014247e46c2
+Description: Tuỳ chỉnh trung tâm điều khiển.
+Name: Jade VH(Rootless)
+Author: Nightwind and thetimeloop
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.strangerwp
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -21910,6 +21928,23 @@ SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e21
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
+
+Package: xyz.cypwn.bigsurcenter
+Architecture: iphoneos-arm64
+Version: 1.4.5
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/xyz.cypwn.bigsurcenter_1.4.5_iphoneos-arm64.deb
+Size: 878168
+MD5sum: e75e1bd12151dfc3ea1cf4a1e7173ef5
+SHA1: 678808b804030708a01887ec0d45bb02ff31d588
+SHA256: 3c68458f7d9362665d567c68e804634caf5532dcbf4a35510df3bd4035e445e2
+SHA512: 580ff609a1d5641d523866741c851583ea144155649df5bb818566cabcd1a5ae1cf6999c96872e357c5b203153687ad23b6f098a8946564603411ebb9898dba8
+Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc định bằng một trung tâm mới nhẹ và trang nhã lấy cảm hứng từ trung tâm điều khiển trong MacOS Big Sur
+Name: BigSurCenter VH(Rootless)
+Author: nicho1asdev
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: xyz.cypwn.xrays
 Architecture: iphoneos-arm
