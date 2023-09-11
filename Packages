@@ -14095,6 +14095,26 @@ Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.spectrum
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 580
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Filename: ./debs/com.bvn.spectrum_1.1_iphoneos-arm64.deb
+Size: 97304
+MD5sum: 82c11ace9db4bef4954a79bec08b2710
+SHA1: 34ef4d9624278ee9c9d0494998f2de71ef7358cc
+SHA256: 6b907bb4321206ea1e0acd0ffd4984f8889264db66d1cff5e50d7bb2a6cda603
+SHA512: fa9b9aca950d602738e6708a29e9e67b2060fa42ab1a2f10720c73c2db471fcd0261052d721365623d4f731d9e274bb3c61e8a192f8c45d603883727f483fc98
+Description: Tùy chỉnh màu sắc hệ thống!
+Name: Spectrum VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Spectrum/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Spectrum.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Skitty & EvenDev
+
 Package: com.bvn.strangerwp
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -20117,6 +20137,24 @@ dev: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
+
+Package: libskittycolor
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: System
+Maintainer: Skitty
+Installed-Size: 260
+Filename: ./debs/libskittycolor_1.1_iphoneos-arm64.deb
+Size: 45066
+MD5sum: c4ab9dc047876cff1d102eb1fe20cfd1
+SHA1: 2e62158db65218e3ef436464b6004be1b9cba956
+SHA256: 2b4c98d75e27144b300d3b971bb762e68667ba474440d221fb9e98a31148a708
+SHA512: 074eef5e56a1e2835fbfadf508a746f0fc9564a936dead61c68847dac51c2e03dbf474aa308dffe3a697f4238396a440fa0f6b1099d2026e8b3a4f70120d28bd
+Description: A simple color picker implementation.
+Tag: role::developer
+Name: libskittycolor
+Author: Skitty
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: libssh2
 Architecture: iphoneos-arm
