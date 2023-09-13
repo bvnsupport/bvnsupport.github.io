@@ -13608,6 +13608,27 @@ Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
 SileoDepiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.bienvannhat.settingsrevamp_2.1.1_iphoneos-arm.deb
+Size: 138180
+MD5sum: 9b941bc1a8f8caef8fa81097dcdd1d38
+SHA1: c2a056b85c62adceb7b43ed03abbc65cf1dc0f55
+SHA256: fc2dacb348853665b2638e3eaff51a779bd0e983a72f7d2ff39061f3bfde841d
+SHA512: 181bbec0ab98a653bf4dfc4712d4e7d0090401f589cdb520b7d66b261671ccd17b0918eb5c5b85b5de807f8476f95b65febc29409b0c8c985ebdbb22a5edbf26
+Description: Tùy chỉnh trang cài đặt ios
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
+Name: SettingsRevamp VH
+Author: SOPPPra
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.uyou
 Architecture: iphoneos-arm
 Version: 2.2
@@ -17169,6 +17190,27 @@ Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 138450
+MD5sum: 20f4008b3243f1cb3776f028939b8c9f
+SHA1: 54eb65138635096e5a2b9781e7145a265eff34c6
+SHA256: 1f3dbec40e2b91f97a4a6529970caf7bc1dd37b589dbba0bf50a3d350001dd4a
+SHA512: 531c28be71c1de6a22896acb4de6e22a768d86467d4d9bc3e7ac6d9d018847014bf4f5fef8c0f05edfdb224481042bf33d1a213d217163b179b5043ecb2eee92
+Description: Tùy chỉnh trang cài đặt ios
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.simplus.rootless
 Architecture: iphoneos-arm64
 Version: 1.15-CRK
@@ -20274,6 +20316,44 @@ Name: Ding VH (Rootless)
 Author: Nebula
 Depiction: http://support-jailbreak.github.io/infodeb/Ding/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Ding.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: me.REPOBVN.ding
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Repo BVN
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.REPOBVN.ding_1.1.0_iphoneos-arm.deb
+Size: 35192
+MD5sum: 538c08678f1e9d0d982987ef0c1c0a41
+SHA1: f8896c496f296b3cc170b8ce48327b5c0c4ee1a0
+SHA256: 8a867a3118e83499afe94f03969a4cb737f954dc2adccf6bd1abf2ddfd97c7ef
+SHA512: 447cbfa2635d3cb5cce742a649bf42197c2070b487413a60da166d6ce19b3d630abde0ea5dc36592999e958a6426f05e9741072dcac0daed544d441bd2f18c35
+Description: Tuỳ chỉnh cần gạt rung của bạn!
+Depiction: http://bvnsupport.github.io/infodeb/Ding/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ding.json
+Author: Nebula
+Name: Ding
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: me.REPOBVN.ding
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Repo BVN
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.REPOBVN.ding_1.1.0_iphoneos-arm64.deb
+Size: 35136
+MD5sum: e326520b3e682a8e3a59fb4b09d580a3
+SHA1: 1363baa7fbb657ad06448c16c3d8634569b668ac
+SHA256: ee3aed384594fdf9e7cc360129ce0991955da420fed597e51c97f5fcff605f44
+SHA512: 7cea9f3e056df3956694607f9cc638e8561883217f161510e3f557f8f80f43245288ba1800948179f69fbdb9453c8d5c9d0f88e73b228eb6321891c487b721e3
+Description: Tuỳ chỉnh cần gạt rung của bạn!
+Author: Nebula
+Name: Ding
+Depiction: http://bvnsupport.github.io/infodeb/Ding/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ding.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: me.jjolano.fmwk.hookkit

@@ -1,20 +1,31 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Ding VH\n\n- Thay đổi chức năng của nút gạt rung\n\n- Các hành động\n\n- Đèn pin\n\n- Khoá định hướng màn hình\n\n- Chế độ máy bay\n\n- Wi-Fi\n\n- Bluetooth\n\n- Chế độ nguồn điện thấp\n\n- Không làm phiền\n\n- Dữ liệu di động\n\n- Chế độ tối. \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/Ding/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/Ding/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://support-jailbreak.github.io/infodeb/Ding/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/Ding/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -22,7 +33,14 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Ding VH(Rootless)\n\nThay đổi chức năng của nút gạt im lặng sang các chức năng khác \n\n\n",
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -31,25 +49,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Facebook NHẬT BIỆN**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
+"title":"Thông tin "
 },
 {
 "class":"DepictionTableTextView",
-"title":"Tác giả",
+"title":"Nhà phát triển",
 "text":"Nebula"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.10.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -58,16 +65,21 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"7/6/2023"
+"text":"13/9/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"212 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13 đến 16.4"
+"text":"iOS 13.0 đến 16.4.1"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2023 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -80,11 +92,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.0\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 1.1.0\n\n- Thêm hành động\n\n- Không làm phiền\n\n- Chế độ tối\n\n- Dữ liệu di động'- "
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2023 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
