@@ -14055,25 +14055,6 @@ Name: CoolCC Reborn
 Author: alias20
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.emerald
-Architecture: iphoneos-arm64
-Version: 1.0.7
-Section: Tweaks
-Maintainer: BVN
-Depends: firmware (>= 15.0), ws.hbang.alderis, com.spark.libsparkapplist, xyz.cypwn.xinam1ne
-Filename: ./debs/com.bvn.emerald_1.0.7_iphoneos-arm64.deb
-Size: 450274
-MD5sum: 0c96ddf96c74973d26e8e0176235eb65
-SHA1: a953a2339bd469cc4427a1f7bb50f41bcdee7e95
-SHA256: 6b18f060159de516fcf7a15b291d92110e6c00a8e180cd1b988657190637a95b
-SHA512: 49a6a96a7714e13bb5dea35d9a843d3bfe779352e9ebf4a164b5f825247005e10c0b38c170574a9b844a857bf2b49469e4cdb25510117a0969f323760d44e588
-Description: Status Bar Pills and Platters
-Name: Emerald (Rootless)
-Author: LaughingQuoll
-Depiction: http://bvnsupport.github.io/infodeb/Emerald/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Emerald.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.bvn.jade
 Architecture: iphoneos-arm
 Version: 1.0
@@ -21461,27 +21442,6 @@ Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc địn
 Name: BigSurCenter VH(Rootless)
 Author: nicho1asdev
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.4-4
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99), xinamine (= 99)
-Depends: mobilesubstrate | ellekit, oldabi | xinaa15 | cy+cpu.arm64, firmware (>= 15.0), file, odcctools, ldid, plutil, com.bienvannhat.filza64bit (>= 4.0)
-Replaces: emt.paisseon.xinamine, xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.4-4_iphoneos-arm64.deb
-Size: 121940
-MD5sum: 0f1fd4ff2eb8817e00228caf5cb58774
-SHA1: 11e0fc5265867d439b1e02c7f2769705db1daca9
-SHA256: 9e67eead2bd5b8e6d8d206670f8c188d21e017976a9370b07ff169d3f934d698
-SHA512: 56527c95d489085b39c3a1fba72bfbeeb2e1ae263ddf05eddff8d827c885d2b7fb393c43f20fcd5071a486e40b17e119f29fb446a89179c370c9c1cf450de232
-Description: Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
-Depiction: https://repo.cypwn.xyz/depiction/1519
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1519
-Name: Xinam1ne All-in-One
-Author: Paisseon, Sudo, NoW4U2Kid
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: xyz.cypwn.xrays
 Architecture: iphoneos-arm
