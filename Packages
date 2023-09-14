@@ -13610,6 +13610,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.settingsrevamp
 Architecture: iphoneos-arm
+Version: 2.1.1-1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.bienvannhat.settingsrevamp_2.1.1-1_iphoneos-arm.deb
+Size: 138180
+MD5sum: 3fd268d1c6bc81b5fcda86b02e056f30
+SHA1: d7b269c76ce6c01d24f0af7d3330f615f129c70b
+SHA256: 7964b1754a366413a11c2b6d263f82b21f04703807f484428d577854e08c70b5
+SHA512: 6fa159af9f83656f10d99c5f236280174cf06c1b65d843f858d85328e896ab4fff28976627d704813034e6c62564400cbbaa0b4389f022eb0a2b1c24cbe96866
+Description: Tùy chỉnh trang cài đặt ios
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://bvnsupport.github.io/infodeb/SettingsRevamp/?p=info
+Name: SettingsRevamp VH
+Author: SOPPPra
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
 Version: 2.1.1
 Section: Tweaks
 Maintainer: Repo BVN
@@ -14154,6 +14175,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Stranger/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stranger.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 Author: Skitty
+
+Package: com.bvn.tweakhub
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.tweakhub_1.0.2_iphoneos-arm.deb
+Size: 77270
+MD5sum: 0cfd144a38be4f8e9d6729c5fb85a98e
+SHA1: ad38cf940812a0d79939a773eb759dd82ebafa6e
+SHA256: 08185fd9a38ad07bd26381b0d573bd05daa850e133d0cb3357a89553a8ea4a6b
+SHA512: faf7f62475e438450a6451f273656f350395d8e8873639d98ea2f380b40044d65dfb67811c3300113d0acb1247c35ecb56717ac77361756823796f33504fb6f4
+Description: Liệt kê tất cả các chỉnh sửa đã cài đặt và truy cập trực tiếp vào cài đặt của chúng. Với tinh chỉnh này, bạn có thể xem cửa sổ bật lên hiển thị tất cả các chỉnh sửa đã cài đặt trên hệ thống của bạn. Truy cập nhanh vào cài đặt của từng tweak chỉ bằng một cú chạm.
+Depiction: http://bvnsupport.github.io/infodeb/TweakHub/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TweakHub.json
+Name: TweakHub VH
+Author: SOPPPra
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.tweakhub
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.tweakhub_1.0.2_iphoneos-arm64.deb
+Size: 78674
+MD5sum: 374f801276bae7d1699225bdf6f27693
+SHA1: 6b878386d66914177ef05e43dc702c820a535480
+SHA256: 991e715efb56fedd853924ef5716e369dedadd3d1e9ac59f02cd6b398e648d59
+SHA512: 2c172bd2a46254ec6b9441ac2348be7cf550b29679be4a062c1da4bccec81db4daa501ab2a28bd592584a44e65b03fe11b2d0dc10bc294ac514ca2e4a8d95003
+Description: Liệt kê tất cả các chỉnh sửa đã cài đặt và truy cập trực tiếp vào cài đặt của chúng. Với tinh chỉnh này, bạn có thể xem cửa sổ bật lên hiển thị tất cả các chỉnh sửa đã cài đặt trên hệ thống của bạn. Truy cập nhanh vào cài đặt của từng tweak chỉ bằng một cú chạm.
+Depiction: http://bvnsupport.github.io/infodeb/TweakHub/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TweakHub.json
+Name: TweakHub VH(Rootless)
+Author: SOPPPra
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvnrepo.Starfall
 Architecture: iphoneos-arm64
@@ -17188,6 +17249,27 @@ Name: SettingsRevamp VH(Rootless)
 Author: SOPPPra
 Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.1-1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.1.1-1_iphoneos-arm64.deb
+Size: 138446
+MD5sum: e09d0b2e9f8dafb554c3b93883529c21
+SHA1: 133e792b489f59e09bbf23723919406e2280cc63
+SHA256: 4cdf157ec5c84fe56b9ec2542becc47cfc0424011f0230a200fce1f8552161d5
+SHA512: 3c336ac2542e3881a58ce84b262a4836b4815165010f897009f56e56c90bfc609b7c7514ea80a32d9b991743ad073c0c81d12d4f272f7453abd7fa915150bcb2
+Description: Tùy chỉnh trang cài đặt ios
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.settingsrevamp

@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Ding VH\n\n- Thay đổi chức năng của nút gạt rung\n\n- Các hành động\n\n- Đèn pin\n\n- Khoá định hướng màn hình\n\n- Chế độ máy bay\n\n- Wi-Fi\n\n- Bluetooth\n\n- Chế độ nguồn điện thấp\n\n- Không làm phiền\n\n- Dữ liệu di động\n\n- Chế độ tối. \n\nㅤ\n\n",
+"markdown":"Tinh chỉnh TweakHub\n\n- TweakHub là một công cụ mở cài đặt trước tinh chỉnh từ Màn hình chính\n\n- TweakHub là một tinh chỉnh bẻ khóa cải tiến mới sẽ giúp bạn dễ dàng truy cập các bảng tùy chọn cho tất cả các tinh chỉnh đã cài đặt trực tiếp từ Màn hình chính. Hãy tạm biệt việc điều hướng qua ứng dụng Cài đặt và thay vào đó hãy sử dụng tinh chỉnh TweakHub để đơn giản hóa quy trình, giúp quy trình trở nên thuận tiện hơn bao giờ hết. Tất cả các bản jailbreak không root đều được hỗ trợ.\n\n- Sau khi hoàn tất cài đặt TweakHub, một ngăn tùy chọn mới sẽ tích hợp vào ứng dụng Cài đặt của bạn, cấp cho bạn toàn quyền kiểm soát chức năng của nó. Trong giao diện trực quan này, bạn có quyền không chỉ kích hoạt tinh chỉnh mà còn tùy chỉnh các khía cạnh khác nhau trong hành vi của nó. \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,11 +21,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/Ding/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/TweakHub/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/Ding/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/TweakHub/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/TweakHub/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -54,9 +58,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Nebula"
+"text":"sopppra"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/9/2023"
+"text":"14/9/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.4.1"
+"text":"iOS 13.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -92,7 +96,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.0\n\n- Thêm hành động\n\n- Không làm phiền\n\n- Chế độ tối\n\n- Dữ liệu di động"
+"markdown":"### Phiên bản 1.0.2\n\n- Hỗ trợ rootless jb"
 },
 {
 "class":"DepictionLabelView",
