@@ -14062,6 +14062,25 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.batterynotch
+Architecture: iphoneos-arm
+Version: 1.8.2k
+Section: Tweaks
+Maintainer: Repo BVN
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
+Filename: ./debs/com.bvn.batterynotch_1.8.2k_iphoneos-arm.deb
+Size: 148356
+MD5sum: 9a3a70f47f1a23b2d6031a4834fa2818
+SHA1: d3aaaa59ecc9ac26077c0082764c89cd364d2bd6
+SHA256: 009f824ef5d55128f1736525457947bda7766454b340dbc8a9c3aee030ab6aed
+SHA512: cb65ac4e7af64a10d051f48fdcb03a0881791f9d93e349a035a4e92b3997dfa4abd3be889dee1e8dbb9a184584d4e1a4e592baa4d3584e293bcf9e4ddc6f6e27
+Description: Represent battery around the notch
+Depiction: http://bvnsupport.github.io/infodeb/BatteryNotch/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryNotch.json
+Name: BatteryNotch VH
+Author: gilshahar7
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.0
