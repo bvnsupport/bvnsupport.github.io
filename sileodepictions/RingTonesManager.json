@@ -1,0 +1,105 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"RingTonesManager\n\n- Tạo nhạc chuông ngay trên thiết bị của bạn\n\n- Sau khi tải Tweak xong yêu cầu Respring\n\n- Cách sử dụng:\n\n- Các bạn tải nhạc chuông ở bất kỳ đâu,sau khi tải về xong lưu lại ở mục Tệp,sau đấy vào ứng dụng RingTonesManager trên màn hình chính và chọn mục "Import RingTone",chọn File vừa tải về để làm nhạc chuông\n\n- Chúc các bạn thành công 🥰 BVN Repo \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/RingTonesManager/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Netskao"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1-4" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"16/9/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"6,9 MB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 15.7.9"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1-4\n\n- Hỗ trợ Rootless Jb"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

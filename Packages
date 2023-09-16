@@ -14062,6 +14062,26 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.RingTonesManager
+Architecture: iphoneos-arm64
+Version: 1.1-4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=15.0)
+Filename: ./debs/com.bvn.RingTonesManager_1.1-4_iphoneos-arm64.deb
+Size: 6883726
+MD5sum: a032b4f0b80fe2d2c0a9f566c4eded2a
+SHA1: 1351bfc9aa2a84cd9ff0a7607ee6d82ad8a189fb
+SHA256: 321a6905054122c2f26c73a6a2006efe0863e21cdbf3422e99a6e8b1c4ada532
+SHA512: 44859819e1272aafe0c8e42ea0960e7c58e4b636ac69e811959f576bafd155451b5b4ce99ba00a559812c3fcc3358d108901dc9063739ba8f9c0625dfa32f3f0
+Description: Tạo nhạc chuông ngay trên thiết bị của bạn..
+Name: RingTonesManager
+Depiction: http://bvnsupport.github.io/infodeb/RingTonesManager/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RingTonesManager.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Netskao
+Tags: compatible_min::ios15
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
