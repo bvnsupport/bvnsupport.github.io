@@ -14196,6 +14196,25 @@ Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
+Version: 2.4.4
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.4.4_iphoneos-arm64.deb
+Size: 709996
+MD5sum: 7947dddd764692d1eb8b739e1249b04b
+SHA1: 0b23374f688376ad5aa2e8cc617ec37514f37fa9
+SHA256: 75e13e2d07a0efa014be3e50730a38732c513c5332297af3a11d6bc388af375f
+SHA512: 6ad0b0096828160850cc06786be4141eea668f3e9ebd817e0bcec860e159585def20988ff16dfff9716c66531226036c330191fe99f909b670afb721b1fbe920
+Description: Tùy chỉnh iDevice tối ưu cho iOS 14+
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Name: Lynx 2 VH(Rootless)
+Author: MTAC
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
