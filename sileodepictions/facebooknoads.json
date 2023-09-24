@@ -1,16 +1,27 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Facebook No Ads(Rootless)\n\n- Chặn quảng cáo cho ứng dụng Facebook\n\n- Cập nhật thêm chặn quảng cáo khi xem Videos \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/facebooknoads/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/facebooknoads/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -18,7 +29,14 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Tinh chỉnh Facebook No Ads(Rootless)\n\nChặn quảng cáo cho Ứng dụng Facebook👆. \n\n\n",
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -27,25 +45,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
+"title":"Thông tin tinh chỉnh"
 },
 {
 "class":"DepictionTableTextView",
-"title":"Tác giả",
-"text":"P2KDev"
+"title":"Nhà phát triển",
+"text":"Cydiageek"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -54,16 +61,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"24/06/2023"
+"text":"24/9/9/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 15.7.1"
+"text":"iOS 15 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2023 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -76,11 +83,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 1.0.1\n\n- Hỗ trợ thêm chặn quảng cáo Videos"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2023 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
