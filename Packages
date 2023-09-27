@@ -3256,6 +3256,27 @@ Name: CallLogPro (iOS 8 - 14)VH
 Author: IArrays
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.calllogpro
+Architecture: iphoneos-arm
+Version: 15.0-beta-2
+Section: Utilities
+Maintainer: BVN
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, com.bienvannhat.libiarrays (>= 1.0.16)
+Conflicts: com.iarrays.calllogpro8, com.iarrays.CallLogPro10, com.iarrays.CallLogPro81
+Filename: ./debs/com.BIENVANNHAT.calllogpro_15.0-beta-2_iphoneos-arm.deb
+Size: 3482206
+MD5sum: bf272c20d2d6810fb7e24fd8070ec487
+SHA1: a9af524fb55277610e92b9bd314a2595887b3d23
+SHA256: c0780b786daa5c8cc1728bf735a9cb87f0f07a3dcebfc883baa4c25ff356e71f
+SHA512: 6f8c3eab83f5e9579c66c08f318560da61189f3f3aab111a4e264d4f09c5efbe6183a4ea93491950114ad5300f777989d88e1f32e559f7d6c04a399077f0886b
+Description: CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi hoặc tất cả. Tính năng này hoạt động trên tất cả các phiên bản iOS bắt đầu từ 8.0.
+Depiction: http://bvnsupport.github.io/infodeb/CallLogPro/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallLogPro.json
+Name: CallLogPro VH(iOS 8-16)
+Author: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.cameramobile
 Architecture: iphoneos-arm
 Version: 0.0.4
@@ -6907,43 +6928,6 @@ Name: libFAH
 Author: fahlnbg
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.BIENVANNHAT.libiarrays
-Architecture: iphoneos-arm
-Version: 1.0.15-beta-2
-Section: System
-Maintainer: Biện Văn Nhật
-Pre-Depends: firmware (>=7.0)
-Conflicts: com.iarrays.libiarrays
-Filename: ./debs/com.BIENVANNHAT.libiarrays_1.0.15-beta-2_iphoneos-arm.deb
-Size: 409418
-MD5sum: f9cfa7fb3472e95e4b85a61a2ab8f429
-SHA1: af5126f0fdf944e252ac4574646f27bf1aa2c1db
-SHA256: 836acdeff7a7a6f326245434e8b7554c9f191afd6b72a3c8e75920e300fcc5fb
-SHA512: c7ed610d5aabc2a77a6a3ba02a613fb61b25e756da84eba6146dd2be54342125d2a526a423a58463235101b08c4c6a479e7375c5a9b155588e7a2b58e73a3f7e
-Description: Crack tinh chỉnh của nhà phát triển IArrays!
-Name: libiarrays
-Author: IArrays
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.BIENVANNHAT.libiarrays
-Architecture: iphoneos-arm
-Version: 1.0.15-beta-5
-Section: System
-Maintainer: Biện Văn Nhật
-Pre-Depends: firmware (>=7.0)
-Conflicts: com.iarrays.libiarrays, net.kenhtao.libiarrays
-Filename: ./debs/com.BIENVANNHAT.libiarrays_1.0.15-beta-5_iphoneos-arm.deb
-Size: 431798
-MD5sum: 529b350a017d51b322726477120f30a6
-SHA1: 7bfe9a9b8f567ad5592fdb607a054f33ada0d0e6
-SHA256: 4efc90a8cb9ba964045d3987fb109b916de1bdc7402302a5171bf2e2806e001d
-SHA512: 630f1ef1f2345879df35771dba1b4a2520f69d5168c27b2f574d60ce345bc440a26c3e0c9ebaa0fc61a3e3a907c888872b704f44f17da1560bfcd5b1c55b1ad4
-Homepage: http://cydia.saurik.com/package/com.iarrays.libiarrays/
-Description: Kích hoạt tinh chỉnh của nhà phát triển IArrays!
-Name: libiarrays
-Author: IArrays
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
 Package: com.BIENVANNHAT.libjcx
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -9349,21 +9333,22 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.simplus
 Architecture: iphoneos-arm
 Version: 1.16-beta-2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
+Section: Utilities
+Maintainer: BVN
+Installed-Size: 678
 Pre-Depends: firmware (>=12.0)
-Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xrays, com.rpetrich.rocketbootstrap, com.opa334.ccsupport | com.BIENVANNHAT.libiarrays
+Depends: mobilesubstrate, preferenceloader, com.bienvannhat.libiarrays (>=1.0.16), com.opa334.ccsupport
 Filename: ./debs/com.BIENVANNHAT.simplus_1.16-beta-2_iphoneos-arm.deb
-Size: 699748
-MD5sum: 1a98e52183e63dd1b77cece1db9d680a
-SHA1: 4ad2b007dd9138afa9604a5395aed562af6c955a
-SHA256: a4a8f09dcd4aaa6ab2dfa2dfa8af3c48c4ccc423e4fc66d3e8789d40bf7057d7
-SHA512: 4fe1c2d75fc640f10a1cc25f08c474e710214287c46beecb2dbe937ac05059908037ff1c6fc1ce085b4f2ad85da7a4614d8dad8e4d1f8ae74238d9acad13c593
-Description: Cách mà lẽ ra Apple nên làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Size: 742398
+MD5sum: f4a816bd820aec30f5a9d6389ff8a402
+SHA1: 75af37a1f93a163f19a6e473e039ed4bd515a83d
+SHA256: 05c1cf48473ac2845bad41020fd4c4e401bda86bffdf1efa51cbffce056fcc86
+SHA512: d0eb10792f67e0323676e3ceebdb63ff3f828673e2dc3d843650f043bae079c75ef10af9fc7f87e9382516b5dc0ae37d1f98ce56715eb028364b8398fdf64158
+Description: Cách Apple đã làm điều đó cho bạn nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
 Name: eSim+ VH
-Author: IArrays
-Depiction: http://support-jailbreak.github.io/infodeb/Esim/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Esim/?p=info
+Author: IArrays <support@iarrays.com>
+Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.sixls
@@ -13224,6 +13209,24 @@ Author: PoomSmart
 Depiction: http://support-jailbreak.github.io/infodeb/LatestTranslate/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/LatestTranslate/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.libiarrays
+Architecture: iphoneos-arm
+Version: 1.0.16-beta-2
+Section: Development
+Maintainer: BVN
+Depends: ldid, firmware(>= 9.0)
+Conflicts: com.iarrays.libiarrays, net.kenhtao.libiarrays, org.mr.libiarrays
+Filename: ./debs/com.bienvannhat.libiarrays_1.0.16-beta-2_iphoneos-arm.deb
+Size: 431808
+MD5sum: a92b1a42788fb8cfd08a33874f19a441
+SHA1: a20d109cb62fd716ad26c06e010cda1366319242
+SHA256: b780149f27261f30e3b8335c4f1e75020d9948ffd005f3e55e112feefa43d119
+SHA512: fd398ba499cc5e638a1de778c08e718b982129dd20245c02fde854d65c6ff5085e90e5ff1fb6d53d36f2ea2234e43915fe7c7200bfded19e6d63cc37b6e7a051
+Description: Should be used only for certain iArrays packages. This is a closed library and no support is provided for this package.
+Author: IArrays
+Name: libiarrays
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
 Package: com.bienvannhat.lunartime
 Architecture: iphoneos-arm
@@ -21508,23 +21511,6 @@ Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc địn
 Name: BigSurCenter VH(Rootless)
 Author: nicho1asdev
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: xyz.cypwn.xrays
-Architecture: iphoneos-arm
-Version: 1.0.15b8k
-Section: Development
-Maintainer: Repo Cydia BVN
-Depends: ldid, firmware(>= 7.0)
-Filename: ./debs/xyz.cypwn.xrays_1.0.15b8k_iphoneos-arm.deb
-Size: 431214
-MD5sum: a85912f827472ca0252ca7905b3bbf1a
-SHA1: 5221791ee1c6e983e7078ce563b2f80871f089a5
-SHA256: a803abe93447c8d41e68860d3c8c32dfb8ce825d912ddc3cefaa992b2b1032b7
-SHA512: 15641c29bcee22136296b9a9bc4e53d2064ff73f29164967ed2fa73322080cd7464fa9ae976d9d7c28295a4d0eadedec18f6c94e662c01b620e5cd85b81caefc
-Description: Kích hoạt các tinh chỉnh của iarrays!
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-Author: CyPwn
-Name: xrays
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
