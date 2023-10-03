@@ -14024,6 +14024,46 @@ Name: Lynx 2 VH(Rootless)
 Author: MTAC
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.0_iphoneos-arm.deb
+Size: 1157280
+MD5sum: 493d3f50b1ef280467b0f28d09177dff
+SHA1: f5bfda3c35bf730f1e7710e707af267acdc033fc
+SHA256: 6aa41c13205b4ff27236f42fd736caea5e1dbbe410152e36433c526a25e5baa1
+SHA512: 74fe0dc8a4bd31a199ce916c4e0fdbf2b8dfbdcd2b6dde5a2d54a4148c3e0393f872820d6e6f7c1b4ef72778865f3d36911d2da050e465fa7b32c3ffacf8e624
+Description: PlampyCC của YangJiiii trên các thiết bị đã Jailbreak
+Name: PlampyCC VH
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Author: sugiuta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.0_iphoneos-arm64.deb
+Size: 2239742
+MD5sum: 4b023ff4635834aa341ef7aa025de518
+SHA1: cef16985d74444a02850b2e28930cb445b2388ac
+SHA256: 1d29366d7881f39054cbd1dd635e53be4dcb487fbe1d5209d26763ee6e1735c8
+SHA512: 54e786b750d949932e82da970b846cac9528244da57783a5dd659ab3fffe21d7a6bc814010483b3a5baa01e9c0c54f051e92882da1f757449fc4e38e8ef3a42c
+Description: PlampyCC by YangJiiii on Jailbroken devices
+Name: PlampyCC VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Author: sugiuta
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
