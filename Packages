@@ -805,55 +805,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
-Version: 1.1.3
-Section: Utilities
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.SemiRestore_1.1.3_iphoneos-arm.deb
-Size: 54482
-MD5sum: 183c761ffec54762c06f34433eba2f1a
-SHA1: a0ae550db0fe068d3109d532915c02579c16c133
-SHA256: 8f8c2bd2cb8968d9d2b3d30bf82e4f861638af238796b7bca5fcba7eee392f9c
-SHA512: b274b13e6426683599fc6e440bf148675bef47371b628068690f9f6fca0cd6cb083663fa4e7ae0174d91cb7bb8b89039f324e78b74da71caf57f24279b821c54
-Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11.3 đến 14.3,lưu ý sao lưu lại dữ liệu trước khi chạy.Tweak dùng rất đơn giản,bạn chỉ cần nhấn vào Unjailbreak,nó sẽ chạy khi bạn nhấn vào Xác nhận.
-Name: SemiRestore 11-14
-Author: Pwn20wnd
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.SemiRestore
-Architecture: iphoneos-arm
-Version: 1.1.4
-Section: Utilities
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.SemiRestore_1.1.4_iphoneos-arm.deb
-Size: 54528
-MD5sum: b92c3e3c909dae08368e815fe1117074
-SHA1: 7d80253e59e9c52f5861e3cdd318a0927267ecc1
-SHA256: e4557c1c66c8af276da62b85a6ccba3c1a01b6bcc219d1d023897c3845c2fad5
-SHA512: 97f77de7b65c634f2ba295490ed5b5439be933323dbf21c838ced7431e21f6cf692092a9a07a1d495c4fb0321216f324c88cc21fda17ceb779f437f154f285fa
-Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11 đến 14.3,khôi phục lại máy về như lúc xuất xưởng. lưu ý sao lưu lại dữ liệu trước khi chạy.Tweak dùng rất đơn giản,bạn chỉ cần nhấn vào Unjailbreak,nó sẽ chạy khi bạn nhấn vào Xác nhận.
-Name: SemiRestore 11-14
-Author: Pwn20wnd
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.SemiRestore
-Architecture: iphoneos-arm
-Version: 1.1.5
-Section: Utilities
-Maintainer: BIỆN VĂN NHẬT
-Depends: mobilesubstrate, firmware(>=11.0)
-Filename: ./debs/com.BIENVANNHAT.SemiRestore_1.1.5_iphoneos-arm.deb
-Size: 54554
-MD5sum: 4fe70f4d054eb4ab3aee55c905d4af36
-SHA1: c88bde8134eaea87ad3686f749694cc0f26ca58d
-SHA256: 92b919e3a3d632e8688520755967f2ca47e4821ac6fa866a4406412230af5802
-SHA512: 9aa3e24ad3edd59f7324ad5278640e6f0c5b9cb8a8b2b15f4954d73b9d9a805a016100b01fe0bda180d9700ccdbccbe5b44d9f1cd23fd482298bf4cc3758fdea
-Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11 đến 14.3,khôi phục lại máy về như lúc xuất xưởng. lưu ý sao lưu lại dữ liệu trước khi chạy.Tweak dùng rất đơn giản,bạn chỉ cần nhấn vào Unjailbreak,nó sẽ chạy khi bạn nhấn vào Xác nhận.
-Name: SemiRestore 11-14
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Pwn20wnd
-
-Package: com.BIENVANNHAT.SemiRestore
-Architecture: iphoneos-arm
 Version: 1.1.7
 Section: Utilities
 Maintainer: BIỆN VĂN NHẬT
@@ -8551,23 +8502,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
 dev: sbypassdetection
-
-Package: com.BIENVANNHAT.quizlitehack
-Architecture: iphoneos-arm
-Version: 1.0
-Section: HYI - Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.quizlitehack_1.0_iphoneos-arm.deb
-Size: 82788
-MD5sum: 8a6cf787627fc3cb54675054bd12ba30
-SHA1: f7450045c057fc5ea972477889f701f595e65318
-SHA256: b6d34fb67c03128c0fe1d33e33dbaa02a6b89516f39639b48d8e4c14e5636686
-SHA512: f084f06c1ecdcd1791711f1451eaec2413def5abb7f0dded12bba03e3a8e310af6a372fe9571f93a20a04d9c1b032ecc11c4840afc0d85bb64fb17ba6fade7dd
-Description: Unlocks all premium features one the Quizlet App from the AppStore
-Name: Quizlet Premium
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: pxcex <repo@hackyouriphone.org>
 
 Package: com.BIENVANNHAT.ramundertime
 Architecture: iphoneos-arm
@@ -19178,26 +19112,6 @@ Name: SafariWallpaper Việt Hoá
 Author: Litten
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
-Package: com.supportjailbreak.screenshotxVN
-Architecture: iphoneos-arm
-Version: 0.4
-Section: Addons (Apps)
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Depends:
-Conflicts:
-Filename: ./debs/com.supportjailbreak.screenshotxVN_0.4_iphoneos-arm.deb
-Size: 33693134
-MD5sum: 9433deebddab543d1f69e964edae0df2
-SHA1: b49470fa78d558512ee47347672b314b212b7a29
-SHA256: 2edb7f840f3f6479f610f67f64ddba2f33ee579d7119e901eff49c5424466910
-SHA512: 09ac36e75496d5f08a75730682314ef4176919cfd7186667ab4c4ae226d17a4ebc4d4bc1eb4971aad96d97ea6db82bb225cebf97ac1ed2d11fc43220ec8c8205
-Description: Đặt ảnh chụp màn hình trong điện thoại.
-Tag: cydia::paid
-Name: ScreenshotX VN
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: Đặt ảnh chụp màn hình trong điện thoại.
-
 Package: com.supportjailbreak.screenshotxvn
 Architecture: iphoneos-arm
 Version: 1.3
@@ -20567,25 +20481,6 @@ Depiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula1/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 MainLibMD5: 921b926fd501306429310a4e8659f913
-
-Package: net.jakeashacks.theosinstaller2
-Architecture: iphoneos-arm
-Version: 1.0.3
-Section: System
-Maintainer: Biện Văn Nhật
-Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
-Conflicts: net.howett.theos, org.coolstar.cctools, org.coolstar.llvm-clang, org.coolstar.llvm-clang64
-Filename: ./debs/net.jakeashacks.theosinstaller2_1.0.3_iphoneos-arm.deb
-Size: 2448
-MD5sum: 7a3a0d532d8b6546dd442ef619b6db70
-SHA1: 7874902732014202ea84856e632e7f93501c72df
-SHA256: e70f6e06f6583e44908e85cbac557d7ce5060b18096cd45940c896635c2a1b70
-SHA512: 675b353dff6c563b63a4fbe7f0bb8e2fb88d51efda0100d88a7aeda86d107d03cca0fd034888c1d912f0c8a9c2e7a2a1db21ad308421da569d3a015c7a900143
-Description: Cài đặt theos và thiết lập mọi thứ bạn cần chỉ với một cú nhấp chuột! Hoạt động trên iOS 11, 12 và 13,14 un0ver và checkra1n. Hỗ trợ biên dịch arm64e. Cách sử dụng (chạy dưới quyền root): theosinstaller sdk_version_here (example: theosinstaller 10.3)
-Tag: role::hacker
-Name: Theos Installer 2 (unc0ver and checkra1n)
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-Author: Jake James
 
 Package: net.limneos.simpleactivationactions-rootless
 Architecture: iphoneos-arm64
