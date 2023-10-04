@@ -1247,26 +1247,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Baw Appie <pp121324@gmail.com>
 
-Package: com.BIENVANNHAT.a-font
-Architecture: iphoneos-arm
-Version: 1.9.4
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 2380
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Filename: ./debs/com.BIENVANNHAT.a-font_1.9.4_iphoneos-arm.deb
-Size: 869024
-MD5sum: d13de6916f4e7b509290940fa628a222
-SHA1: 41c5890455621e42153c9166cdd8bc3b17c75c49
-SHA256: a25b9a1f2ea21626d8639823f8a5b9d9d5701d35588f1b94ed8a875368eba2bf
-SHA512: cb1b070b230353d560eb3977c5f3c854d13c244256580e7397d611bc247ddfa34c3542f02e393ae640d7460886ce356707f0bb714c545b7a616b66f6e6a4206f
-Description: Cài đặt Font chữ cho iPhone của bạn!
-Depiction: http://support-jailbreak.github.io/infodeb/Afont/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Afont/?p=info
-Name: A-Font Việt Hoá
-Author: Baw Appie <pp121324@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.acies
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -16586,26 +16566,6 @@ Name: A-Font VH(Rootless)
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://bvnsupport.github.io/depictions/A-Font.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.a-font-rootless
-Architecture: iphoneos-arm64
-Version: 1.9.3-2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 2476
-Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/com.repobvn.a-font-rootless_1.9.3-2_iphoneos-arm64.deb
-Size: 845886
-MD5sum: e8590fb7ccfe83538759da8e54eaba79
-SHA1: d41db34ecc08b220b8a873abacf57af3ca4bdb49
-SHA256: a8daa840e7398ad9216ff225916f0154211f62b17bd1b5e896cf2b936b233190
-SHA512: a35dd7a55cc9f677671c9fa6fce39172ff7aed567b0c2683d04ec4eeb9a026d470aedc1dd1a9b23b2ed9a42bbf4a3331e89efc60df4e73695a343c6ed0c882df
-Description: Thay đổi phông chữ của bạn!
-Name: A-Font VH(Rootless)
-Author: Baw Appie <pp121324@gmail.com>
-Depiction: https://support-jailbreak.github.io/depictions/A-Font.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/A-Font.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.atriarootless
