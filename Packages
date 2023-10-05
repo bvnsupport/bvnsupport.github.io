@@ -19426,6 +19426,45 @@ Name: CyDown VH
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.udevs.vexillarius
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Filename: ./debs/com.udevs.vexillarius_0.0.deb
+Size: 8574
+MD5sum: 73ea4da0627b706cbdd59fcf64b7345d
+SHA1: 69d946228f98679919b4a6d8a60067e1640c5471
+SHA256: 839ca463c187eec8795b1caef6877a43193d155d6768e91986c4a1edb3621271
+SHA512: 404d56259be68b19fa56d618071b004bacd7cbb6b144668368caf31718883cd7f4648166fddfc2e08ecea8417f5441f0bf630fcc697f9935d34798ca8793adf3
+Description: Standard Bearer
+Tag: role::hacker
+Name: vexillarius
+Author: udevs
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.xyaman.libsona
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: System
+Maintainer: Xyaman
+Installed-Size: 236
+Depends: mobilesubstrate, com.ryannair05.audiosnapshotserver
+Filename: ./debs/com.xyaman.libsona_0.1.2_iphoneos-arm.deb
+Size: 40888
+MD5sum: 52cf3ed8d2be920ac1ff7004305c6c16
+SHA1: 6c0f77c74c8e40b78c15f469156f7ef7346588ab
+SHA256: 2ee6de9d8aa2588e9a1fa2c0f665d83d0ef79f5c25393ef70c83b76f94b1a6c0
+SHA512: 6ae809b129db3b08862053e1aa1b2e5854b0d939a4913bf811ed5c1ba20e41c43ab50828aff4a3276c6f6b725a36e604e19738c3f165d592595908db85c728e5
+Description: Simple audio visualizer library.
+Tag: role::developer
+Name: libSona
+Author: Xyaman
+Depiction: https://repo.xyaman.xyz/depictions/index.html?p=libsona
+SileoDepiction: https://repo.xyaman.xyz/depictions/libsona/depiction.json
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
 Package: combvnrepo.autotouch.ios8
 Architecture: iphoneos-arm64
 Version: 8.0.11
@@ -19668,6 +19707,29 @@ Name: libKitten
 Author: Litten
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: me.BIENVANNHAT.evavh
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Provides: me.lau.eva
+Depends: firmware (>=13), firmware (>= 13.0), mobilesubstrate, me.lau.liblauren (>= 0.1.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: me.lau.eva
+Replaces: me.lau.eva
+Filename: ./debs/me.BIENVANNHAT.evavh_1.0.2_iphoneos-arm.deb
+Size: 136578
+MD5sum: 93fcc16e7da599a9c9b2b0360c1da547
+SHA1: f97c2db2f2892d1cf4aeae9f31ee4bb9d9a37831
+SHA256: d456ba4217a0ef709ebfc420b53b5d675e9f6ff18fe67155ec59815711fa0448
+SHA512: 42f385e90e22a8af4b1004805fce9f683317b21301b52f95ddcae384258533d39362da29652bf48354c52fbc6f09f59ce8d58d83df20045a486aeb8708747615
+Description: Hình nền trải dài...
+Name: Eva Việt Hoá
+Tags: compatible_min::ios13, compatible_max::ios15, compatible_min::ios13.0
+Author: ren7995  <lau7995ren@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/evavh/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/evavh/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: me.REPOBVN.ding
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -19900,6 +19962,32 @@ Author: jjolano
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
 Package: me.jjolano.shadow
+Architecture: iphoneos-arm
+Version: 3.7.4
+Section: System
+Maintainer: Repo BVN
+Installed-Size: 1432
+Provides: me.jjolano.shadow.beta
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: ./debs/me.jjolano.shadow_3.7.4_iphoneos-arm.deb
+Size: 270418
+MD5sum: c61d98ccaa59505c7132dc20d1de1e8f
+SHA1: 65209c3b1be6ff677fe4df8b568a2e66bf890db4
+SHA256: 0fd9a93c40c5723e6f35f03d0cf4849aa50a766b1ddd21d96529fd2f38ba8419
+SHA512: 4aec95e859e4e787ae593a81f3b1b34373a3c0c61b1cdcba5daf9d6096bc17689cc18a48cae3376d9ac9b52a4f6f132c698a2cf2168f7635577f6e6e3dae8733
+Description: Một tinh chỉnh bỏ qua phát hiện bẻ khóa hiện đại.
+Name: Shadow VH
+Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: jjolano
+
+Package: me.jjolano.shadow
 Architecture: iphoneos-arm64
 Version: 3.7.4
 Section: System
@@ -19924,6 +20012,45 @@ Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: jjolano
+
+Package: me.lau.liblauren
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: System
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=10)
+Filename: ./debs/me.lau.liblauren_0.1.3_iphoneos-arm.deb
+Size: 914070
+MD5sum: a80c3bdc655eb6a3cd18cfb2df28bfe1
+SHA1: b785a1092a30c0b7ac3228e07921ff0a09c25a6a
+SHA256: 94744ed69af968527ef10686180432e266c2de4adc9081996303e7950ecf8ed3
+SHA512: 7304dba41234666224d391a032aea9f88a2d8ffe8186beaa02fdaf67688587576197e2f9ee1c58f175974a465cc97f806a2fe5fe8cdb3893088d4c97761df074
+Description: Thư viện cho các chỉnh sửa của Lauren
+Name: liblauren
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Tags: compatible_min::ios10, compatible_max::ios15, role::developer
+Author: ren7995  <lau7995ren@gmail.com>
+
+Package: me.nepeta.axon-rootless
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon-rootless_1.4_iphoneos-arm64.deb
+Size: 193920
+MD5sum: edf3e4f9a64289c2c9c02da96db7f61d
+SHA1: 89284129b1e37f0525771c8ae90f9f629f96caa6
+SHA256: b15e99623936f36d744d64a6219bda316d0f6dc9cc8076b98fa10347d23ee6d4
+SHA512: 1202a96f90d8aa5fc8c8a66ccfef55287fdd4e2744c03b95c5a0c53c3e5c4f65762160dd0d701cb015db4d2b0fe9bce24cb36cc86ab0638f5711ef3c5859255b
+Description: Priority Hub for iOS 15
+Name: Axon VH (Rootless)
+Author: Nepeta & Baw Appie
+Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
 Architecture: iphoneos-arm64
@@ -19967,6 +20094,27 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DynamicPenin
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 MainLibMD5: 921b926fd501306429310a4e8659f913
 
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-19k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-19k_iphoneos-arm64.deb
+Size: 460164
+MD5sum: 6b6ef4e91e561420f09c3878f4e922d2
+SHA1: f37610be18a243ae824066af93a45fea25e85410
+SHA256: f068497e31ad8447157bcd0814a664a00cf4b9da6e2ae2d1ea7bc9ddb89ce125
+SHA512: 227cc0c1c1729d278de4ef748719626b0a80eed50b96da0349dbc3f06697192cbc7b246b339bfc786cfa4ad0a46c6eb5b7cbc444124abc4e05a82e5209274ae1
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula VH (Rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 921b926fd501306429310a4e8659f913
+
 Package: net.limneos.simpleactivationactions-rootless
 Architecture: iphoneos-arm64
 Version: 0.1-1
@@ -20006,4 +20154,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/bioprotectxs
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 4f1110aadbd864aa76fe9e6be32ac34d
+
+Package: net.repobvn.voicechangerx-rootless
+Architecture: iphoneos-arm64
+Version: 2.4-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.voicechangerx-rootless_2.4-3_iphoneos-arm64.deb
+Size: 449608
+MD5sum: 9f4ce1d8ed8e756cf1c006b8236ff030
+SHA1: 247f6d5a63ad9159470f5799d63593ba827c3267
+SHA256: c5db9320276e2796a71056bd1e402db6d9f30cd14e16c5d5ae5315c733860ef6
+SHA512: 83542015faeb2e7a6d021e2d82b78d36fa189ea1148f0319338d3f76f53a4e2372668436fdb4349f58d41e81d4135e9298521951fbe92e5e9a48df65e1d596f2
+Description: Thay đổi giọng nói của bạn trong khi gọi!
+Name: VoiceChanger XS (Rootless) (iOS 11 to 16)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
