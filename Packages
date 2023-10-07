@@ -13303,6 +13303,28 @@ Name: CoolCC Reborn
 Author: alias20
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.edge2
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BvN
+Installed-Size: 560
+Depends: firmware (>=15.0), com.itznebbs.phoenix (>=1.0.4)
+Conflicts: com.junesiphone.lockpluspro
+Replaces: io.securarepo.edge
+Filename: ./debs/com.bvn.edge2_1.0.3_iphoneos-arm64.deb
+Size: 213654
+MD5sum: baabd74d79598a30cc6572f26ef8a05d
+SHA1: 52f9af0b2249b6a3598ea9390482b1a7877d1e1b
+SHA256: 10546e9e5ef60af1000a2d442c53b17867e7261f1b35c1fd53233d9de642ab76
+SHA512: 6797a04b76eb208659b0886168d3c46f22c8d98ca2be686b432094810c899b859b0946fac37ccc676fc9c6705d9c035be311a85face34eac8c1630971ba35409
+Description: Màu sắc thiết bị của bạn một cách đẹp và thanh lịch!
+Name: Edge 2 VH(Rootless)
+Author: Nebbs + Max Bridgland
+Depiction: http://bvnsupport.github.io/infodeb/edge2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/edge2.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.jade
 Architecture: iphoneos-arm
 Version: 1.0
