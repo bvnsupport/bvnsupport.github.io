@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"Sugiuta"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +61,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"03/10/2023"
+"text":"09/10/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12 đến 16.x"
+"text":"iOS 15.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -83,7 +83,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Phát hành lần đầu"
+"markdown":"### Phiên bản 1.0.1\n\n- Đã sửa lỗi với các biểu tượng trong suốt"
 },
 {
 "class":"DepictionLabelView",

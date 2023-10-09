@@ -13424,6 +13424,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.1_iphoneos-arm.deb
+Size: 1157780
+MD5sum: 89da0928f3c88741c6f518c8a415b07f
+SHA1: 4f6e23356346cf5a7004b808770bb10c15442199
+SHA256: bb25e9d5cb414b8db80651ec3ccf43a6adc83ec5179d93593f7f339ed33809da
+SHA512: b0a056492dc33a02bc18c81ae377c614a483d19b2daa3c76518f0162f79fe8f717257b2450cde44ae9b483bb71a9c46e1df8316cf58d61e042b98829d2f95f81
+Description: PlampyCC by YangJiiii on Jailbroken devices for iOS15 & 16.
+Name: PlampyCC VH
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Author: sugiuta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.1_iphoneos-arm64.deb
+Size: 1158464
+MD5sum: 6bf247c42d6735f1f58dae8b0dd135ac
+SHA1: ce0a33a3b2702a4a08d243056d58a8302591281e
+SHA256: 4ed7d616fb65bad1096bdaa837624be07b96389c83ca2619f3fcc7cf807c5387
+SHA512: 5cedf5e12c94a441b97e091a8e59954a3b734e676b3cec38cf75fdf9850743c7e2a55339bbe1574882e1f39d70163b4ae64ed126f57b3432822a1c7e4217fb46
+Description: PlampyCC by YangJiiii on Jailbroken devices for iOS15 & 16.
+Name: PlampyCC VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Author: sugiuta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
