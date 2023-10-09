@@ -13303,6 +13303,68 @@ Name: CoolCC Reborn
 Author: alias20
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.customizecc
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 880
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14)
+Filename: ./debs/com.bvn.customizecc_1.4.3_iphoneos-arm.deb
+Size: 215006
+MD5sum: e8a0a59735fc72a96850b4ceb143022a
+SHA1: e4553a50e98d57889a274b2c8ca2212019d4a195
+SHA256: 8cb7eff92b96faeaf866f69bba842f100352029e216efdf313efe384dcbf524e
+SHA512: 6dcbfecefbfb382fcbc37c75206872d76c5127ed3465a05fee39fd6a35ba4679cbf412ddc460c0ae4178a224b00d496e75d08ccc55562a12464056f9c41cdbfa
+Description: Tùy chỉnh Trung tâm điều khiển của bạn!
+ Tùy chỉnh Trung tâm điều khiển của bạn!
+ Màu Glyph.
+ Thay đổi màu Mô-đun.
+ Thay đổi màu Độ sáng và Âm lượng.
+ Thay đổi màu của Chuyển đổi và trình khởi chạy.
+ Ẩn nền .
+ Ẩn lớp phủ cho tất cả các Toggles.
+ Bật Đường viền cho tất cả Mô-đun, Chuyển đổi và trình khởi chạy.
+ Thay đổi màu viền.
+ Bật hiệu ứng Glow cho tất cả Mô-đun, Chuyển đổi và trình khởi chạy.
+ Thay đổi màu hiệu ứng Glow.
+Name: CustomizeCC VH
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.bvn.customizecc
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Installed-Size: 880
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
+Filename: ./debs/com.bvn.customizecc_1.4.3_iphoneos-arm64.deb
+Size: 220330
+MD5sum: 2cdeea4b2b131665305c67208d10b21c
+SHA1: f7d67f475e89a795c715edb4c97a4b5f233aa112
+SHA256: eb81da1539359052b8c220e3b6606668795e1808babf6c76bd510f640e571622
+SHA512: b84c54c9e853ec2667e31adf3f7629468253f8c66c6519c71dbdc19b6404d29b1546552724577f5c66ff801683e4773686bf2f455eb8495c5854bf3bf58f5255
+Description: Tùy chỉnh Trung tâm điều khiển của bạn!
+ Tùy chỉnh Trung tâm điều khiển của bạn!
+ Màu Glyph.
+ Thay đổi màu Mô-đun.
+ Thay đổi màu Độ sáng và Âm lượng.
+ Thay đổi màu của Chuyển đổi và trình khởi chạy.
+ Ẩn nền .
+ Ẩn lớp phủ cho tất cả các Toggles.
+ Bật Đường viền cho tất cả Mô-đun, Chuyển đổi và trình khởi chạy.
+ Thay đổi màu viền.
+ Bật hiệu ứng Glow cho tất cả Mô-đun, Chuyển đổi và trình khởi chạy.
+ Thay đổi màu hiệu ứng Glow.
+Name: CustomizeCC VH(Rootless)
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -13452,11 +13514,11 @@ Maintainer: BVN
 Installed-Size: 2768
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/com.bvn.plampycc_1.0.1_iphoneos-arm64.deb
-Size: 1158466
-MD5sum: 15ae11cc2b4d12a78a372123ff19568c
-SHA1: 65f233b12daf2915c75623e94ca415f405c8c4f9
-SHA256: ea732ed9faeaaf736ca99eac4be8f8c3b1711e22a6ea30b3fa851ff4b6e0fb91
-SHA512: 579de960ceb0f4a00535fd6ae15299db8150ef96266173cf00da0b508d00ef9489a4b7d80835a0c4b766c0c05c075a90958f90b82c8590fab5d696fece2344b3
+Size: 2240530
+MD5sum: c2912691c5f08b3fd4c2bd9549ea1034
+SHA1: 2bd62af5e62e7c68e1e6169cbebe0bcab03f15c3
+SHA256: 624764ca566dfcff1a3b16b308a9b94085d9344c7444668296894c05f6ba881d
+SHA512: 1cfcbed6ebb48de0f77c260b32adf5e6eed2e3577a41e2a2a260676792b38730ec5dcbbfdfc78913cf223592d020981385c2cee9ede5c76ee0e5dce26b3d194d
 Description: PlampyCC by YangJiiii on Jailbroken devices for iOS15 & 16.
 Name: PlampyCC VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
