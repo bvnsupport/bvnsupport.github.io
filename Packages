@@ -18064,13 +18064,13 @@ Priority: important
 Section: Archiving
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Pre-Depends: firmware (>= 7.0)
-Depends: mobilesubstrate, com.supportjailbreak.appsyncunified
+Depends: mobilesubstrate, ai.akemi.appsyncunified
 Filename: ./debs/com.supportjailbreak.myinst_5.6.0.2_iphoneos-arm.deb
-Size: 92060
-MD5sum: 4d2a81afdb7c1cb81eaab582e9664354
-SHA1: dc6a850e03d00f8b48c35173cd3d75b551e06f68
-SHA256: 00d6daaddecffa4971cb1eb50d7afc88757232861c7830d823c621ca3502514c
-SHA512: 65e7a11014175f6eba4dc057d3182af3107b64560a413f85e722a3ef035fbed3d8b5a1cec8512e29988400846980a3d6af107cdd3076678a5e101cbb35a34c9c
+Size: 92064
+MD5sum: 51fd51158eaf4e7a8e181a535577e714
+SHA1: 653840639ad7ce58298fd08607704e75ff344e28
+SHA256: d694c880fac08b67813454099a7b93fb4da5c8262cc972297af3a6044096cc16
+SHA512: aa421498fe79813be5b35b894beeb88a967625513ebc8aefcfb440f3b222b7f042460ea488c9576b4d6b239344dab579d2f1475690c53fdeeda87d8adb9d37ab
 Homepage: https://bvnsupport-jailbreak.github.io/
 Description: Install your iPA. Using command myinst <path to .iPA>
 Name: myinst
