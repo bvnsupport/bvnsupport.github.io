@@ -13223,6 +13223,24 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.cyarchfix
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0)
+Filename: ./debs/com.bvn.cyarchfix_1.0.0_iphoneos-arm.deb
+Size: 4780
+MD5sum: ab1d49ac0b37e03e24a2eee47e7b6456
+SHA1: ba63adf9d8ce1942cfd7c95ae7d445e22d8e4edb
+SHA256: ffeed97fecc52d27f115e04ed96cc488ee25989f89b3b630e6375cfa1ceb82fa
+SHA512: 7c99f103f3e80e4a8e8b590e4da42b1485588feb14a11305870e59987259f4c65ff150df740b6b4ded42d362d8a7cacaa153a5f482aa8a0c2d5de7c9d24ff67c
+Description: Ẩn các tinh chỉnh Rootless (iphoneos-arm64) trên Cydia,Sileo,Zebra
+Name: cyarchfix
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
