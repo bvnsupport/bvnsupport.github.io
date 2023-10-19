@@ -16439,11 +16439,11 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=10.0)
 Filename: ./debs/com.repobvn.vneidbypassjb_2.1.0_iphoneos-arm.deb
-Size: 23381794
-MD5sum: a522bee7af67079243bd8068a6d65947
-SHA1: 9422938347aebce17d8324a4591d06f77789e045
-SHA256: f1aafa4ae3ede971d46df8d11cb0f2259c2b791089f8aab40eed52591626eb99
-SHA512: 3b30e002ca2b785899a45f2fbc0702a50457ce47e961e80cbddedf6c5a39ded7e33e91b59eecc4862ea022be43c0e52004600baa1841ec8221249fb29cdb1fd9
+Size: 23381756
+MD5sum: 96c442d94d35be03616dcdf066cab810
+SHA1: bd143b3ddc3db7265b1afe5407cb7710c409a9bc
+SHA256: d796e3d6891b7f4df445168aeebea8c02400ba222d7c5e504a11223ac24499fe
+SHA512: 33133532b118ad8c4adc40789a79b54780e616438b9160e5445f2621a3c2a4e95b783de10db6e48469fb1627c1d21d773d1d68c3638dfe0768698b9085b7a408
 Description: Chặn Jailbreak Ứng dụng VNeID
 Name: Hidejb VNeID
 Author: Biện Văn Nhật
@@ -16457,18 +16457,18 @@ Architecture: iphoneos-arm64
 Version: 2.1.0
 Section: Tweaks
 Maintainer: Biện Văn Nhật
-Depends: firmware (>=10.0)
+Depends: firmware (>=15.0)
 Filename: ./debs/com.repobvn.vneidbypassjb_2.1.0_iphoneos-arm64.deb
-Size: 23284462
-MD5sum: 2bdfbc186939577de8423553b1a7c17d
-SHA1: d2005d21648806a0a9cc17d3837c1d14bf675fa7
-SHA256: 44ab1573013d6ba4a9facc5c884e3c6eef67a5608ed391eb8ec3a7d2fc8bf188
-SHA512: 640a4414f8bdb45c6b600e4859cf23d4935d421d0812d47124c26bbb109bba15a0f01d86567155ecf845e5e97ae75d1ad8de498dd57f2d0e2a7089457a6f76f7
+Size: 23284426
+MD5sum: 7da10db3dba6db70d0663ab9f44f6721
+SHA1: c1fc0b815e4d10a06c680a3659d23724c146c42a
+SHA256: 688bbe0be45aaf8128bb94f8dba08e5d15e3de0a9fba2da732a0e3b9fee09b78
+SHA512: ad04f73fe03bf66bbd876259dd4a78b354845c396ee225db9d89628269efa688a958424ccae07958fe2e8665a4186b76c8fd39285cd709e4de06359f9aac1abd
 Description: Chặn Jailbreak Ứng dụng VNeID
 Name: Hidejb VNeID
 Author: Biện Văn Nhật
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Tags: compatible_min::ios10.0
+Tags: compatible_min::ios15.0
 Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
