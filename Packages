@@ -12717,16 +12717,16 @@ Section: Tweaks
 Maintainer: BvN
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
 Filename: ./debs/com.bvn.akara_2.0.0_iphoneos-arm64.deb
-Size: 724348
-MD5sum: fbbf5a51a82a65f1d2d999b962984f2a
-SHA1: 9e55c07f1a112b45385175c7d75f2cc2733df692
-SHA256: ab8bce259708246794726ef0cd0e40c6d71c0ad0ff9811e1c5264918fc820ac3
-SHA512: f88aebd418f2e3d52709d7373bbec2fcd8d20ecbdacce202ba76ff10a28bec915fb80e44324b81ada64e5973aef5709fce0f19c7205ce37eb3d890c90c449feb
+Size: 724356
+MD5sum: d39db2787b26a58544b8c7ea8d94be87
+SHA1: fe3f4e4ca0c74209ec351ef2274c723406923a00
+SHA256: 771ada1000e1eda0353cca7e161217e5234807749d74844612195b7daa8fe7f9
+SHA512: f5e8f1e391bffaa2cda84fa0a09e96832caeffaa181f2dd917f0043f509d620a0401bf9e5363773d8716cbda09658692c9bf4aa14e56aa667e29ab37b16db28a
 Description: Minimal design without compromise
 Depiction: http://bvnsupport.github.io/infodeb/akara/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/akara.json
 Author: Tr1Fecta & Kennyroo
-Name: Akara
+Name: Akara VH(Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.batterynotch
