@@ -1,0 +1,109 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Akara VH\n\n- Một tinh chỉnh trung tâm điều khiển được xây dựng dựa trên bản gốc của iOS gốc và cấu hình lại nó để tạo cảm giác mới mẻ nhưng vẫn quen thuộc.Được tạo ra với mục đích tùy chỉnh, nó cung cấp cho người dùng nhiều tùy chọn đề thiết lập trung tâm điều khiển theo cách của bạn.Chúng tôi sẽ xem xét các tính năng hiện không được bao gồm và bạn muốn thấy trong các bàn cập nhật trong tương lai\n\n- ĐẶC TRƯNG:\n\n- Mô-đun kết nối có thể cuộn\n\n- Nhiều kích thước thẻ\n\n- Tuỳ chỉnh kiểu làm mờ hình ảnh\n\n- Biểu tượng Wi-Fi & Bluetooth\n\n- Biểu tượng thanh trượt"Độ sáng&Âm lương"\n\n- Tuỳ chỉnh kích thước thanh trượt\n\n- Tuỳ chỉnh kích thước Trình phát đa phương tiện\n\n- Tuỳ chỉnh độ trong suốt của Mô-đun\n\n- Tuỳ chỉnh cử chỉ màn hình khoá\n\n- Tuỳ chọn thanh trạng thái\n\n- CHỨC NĂNG:\n\n- Để gọi trên màn hình chính hoặc màn hình khóa, chỉ cần vuốt lên ở góc dưới cùng bên phải của màn hình và bỏ qua nhấn vào bất kỳ đâu trên màn hình hoặc vuốt ngược xuống\n\n- Nó đi kèm với một cài đặt trước được cài đặt để cung cấp cho bạn nền tảng để làm việc. Để thay đổi cách sắp xếp hoặc thêm các mô-đun bổ sung, hãy truy cập menu trung tâm điều khiển trong cài đặt và chọn một trong các mô-đun Akara. Mở menu mô-đun và chọn các mô-đun mới, nhấn lưu mỗi lần và quay lại đề hiền thị các thay đổi. \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/akara/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/akara/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Tr1Fecta"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.0" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"26/20/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"565 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 13.0 đến 16.4.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.0.0\n\n- Hỗ trợ Rootless Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
