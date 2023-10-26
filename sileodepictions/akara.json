@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Akara VH\n\n- Một tinh chỉnh trung tâm điều khiển được xây dựng dựa trên bản gốc của iOS gốc và cấu hình lại nó để tạo cảm giác mới mẻ nhưng vẫn quen thuộc.Được tạo ra với mục đích tùy chỉnh, nó cung cấp cho người dùng nhiều tùy chọn đề thiết lập trung tâm điều khiển theo cách của bạn.Chúng tôi sẽ xem xét các tính năng hiện không được bao gồm và bạn muốn thấy trong các bàn cập nhật trong tương lai\n\n- ĐẶC TRƯNG:\n\n- Mô-đun kết nối có thể cuộn\n\n- Nhiều kích thước thẻ\n\n- Tuỳ chỉnh kiểu làm mờ hình ảnh\n\n- Biểu tượng Wi-Fi & Bluetooth\n\n- Biểu tượng thanh trượt"Độ sáng&Âm lương"\n\n- Tuỳ chỉnh kích thước thanh trượt\n\n- Tuỳ chỉnh kích thước Trình phát đa phương tiện\n\n- Tuỳ chỉnh độ trong suốt của Mô-đun\n\n- Tuỳ chỉnh cử chỉ màn hình khoá\n\n- Tuỳ chọn thanh trạng thái\n\n- CHỨC NĂNG:\n\n- Để gọi trên màn hình chính hoặc màn hình khóa, chỉ cần vuốt lên ở góc dưới cùng bên phải của màn hình và bỏ qua nhấn vào bất kỳ đâu trên màn hình hoặc vuốt ngược xuống\n\n- Nó đi kèm với một cài đặt trước được cài đặt để cung cấp cho bạn nền tảng để làm việc. Để thay đổi cách sắp xếp hoặc thêm các mô-đun bổ sung, hãy truy cập menu trung tâm điều khiển trong cài đặt và chọn một trong các mô-đun Akara. Mở menu mô-đun và chọn các mô-đun mới, nhấn lưu mỗi lần và quay lại đề hiền thị các thay đổi. \n\nㅤ\n\n",
+"markdown":"Akara VH \n\n- Trung tâm điều khiển hiện đại hơn.\n\n- Trung tâm điều khiển được xây dựng theo mặc định của iOS và cấu hình lại để tạo cảm giác mới mẻ nhưng vẫn quen thuộc. Nó cung cấp cho người dùng nhiều lựa chọn để thiết lập trung tâm điều khiển theo cách của bạn \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -56,7 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Tr1Fecta"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"8.0.11" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,17 +65,17 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"26/20/2023"
+"text":"26/10/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"565 KB"
+"text":"656 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.4.1"
+"text":"iOS 15.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -92,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0.0\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 2.0.0\n\n- Hỗ trợ Rootless"
 },
 {
 "class":"DepictionLabelView",
