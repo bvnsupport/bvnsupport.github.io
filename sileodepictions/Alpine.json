@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Akara VH \n\n- Trung tâm điều khiển hiện đại hơn.\n\n- Trung tâm điều khiển được xây dựng theo mặc định của iOS và cấu hình lại để tạo cảm giác mới mẻ nhưng vẫn quen thuộc. Nó cung cấp cho người dùng nhiều lựa chọn để thiết lập trung tâm điều khiển theo cách của bạn \n\nㅤ\n\n",
+"markdown":"AIpine VH \n\n- Cảnh báo tvOS thích hợp cho iOS Alpine sử dụng các lớp và kiểu dáng được lấy trực tiếp từ tvOS để mang lại giao diện rõ ràng và hiện đại cho hệ thống cảnh báo Tính năng: Sử dụng tính năng làm mờ nền ở chế độ toàn màn hình hoặc chỉ cảnh báo\n\n- Tính năng:\n\n- Đặt kiểu làm mờ nền (iOS/tvOS)\n\n- Chọn kiểu giao diện (tối/sáng/hệ thống) cho tất cả các thành phần cảnh báo\n\n- Nhấn vào bất cứ nơi nào bên ngoài chế độ xem cảnh báo để loại bỏ\n\n- Ẩn nút hủy trên toàn cầu (tự động cho phép nhấn để loại bỏ) \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,11 +21,35 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/akara/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/akara/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/7.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Alpine/Screenshots/8.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -54,9 +78,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Tr1Fecta"
+"text":"MTAC"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,17 +89,17 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"26/10/2023"
+"text":"27/10/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"656 KB"
+"text":"777 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.x"
+"text":"iOS 14.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -92,7 +116,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0.0\n\n- Hỗ trợ Rootless"
+"markdown":"### Phiên bản 1.2\n\n- Sữa lỗi"
 },
 {
 "class":"DepictionLabelView",

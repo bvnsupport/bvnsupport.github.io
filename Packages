@@ -12729,6 +12729,46 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara VH(Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.alpine
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.alpine_1.2_iphoneos-arm.deb
+Size: 660204
+MD5sum: 3f93179ff1effa08c49b1983c2bba08a
+SHA1: 4d8092b9a8110bfe7475b6e094868a04a49061a3
+SHA256: 72bcc170d21fa94f67352df48c35f977c8c1b3ee6b80a28d45d82b8b83155612
+SHA512: 14ce8f4c3619e2d3828e571340e5d46d37bfc2997853144a6125072ff1e5c2cf2a3a2b3ef7ce41674cfb6188046d3f83034ce87df9938aa0a4e95736a0336f2a
+Description: tvOS alerts for iOS
+Depiction: http://bvnsupport.github.io/infodeb/Alpine/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Alpine.json
+Name: Alpine
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.alpine
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.alpine_1.2_iphoneos-arm64.deb
+Size: 660092
+MD5sum: fdc240e81e695593c8f122e1d9c2d056
+SHA1: 477cdce27e144e669b63258ce6f3a27e6209e7ea
+SHA256: d8d379b01cc7db1b1e28baac02c7ff40442cf4f54edbf6788c16570c023235f7
+SHA512: 16608c870ac3d7502eb3096bba9427532b63b3e6b9b789e9c794bae611ee15624b701d1ef2390c2038da34fd3341a18276318df014fbd8623d0ba3d8d0cf66a8
+Description: tvOS alerts for iOS
+Depiction: http://bvnsupport.github.io/infodeb/Alpine/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Alpine.json
+Name: Alpine VH(Rootless)
+Author: MTAC
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
