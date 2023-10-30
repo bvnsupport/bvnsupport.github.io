@@ -12748,6 +12748,46 @@ Name: BatteryNotch VH
 Author: gilshahar7
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.bhtiktok
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok_2.3_iphoneos-arm.deb
+Size: 624860
+MD5sum: 6ed7ff86a95e9fd04269f3525a970ad1
+SHA1: 1f84d26b64b42637860bc7ee1e5b69827a3fb810
+SHA256: 8ecb1c11449bbb4f4568a0bff801152216021b72aa4d3ebc5c263932a730a42c
+SHA512: 10afd43e34bc23af23085d43a32b069c78698dac027830580244e0e10d85de564fba1dd8603dd0e755d3c89aba85c08c7d077f5f15b52cd7495c3d3ae2497599
+Description: Một tinh chỉnh tuyệt vời cho TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/BHTikTok/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok.json
+
+Package: com.bvn.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 624968
+MD5sum: 2279f4ed22398de9248c264e85321db2
+SHA1: 9ff606086dca633cb211cb95e2799dc6c1d33613
+SHA256: 3b2a73a766bd4db58c424769ae0d32862b79d76de9f77107ddccd205f261bd0c
+SHA512: fb8a9b872d5fc1498e45816e2fee906fe3d94d78bb29ce0b571036d957255f629aa0fb639cd4e07782a4c48cbad98fc1ea2ebde2f9bf802348ad0ba5d41955a1
+Description: Một tinh chỉnh tuyệt vời cho TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/BHTikTok/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok.json
+
 Package: com.bvn.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.0
