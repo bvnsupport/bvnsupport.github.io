@@ -6479,18 +6479,18 @@ Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 160
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.BIENVANNHAT.lunartime_1.2_iphoneos-arm.deb
-Size: 27414
-MD5sum: 9f6ee7124d5c4e3a5b41ea1d4bc74bb8
-SHA1: f15c7ba0bb70740f86fb1561d257243422311b3b
-SHA256: ffde08e04044bc9fc82169e9f234cb9ba9f8ab3daf8e26f6bfd62d50380b725f
-SHA512: 779177b05465c104715228c80246ebe99574518e05d30668adcfe563760b94ca608ba2c25e0f3d87c359d9dc20136828c9340bbea59075b27e5067d5eada1759
+Size: 27420
+MD5sum: 66ecbd0e052e3cee3eda4fb90486a42d
+SHA1: 9a093fbe9e996a607350e7a0354aa95bae43c2c9
+SHA256: 137271da981f81976fde6e7f26d241bc0a612ac8decea9cd95c374bee09c2f95
+SHA512: dd014e114f3dc1ac5b16b9bc24cb6a1e70ae79192518a671fd18ece2fa610e6dcee5a9dca3436b6853700b848a932fa37864518d9f0eefb0f3bd53650a7c69d7
 Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
 Tag: purpose::extension
 Name: LunarTime
-Author: fahlnbg
+Author: NQT
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Lunartime/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Lunartime/?p=info
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
 Package: com.BIENVANNHAT.macosnotifications
 Architecture: iphoneos-arm
@@ -12009,46 +12009,6 @@ Author: IArrays
 Name: libiarrays
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
-Package: com.bienvannhat.lunartime
-Architecture: iphoneos-arm
-Version: 1.3.1
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.bienvannhat.lunartime_1.3.1_iphoneos-arm.deb
-Size: 11552
-MD5sum: 62a300a5d040dfc0c514cad82ea022d1
-SHA1: a8b7ffbd2681b63991dc8e5c0c403a82ef060d58
-SHA256: c7f88a880b800f07977bdf198df73bbc7c7eb9cab1aa524d38437c20fd0b1a6c
-SHA512: 238ec83844c435503710e008f04ee51b1b6e86bcf59189fbef1e8e3317fa7526d6813fd222eaee8cf4b87d656fe49d70fdf3885278c0f4b36b6759205c6ce29b
-Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
-Name: LunarTime
-Depiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: nqt1195
-
-Package: com.bienvannhat.lunartime
-Architecture: iphoneos-arm
-Version: 1.3
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.bienvannhat.lunartime_1.3_iphoneos-arm.deb
-Size: 20656
-MD5sum: 4e8c37e5336cd5ea51e5aec1c26b0233
-SHA1: cd86d272a5615307b1dd05666393f0f54dcfb798
-SHA256: b266fad8da47510abb4212c7036b37887ce10275c0dbe175e794003b2ff12f2b
-SHA512: a20e3287a0eb7f738542673d145218519ad9ed8852986cfc59a610410795ae096cd6a8b8b08329b2329b857d06d5a7cf6caace0f05a49933c971359d73bc845c
-Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
-Name: LunarTime
-Depiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: nqt1195
-
 Package: com.bienvannhat.macpass
 Architecture: iphoneos-arm
 Version: 1.3
@@ -12964,6 +12924,27 @@ Author: Nightwind and thetimeloop
 Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.lunartime
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.lunartime_1.0_iphoneos-arm64.deb
+Size: 27010
+MD5sum: 06059bfcbd57f0165ec7d11b4cbc13a6
+SHA1: 4c76c381bdce253d6c189c9bdadc6d75d389028c
+SHA256: 18ef19fcb77ec28abfedc84db7c641f1a1b6945227f9883065be0797793b36e7
+SHA512: 10d052954ab4bc601c6c235e9e88d08141dc70b6ffd72ee6c38d8edeab20c73ca0a705eedbbb1108dcf840d49a146d0a1dd60c36769c00aa6ba87a15947f0c77
+Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
+Tag: purpose::extension
+Name: LunarTime X
+Author: NQT1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
 Package: com.bvn.lynxrootless
 Architecture: iphoneos-arm64
