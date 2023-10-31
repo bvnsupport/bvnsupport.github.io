@@ -2794,6 +2794,28 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.bioprotectxs
 Architecture: iphoneos-arm
+Version: 4.8-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2232
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubs
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.BIENVANNHAT.bioprotectxs_4.8-1_iphoneos-arm.deb
+Size: 860522
+MD5sum: e79d6c2d6690f41684c8658b78e9f73c
+SHA1: 85f3b0dd4017acc744fd7b14a3c84753b5666821
+SHA256: d83983ac251ea3e3af6e86882e319b99af3569402c91fe3937b1c42bf2c5770f
+SHA512: 422a33fc3c290fd94659b1b90e557a77a3a65108fa36ad6d6deae2c36400fa4b90522017a9b6b637708e2d0c7f116232e08da99d00af5030dc45fefeb620280e
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect XS VH(iOS 12/16)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/BioProtect/?p=info
+SileoDepiction: http://bvnsupport.github.io/infodeb/BioProtect/?p=info
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: b22ceb543f0b4c1d6354ef7ad70f769b
+
+Package: com.BIENVANNHAT.bioprotectxs
+Architecture: iphoneos-arm
 Version: 4.8
 Section: Tweaks
 Maintainer: Repo Cydia BVN
