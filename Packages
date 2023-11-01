@@ -14383,6 +14383,33 @@ Name: Fast-LS Việt Hoá
 Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.cannathea.afc2d-arm64
+Architecture: iphoneos-arm64
+Version: 1.1.8-2
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 312
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.cannathea.afc2d-arm64_1.1.8-2_iphoneos-arm64.deb
+Size: 19728
+MD5sum: a1c1a758f6f2d9140a10f2332c525f50
+SHA1: a2b2679f8b639932f6ccf4aba50e6958db7ddab8
+SHA256: 817e0e50b61e182221e81630f9c20f35d4912ebbe47b2469ece1d78048a6e742
+SHA512: aeff0bb78f6c7fd74ca014e7325e037c02a6b8f2a3b02d79e4de43f0c72af01fa63e846579c773ebac4990452189098875acd55b118016ccec898b7daa876257
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Cho phép truy cập toàn bộ hệ thống tệp qua USB cho tất cả các thiết bị arm64, đặc biệt hữu ích cho những thiết bị chạy iOS 11 trở lên. Vui lòng cài đặt lid vì nó cần thiết để sử dụng. (ngoại trừ bản bẻ khóa XinaA15)
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: Apple File Conduit "2" (Rootless)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+dev: cannathea
+
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm
 Version: 1.5.6R
