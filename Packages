@@ -12580,6 +12580,46 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 408
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm.deb
+Size: 70476
+MD5sum: 521b5284dbf1ed422afac5fab9949cac
+SHA1: 9c4e43b4daa439bc54b6de0d36c6b1ce200458ab
+SHA256: 8b3f00df40692e2d368468314b41f89d753caf20674b466de207a3803c82811b
+SHA512: ba25be362f971c9b25bfae04a79edbaa4f3da44ab8913b7da1ebebbcb9b0fb84d1c94170dc4e748c2f14ea4c98e8ee36c9ab950729e8565d3fc6f06354c5f658
+Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
+Name: 3DAppVersionSpoofer VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/3DAppVersionSpoofer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm64.deb
+Size: 70666
+MD5sum: be5c1360e6f70587731882fa75f7a487
+SHA1: 19d1c77d9560120431c821ed141893cab74c30da
+SHA256: f4b413ce493b113bf27548c2fc1d9617a9ec28b69222c95990f9c184e5870944
+SHA512: c3afb36c554c4edac3074a92a05a0fa878ad8be8f17c99e82985db6e33367a9ac860c00eda66ecbd3381e75dcf27a2b2ba60e7815d644ea227c26e67c5dc94af
+Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
+Name: 3DAppVersionSpoofer VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/3DAppVersionSpoofer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64
 Version: 1.1-4
