@@ -12588,16 +12588,16 @@ Maintainer: BVN
 Installed-Size: 408
 Depends: com.opa334.altlist
 Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm.deb
-Size: 70476
-MD5sum: 521b5284dbf1ed422afac5fab9949cac
-SHA1: 9c4e43b4daa439bc54b6de0d36c6b1ce200458ab
-SHA256: 8b3f00df40692e2d368468314b41f89d753caf20674b466de207a3803c82811b
-SHA512: ba25be362f971c9b25bfae04a79edbaa4f3da44ab8913b7da1ebebbcb9b0fb84d1c94170dc4e748c2f14ea4c98e8ee36c9ab950729e8565d3fc6f06354c5f658
+Size: 70482
+MD5sum: be9cd0ff8463a175657e1a8a19ea73b7
+SHA1: f4246fbf88475e9a8fc6e86f0815926382e3e9e3
+SHA256: 637de5a2a632fb99dfea536f76346b1c06dd86efd7440b91e42aab9b9ddab59e
+SHA512: 5cd1b8a61288da15f09e1d8aad461df2002de38692d8daee8b5b7f057b3c5facf4c815ec84364d156bc2ce9e97d985cba5cb68607a8f7b5430b84b18bcebd986
 Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
 Name: 3DAppVersionSpoofer VH
 Author: 0xkuj
 Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/3DAppVersionSpoofer.json
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.3dappversionspoofer
@@ -12608,16 +12608,16 @@ Maintainer: BVN Repo
 Installed-Size: 424
 Depends: com.opa334.altlist
 Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm64.deb
-Size: 70666
-MD5sum: be5c1360e6f70587731882fa75f7a487
-SHA1: 19d1c77d9560120431c821ed141893cab74c30da
-SHA256: f4b413ce493b113bf27548c2fc1d9617a9ec28b69222c95990f9c184e5870944
-SHA512: c3afb36c554c4edac3074a92a05a0fa878ad8be8f17c99e82985db6e33367a9ac860c00eda66ecbd3381e75dcf27a2b2ba60e7815d644ea227c26e67c5dc94af
+Size: 70672
+MD5sum: d1951aa3854f1e7cb232a6c9fc026fde
+SHA1: a3cdf4cb9433db7c7c25ee090a546c004f5ff0f2
+SHA256: e3faf3de2bfbb15480c46caf8e9635c6be93d4ac16e3d10e36386d910c0fba87
+SHA512: 5dcc9a7cdd16da9df5538f9f98763e4d385ca222844e46fad9cd4d19ceddc490231469084da1ef56c624977d19e4499749c19a90756c6f778942edd4a7e7b5e1
 Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
 Name: 3DAppVersionSpoofer VH(Rootless)
 Author: 0xkuj
 Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/3DAppVersionSpoofer.json
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.RingTonesManager
