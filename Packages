@@ -11740,6 +11740,48 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/April/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/April/?p=info
 
+Package: com.bienvannhat.april
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 828
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/com.bienvannhat.april_3.0_iphoneos-arm.deb
+Size: 420372
+MD5sum: d5adf75fd379d83899ea67f6aaef09e6
+SHA1: 634bb138ff2a320084b293c43bca73044cff125c
+SHA256: 6da68d12b64b5f80a16ebcf4d8b3dff91e20061b93eefe042b9f28fd422e795d
+SHA512: e7704e55d67c9c893f89782f913ec51e411c0bf75be3449fa50abc7d58ab0919caecd92ca39f0b1822c129b8c9a5cbbd12db36c4bf8c789b32dc7a1f83ae3578
+Description: Nâng cao tính thẩm mỹ của ứng dụng cài đặt của bạn lên một tầm cao mới một cách nhanh chóng
+Name: April VH
+Author: Luki
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/April/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/April.json
+
+Package: com.bienvannhat.april
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 808
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/com.bienvannhat.april_3.0_iphoneos-arm64.deb
+Size: 419336
+MD5sum: e96fc9abd79a8518e2b56bc362856eb3
+SHA1: 4157f40f24d68e1b2a3715567ca00412df42cb35
+SHA256: 5f894149b50ae57730a0a9f6471ee5a4bd0e9a56fbe5dbb9a0882b776c410b64
+SHA512: 21f98672f7b59ff95d5cddc3d7174e3414e026456c1b81b9a4685943323f4e93d4df32b570f02f32df7e8c36bc5933524c21fb54f5421ff5ed35eb22261c3bee
+Description: Nâng cao tính thẩm mỹ của ứng dụng cài đặt của bạn lên một tầm cao mới một cách nhanh chóng
+Name: April VH(Rootless)
+Author: Luki
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/April/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/April.json
+
 Package: com.bienvannhat.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.7.12
