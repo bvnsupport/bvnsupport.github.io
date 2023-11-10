@@ -1555,25 +1555,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Manager/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Manager/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.april
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 660
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.BIENVANNHAT.april_1.0.1_iphoneos-arm.deb
-Size: 350078
-MD5sum: 6efe06374ac0bc2cc36e81fc92e746f6
-SHA1: 646aa3ed0e1c68e89fd1543c78493baf6b44c3fa
-SHA256: faab6346235a4db138e7ba1664c9932bf3f1a2d16eba98ae608cb2c550f4b0e7
-SHA512: ffbaf32378fcd547e516c6df2e10cb14bb9382089d0873a565c31615e2fc906745565302f65760e3c16fd352aa5b7b94efaa7fbfbca35f29fd39a7d629ac7a48
-Description: Tuỳ chỉnh cài đặt của bạn.
-Tag: compatible_min::ios13.0, compatible_max::ios14.9
-Name: April Việt Hoá
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Luki120 <lukimaine120@gmail.com>
-
 Package: com.BIENVANNHAT.arabicdev
 Architecture: iphoneos-arm
 Version: 3.2
@@ -11720,25 +11701,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppsManager.json
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 Author: TIGI Software <satashi2009@gmail.com>
 dev: satashi2009
-
-Package: com.bienvannhat.april
-Architecture: iphoneos-arm
-Version: 2.0.1
-Section: Tweaks
-Maintainer: Repo Cydia BvN
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, com.REPOCYDIABVN.centeredlabels
-Filename: ./debs/com.bienvannhat.april_2.0.1_iphoneos-arm.deb
-Size: 410716
-MD5sum: 6c8fe4f522b07845681dd041918772f8
-SHA1: 384044888b58f85efc7379a5e4061bf489aae4cf
-SHA256: 999a38bfc6a9ed93780e2009f1c05a3015281502a972d2dd3755e3455784945b
-SHA512: 22e7fc53da4b43d8d474a55cd94ca28135a2f82b2e3044c15121db7baf338f93ac092c4171f1065451422862b9d22d5eb809b72797cd12122282a9907f4ef00b
-Description: Augment your settings app aesthetics to the next level on the fly
-Name: April VH
-Author: Luki
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://support-jailbreak.github.io/infodeb/April/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/April/?p=info
 
 Package: com.bienvannhat.april
 Architecture: iphoneos-arm
