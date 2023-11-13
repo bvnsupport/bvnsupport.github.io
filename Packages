@@ -12899,6 +12899,25 @@ Depiction: http://bvnsupport.github.io/infodeb/edge2/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/edge2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.fontquicksand14
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: com.bienvannhat.iconreporootless
+Filename: ./debs/com.bvn.fontquicksand14_1.0_iphoneos-arm64.deb
+Size: 27499848
+MD5sum: a2b727b8972448fa6c05286fc46eca45
+SHA1: f027a73b46f57b76c68050a2ac14f9009b7e09ca
+SHA256: 87a3eb4074482dfe80e738dd2b40a9385ba2dc1e0c0a6b0df4c09fceee81ddad
+SHA512: fb19cb3b7c1f85cb82fde192fa9642bcbd1d46de213e530a2eb177ef172c6600a7f9554e9efb9a811495bbe5944538b83a2925ece198f605c5d962d9001e401d
+Description: Rounded sans serif. 100% size. For iOS14-16.
+Name: Quicksand (iOS14+)
+Depiction: http://bvnsupport.github.io/infodeb/Quicksand/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Alex (@Alexman1979)
+
 Package: com.bvn.jade
 Architecture: iphoneos-arm
 Version: 1.0

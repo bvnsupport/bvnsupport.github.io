@@ -1,0 +1,117 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Phông chữ Quicksand\n\n- Kích thước phông chữ 100%\n\n- Kích hoạt bằng Tweaks Snowboard\n\n- Sau khi tải về xong các bạn vào Snowboard chọn phông chữ Quicksand sau đấy vào tiếp Tweaks iCleaner Pro nhấn vào "Dọn dẹp"để áp dụng phông chữ \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Quicksand/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Quicksand/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Quicksand/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Quicksand/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Alex"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"13/11/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"21 MB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.0\n\n- Hỗ trợ Rootless Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
