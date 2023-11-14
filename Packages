@@ -5606,26 +5606,6 @@ Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.iconreporootless
 Architecture: iphoneos-arm64
-Version: 1.0
-Priority: required
-Essential: yes
-Section: System
-Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
-Filename: ./debs/com.BIENVANNHAT.iconreporootless_1.0_iphoneos-arm64.deb
-Size: 8926732
-MD5sum: d06f8a3a4f2e8d0dd49aa5746624f70c
-SHA1: 4dcac0782f08702ab2216acc245d153fae9e08d8
-SHA256: 537412e8edabc934f577a479cfb5f4c598f373a4dd7500bf2a8659a637dba3bd
-SHA512: 2e6a45eefb174acf997c9021f8dafdbb452c6af592ed6dd8ce177f5355cf1f2099449061fd0c3d0c0b2169cbfade22b101aa71c458a9591f2f7bf75812689c9b
-Description: Gói iCon cho Repo BVN
-Tag: purpose::extension
-Name: BVN-iCon Repo (Rootless)
-Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
-Sponsor: BVN REPO <Bienvannhat97@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
-
-Package: com.BIENVANNHAT.iconreporootless
-Architecture: iphoneos-arm64
 Version: 1.1-2
 Priority: required
 Essential: yes
@@ -5637,26 +5617,6 @@ MD5sum: a6b52aaa2f0420f5b8478f7ac00ec040
 SHA1: 4ccff589c05e78f8dd0c93dcd13548aae07a9ecf
 SHA256: 78bf4597aaea3cb7b2f34b8cd1e521f4ee363cf1e59e805fff3c3c7e9bcdabf2
 SHA512: d41c5ff29ce067551cbe8e2612265340dec0d0f34faa3c30fd5ef6f0f9453bf5d17401b57f9240ec5f0aa3325d2ec698d5933fb6cb592dfd82af454e9ec1fb88
-Description: Gói iCon dành cho Repo BVN
-Tag: purpose::extension
-Name: BVN-iCon Repo (Rootless)
-Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
-Sponsor: BVN REPO <Bienvannhat97@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
-
-Package: com.BIENVANNHAT.iconreporootless
-Architecture: iphoneos-arm64
-Version: 1.1
-Priority: required
-Essential: yes
-Section: System
-Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
-Filename: ./debs/com.BIENVANNHAT.iconreporootless_1.1_iphoneos-arm64.deb
-Size: 2260914
-MD5sum: 0a1a9c145797a38d1508b9a3dafb15a8
-SHA1: b20c5dfa3ed7b6fd46141ab447c6d10afd4bc369
-SHA256: 55f9286c36bc3dadb01ad3baa717d07925d941336cc09df47255a35477ff3b88
-SHA512: 2776183237bb60aa4df9dbcddc34b0b7047b3035a0a4cefd1dedd08866e565446030e32ff0a8f84eaf37431b1e1dff5543e8c8c27bde89a4aee80950ff6a253d
 Description: Gói iCon dành cho Repo BVN
 Tag: purpose::extension
 Name: BVN-iCon Repo (Rootless)
@@ -12915,6 +12875,24 @@ Description: Rounded sans serif. 100% size. For iOS14-16.
 Name: Quicksand (iOS14+)
 Depiction: http://bvnsupport.github.io/infodeb/Quicksand/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Alex (@Alexman1979)
+
+Package: com.bvn.fontquicksand8514
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.bvn.fontquicksand8514_1.0_iphoneos-arm64.deb
+Size: 28768956
+MD5sum: d69039d0e15f734895029293254068e4
+SHA1: 55e2ec1d4f2be293ff2a36d9dff34cffdc27255e
+SHA256: 0424989155a3712b85008a82354003e72b01ac806ae9dad5dfd01fd9318b4af8
+SHA512: 05f3ac79db7cfd316600401c72b43db7fcdb392ea498113178e32a4b693f68eb92b559da900c9940caf0504baef08d27ff290ab0b7e4f61e980b4e165a57503d
+Description: Rounded sans serif. 85% size. For iOS14-16.
+Name: Quicksand_85% (iOS14+)
+Depiction: http://bvnsupport.github.io/infodeb/Quicksand85/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
 
