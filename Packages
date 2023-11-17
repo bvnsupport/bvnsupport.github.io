@@ -14955,6 +14955,27 @@ Name: libimagepicker
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.muirey03.libmryipc
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Conflicts: ws.hbang.stopcrashingpls (=1.0)
+Filename: ./debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm.deb
+Size: 47428
+MD5sum: e2ffa547ff4685155609223b19a8b895
+SHA1: 1bc8c030f78cb4a25e6ff2d5a43382c2866c7c4b
+SHA256: 5bee38d746ac6edcfb52bf8531ccfa02319744eaf4b9502cab55320012ffda82
+SHA512: 77fbef8ac5358524cd3f8d051cf23b492b41b95ba618ce910f51aaeef75033ea299fc3cf119435ff6aefe26d8d6b9ce6bc11fc8179fbefe0270201fe21685b94
+Description: Easy-to-use, RocketBootstrap-less iOS IPC
+Tag: role::developer, purpose::library, cydia::obsolete
+Name: libMRYIPC
+Author: Muirey03 <tommy.muir@btinternet.com>
+dev: muirey03
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+
 Package: com.niceios.nicebarx
 Architecture: iphoneos-arm
 Version: 3.0.0.5R
