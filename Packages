@@ -8395,39 +8395,18 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 678
 Pre-Depends: firmware (>=12.0)
-Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.libiarrays (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Depends: mobilesubstrate, preferenceloader, com.bienvannhat.libiarrays (>=1.0.16), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
 Filename: ./debs/com.BIENVANNHAT.simplus_1.14-beta-2_iphoneos-arm.deb
-Size: 699620
-MD5sum: f30119c825716f838c6bacf62f1dbf3a
-SHA1: 2d9345469616391ce0e4330fb39f9d94c9d43eed
-SHA256: 93fd2b56d616adecb76da9724667b0d8fd954d4316f4f51e34854eba61e37adb
-SHA512: 7aaac776b85e0b0c2fba6bec65d015a6071c7ba49ecbf6b24d2d56dd736bacea62bf44812aa8e638c7904136a67b2c3aa83f4fd827c91dca878591fa44125857
+Size: 699630
+MD5sum: eb8322e5d50c81e39d28c2b8696d303a
+SHA1: 02487eea0efe65f2572664d01765b8d248dd1f4b
+SHA256: 6063b3c96e03d4a7374398ea42f9c6a2b8c4999afdab39e59d96e0168c364ed3
+SHA512: 8485e10b64dcb04fb6c676cbbb47889eb3d8fc740bbfe7fb09a48e1f1f71293fe62b0e5d8d1052d31c94519e27df93f9affd7f5c8c04ac51f6bc2d8d23c887a4
 Description: Chọn SIM để liên hệ trên iPhone eSim.
 Name: eSim+ VH
 Author: IArrays <support@iarrays.com>
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.simplus
-Architecture: iphoneos-arm
-Version: 1.16-beta-2
-Section: Utilities
-Maintainer: BVN
-Installed-Size: 678
-Pre-Depends: firmware (>=12.0)
-Depends: mobilesubstrate, preferenceloader, com.bienvannhat.libiarrays (>=1.0.16), com.opa334.ccsupport
-Filename: ./debs/com.BIENVANNHAT.simplus_1.16-beta-2_iphoneos-arm.deb
-Size: 742398
-MD5sum: f4a816bd820aec30f5a9d6389ff8a402
-SHA1: 75af37a1f93a163f19a6e473e039ed4bd515a83d
-SHA256: 05c1cf48473ac2845bad41020fd4c4e401bda86bffdf1efa51cbffce056fcc86
-SHA512: d0eb10792f67e0323676e3ceebdb63ff3f828673e2dc3d843650f043bae079c75ef10af9fc7f87e9382516b5dc0ae37d1f98ce56715eb028364b8398fdf64158
-Description: Cách Apple đã làm điều đó cho bạn nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
-Name: eSim+ VH
-Author: IArrays <support@iarrays.com>
-Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.sixls
@@ -11887,17 +11866,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.libiarrays
 Architecture: iphoneos-arm
-Version: 1.0.16-beta-2
+Version: 1.0.16-beta-1k
 Section: Development
-Maintainer: BVN
+Maintainer: BVN repo
 Depends: ldid, firmware(>= 9.0)
-Conflicts: com.iarrays.libiarrays, net.kenhtao.libiarrays, org.mr.libiarrays
-Filename: ./debs/com.bienvannhat.libiarrays_1.0.16-beta-2_iphoneos-arm.deb
-Size: 431808
-MD5sum: a92b1a42788fb8cfd08a33874f19a441
-SHA1: a20d109cb62fd716ad26c06e010cda1366319242
-SHA256: b780149f27261f30e3b8335c4f1e75020d9948ffd005f3e55e112feefa43d119
-SHA512: fd398ba499cc5e638a1de778c08e718b982129dd20245c02fde854d65c6ff5085e90e5ff1fb6d53d36f2ea2234e43915fe7c7200bfded19e6d63cc37b6e7a051
+Conflicts: com.iarrays.libiarrays
+Filename: ./debs/com.bienvannhat.libiarrays_1.0.16-beta-1k_iphoneos-arm.deb
+Size: 431798
+MD5sum: 37b1e44c60e9eef3b9d5c9b68e31d862
+SHA1: 0d90f5f5693012fa2c33cc01b6f1a4b0c5c2af92
+SHA256: eb8c80fab038182b018dcc8388b6a4d14343ddbe24d5be726a4bdf77e8be6848
+SHA512: 9aeb47664fc8beed5c2e33e271876c88831d4146c3c98bbe7fe8dc589e1db87b4470886382eb6657c7972ba5ed942c769c0d65ea3d02cf157b13f2e14b0d0363
 Description: Should be used only for certain iArrays packages. This is a closed library and no support is provided for this package.
 Author: IArrays
 Name: libiarrays
