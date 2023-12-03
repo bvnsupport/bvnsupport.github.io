@@ -12980,6 +12980,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.portraitxi
+Architecture: iphoneos-arm
+Version: 4.3.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 13968
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.8)
+Filename: ./debs/com.bvn.portraitxi_4.3.3_iphoneos-arm.deb
+Size: 12586814
+MD5sum: ed129c704da0b53da3ca201973d13657
+SHA1: 31f20a7ad1a6ab97b3c4011a5e0e532d9915044b
+SHA256: ce6ba98eb2feb0ecf6227f5bc6056e91f573920a524655bc333ee60f1fbe06d3
+SHA512: d32e4c578975c8db871ebc068cf51eba626f5a91506afa896a96f5c096c82ff1e05d381429080154635a3128a065236ea06d822f92cb2dbbef1171f523b571c4
+Description: Bật chế độ chụp chân dung cho những iPhone chỉ có 1 Camera
+Name: PortraitXI VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/PortraitXI.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
+Author: FoxfortMobile
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.portraitxi
+Architecture: iphoneos-arm64
+Version: 4.3.3
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 14004
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.8)
+Filename: ./debs/com.bvn.portraitxi_4.3.3_iphoneos-arm64.deb
+Size: 12585582
+MD5sum: e5b76b0553d970f8105e946046adda18
+SHA1: ff503e74c9f8692b47e2109c2a10e87d4308c1d2
+SHA256: 5e970d438807b9b40bd1650975f95a920845c5640f2a4c5979497860190b6299
+SHA512: f57263f458f25c1e715a66bfabf7fe0f687162a73d5dbcb8e8a8cfd99c7a4bb4f4bd783465e9da73aa5ddc205bc24d368d43aea0e66444c8f1820a61afcb2b84
+Description: Bật chế độ chân dung cho iPhone chỉ có 1 Camera
+Name: PortraitXI VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PortraitXI.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
+Author: FoxfortMobile
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
