@@ -13138,6 +13138,28 @@ Depiction: https://support-jailbreak.github.io/depictions/amber.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvnrepo.calllogpro-rootless
+Architecture: iphoneos-arm64
+Version: 15.0-beta-6
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 10084
+Pre-Depends: firmware (>=15.0)
+Depends: mobilesubstrate, org.mr.libiarraysrl (>= 1.0.16)
+Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81, com.iarrays.CallLogPro8, com.iarrays.calllogpro.roothide
+Filename: ./debs/com.bvnrepo.calllogpro-rootless_15.0-beta-6_iphoneos-arm64.deb
+Size: 3932430
+MD5sum: d4dbb070f1c1710f758e084dc6498932
+SHA1: 58d53318bdd4a5ae375aa9c9f9640b43a4ca2183
+SHA256: 83b55e91f23b5ff5ef0322d1e597dea429348ad21806a9b85d320d211c2dd8dd
+SHA512: 2e1926b51ce2c1a8890426d194670e61e4d6bbd85931f1a92c5df042acc9bbdb0318c907f37b9b6c6fb70aea5a14f16c2a5c4b4b45db3861c734233e90e17332
+Description: Bây giờ có hỗ trợ iOS 16.x. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi hoặc tất cả.
+Name: CallLogPro VH(Rootless iOS15/16)
+Author: IArrays <contact@iarrays.com>
+Depiction: http://bvnsupport.github.io/infodeb/CallLogPro+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallLogPro+.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bvnrepo.copylogrootless
 Architecture: iphoneos-arm64
 Version: 1.5.6
@@ -16163,6 +16185,29 @@ Description: Cách mà Apple nên làm, nhưng đừng lo lắng. Chúng tôi đ
 Name: eSim+ VH(Rootless)
 Depiction: http://support-jailbreak.github.io/infodeb/eSim+/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/eSim+.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.repobvn.simplus.rootless
+Architecture: iphoneos-arm64
+Version: 1.16-CRM
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 1196
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16), com.opa334.ccsupport
+Conflicts: com.iarrays.simplus.roothide
+Filename: ./debs/com.repobvn.simplus.rootless_1.16-CRM_iphoneos-arm64.deb
+Size: 713160
+MD5sum: 6b2bff2a41338554e2cfc968d64c28bc
+SHA1: 0cf803b4f33a6d209cbc0019da1ec3c2dbc835d3
+SHA256: 9d3fc6bcff228ea224dd1988b910471124fcc8fc765d755329d9f85610536e7b
+SHA512: 2346576f58b9a81da7c9d0809338097f2ea8ecfc11de1551b102636b7956e36ff46508ed03fa4337d86f0c4f3f5a7fd1f2f5b1c14229f46bc6119367a3af0b63
+Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH(Rootless iOS15/16)
+Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
@@ -19968,24 +20013,25 @@ Name: iCleaner Pro (Rootless)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
-Package: org.mr.libiarrays-rootless
+Package: org.mr.libiarraysrl
 Architecture: iphoneos-arm64
-Version: 1.0.16-beta-2k
+Version: 1.0.16-beta-11k
 Section: Development
 Maintainer: MainRepo
+Installed-Size: 640
 Pre-Depends: firmware (>=9.0)
-Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
-Filename: ./debs/org.mr.libiarrays-rootless_1.0.16-beta-2k_iphoneos-arm.deb
-Size: 548282
-MD5sum: 8d715dadae71be47e2b089ef432773e9
-SHA1: 82cc15c9368bc73289e9a5fd7e66ee2faea00090
-SHA256: a39b3acd3614833c12d9b4805ee33a443ef7e67f3dba9afa350c17ef3b20e90e
-SHA512: fc35e62036e2b7377f4e9d0757d1d3f5c4964aa10861d2d32d9d7ff8ad54bb603797a48ea4e547a77f84249110f1f72a68414117e8655117db4c142aa87a1357
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
+Filename: ./debs/org.mr.libiarraysrl_1.0.16-beta-11k_iphoneos-arm.deb
+Size: 208944
+MD5sum: b771b9ebd7cfb5c3a293aea24c159c6e
+SHA1: 033e512d75c06349e9ffc986a4e6d8ce7c09d441
+SHA256: e320894242369e5b598c3d0c5ecefe29357c87bee5863a3ca01a059fdcf8db06
+SHA512: 6ec776f1d44fcbe41918b83b0c521df4043f2e2c9266c893b7804977eef9b4fe85b3cdb2a59352aa56d327bd1e29b9c9c4c83b85f78e5079a61b3f27f22b2852
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
-Name: libiarrays (rootless)
+Name: libiarrays (Rootless)
 Author: IArrays <support@iarrays.com>
-Depiction: https://mrepo.org/depiction/5461
-SileoDepiction: https://mrepo.org/sileo/5461
+Depiction: https://mrepo.org/depiction/5581
+SileoDepiction: https://mrepo.org/sileo/5581
 Icon: https://mrepo.org/CydiaIcon.png
 
 Package: org.mr.unsubs
