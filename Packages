@@ -16168,29 +16168,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.simplus.rootless
 Architecture: iphoneos-arm64
-Version: 1.15-CRK
-Section: Utilities
-Maintainer: Biện Văn Nhật
-Installed-Size: 678
-Pre-Depends: firmware (>=12.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarrays-rootless (>= 1.0.16), com.opa334.ccsupport
-Filename: ./debs/com.repobvn.simplus.rootless_1.15-CRK_iphoneos-arm64.deb
-Size: 882650
-MD5sum: 226641375fc5b5443f0278fc6ccdc7c0
-SHA1: 06f466331840a15794feefb3ad13b64cb5f2c186
-SHA256: d9619a1b5f0434ecc874081cdd31bf43cfa025382bed795e1089cd042e8f2741
-SHA512: e877bcb94ed038812e58dea6f5905a0428ab17c75e39348ab3a65dc9a5608f27722d709064a2ac8ff4fb76c6f8332b9ceda30be72f1fd138513d34b67819de87
-Homepage: http://support-jailbreak.github.io/
-Description: Cách mà Apple nên làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
-Name: eSim+ VH(Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/eSim+/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/eSim+.json
-Author: IArrays <support@iarrays.com>
-Sponsor: IArrays
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.repobvn.simplus.rootless
-Architecture: iphoneos-arm64
 Version: 1.16-CRk
 Section: Utilities
 Maintainer: BVN Repo
