@@ -16191,19 +16191,19 @@ Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.repobvn.simplus.rootless
 Architecture: iphoneos-arm64
-Version: 1.16-CRM
+Version: 1.16-CRk
 Section: Utilities
 Maintainer: BVN Repo
 Installed-Size: 1196
 Pre-Depends: firmware (>=12.0)
 Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16), com.opa334.ccsupport
 Conflicts: com.iarrays.simplus.roothide
-Filename: ./debs/com.repobvn.simplus.rootless_1.16-CRM_iphoneos-arm64.deb
-Size: 713160
-MD5sum: 6b2bff2a41338554e2cfc968d64c28bc
-SHA1: 0cf803b4f33a6d209cbc0019da1ec3c2dbc835d3
-SHA256: 9d3fc6bcff228ea224dd1988b910471124fcc8fc765d755329d9f85610536e7b
-SHA512: 2346576f58b9a81da7c9d0809338097f2ea8ecfc11de1551b102636b7956e36ff46508ed03fa4337d86f0c4f3f5a7fd1f2f5b1c14229f46bc6119367a3af0b63
+Filename: ./debs/com.repobvn.simplus.rootless_1.16-CRk_iphoneos-arm64.deb
+Size: 713162
+MD5sum: 78bfe97e531b54310dacda01c0c039e8
+SHA1: 5dbd0f77ce92c3a75a3cb579ec85bd925c10046f
+SHA256: be0916a57888c2895b2fdd3fa8bcfcdc3135ea15fbf96bd6e1ab1bdf58c67454
+SHA512: 36302fd497225b8244ba40a45337ee862294ea927c977e568e877e5e3d8958d2761b93af42ef52aa28ddd47903bfdf510be1f3cb9bae1d6905b73c8be00c3a91
 Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
 Name: eSim+ VH(Rootless iOS15/16)
 Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
