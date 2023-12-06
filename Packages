@@ -4678,21 +4678,23 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0.2
 Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.0_iphoneos-arm64.deb
-Size: 6044
-MD5sum: 67bd4cee957393a86e7c9da9af83dce9
-SHA1: 51821d5dfdf3e92d1afd80ed9062665177896d11
-SHA256: c23d5d2721e2c32135591ac07f719afd960ae3d735ad3e3f4bccbafd84fa0100
-SHA512: da74fa43cae412dcb5a6e7eadf6bb712e357cd1d358b7f051f8fe8c5017ca74f59b8cb66b583f51b8ba11c823e78b51224a7919a3c4ddc469f9712457f89fdd9
-Description: Chặn quảng cáo cho Ứng Dụng Facebook
-Author: pk2dev
-Name: Facebook No Ads (Rootless)
-dev: Pk2dev
-Depiction: http://support-jailbreak.github.io/infodeb/facebooknoads/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/facebooknoads.json
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 15)
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.0.2_iphoneos-arm64.deb
+Size: 27564
+MD5sum: b8cd54ce7dad04c8e47dbdb44b7afbb2
+SHA1: e9337a3132536ba53fa2afd2f1c4d4e12e9b744b
+SHA256: 3c203ded35b5b3b3e48e55c1ab9ad493771b6728473e433f1d9027825eb4bf3d
+SHA512: 7adbe485407cbde55f3c1b12a55038e72ac2ab613364b0e5a1184e0aef7815b0db4c2ea6e999114a32bdb296cb02657a1c6b3a6c5a11a01b695ba8dea6d16461
+Description: Tải xuống video trên Facebook <nhấn lâu vào video>.
+ - Chặn quảnh cáo.
+ - Không có cài đặt tùy chỉnh.
+Author: Haoict
+Name: Facebook No ADS (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facebooknoads
@@ -19097,6 +19099,35 @@ dev: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
+
+Package: com.haoict.libhdev
+Architecture: iphoneos-arm64
+Version: 4.8.1
+Section: System
+Maintainer: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15)
+Filename: ./debs/libhdev.deb
+Size: 75728
+MD5sum: 2c81407e71338702cefea53e165e9871
+SHA1: 6779b4f7061cb91be81f97483a603f4880c3854d
+SHA256: 663ef39d53b8db57c231e6944ef1a0089a412bd0fd0e7848a0c5fed9dda63cdd
+SHA512: d8da50a05fc1515f6b79a6d77d9cd438949bd57700b64bf3f0fc96242d8e287bd70740b04d6275fe357e10a8b70ba15d4b5c5524727bc49b35bccdd57f385b62
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ . 
+ Change log: 
+ - v4.8.1: Minor improvement
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+ . 
+ Github: https://github.com/haoict/libhdev-public
+ . 
+ © 2021 haoict
+Tag: role::developer
+Name: libhdev (Rootless)
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Author: Hao Nguyen <hao.ict56@gmail.com>
 
 Package: libskittycolor
 Architecture: iphoneos-arm64
