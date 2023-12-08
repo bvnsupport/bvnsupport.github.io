@@ -5442,20 +5442,20 @@ Package: com.BIENVANNHAT.homebarsizer
 Architecture: iphoneos-arm64
 Version: 1.1.1
 Section: Tweaks
-Maintainer: BIỆN VĂN NHẬG
+Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 404
 Depends: mobilesubstrate
 Filename: ./debs/com.BIENVANNHAT.homebarsizer_1.1.1_iphoneos-arm64.deb
-Size: 33740
-MD5sum: c3ba84e1c6d7aa3f49966297167f3509
-SHA1: 154837454400af0be9554d39247f21fc2bd443af
-SHA256: 5309d743ab6fa52f10dd0116a498bde4a91d8837bf9ca9fe82cd990d5d3a5361
-SHA512: 4128583cf6162bdd59a4bbf36335b03d4f543f2461bfc8f301c648924be15f1fd5858e4e2807fda8cf9c0f0a1f13a2a04978f5df696ac24fc65896c601339df0
-Description: Tuỳ chỉnh kích thước của Thanh Home!
+Size: 33706
+MD5sum: 7bc5aa730a03864bd75d7c2816647a0c
+SHA1: 66861f8877aed5ddf961c28d6c7af296cbaaaaf9
+SHA256: 7d86500bafb4399640af42a1385f444b46b01375204fd33d1dc4e1f571ff45b1
+SHA512: 05d56547cafa785dd135f91797607ee50907298bddc705944258cc528c6dcaf39bc97f491ea6b8a618344eb40eb0703cd12fc7284d98161bffa8567d4a5d6c32
+Description: Tuỳ chỉnh kích thước Thanh Home của bạn!
 Name: HomeBarSizer VH(Rootless)
 Author: P2KDev <p2kdev@gmail.com>
-Depiction: http://support-jailbreak.github.io/infodeb/HomeBarSizer/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HomeBarSizer.json
+Depiction: http://bvnsupport.github.io/infodeb/HomeBarSizer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/HomeBarSizer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.homepluspro
