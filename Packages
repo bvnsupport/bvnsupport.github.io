@@ -12626,6 +12626,28 @@ Name: BHTwitter (Rootless)
 Author: Bandar Alruwaili
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.colorbadges
+Architecture: iphoneos-arm64
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 560
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: org.thebigboss.colorbadges
+Replaces: org.thebigboss.colorbadges
+Filename: ./debs/com.bvn.colorbadges.deb
+Size: 86878
+MD5sum: 2de719f347252652240d07032b3a084d
+SHA1: a67862999ef564cba305471fba0a4fc887f3ba40
+SHA256: e472fd2e208f39a28b8a88531c9b2d7ee9ba7e066431dd46f7bfa74a0d8cf81b
+SHA512: 220a8d17a7347f985a6af9e35f8830b580d35c0a222437e3cf4143b7c94fcf4f1bd6b2d4aca174dab6b13bd819e514f6805200e98fd9a0af2226aabfe711ace0
+Description: Sử dụng màu biểu tượng làm màu biểu tượng thông báo
+Name: ColorBadges VH(Rootless)
+Author: David Goldman
+Depiction: http://bvnsupport.github.io/infodeb/Html/ColorBadges.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ColorBadges.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.coolcc
 Architecture: iphoneos-arm64
 Version: 2.0
