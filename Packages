@@ -12666,6 +12666,30 @@ Name: CoolCC Reborn
 Author: alias20
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.copic2.rootless
+Architecture: iphoneos-arm64
+Version: 1.15.0-beta-5
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 3392
+Pre-Depends: firmware (>=15.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16)
+Conflicts: com.iarrays.copic10, com.iarrays.copic, com.iarrays.copic2.roothide
+Filename: ./debs/com.bvn.copic2.rootless_1.15.0-beta-5_iphoneos-arm64.deb
+Size: 971062
+MD5sum: d0eb32c26a10ae04b2bfeba0bb9c18f7
+SHA1: 4536cfd8c1fc0d8149e2db04d8a999ada29480e2
+SHA256: ea31cf8258964139d08ebb72b99f1301ed40c0e8f9d628fb4f3dd5660362c06c
+SHA512: 76a0f364b868eda9ddfd56d906d0cad47760c430c2b06eb56a679ee25efb4907ad9ac30dd1b0a918f84fbb24a9cbdd953dbe4a9125195e6e55c8d4c6302dbef6
+Homepage: https://iarrays.com/
+Description: Copic 2 mới được thiết kế lại, tối ưu hóa và xây dựng lại hoàn toàn từ đầu. Giờ đây mang đến khả năng hiển thị ảnh Liên hệ ở mọi nơi trên iPhone của bạn. Tích hợp liền mạch với các ứng dụng Danh bạ, FaceTime, Thư, Tin nhắn và Điện thoại có sẵn. Nó tích hợp với màn hình khóa và Trung tâm thông báo, đồng thời hiển thị hình ảnh liên lạc cho các cuộc gọi nhỡ và tin nhắn. Mang lại khả năng bật hoặc tắt chữ lồng hoặc hiển thị hình ảnh tròn hoặc hình chữ nhật và nhiều tính năng khác.
+Name: Copic 2 VH(Rootless iOS15/16)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Copic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Copic.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm
 Version: 1.4.3
@@ -12746,6 +12770,29 @@ Name: cyarchfix
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.deletecontact.rootless
+Architecture: iphoneos-arm64
+Version: 1.15-beta-1
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 792
+Pre-Depends: firmware (>=15.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>=1.0.16)
+Conflicts: com.iarrays.deletecontact.roothide
+Filename: ./debs/com.bvn.deletecontact.rootless_1.15-beta-1_iphoneos-arm64.deb
+Size: 233060
+MD5sum: 8fffa47d74929a7794e082e4bf26bd82
+SHA1: d2f649dec46a3b03c51a52bbbbefe7d1de6b048d
+SHA256: dac649da780a0b8554d9a5cdff65dcc918206f7b8d0c36ef20f546842fd02315
+SHA512: ee01b4fe32bfafc5284be89b6d8b1457ba7e21df10203dcf370cbe41126c43158f289c5fa5e94e87a946b474ee140be57be45d86658a732faafdf4522019fb3c
+Description: Hiện hỗ trợ iOS 16! Xóa Liên hệ cho phép xóa danh bạ khỏi sổ địa chỉ của bạn. Tinh chỉnh nhỏ này thêm biểu tượng thùng rác vào màn hình danh bạ của ứng dụng Danh bạ và Điện thoại di động. Và nó cũng cho phép xóa nhóm danh bạ và hoạt động với tất cả các iDevices của bạn.
+Name: Delete Contact VH(Rootless iOS15/16)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Contact.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Contact.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -12804,6 +12851,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Quicksand85.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
+
+Package: com.bvn.hidestatusbaritemsx
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Reo BVN
+Installed-Size: 600
+Depends: mobilesubstrate
+Conflicts: com.junesiphone.hidestatusbaritems
+Filename: ./debs/com.bvn.hidestatusbaritemsx.deb
+Size: 69412
+MD5sum: 201597d8e97fd78afd198aa0703c872f
+SHA1: 61dd49fc9a15e0d5f9bafee7db6f2ee1dbb12d80
+SHA256: 9491d638dca040bf49eec5028912498dcf8a6fd5bbb19f50a92cc67176079bf9
+SHA512: 10dcdac2d1869286d1035ed72afacdae03fa01eb38c22de6fe6ee06a2a126982cc47c364e35f0983313d3b142d2ce2d436fe807a6cbd4dce297e02b3c75ce7c0
+Description: Cho phép bạn ẩn một số mục trên Thanh trạng thái
+Tag: cydia::paid
+Name: Hide Statusbar Items X(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Statusbar.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Statusbar.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.jade
 Architecture: iphoneos-arm
