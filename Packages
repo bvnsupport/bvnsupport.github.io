@@ -9911,46 +9911,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.ytx
 Architecture: iphoneos-arm
-Version: 1.2.5
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.BIENVANNHAT.ytx_1.2.5_iphoneos-arm.deb
-Size: 4090
-MD5sum: f64cc47d6b712fdaba0bbb426c655b1e
-SHA1: 8efc82757ae133f71d9210d5c995505c2f78b902
-SHA256: 8185300ab61e56873579c1c288003156a446d15f492bc5669f6ffa4b2bc205bb
-SHA512: 8b3f7000c8c89234e5b146b432ab38e3da8802a0c0bd30dbcb7fb6fb8318ef86bf02adbe151da13706799066cb2fcb8617080317622f69da79540b03c0288d8f
-Description: Chặn quảng cáo và phát lại nền trên ứng dụng Youtube.
-Name: YouTube X VH
-Author: PoomSmart
-Depiction: http://support-jailbreak.github.io/infodeb/YouTube/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/YouTube/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.ytx
-Architecture: iphoneos-arm
-Version: 1.3.0
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.BIENVANNHAT.ytx_1.3.0_iphoneos-arm.deb
-Size: 4156
-MD5sum: c8061a2276a9f247a18bed20771e2588
-SHA1: 7370c11bc9471cfcff5cbdce95aae11ac8d965fc
-SHA256: 87d1cfddab19755f5ce137c99dd19979f6606753b9b90a60b3c0daf74aac05bf
-SHA512: 87f1cb3d8ab233900e2fbc8de3450de78a0231954568636f3bb375ede6d4bc2b828db5f3adb19d46f9ecac298af97b06df3d6000db67e68ca944d10ad116d3e6
-Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
-Name: YouTube X VH
-Author: PoomSmart
-Depiction: https://support-jailbreak.github.io/depictions/ytx.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.ytx
-Architecture: iphoneos-arm
 Version: 1.4.2
 Section: Tweaks
 Maintainer: BVN
@@ -13152,6 +13112,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Stranger/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stranger.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 Author: Skitty
+
+Package: com.bvn.sugarcane
+Architecture: iphoneos-arm64
+Version: 1.2.4.2
+Section: Tweaks
+Maintainer: BVN Trpo
+Installed-Size: 156
+Depends: mobilesubstrate,firmware (>= 15.0)
+Filename: ./debs/com.bvn.sugarcane_1.2.4.2_iphoneos-arm64.deb
+Size: 12776
+MD5sum: cf38d69ce88825600776dd761522749b
+SHA1: e6b4d424ae1dc1fd857ccd3643bfaa967d9cd206
+SHA256: f45849a0972afb3f6dc1246e4846b5fc72955ea91c4c7eeab99822537f4b4c5f
+SHA512: 95953801cd9d3ba4ad50a2bd1da43b1d3c7042df664237f2aa3f95aeb8e2258c048c825651541f90219dbaffe00f02ccf5ae86fdbafdac7c3511d4356f11e5be
+Description: Hiển thị phần trăm trong thanh trượt độ sáng và Âm lương
+Name: SugarCane VH(Rootless)
+Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.tweakhub
 Architecture: iphoneos-arm
@@ -16669,66 +16649,6 @@ Name: YouPiP (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.ytx
-Architecture: iphoneos-arm64
-Version: 1.2.4
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.2.4_iphoneos-arm64.deb
-Size: 4142
-MD5sum: 5e0561621f0014a35beeb0e1a3e93a6f
-SHA1: cb1c66ff30e1082a39014349cef47b2312a2c589
-SHA256: afffe53fb2f0cd91c10204b0ac0866940ec94856e50d8f1b83e44ecc1c15a551
-SHA512: 1eb92feb44b81e6c474216e76a8d2f5013c73eedf8b3fea7d07d1c918fbbca74f080b4283c59744c0889b38f4ae79928221c382130e81eeb389e352ae8922917
-Description: A lightweight YouTube improvement tweak.
-Name: YouTube X (Rootless)
-Author: PoomSmart
-Depiction: https://support-jailbreak.github.io/depictions/ytx.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.ytx
-Architecture: iphoneos-arm64
-Version: 1.2.5
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.2.5_iphoneos-arm64.deb
-Size: 4146
-MD5sum: bf5774c3e1255e5fa668ede1c4f4273b
-SHA1: 64e3b77bd3487e54098d0aefe5e3a535c4a0d734
-SHA256: 622ca06c7d5c5b67f65843b81f15b7c842a95026886ee9a371dd9e44c3a49716
-SHA512: 63577807c1d36341494043ad88666b81bf2eef0f086b8db38fe7db1d51c7ce184e617b57a90b7f343b299e9e962c790272098941f7617735d48c179240b24469
-Description: Chặn quảng cáo,phát lại nền trên ứng dụng Youtube
-Name: YouTube X (Rootless)
-Author: PoomSmart
-Depiction: https://support-jailbreak.github.io/depictions/ytx.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package:  com.repobvn.ytx
-Architecture: iphoneos-arm64
-Version: 1.3.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.3.0_iphoneos-arm64.deb
-Size: 4234
-MD5sum: 0ce8dacc5321b7547904e7f6c83ed5a6
-SHA1: 442cbe64f52fd8a77fa35254c04baef1eecfe5ac
-SHA256: d6758965cd16acc27914c670255536f5d1b3e1014bd3f0df36af88cda97514c0
-SHA512: 4e25fa987acfe328f4d2c38ffd59323059f81ec20a0dd4c70c91bf2d13203d4530a7267bddf9572bcf93899e01fc2e05f26210f99e0dc87aaf2d0617da5f4351
-Description: Chặn quảng cáo và phát lại nền cho ứng dụng Youtube!
-Name: YouTube X (Rootless)
-Author: PoomSmart
-Depiction: https://support-jailbreak.github.io/depictions/ytx.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.ytx
