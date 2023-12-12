@@ -12956,81 +12956,39 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.2
 Section: Tweaks
-Maintainer: BVN
-Installed-Size: 2768
+Maintainer: BvN
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.bvn.plampycc_1.0.0_iphoneos-arm.deb
-Size: 1157280
-MD5sum: 493d3f50b1ef280467b0f28d09177dff
-SHA1: f5bfda3c35bf730f1e7710e707af267acdc033fc
-SHA256: 6aa41c13205b4ff27236f42fd736caea5e1dbbe410152e36433c526a25e5baa1
-SHA512: 74fe0dc8a4bd31a199ce916c4e0fdbf2b8dfbdcd2b6dde5a2d54a4148c3e0393f872820d6e6f7c1b4ef72778865f3d36911d2da050e465fa7b32c3ffacf8e624
-Description: PlampyCC của YangJiiii trên các thiết bị đã Jailbreak
-Name: PlampyCC VH
+Filename: ./debs/com.bvn.plampycc_1.0.2_iphoneos-arm.deb
+Size: 2040138
+MD5sum: 872b5dfecfae5e108eb72f67274ed089
+SHA1: 049df63997e1fc5959ed2e9c4421e58e1fe272c3
+SHA256: 3aa13ac12247c6d547319d65b518ef66be51804cd7e4c801fd888794e4edc1c9
+SHA512: 347ee18c915a624392189ce45e8701dd25caf0d89cf1f4739ea51bf8cbc8c2d5e283f48df369d46ddb2f06515220ac2e6c0954263a1d721993dc6378d54e0edb
+Description: Tùy chỉnh CC trên iOS15 & 16 với các biểu tượng hoạt hình .caml và hơn thế nữa
 Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Name: PlampyCC
 Author: sugiuta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64
-Version: 1.0.0
+Version: 1.0.2
 Section: Tweaks
 Maintainer: BVN
-Installed-Size: 2768
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.bvn.plampycc_1.0.0_iphoneos-arm64.deb
-Size: 2239742
-MD5sum: 4b023ff4635834aa341ef7aa025de518
-SHA1: cef16985d74444a02850b2e28930cb445b2388ac
-SHA256: 1d29366d7881f39054cbd1dd635e53be4dcb487fbe1d5209d26763ee6e1735c8
-SHA512: 54e786b750d949932e82da970b846cac9528244da57783a5dd659ab3fffe21d7a6bc814010483b3a5baa01e9c0c54f051e92882da1f757449fc4e38e8ef3a42c
-Description: PlampyCC by YangJiiii on Jailbroken devices
+Filename: ./debs/com.bvn.plampycc_1.0.2_iphoneos-arm64.deb
+Size: 2040382
+MD5sum: 16151ede4cff7062b71880bde2217a7d
+SHA1: 30fba3577dae713deea87f1b306f22007c1eb85c
+SHA256: 5bea4f5677e22f340a949c49706e59fcac767cf69ff3ea1302b90e4960f2cffb
+SHA512: 25e6fedfcab2c19c540ae42c273448182ccd77c519fd941246f489110a32caa7d0d9283776097d19380e14ba66856e7ccf976d5f378f76189d384cea6575221b
+Description: Tùy chỉnh CC trên iOS15 & 16 với các biểu tượng hoạt hình .caml và hơn thế nữa
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Name: PlampyCC VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
-Author: sugiuta
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.plampycc
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 2768
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.bvn.plampycc_1.0.1_iphoneos-arm.deb
-Size: 1157780
-MD5sum: 89da0928f3c88741c6f518c8a415b07f
-SHA1: 4f6e23356346cf5a7004b808770bb10c15442199
-SHA256: bb25e9d5cb414b8db80651ec3ccf43a6adc83ec5179d93593f7f339ed33809da
-SHA512: b0a056492dc33a02bc18c81ae377c614a483d19b2daa3c76518f0162f79fe8f717257b2450cde44ae9b483bb71a9c46e1df8316cf58d61e042b98829d2f95f81
-Description: PlampyCC by YangJiiii on Jailbroken devices for iOS15 & 16.
-Name: PlampyCC VH
-Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
-Author: sugiuta
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.plampycc
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 2768
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.bvn.plampycc_1.0.1_iphoneos-arm64.deb
-Size: 2240530
-MD5sum: c2912691c5f08b3fd4c2bd9549ea1034
-SHA1: 2bd62af5e62e7c68e1e6169cbebe0bcab03f15c3
-SHA256: 624764ca566dfcff1a3b16b308a9b94085d9344c7444668296894c05f6ba881d
-SHA512: 1cfcbed6ebb48de0f77c260b32adf5e6eed2e3577a41e2a2a260676792b38730ec5dcbbfdfc78913cf223592d020981385c2cee9ede5c76ee0e5dce26b3d194d
-Description: PlampyCC by YangJiiii on Jailbroken devices for iOS15 & 16.
-Name: PlampyCC VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
