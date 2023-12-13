@@ -4659,25 +4659,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN <bienvannhat97@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.0.1_iphoneos-arm64.deb
-Size: 11378
-MD5sum: 0de2ba6cdb338e9fffedf498d69c7a14
-SHA1: dfb3abb0b90ec88250d1fd60d62171b5b37c4cfd
-SHA256: 6abe2421e5b6322814626a7f62604b805d339563789c777fcca567c075e99043
-SHA512: c07c94a82b09c6a84f16916eef9629d6b469f8b77385954c9cef4cf87b12937fff98484c9c3641f02f48bb6abe3b1b2da673e14fb6d99deae9c6307596473fbf
-Description: Tạm biệt quảng cáo Facebook!
-Name: Facebook No ADS (Rootless)
-Author: CydiaGeek,Fix by BVN <lucaluca86@aol.com>
-Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.facebooknoads
-Architecture: iphoneos-arm64
 Version: 1.0.2
 Section: Tweaks
 Maintainer: BVN Repo
@@ -4723,6 +4704,36 @@ Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
  - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
 Name: Facebook No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.4.deb
+Size: 270048
+MD5sum: fcc44167809623ac2c56a1ac2cbcf306
+SHA1: 202006c0ee9a114e3c4f85361bfa808ecc94c885
+SHA256: f11d7b611d07916e98eebc654e837a6c7d31655b6f8d40af86c92343833a7b1b
+SHA512: c6c345c2cf77830aa89422df36e5315e6474390066032d956e2b1a7ebc83b0f500475bef844130b956247a1770e6ab71eaaad2d9333e2de860327c0f50387be7
+Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
+ Tính Năng:
+ - Loại bỏ các quảng cáo
+ - Có thể tải xuống video (nhấn lâu để tải xuống)
+ - có thể tải câu chuyện
+ - chỉ có thể tôi hình ảnh hồ sơ
+ - Vô hiệu hóa truyện nhìn (xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên nguồn cấp dữ liệu tin tức
+ - Ẩn câu chuyện về nguồn cấp dữ liệu tin tức
+ - Hỗ trợ iOS 12-14
+ - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+Name: Facebook No Ads (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.facespro
@@ -6660,6 +6671,35 @@ Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
  - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 383.0)
 Name: Messenger No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.messengernoads
+Architecture: iphoneos-arm64
+Version: 3.12.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1012
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.BIENVANNHAT.messengernoads_3.12.deb
+Size: 581344
+MD5sum: 9ac8aecd7b8496cb7aad713fbd8f0239
+SHA1: a77861e403c02cfbb4c86e1da1fef4d077b7be71
+SHA256: 1d7c4bb2df2a9420321944c350db78778dfbaa9fbfe983346ef4a1127b99cb7e
+SHA512: 4bacc0f6abad41a34817de266f9877cf61303b94b503a6dc0f4deb4083ad9a6d9e092129180f0a2292e3124ea6298b6f1c79a4f688627582f652b2f00c66670c
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tính Năng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Tắt đã xem tin nhắn
+ - Tắt đang gõ
+ - Tắt đã xem Story
+ - Lưu Story
+ - Ẩn thanh tìm kiếm, hàng truyện, tab người
+ - Ẩn liên hệ được đề xuất trong tìm kiếm
+ - Có thể đăng Story 10 phút
+ - Hỗ trợ iOS 12 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 383.0)
+Name: Messenger No Ads
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.milkyway4
@@ -9018,6 +9058,25 @@ Name: TikTok God
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/tiktok/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/tiktok/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.tiktokgod
+Architecture: iphoneos-arm64
+Version: 4.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.BIENVANNHAT.tiktokgod_4.0.deb
+Size: 71394
+MD5sum: 9727cb07e57bbfbb84b0b801feab7e78
+SHA1: f79a3f5e32d4f6b1dad13405aa895822321f73e7
+SHA256: 2a33964cf429d1300bfa65b24ef02a0a2c4e75fde3ede1e6b9005021a59ecea7
+SHA512: b0b8677fd5785885c60f0d900ac5f9ad290a66da829d1252f61ca51e47dd7599df65ec085bef7362b6ce3808363609c44e7a59eaa64f86443bcecc2c27f0f57e
+Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.
+Name: TikTok God
+Depiction: http://bvnsupport.github.io/infodeb/tiktok/?p=info
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.tiktokpro
