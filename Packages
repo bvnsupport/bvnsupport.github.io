@@ -18825,6 +18825,24 @@ Name: vexillarius
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.xina.blacklist
+Architecture: iphoneos-arm64
+Version: 0.0.3-1+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xina.blacklist_0.0.3-1+debug_iphoneos-arm64.deb
+Size: 51888
+MD5sum: 603a63d9744e03dea65ee96f13dd68f4
+SHA1: cc3e64a7d50d413e465bcbecb9817c87a9a3e23a
+SHA256: 85f2292bf278a8f19284d79b02bf5eee53f81013869e0f0bf9832c6255a7fd9d
+SHA512: 2e5a053ddd045c1e08d1aeece7c8c1f6f63da2e04daf7dd4158fb19d0b840d609aab353cc5e6ff9e0349f7390eaf8827d40d027498f03032a705ce15f65584de
+Description: Ẩn Jailbreak cho các ứng dụng.
+Name: XinaBlackList (Rootless)
+Author: xina520 <3608063@qq.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.xyaman.libkuro
 Architecture: iphoneos-arm
 Version: 0.0.3
