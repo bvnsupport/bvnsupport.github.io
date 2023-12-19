@@ -4712,13 +4712,13 @@ Version: 1.4.1
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.4.deb
-Size: 270048
-MD5sum: fcc44167809623ac2c56a1ac2cbcf306
-SHA1: 202006c0ee9a114e3c4f85361bfa808ecc94c885
-SHA256: f11d7b611d07916e98eebc654e837a6c7d31655b6f8d40af86c92343833a7b1b
-SHA512: c6c345c2cf77830aa89422df36e5315e6474390066032d956e2b1a7ebc83b0f500475bef844130b956247a1770e6ab71eaaad2d9333e2de860327c0f50387be7
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0)
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.deb
+Size: 270036
+MD5sum: fd16489e7ab80a4a8b7939d1312a3839
+SHA1: af5a6d8d2c9aad7591ba6edf6c7149c219985f23
+SHA256: bdd9e166ad42f0f32a1d302efa4ae0ba6f9e614d53c8996b3a617e70b93441de
+SHA512: a304f0d8fe0c7d6b90efbf2abe7a10382fde8546670f720452db883e82fc118573e5e1d814361d808b5e61e3cdfe127cc2de60f5cfaf55c417ede16fa9f8ab2b
 Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
  Tính Năng:
  - Loại bỏ các quảng cáo
@@ -6587,6 +6587,35 @@ Name: Merriam Việt Hoá
 Author: kanns
 
 Package: com.BIENVANNHAT.messengernoads
+Architecture: iphoneos-arm64
+Version: 3.12.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1012
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 15.0)
+Filename: ./debs/com.BIENVANNHAT.messengernoads.deb
+Size: 581328
+MD5sum: ba365c3f9f8c1d6f7fdf21b6aae4de57
+SHA1: 8d0d274a69a7c3985c5b851536aca6cc960411c7
+SHA256: 0f17f68a865708218e02302e63b9cb9ee52f23d6d58d464c8a51880e4a87a9c5
+SHA512: 813be1d7b2a20f968e97290d6e9d866bf83bd32dcd8b235645848fc5a78609883659be30eaa35add18b2a4adfd1c855e9847a5a557d668500534a803f7c267fe
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tính Năng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Tắt đã xem tin nhắn
+ - Tắt đang gõ
+ - Tắt đã xem Story
+ - Lưu Story
+ - Ẩn thanh tìm kiếm, hàng truyện, tab người
+ - Ẩn liên hệ được đề xuất trong tìm kiếm
+ - Có thể đăng Story 10 phút
+ - Hỗ trợ iOS 12 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên hạ cấp ứng dụng về phiên bản > = 385.0)
+Name: Messenger No Ads (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.messengernoads
 Architecture: iphoneos-arm
 Version: 3.10.0
 Section: Tweaks
@@ -6671,35 +6700,6 @@ Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
  - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 383.0)
 Name: Messenger No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Hao Nguyen
-
-Package: com.BIENVANNHAT.messengernoads
-Architecture: iphoneos-arm64
-Version: 3.12.0
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 1012
-Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/com.BIENVANNHAT.messengernoads_3.12.deb
-Size: 581344
-MD5sum: 9ac8aecd7b8496cb7aad713fbd8f0239
-SHA1: a77861e403c02cfbb4c86e1da1fef4d077b7be71
-SHA256: 1d7c4bb2df2a9420321944c350db78778dfbaa9fbfe983346ef4a1127b99cb7e
-SHA512: 4bacc0f6abad41a34817de266f9877cf61303b94b503a6dc0f4deb4083ad9a6d9e092129180f0a2292e3124ea6298b6f1c79a4f688627582f652b2f00c66670c
-Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
- Tính Năng:
- - Ẩn quảng cáo trên ứng dụng Messenger
- - Tắt đã xem tin nhắn
- - Tắt đang gõ
- - Tắt đã xem Story
- - Lưu Story
- - Ẩn thanh tìm kiếm, hàng truyện, tab người
- - Ẩn liên hệ được đề xuất trong tìm kiếm
- - Có thể đăng Story 10 phút
- - Hỗ trợ iOS 12 - iOS 14
- - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 383.0)
-Name: Messenger No Ads
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.milkyway4
@@ -9066,15 +9066,15 @@ Version: 4.0.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 420
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/com.BIENVANNHAT.tiktokgod_4.0.deb
-Size: 71394
-MD5sum: 9727cb07e57bbfbb84b0b801feab7e78
-SHA1: f79a3f5e32d4f6b1dad13405aa895822321f73e7
-SHA256: 2a33964cf429d1300bfa65b24ef02a0a2c4e75fde3ede1e6b9005021a59ecea7
-SHA512: b0b8677fd5785885c60f0d900ac5f9ad290a66da829d1252f61ca51e47dd7599df65ec085bef7362b6ce3808363609c44e7a59eaa64f86443bcecc2c27f0f57e
-Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.
-Name: TikTok God
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 15.0)
+Filename: ./debs/com.BIENVANNHAT.tiktokgod_4.deb
+Size: 71484
+MD5sum: 60ead4124b413f44b043d2f52fec8166
+SHA1: 754ed5c983a4960083e17c4fc4afdcdca627c4a3
+SHA256: b3c33e302c127f1a8b7f71c373c46908950241e9674d2ebe857c094246adc564
+SHA512: deab618edfbe5d1ef9ed83bcb8163ecd1e6f53135f8e0665938ec87f3ef2e59d9b87fbadaa083d363e49990e1aab794fdebd1a2b6d780fb9e066c316968f35ca
+Description: Tinh chỉnh tốt nhất cho ứng dụng TikTok.Nếu 1 số chức năng không hoạt động bạn có thể dùng Tweak Appdata để hạ cấp ứng dụng về phiên bản thấp hơn
+Name: TikTok God (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/tiktok/?p=info
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hao Nguyen
