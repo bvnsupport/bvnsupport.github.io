@@ -12490,6 +12490,25 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.Christmas
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Theme Rootless
+Maintainer: Biện Văn Nhật
+Depends: com.bvn.stella
+Filename: ./debs/com.bvn.Christmas.deb
+Size: 63594
+MD5sum: 9254aa9a88e2918a80a8eb95d971ee75
+SHA1: ca1a8c007cc943c30f1f6ec21fbe9f205230e325
+SHA256: 65178cd75eae3e0511cf958ac24b7264a38d6b4918028047574e99f60cd8be92
+SHA512: 8f446b0868d5ef00727abf3864c05b4d15922d0d898b1fd73cd26f41c03da470b2356ecc677130adb3a1479bd94ca92c841fe1c7af1f14849c96864c755b3170
+Description: Gói AE Christmas
+Name: AE Christmas
+Author: unclear
+Depiction: http://bvnsupport.github.io/infodeb/Html/Christmas.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Christmas.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64
 Version: 1.1-4
@@ -13128,6 +13147,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Spectrum/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Spectrum.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Skitty & EvenDev
+
+Package: com.bvn.stella
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Filename: ./debs/com.bvn.stella_1.0.4_iphoneos-arm64.deb
+Size: 683944
+MD5sum: 80910a481dde1a1c7f736ee95689a30f
+SHA1: 684b4f4aaec9f21797ad2fadd647f0ffe617c962
+SHA256: 180bdadadaa76f1f86e58a920e8a7c047661bc04d6860f06e9728b37b44aab70
+SHA512: 7d2ac5fb9cbe1d57ca02d7fef3ada220f5022913377d36c36d7960ffddec43745ee8d7f9af088365f1f2acaaaefec766ee19b283f021dc90cd464a7abc528691
+Description: Hãy để tuyết rơi trên thiết bị của bạn
+Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
+Name: Stella VH(Rootless)
+Author: yan
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.strangerwp
 Architecture: iphoneos-arm64
