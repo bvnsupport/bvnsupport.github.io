@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Stella VH\n\n- Hãy để tuyết rơi\n\n- Stella thêm chế độ xem tuyết mùa đông độc đáo vào thiết bị của bạn.\n\n- Những bông tuyết đang xuất hiện trên đầu các thông báo, trình phát nhạc, trên màn hình chính và màn hình khóa\n\n- Bạn có thể thay đổi các thuộc tính của bông tuyết như tốc độ, Số lượng và màu sắc trong tùy chọn, đồng thời thay thế những bông tuyết bằng hình ảnh tùy chỉnh \n\nㅤ\n\n",
+"markdown":"AE Christmas \n\n- Kích hoạt qua  Tweaks Snowboard\n\n- Yêu cầu cài Tweaks Snowboard để sử dụng\n\n- Các bạn có thể xem hình ảnh ở phía dưới \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,19 +21,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/stella/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/stella/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/stella/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/stella/Screenshots/4.png",
+"url":"https://bvnsupport.github.io/infodeb/Christmas/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -62,9 +50,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Yan"
+"text":"Unclear"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -78,12 +66,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"768 KB"
+"text":"123 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 17.1.1"
+"text":"iOS 15.0 đến 17.1.1"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.4\n\n- Hỗ trợ thêm iOS 17.1.1"
+"markdown":"### Phiên bản 1.0\n\n- Hỗ trợ thêm Rootless JB"
 },
 {
 "class":"DepictionLabelView",
