@@ -67,6 +67,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AppSync Unified (iOS 5-16)
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.2.9
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 12736
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.2.9_iphoneos-arm64.deb
+Size: 6378616
+MD5sum: 10b49ee06ab96e2cd32a42536e0db784
+SHA1: 76e8b288e22fb20785cbaa671954006032f4d776
+SHA256: ac5abea26af2153626ec45b50845213d102677f07f8161ecac620ef625faf2f1
+SHA512: c19dff102bed560f5fa6a13690db93236775fb28a72631d13c106b670a36f1cacc01837fb82f3ee51904ec3cc11c53ef5b744f4b547e95e84bca17e2138a7390
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -20576,25 +20596,4 @@ Author: Zebra Team <team@getzbra.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
 Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
-
-Package: zp.preferenceloader
-Architecture: iphoneos-arm64
-Version: 1.0.18
-Section: Tweaks
-Maintainer: REPO CYDIA BVN
-Installed-Size: 256
-Provides: preferenceloader (= 2.2.6)
-Depends: mobilesubstrate
-Conflicts: preferenceloader
-Replaces: preferenceloader
-Filename: ./debs/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
-Size: 29162
-MD5sum: f71ca0aac43e11b3e2708066ecf15f77
-SHA1: 5b04466720b48c5681d3e2f1f33acf017ac3c7cb
-SHA256: b7aa22255a92ec008e296a61d4172281e18fdff8f6628daa6f6f2ef5e665ce55
-SHA512: e9056b5605746a582339892ed5a36e5db7ea8738d666ea6c4c42c7b5f8301cdd56218d12d006479cda2ad246ee6c58fd255b8d233c8a36c04430934c54e1caf1
-Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
-Name: PreferenceLoader - rootless
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: ArtikusHG,zp
 
