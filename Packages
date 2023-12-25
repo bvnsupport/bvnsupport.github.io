@@ -76,16 +76,17 @@ Installed-Size: 12736
 Depends: mobilesubstrate, preferenceloader
 Conflicts:
 Filename: ./debs/bvn.repo.designer_1.2.9_iphoneos-arm64.deb
-Size: 6378616
-MD5sum: 10b49ee06ab96e2cd32a42536e0db784
-SHA1: 76e8b288e22fb20785cbaa671954006032f4d776
-SHA256: ac5abea26af2153626ec45b50845213d102677f07f8161ecac620ef625faf2f1
-SHA512: c19dff102bed560f5fa6a13690db93236775fb28a72631d13c106b670a36f1cacc01837fb82f3ee51904ec3cc11c53ef5b744f4b547e95e84bca17e2138a7390
+Size: 6378648
+MD5sum: bfeb7faf8e5a1fd93b0d8d07a767fde5
+SHA1: 520d56aac9f7cd6c2a233f72b0082072f9a9297a
+SHA256: 5c3b16822f469aaac283f5bdbe420663b0c5a24f59fe963cb49be1e7694d114e
+SHA512: bf45dbb20f6ef4b9a8e4bdbd32e1cf3e4a24d4d53d8fb213c924fee78fc02d04da235ed5320460c82c1ccbc067979757da1dbbdc2ea10253a50a144abb90245e
 Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
 Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Name: Designer VH(Rootless)
 Author: JunesiPhone <junesgraphics@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
@@ -12927,6 +12928,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Geometric.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Geometric.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Evelyn (ev_ynw)
+
+Package: com.bvn.futura
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.bvn.futura_1.0_iphoneos-arm64.deb
+Size: 469254
+MD5sum: 089a741ac511f5afb025940147b397a0
+SHA1: db83b245241b6af0bf65096363cc13e9f85b083b
+SHA256: 2852a10b065aecbdb706da232988f8e6d041565f5785752503c67b59cf5e96f5
+SHA512: 87c71c2f23bcdf2bc22eb97b787f1b4a224bbad61c28b541cfb3518934523e2a3960b0590c7d13ba3ac69519b8f23ede3e93317d926baa3eb9f9db6606fb1d4b
+Description: kích thước 85%. Dành cho iOS15-16.
+Name: Futura_100% (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/futura.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/futura.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: unclear
 
 Package: com.bvn.hidestatusbaritemsx
 Architecture: iphoneos-arm64
