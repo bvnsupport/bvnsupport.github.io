@@ -4700,6 +4700,36 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0)
+Filename: ./debs/com.BIENVANNHAT.facebooknoads.deb
+Size: 276362
+MD5sum: 34370547c0ee31d6f7a875d5b38eac08
+SHA1: 54b262a97a46a0955057504b93ef80d85890d170
+SHA256: 8366ef0723c9f9659647c1e0d7e4ba0c68eb4a27a0f7d9d2911ee77859b30b15
+SHA512: cd63dce914ed967e26bcc954f962cf128385fa5c7ea9c59712dae669d73164aec44be1e1cccc18782ed4173bd5306d537cbf78aa7c12108ccacbb1d53b7e341a
+Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
+ Tính Năng:
+ - Loại bỏ các quảng cáo
+ - Có thể tải xuống video (nhấn lâu để tải xuống)
+ - có thể tải câu chuyện
+ - chỉ có thể tôi hình ảnh hồ sơ
+ - Vô hiệu hóa truyện nhìn (xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên nguồn cấp dữ liệu tin tức
+ - Ẩn câu chuyện về nguồn cấp dữ liệu tin tức
+ - Hỗ trợ iOS 12-14
+ - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+Name: Facebook No Ads (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm64
 Version: 1.0.2
 Section: Tweaks
 Maintainer: BVN Repo
@@ -13126,6 +13156,24 @@ Author: Luki
 Depiction: http://bvnsupport.github.io/infodeb/Marie/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Marie.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.maskTet-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Theme Rootless
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debs/com.bvn.maskTet-rootless_1.0_iphoneos-arm64.deb
+Size: 20316
+MD5sum: b6e5ce2075c86b8f1b6a470e861344d0
+SHA1: cd6ed344ef1dff24b61bd10f7ebc0aa1793cd0f3
+SHA256: d2dcdc9a9ca466b108a596ac20bc9036fcd3f73d68254d466c714c000b7e640e
+SHA512: 9b3e358deafd84e1417e9d55263855b917c7441371b0a44b201fa0b96efe8f0c38cc63d6a5a0ce27e8626a567e046d3d7c3dabc68e3e11dc70922387f7e9704f
+Description: Gói Mask Tết cài qua Snowboard
+Name: Mask TẾT(Rootless)
+Author: Vũ Quang
+Depiction: http://bvnsuport.github.io/infodeb/masktet/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/masktet.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
