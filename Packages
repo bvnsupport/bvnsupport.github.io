@@ -20559,6 +20559,23 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvnrepo.eqex
+Architecture: iphoneos-arm64
+Version: 2.2.2-2
+Section: Tweaks
+Maintainer: Repo BvN
+Depends: firmware (>= 15.0), mobilesubstrate, coreutils, xyz.cypwn.xinam1ne
+Filename: ./debs/vn.bvnrepo.eqex_2.2.2-2_iphoneos-arm64.deb
+Size: 7981114
+MD5sum: 738522ccfe3fc9685dbd63e488fb600a
+SHA1: c931d56f377500c5a7f279e9b18b48f008280ce0
+SHA256: b2cca1ce8f8cc9e8c23316f4d8495c4f3233ca1ad62fbefafe725ce540866e3b
+SHA512: 558b869524bf86985f8b54c926b4a4607955b171cadea0d4b134290c71445d02f1e94e072f2740b959a8f00f409881ccf5573ec1cfa6602bedb5416cd84e7ef2
+Description: System-wide parametric equalizer. Modded by Sudo for Rootless
+Author: Reed Weichler
+Name: EQE X(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: wallpaperloader
 Architecture: iphoneos-arm64
 Version: 1.1.2
@@ -20680,6 +20697,25 @@ Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc địn
 Name: BigSurCenter VH(Rootless)
 Author: nicho1asdev
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.4-9
+Section: Utilities
+Maintainer: Bvn Repo
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.4-9_iphoneos-arm64.deb
+Size: 122344
+MD5sum: 5889dd5ae8584d434e5f448b983b3ed5
+SHA1: 998866c9b95add21b6751b1ad17fc3a3818fb37f
+SHA256: a9773722f36d934be92c5603960f283a04ed548a5fc4b9de9298e340b72a2f7b
+SHA512: 8d60bb84d4eaf075f0cc670f7e16d3b192f634b24bddab76c9ca1d3e51574ac4bd9c21fbb597c8ec4ffa2b086905166b160eb8c462a0082a277ac4cd55e9dc4e
+Description: Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
+Name: Xinam1ne All-in-One
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
