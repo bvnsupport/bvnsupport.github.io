@@ -1,6 +1,6 @@
 {
 "minVersion":"0.4",
-"headerImage":"https://support-jailbreak.github.io/features/SnowBoard.png",
+"headerImage":"https://bvnsupport.github.io/features/SnowBoard.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -10,7 +10,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/SnowBoard/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/SnowBoard/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -54,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"10/7/2023"
+"text":"15/1/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -63,7 +63,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2024 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -76,11 +76,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.6.4\n\nfix 1 số lỗi"
+"markdown":"#### Phiên bản 1.6.4-beta4\n\nKhắc phục sự cố chọn biểu tượng alt trên phiên bản iOS 16 mới hơn với Floating Dock"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2024 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
