@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Lynx 2VH(Rootless)\n\n- Cấu hình thiết bị theo cách bạn muốn\n\n- Các bạn có thể xem hình ảnh phía dưới \n\nㅤ\n\n",
+"markdown":"Tinh chỉnh Lynx 2\n\n- Cấu hình thiết bị theo cách bạn muốn\n\n- Các bạn có thể xem 1 số hình ảnh phía dưới \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -53,14 +53,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Thông tin tinh chỉnh"
+"title":"Thông tin "
 },
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"mtac"
+"text":"MTAC"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.4.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.4.6" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"19/9/2023"
+"text":"16/1/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"899 kB"
 },
 {
 "class":"DepictionTableTextView",
@@ -78,7 +83,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by Biện Văn Nhật",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -91,11 +96,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.4.4\n\n- Đã thêm tùy chọn để bật cử chỉ FluidUl trên các thiết bị có Nút Home (Cảm ơn ETHN)\n\n- Thay đổi logic tô màu huy hiệu trên các biểu tượng thư mục để sử dụng màu trung bình của biểu tượng đầu tiên có thông báo"
+"markdown":"### Phiên bản 2.4.6\n\n- Thêm tùy chọn để thay thế phím đọc chính tả bằng bàn phím loại bỏ\n\n- Đã thêm tùy chọn để hiển thị dữ liệu di động được sử dụng trong Cài đặt\n\n- Đã thêm tùy chọn để hiển thị tốc độ tải xuống và tải lên mạng trong StatusBar\n\n- Đã thêm tùy chọn để chọn kiểu làm mờ nền của Trung tâm điều khiển"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by Biện Văn Nhật",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
