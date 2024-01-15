@@ -20582,6 +20582,27 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvnrepo.batterybuddy
+Architecture: iphoneos-arm64
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debs/vn.bvnrepo.batterybuddy_1.3.4_iphoneos-arm64.deb
+Size: 57628
+MD5sum: f58d155033ce30ba2d43f1b4b236e84c
+SHA1: 77d65bb2769737a9d583c439ed3fa791464f32bd
+SHA256: 8373dff0f560413b80fc2f02f8c78f60a2c5d88efb5febf0b3d42083f8f4cb43
+SHA512: cc46a53e54730d7f6a1b61f00cc54b2ea9bba1bebfb4bb65d8110d16e47120213d26ac2791a8d0ac77d98587263772698b6ce90fba9a7392c20fa95fed68ecdc
+Description: Chỉ báo pin, nhìn dễ thương
+Depiction: http://bvnsupport.github.io/infodeb/Buddy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Buddy.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: BatteryBuddy VH(Rootless)
+Author: Traurige & neilsardesai <hello@traurige.dev>
+
 Package: vn.bvnrepo.eqex
 Architecture: iphoneos-arm64
 Version: 2.2.2-2
