@@ -13163,15 +13163,15 @@ Version: 1.0
 Section: Theme Rootless
 Maintainer: BIỆN VĂN NHẬT
 Filename: ./debs/com.bvn.maskTet-rootless_1.0_iphoneos-arm64.deb
-Size: 20316
-MD5sum: b6e5ce2075c86b8f1b6a470e861344d0
-SHA1: cd6ed344ef1dff24b61bd10f7ebc0aa1793cd0f3
-SHA256: d2dcdc9a9ca466b108a596ac20bc9036fcd3f73d68254d466c714c000b7e640e
-SHA512: 9b3e358deafd84e1417e9d55263855b917c7441371b0a44b201fa0b96efe8f0c38cc63d6a5a0ce27e8626a567e046d3d7c3dabc68e3e11dc70922387f7e9704f
+Size: 20312
+MD5sum: 2e9a55dd92228f0b2d19597a8d736386
+SHA1: ad3a39b320134e117fde5b51f49adb52ffb709ad
+SHA256: f60de21e3d1aa99566265706fe1602c08608ae95889df77d8b3afccd37a60ee8
+SHA512: 8e3ddba81c1eeb5ba648d159b340d7a88d66beb7daaacaad721e7582d8c9cea4d64fc66dd9e777f03e7cd81cbf7a8b81c0e342ba75331b6fbc1c610f9184d86b
 Description: Gói Mask Tết cài qua Snowboard
 Name: Mask TẾT(Rootless)
 Author: Vũ Quang
-Depiction: http://bvnsuport.github.io/infodeb/masktet/?p=info
+Depiction: http://bvnsupport.github.io/infodeb/Html/masktet.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/masktet.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
@@ -20591,13 +20591,13 @@ Installed-Size: 432
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
 Filename: ./debs/vn.bvnrepo.batterybuddy_1.3.4_iphoneos-arm64.deb
-Size: 57628
-MD5sum: f58d155033ce30ba2d43f1b4b236e84c
-SHA1: 77d65bb2769737a9d583c439ed3fa791464f32bd
-SHA256: 8373dff0f560413b80fc2f02f8c78f60a2c5d88efb5febf0b3d42083f8f4cb43
-SHA512: cc46a53e54730d7f6a1b61f00cc54b2ea9bba1bebfb4bb65d8110d16e47120213d26ac2791a8d0ac77d98587263772698b6ce90fba9a7392c20fa95fed68ecdc
+Size: 57630
+MD5sum: 3b58da076d0ed902aa047849d844cd82
+SHA1: 57772e80cc840178324cc54e0af90950c071efb9
+SHA256: 85db93d3b7ee50227e7de83e0fce963badb83649069404f2a7d63858e19ea7dd
+SHA512: bfee610b40a7cd1a7865c7931d3f7a5243885c7104fcba5fca42c4f9725f854b4c29f2399047e9a03e3d54bb7a901d66eabcb881d4bc061a4bc02f99597800bb
 Description: Chỉ báo pin, nhìn dễ thương
-Depiction: http://bvnsupport.github.io/infodeb/Buddy/?p=info
+Depiction: http://bvnsupport.github.io/infodeb/Html/Buddy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Buddy.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: BatteryBuddy VH(Rootless)
