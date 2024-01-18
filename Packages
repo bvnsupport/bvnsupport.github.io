@@ -20621,6 +20621,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: BatteryBuddy VH(Rootless)
 Author: Traurige & neilsardesai <hello@traurige.dev>
 
+Package: vn.bvnrepo.clockfonts
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/vn.bvnrepo.clockfonts_1.3_iphoneos-arm64.deb
+Size: 62876
+MD5sum: daec243036f093bc578572a73c08296d
+SHA1: 20b0b32c34d9730086c2fd3996733563d02d7568
+SHA256: 79e276cfd8900046247a00b854fa5de4e08e086da06dd197ec9d31676c7f8ceb
+SHA512: 5df8689c023af3161cfe2e8b8329df89b1d38c8e54ea3abcce4a687f0ba746ed005da79bdb07a4db2609231b3c479a83432744c51e7528c62a7e5111bb41c840
+Description: Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn
+Depiction: http://bvnsupport.github.io/infodeb/ClockFonts1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClockFonts.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: ClockFonts (Rootless)
+Author: nqt1195
+
 Package: vn.bvnrepo.eqex
 Architecture: iphoneos-arm64
 Version: 2.2.2-2
