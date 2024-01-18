@@ -20600,6 +20600,26 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvnrepo.amonglock-rootless
+Architecture: iphoneos-arm64
+Version: 1.1.7
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 24060
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), xyz.cypwn.xinam1ne
+Filename: ./debs/vn.bvnrepo.amonglock-rootless_1.1.7_iphoneos-arm64.deb
+Size: 11883428
+MD5sum: 250b14bf46e6f500bd648ad5792cc5df
+SHA1: 8099fa059dcfe97522811950558e914f539be351
+SHA256: d6aeadc954acd0540d0cab7d51a37825f418746d84cbda2d93e080534b2389d5
+SHA512: 1ef50c9a5bf1367db36577c6956a5535bb6311bed9849ac8e0b27781b6b7adf371f3c79e2b03efaf5743b90487c52c32229510654e8a53df37e8cf60f2ac1694
+Description:  Bảo mật thiết bị của bạn theo kiểu trò chơi Among Us
+Name: AmongLock VH(Rootless)
+Author: Litten,BvN
+Depiction: http://bvnsupport.github.io/infodeb/Html/AmongLock.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AmongLock.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvnrepo.batterybuddy
 Architecture: iphoneos-arm64
 Version: 1.3.4
