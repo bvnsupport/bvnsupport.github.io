@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Designer VH(Rootless)\n\n- Tuỳ chỉnh bố cục Màn hình chính và Màn hình khoá của bạn\n\n- Các bạn có thể tuỳ chỉnh trong phần cài đặt của Tweaks\n\n- Dưới đây là 1 số hình ảnh \n\nㅤ\n\n",
+"markdown":"Tinh chỉnh FloatDockXVI VH\n\n- Tính năng:\n\n- Ẩn nền Dock\n\n- Ẩn dấu phân cách Dock\n\n- Chọn tối đa ứng dụng gần đây\n\n- Chọn tối đa ứng dụng trên Dock\n\n- Và 1 số tính năng khác,các bạn có thể xem hình ảnh bên dưới... \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,55 +21,23 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/FloatDockXVI/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/FloatDockXVI/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/3.png",
+"url":"https://bvnsupport.github.io/infodeb/FloatDockXVI/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/4.png",
+"url":"https://bvnsupport.github.io/infodeb/FloatDockXVI/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/5.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/6.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/7.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/8.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/9.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/10.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/11.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/12.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/designer/Screenshots/13.png",
+"url":"https://bvnsupport.github.io/infodeb/FloatDockXVI/Screenshots/5.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -98,9 +66,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"JunesiPhone"
+"text":"ETHN"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.9" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -114,12 +82,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"9,9 MB"
+"text":"678 kb"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.x"
+"text":"iOS 15.0 đến 16.7.4"
 },
 {
 "class":"DepictionLabelView",
@@ -136,7 +104,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.3\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 1.9\n\n-  Đã khắc phục sự cố trong đó việc tắt dock trong ứng dụng và tắt dock trong đa nhiệm khi cả hai được bật sẽ khiến dock vẫn hiển thị trong ứng dụng."
 },
 {
 "class":"DepictionLabelView",

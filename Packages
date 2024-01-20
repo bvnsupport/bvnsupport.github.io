@@ -90,6 +90,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.repo.designer
 Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 16292
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.3.1_iphoneos-arm64.deb
+Size: 12874136
+MD5sum: 9b3515b2a44946c56ce97807e58c9c86
+SHA1: fb5de663d69f2523d7089dc277ddc0cfaf9d3400
+SHA256: 4337cec09c8bab75b094f14c885414f3eab62112fc724f7c114b5c55cf2e5356
+SHA512: 1b2b1e7e988aae705a82d5b517b0787c0bbf62a4fcbd1ecdb8e85ef00682e9ea073efb3735fa3c857c280db42b7221c19ad25e16238277a02576696505113212
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer VH (Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
 Version: 1.3
 Section: Tweaks
 Maintainer: Bvn Repo
@@ -20699,6 +20720,26 @@ Author: Lillie
 Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.repobvn.floatingdockxvi
+Architecture: iphoneos-arm64
+Version: 1.9
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/vn.repobvn.floatingdockxvi_1.9_iphoneos-arm64.deb
+Size: 415654
+MD5sum: 24f0ed9391033e16dfbd88750328d2db
+SHA1: 4667fb3cd5554ca5026cf48f7a5676f1ec2bfe15
+SHA256: 956cc9cc0ddced683c8149bbd34c49ca748f2fac5b0aca0317002997a8d5c484
+SHA512: e6b3ac7f095fe892c886ce0326fe29e04054a88a5e8cec6af2a26e5b0519f81ddae7b7c16fed4ef2359deb179931c21ec6c623bd73e68c154897dc6301361072
+Description: Floating Dock on iOS 16
+Name: FloatingDockXVI VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FloatingDockXVI.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FloatingDockXVI.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ethan Whited
 
 Package: wallpaperloader
 Architecture: iphoneos-arm64
