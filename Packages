@@ -13269,6 +13269,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
 Author: FoxfortMobile
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.senri
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
+Filename: ./debs/com.bvn.senri_1.1_iphoneos-arm.deb
+Size: 509502
+MD5sum: 3b5770924e91fc55c66fb22fdf0239a5
+SHA1: 56b7fca82cf45a63ed91a928634a2a8cb2355e1b
+SHA256: 9a8fb0a3d0c96ddc236d49e17c67739090c4481a98d60425ff33eadb6044a0a8
+SHA512: 7bc53c3140d2d9bc051376ce075ea565442278b196df9d100cb6c0c8515977527bd6f2c64a09131df61adf26a9dc25e556a55c314fc42628ae594ba99500fb10
+Description: Không bao giờ mất Thông báo của bạn nữa.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Senri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
+Author: Antoine
+Name: Senri VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.senri
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 1740
+Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
+Filename: ./debs/com.bvn.senri_1.1_iphoneos-arm64.deb
+Size: 509726
+MD5sum: a74d3f5480802dd0d5c434ad15397d0a
+SHA1: bd0a164955f990f0182472d9236b9b6a98ee9ebe
+SHA256: a03d5907d15dff7353ee6e7b355155787a1c5e1859441de2d6c4c55a0622a657
+SHA512: fad4f298c5a1a825d537de6c1a9a755dcffdd59e1961e32af159e29a46c8f1648d1fa4d65dad2f585b0c00358f50a211ff495ea811bd6468557f15ad6da5f5fc
+Description: Không bao giờ mất Thông báo của bạn nữa.
+Tag: cydia::commercial, compatible_min::ios14.0
+Depiction: http://bvnsupport.github.io/infodeb/Html/Senri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
+Author: Antoine <hanzikashi@gmail.com>
+Name: Senri VH(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
