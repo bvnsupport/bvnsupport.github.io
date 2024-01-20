@@ -13296,13 +13296,12 @@ Maintainer: Bvn repo
 Installed-Size: 1740
 Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
 Filename: ./debs/com.bvn.senri_1.1_iphoneos-arm64.deb
-Size: 509726
-MD5sum: a74d3f5480802dd0d5c434ad15397d0a
-SHA1: bd0a164955f990f0182472d9236b9b6a98ee9ebe
-SHA256: a03d5907d15dff7353ee6e7b355155787a1c5e1859441de2d6c4c55a0622a657
-SHA512: fad4f298c5a1a825d537de6c1a9a755dcffdd59e1961e32af159e29a46c8f1648d1fa4d65dad2f585b0c00358f50a211ff495ea811bd6468557f15ad6da5f5fc
+Size: 509694
+MD5sum: cbfa1b66a847972227cf86f0e5298e7c
+SHA1: 80082abe5c0916f12f349e26f2b7863afa024bfc
+SHA256: 4378718bbd888218eab41d3a4c2e4c1a19cfdfdd50e3514ce2ad6acd99f82d2f
+SHA512: 91226c19902d4c24b96d5130947bcba462d93031adfd89503d5676d92e6fd9bf8e8eb102b03b74d0b1cc10cb626e61bdad07e67778b32520a980cdb067b0e72a
 Description: Không bao giờ mất Thông báo của bạn nữa.
-Tag: cydia::commercial, compatible_min::ios14.0
 Depiction: http://bvnsupport.github.io/infodeb/Html/Senri.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
 Author: Antoine <hanzikashi@gmail.com>
