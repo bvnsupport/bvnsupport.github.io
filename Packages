@@ -10530,6 +10530,27 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Eneko.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Traurige <hello@traurige.dev>
 
+Package: com.REPOBVN.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
+Filename: ./debs/com.REPOBVN.enekoalt_1.4_iphoneos-arm64.deb
+Size: 49268
+MD5sum: 47dfaef129a9933d741b7edfe8486b70
+SHA1: 559846344b5acf650c37db3916ae451a0fe83109
+SHA256: a115bf0958508e119d1bbda685872765bcda8fb56e9eb1053f6678a63202a222
+SHA512: 358a01ed7b2192cf40df60a76d2e0f96f2d5342aab58e49263894e7ae5f9fcc09384bb01849d0430cca80c196b9254775bf3911f39fb78a461aaeafc2c029847
+Description: Hình nền video cho iOS. Tinh chỉnh ban đầu đã được sửa đổi để hỗ trợ rootless.
+Name: Eneko VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Eneko/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Eneko.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Traurige <hello@traurige.dev>
+
 Package: com.REPOBVN.killapps
 Architecture: iphoneos-arm
 Version: 1.7.2
