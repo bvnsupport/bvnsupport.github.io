@@ -13094,6 +13094,25 @@ Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.latchkey
+Architecture: iphoneos-arm64
+Version: 2.3.2
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.bvn.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 9082840
+MD5sum: de238ef78b63c25aa5ebe99b7de2751e
+SHA1: 4dffa0d8cda575e7d81b3c062d5e904a4635c7ff
+SHA256: 7e110ae153450bdf8446c490c5f06a37eb5943e94a747bdcbf80f7f53222bcd4
+SHA512: 44c9424c343f1f9317ab7781a1e8e7fc726e1e1f846ea1f0ca1ad6b921176e94be4ed4d1a5d2afec4298294c75b68590b4f731e90745d780a6b48644db49f3b1
+Description: Tùy chỉnh biểu tượng và vị trí khóa. Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
+Name: Latchkey VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
 Version: 1.0
