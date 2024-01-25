@@ -130,6 +130,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Designer
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Bvn Repository
+Installed-Size: 16600
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4_iphoneos-arm64.deb
+Size: 12990162
+MD5sum: 38e2cc72c80dc84974279d4f04e1ea7e
+SHA1: e67ca96a56e73cd3b6c39d4efc95b10f844827aa
+SHA256: c75fe204261f733a98d358eeacb3e61c871c818c3e3d0f09cc7df6fb782eb2fa
+SHA512: 117a67e7c6b744b38a554a422f21cb5afbe02801e6d8d114357c859c8da4422f872f9a41fd69ffd746761b70246f78e00b31c2a249b09984a20776388fd7121a
+Description: Design layouts for lockscreen and homescreen
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
