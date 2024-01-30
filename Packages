@@ -10487,6 +10487,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 
+Package: com.Bvnrepo.dockx
+Architecture: iphoneos-arm64
+Version: 2.4.7-2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1580
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.Bvnrepo.dockx_2.4.7-2_iphoneos-arm64.deb
+Size: 514806
+MD5sum: 054811b20265d231b50e7a4680fe9e56
+SHA1: 1470411aad14bca72e7d67cb27747ba2d85703e1
+SHA256: 859fb50fde71cf6cda230439659ed2dc63786098d661730dbefedcf57127f0c8
+SHA512: 4ec00085b35b645f03ed544636ef88a7ad667306392b16e2d6b6f3218e825bf37228e36616ef3bb4bc130ef9e29b6ea69f2530ebfd052612159343edc0fc09c9
+Description: Phím tắt bảng trên dock bàn phím của bạn!
+Name: DockX VH(Rootless)
+Author: udevs
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.Bvnsupport-Yt.cercube
 Architecture: iphoneos-arm
 Version: 5.2.10
@@ -13194,6 +13213,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: MTAC
 Name: Lynx 2VH(Rootless)
 
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
+Version: 2.4.7
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.4.7_iphoneos-arm64.deb
+Size: 795172
+MD5sum: 0a1f02081f815e00d701afb0277be714
+SHA1: 00e4751fbc66867d9c1737f291fe7f444e03ed7a
+SHA256: 6b1fd71e0f642795b4d2207b6812abcc286ada920a0697bf402f303323afe89d
+SHA512: c2eba7a115da36fc6b57d5bd31eb5fab7a2c0e87187b637bb7e18cdef169c54818775764fef36a4f63d5b3510b9f39d555e96e71be83d923f2a1a136be9be5b8
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Lynx 2 VH(Rootless)
+Author: MTAC
+
 Package: com.bvn.marie
 Architecture: iphoneos-arm
 Version: 1.0.6
@@ -13442,6 +13480,26 @@ SHA256: f45849a0972afb3f6dc1246e4846b5fc72955ea91c4c7eeab99822537f4b4c5f
 SHA512: 95953801cd9d3ba4ad50a2bd1da43b1d3c7042df664237f2aa3f95aeb8e2258c048c825651541f90219dbaffe00f02ccf5ae86fdbafdac7c3511d4356f11e5be
 Description: Hiển thị phần trăm trong thanh trượt độ sáng và Âm lương
 Name: SugarCane VH(Rootless)
+Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.sugarcane
+Architecture: iphoneos-arm64
+Version: 1.2.4.3
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 172
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.bvn.sugarcane_1.2.4.3_iphoneos-arm64.deb
+Size: 12966
+MD5sum: 08535eff81ffb73f6098374180c73634
+SHA1: eed1e04af831742423f1c63bac61dbd16bc3002d
+SHA256: baaecfe15223cd1462bf8df01146271695272d643b857059a0ede5ca14cf62b0
+SHA512: 003303c79b62dff55751f39e7d85f0e374d0d3b42d54d054deea1a3af1759368473c0a699c99493b4c3110f987655a245a2b1e7725b0b6f34d4b85161428fa7a
+Description: Hiển thị phần trăm cho các thanh trượt trong Trung tâm điều khiển 13 - 16
+Name: SugarCane 15/16 VH(Rootless)
 Author: iOS Creatix, kasiimh1, p2kdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
@@ -16005,6 +16063,26 @@ Author: Lilliana
 Depiction: http://support-jailbreak.github.io/infodeb/Satella/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.satella-rootless
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 456
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.reoobvn.satella-rootless_1.9.0_iphoneos-arm64.deb
+Size: 111978
+MD5sum: 89c42de7f32769e7b664a0a974f8e3ca
+SHA1: 63206586cceb0894d0b551ba9a2c1fb0c7195130
+SHA256: 9c9002af2e7c4d2c4e63962c7cae903a5ba65ddcf609866c601e42558838b423
+SHA512: ac1577e8abe33ae340d2797f9c000f2a6a0d83525e436b65e58ef0dfb2559666ae02ded5ac0bf1b0d37aadc625c3a55fa22811f84862c615551d2a6faf0c0b2b
+Description: Cracker mua hàng trong ứng dụng hiện đại
+Depiction: http://bvnsupport.github.io/infodeb/Satella/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Satella.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Satella (Rootless)
+Author: Paisseon
 
 Package: com.reoobvn.shuffle-rootless
 Architecture: iphoneos-arm64
