@@ -20799,6 +20799,25 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvn.rocket-ig
+Architecture: iphoneos-arm64
+Version: 3.8.21
+Section: Tweaks
+Maintainer: BVN
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/vn.bvn.rocket-ig_3.8.21_iphoneos-arm64.deb
+Size: 2284382
+MD5sum: eaaeb3d5a5e75216ede32d6ee33de4cc
+SHA1: cc24f16182663e00b3253bb88b2551325cf3ec6a
+SHA256: bcdefec8f09af714330fe599bc8b292f99e6fbc563b56cb9819ca18c1b43db91
+SHA512: 70b5cbf5d40f5661f363701d64db037f874ea80354664a3c464d07db00c733e5a3bddb6208c7a39b19a94fd9133e954f4d43418949c93f58916b465fb0e8806e
+Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
+Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Rocket For Instagram
+Author: Majd Alfhaily
+
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
 Version: 1.1.7
