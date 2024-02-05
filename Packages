@@ -131,6 +131,48 @@ Name: Designer
 Author: JunesiPhone <junesgraphics@gmail.com>
 
 Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Addons (Tweaks)
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 17288
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.1_iphoneos-arm.deb
+Size: 7597210
+MD5sum: 037a5c35686529fb8484b4535d85ecea
+SHA1: 0231bb49498439e9b4d00da591bc08996e805b75
+SHA256: 035f653c4985b0deb76d12e770c8370f159a18cfb58eda242155b0e50bbab3fc
+SHA512: c948408795da833a4e22d8a4035040edfb2c3241551cd2d38f84b290fd32f246282b4262b5c2109092f8a77da1e9d477a0f06ac2da564f8e96a88b25bbbd4900
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Addons (Tweaks)
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 17288
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.1_iphoneos-arm64.deb
+Size: 13393304
+MD5sum: 3d014fed0d00d06520a87ed34c7452d2
+SHA1: f175582afc9edbb27dc304231e7d729b4867a94a
+SHA256: 3e845806786cec33ef622b81b5df9c20a46405c5d14bd992a54a6aee66e6c8b7
+SHA512: 554d56c8447a533de12d7eb61e18e483b914ee7b3215ad90e02483df367e02b2d2feca5f738612663fd30275139bc35aef0e17f93b85e83ac59d8ede79a54b35
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: bvn.repo.designer
 Architecture: iphoneos-arm64
 Version: 1.4
 Section: Tweaks
