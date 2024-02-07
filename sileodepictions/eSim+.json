@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# eSim+ VH .Chọn SIM để liên hệ trên iPhone eSim. \n\nNhấn Activate sau khi cài đặt eSim+ để kích hoạt tinh chỉnh khoá\n\nApple lẽ ra phải làm thêm tính năng chọn SIM khi họ sản xuất iPhone được trang bị eSim (iPhone XS trở lên). Nhưng eSim+ là một tinh chỉnh được tạo ra để cho bạn quyền được lựa chọn SIM để liên hệ hoặc nhắn tin thuận tiện hơn. \n\n\n",
+"markdown":"# eSim+ VH .Chọn SIM để liên hệ trên iPhone eSim. \n\nNhấn Activate sau khi cài đặt eSim+ để kích hoạt tinh chỉnh khoá\n\nApple lẽ ra phải làm thêm tính năng chọn SIM khi họ sản xuất iPhone được trang bị eSim (iPhone XS trở lên). Nhưng eSim+ là một tinh chỉnh được tạo ra để cho bạn quyền được lựa chọn SIM để liên hệ hoặc nhắn tin thuận tiện hơn.\n\nLưu Ý:\n\n Đối với Bootstrap Roothide yêu cầu bật [InCallService,Messages & com.apple .mobilesms.compose trong Danh sách ứng dụng của Bootstrap] \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -58,16 +58,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"27/5/2023"
+"text":"8/2/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 16.4"
+"text":"iOS 12.0 đến 16.6.1"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2024 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -80,7 +80,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.14\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 1.15-beta-4\n\nHỗ trợ Rootless Bootstrap Roothide"
 },
 {
 "class":"DepictionLabelView",
