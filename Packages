@@ -19427,6 +19427,27 @@ Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: dev.bvn.liddell
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 672
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.liddell
+Filename: ./debs/dev.bvn.liddell_1.4.3_iphoneos-arm64.deb
+Size: 160628
+MD5sum: 6960e90e4386ad54d7d58256e008a6ec
+SHA1: bb2b862b93a4c57ef86c997d1d7b0dc626a1c604
+SHA256: 71bd00b1bcb0a3e408b27d1aa321cfdb9c2064ee09a89bd342e2db493ea1a912
+SHA512: 0897b1f6323085853a55e62af7e770b3354e968c85659d2c5a0da96721d9b06e10640d998e306ca3be274f0379a8e66ca8e0a7f3f656d12c4aeabc35810436bc
+Description: Biểu ngữ thông báo nhỏ và đầy màu sắc
+Name: Liddell VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Liddellrl.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Liddell.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Traurige <hello@traurige.dev>
+
 Package: dev.midn1ght.copylog
 Architecture: iphoneos-arm
 Version: 1.5.3-1
@@ -19482,6 +19503,27 @@ Author: TomT000
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Copylogcrack/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Copylogcrack/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: dev.traurige.libkitten
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: System
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 152
+Provides: love.litten.libkitten (=1.3.3)
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Filename: ./debs/dev.traurige.libkitten_1.4.1_iphoneos-arm64.deb
+Size: 12644
+MD5sum: 3de91486bd9f2030393d656c850a65a1
+SHA1: de56ed6b372fe7710a6453eff18fe022dba03b65
+SHA256: da61fcaac05f82949ff18856b0ede60bb89f3728d052071655df15e94c19953a
+SHA512: ac2442edc26582a32b229c827d6a886dfbebf03456f481f64fe1767ca7b502446abbd8237501e8752c6ca1b16f9ea46187a8ce6d0425599edfbc91b2d7dbdee9
+Description: Collection of image and color calculations
+Tag: role::developer
+Name: libKitten
+Author: Traurige <hello@traurige.dev>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: ellekit
 Architecture: iphoneos-arm64
