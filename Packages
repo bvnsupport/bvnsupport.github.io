@@ -11223,19 +11223,19 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.Repobvn.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
-Version: 5.0-5
+Version: 5.0-6
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 5960
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0), org.mr.unsubsrl
-Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, com.bvn.limneos-crack, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, org.mr.unsubsrl
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
-Filename: ./debs/com.Repobvn.audiorecorderxs-rootless_5.0-5_iphoneos-arm64.deb
-Size: 1861118
-MD5sum: 47db1f07915581cc44380ad110101118
-SHA1: 178e89da223e853e3ddcb9eac3319c5159dada7c
-SHA256: 663ba7ed0eea8fb0afc2a05d667a0403ec85c3740fa419770041224b6a1a12aa
-SHA512: 7731c658dfa9fab25b444826fffa120888d56c4b18e87a53922c7c9947ccd257a7995cb4bce51e0c772b2e1766c43483224c899a8ee2e0b6056fa14b1a6823cb
+Filename: ./debs/com.Repobvn.audiorecorderxs-rootless_5.0-6_iphoneos-arm64.deb
+Size: 1861208
+MD5sum: aab92e80450577128d51113f0b4732dc
+SHA1: 302b4fe91bf0c0a56eb9749b0a6c870583b2ffcf
+SHA256: 264e10fade7455c0b1bfe7e4b9f44a9388868ad9ba053d4e1e7d87fc3c1378cc
+SHA512: cd34ca2d9891511c53178a5db8a560c7957df616539f460b40c8daf4fdc5d31fcdf42d3c4860ddc7c006e03911adaa5a6289d1dbc629110c6488bfaebda7d8e3
 Description: Trình ghi âm cuộc gọi iOS tốt nhất hiện nay.
 Name: AudioRecorder XS (rootless) (iOS 12 to 16)
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -13235,6 +13235,23 @@ Name: Latchkey VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
+
+Package: com.bvn.limneos-crack
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.limneos-crack_1.0_iphoneos-arm64.deb
+Size: 7820
+MD5sum: 3ff63d81eabe3beb11639bf73dc2a0cf
+SHA1: ddbee5281e9b4fbfa53c276018b89081d5bb9142
+SHA256: 740a7c448701ec1d14279644fa1a3db4d639ea61ffbe2490c37459988f8f821b
+SHA512: d8eb6fad2083914d5917e76bca008cdcb3986fc7138b2f77633d55a84b54ba658a6e27686e01e62bcfee2a5a47f164b14282fecebcfe8fe528dc846d1b81d5a8
+Description: Crack cho các tinh chỉnh của Limneos
+Name: Limneos Crack(Rootless)
+Author: CBZ
 
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
@@ -20409,59 +20426,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
 Architecture: iphoneos-arm64
-Version: 0.6-14
-Section: Tweaks
-Maintainer: REPO CYDIA BVN
-Installed-Size: 1668
-Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
-Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-14_iphoneos-arm64.deb
-Size: 459078
-MD5sum: 4d1c980981e6288d36650ec4e6085ffe
-SHA1: 26527cb2154053688304f3c75239c2d8dd9b1e4c
-SHA256: 7f4cdd35db72edccc5bfb35ca60985c1bc39c63577e7608f56b71378cc024206
-SHA512: aa22bfc5a66156cb8755bc4141fb041bfcca3ef84b06e7c4469416d52eba6f4f28c7996117a4f250c7a57b7f425fc0229099094e88f84fd5625985e682930d5b
-Description: Dynamic Island trên notch của bạn
-Name: DynamicPeninsula VH (Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Elias Limneos <limneoselias@gmail.com>
-MainLibMD5: 05e0085610aba1f19878e4149df380bc
-
-Package: net.BIENVANNHAT.dynamicpeninsula-rootless
-Architecture: iphoneos-arm64
-Version: 0.6-19
+Version: 0.6-20
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 1668
-Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
-Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-19_iphoneos-arm64.deb
-Size: 460168
-MD5sum: 9ba83ab6c8f3f442f41e789cf4f4513a
-SHA1: 71959eb83d87a2760b4b1ebf963c945624104fc9
-SHA256: 14a3badaae06cb232cc3e5c1d49c8b03394baa88a153a4424d64039259e6afdf
-SHA512: 81c1958e012dc1dca3b6c663cedaa732f42aadf78497ac29055ffc7af1a90b66ef0ec5b86624c9ef98d7a7603245e2359225ba79b7f1dcf400e73e5751ec5b8e
-Description: Dynamic Island trên notch của bạn
-Name: DynamicPeninsula VH (Rootless)
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula1/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DynamicPeninsula1.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-MainLibMD5: 921b926fd501306429310a4e8659f913
-
-Package: net.BIENVANNHAT.dynamicpeninsula-rootless
-Architecture: iphoneos-arm64
-Version: 0.6-19k
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1668
-Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
-Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-19k_iphoneos-arm64.deb
-Size: 460164
-MD5sum: 6b6ef4e91e561420f09c3878f4e922d2
-SHA1: f37610be18a243ae824066af93a45fea25e85410
-SHA256: f068497e31ad8447157bcd0814a664a00cf4b9da6e2ae2d1ea7bc9ddb89ce125
-SHA512: 227cc0c1c1729d278de4ef748719626b0a80eed50b96da0349dbc3f06697192cbc7b246b339bfc786cfa4ad0a46c6eb5b7cbc444124abc4e05a82e5209274ae1
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), com.bvn.limneos-crack
+Conflicts: org.mr.unsubsrl
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-20_iphoneos-arm64.deb
+Size: 460190
+MD5sum: b6d78cfb3ba87d7cc90fbeaef122a2e7
+SHA1: 493822e89244600b8fbd4d0c7843ca937386ceb9
+SHA256: bf7fe9fafe9664e41e1a0317865390e102675ef72e418c63d91513160a1b1281
+SHA512: 4919be6da0078df81523552c2e0be303fe7e26278df0cdb7a4fc72e33a0756cf12389b7c571be65ac580a53da4f2d9075a77df2cb5f06aa413c54a2e12347e94
 Description: Dynamic Island trên notch của bạn
 Name: DynamicPeninsula VH (Rootless)
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -20491,18 +20467,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: net.repobvn.bioprotectxs-rootless
 Architecture: iphoneos-arm64
-Version: 4.6-30
+Version: 4.6-31
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 2168
-Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
-Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/net.repobvn.bioprotectxs-rootless_4.6-30_iphoneos-arm64.deb
-Size: 802076
-MD5sum: fae52205be140392c22ca52f612499b9
-SHA1: 51282510aee58c9adec076941f69418afd9a80ba
-SHA256: 42fe25a7036ca421d4cee47c347df42f34579a3071d1d5219ea0637df3162a1c
-SHA512: 2ca6c68b3c45c911e869252c0783b9f7ae78024005ab43b2a527305780bb7058b867224d63aeaa19cfcaacaf3d6ab8c491a11adef547052cb85d7399711e3929
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneos-crack
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, org.mr.unsubsrl
+Filename: ./debs/net.repobvn.bioprotectxs-rootless_4.6-31_iphoneos-arm64.deb
+Size: 802094
+MD5sum: 7404f2b3d2854ddb7428bfd3300d1149
+SHA1: 207fb838554b11e05f0c372a7c97b128983c7108
+SHA256: 44ce477fde72ef9cfbc9cb5adddf283e4f80c92d19b7ceb5d2e007fc15a9d074
+SHA512: 747e4bcadad679eeff347e1cae1287cd17091e6842e8eaa23199caeee92798fc68646bfc39976c9b3becce6f7d8c7fac2cbf0770cfd4a58e35d67df16029a92b
 Description: Bảo vệ ứng dụng của bạn bằng Touch/Face ID!
 Name: BioProtect (Rootless) (iOS 12 to 16)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -20512,18 +20488,18 @@ MainLibMD5: 4f1110aadbd864aa76fe9e6be32ac34d
 
 Package: net.repobvn.smarttapx-rootless
 Architecture: iphoneos-arm64
-Version: 0.5-2
+Version: 0.5-3
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 780
-Depends: mobilesubstrate,preferenceloader, org.mr.unsubsrl
-Conflicts: net.limneos.smarttap
-Filename: ./debs/net.repobvn.smarttapx-rootless_0.5-2_iphoneos-arm64.deb
-Size: 208992
-MD5sum: 6bc04d5673d0ffaaa5e30dea178ed985
-SHA1: 339046003c225dd457bd6c761957535221b1994e
-SHA256: 4ad46865f72916765f0e35cd508ee7711315e5f8cdeab29b721e7f2bc519118e
-SHA512: 5f05563159090ace09dc6ef74c5c6b9ada4ab72d95d3be102244b8b559040549098e2f861361f9a7d69320344ea88a58fd91bffcc65d5860a3796f2a6187b822
+Depends: mobilesubstrate,preferenceloader, com.bvn.limneos-crack
+Conflicts: net.limneos.smarttap, org.mr.unsubsrl
+Filename: ./debs/net.repobvn.smarttapx-rootless_0.5-3_iphoneos-arm64.deb
+Size: 209004
+MD5sum: 5712280b53515180f20687ede318735d
+SHA1: 02bbd82b64f6cfddea5bccc41945f22baf80c190
+SHA256: 756ebf5436171fda311cd3916e44fe57f9f8a1464c3f4944f6352a396bc3f617
+SHA512: 9748d9a4c21da62424e3ec832155993cfbd1bd0eed5f0b14277bc87d118ea5e0f16c472a0048539e2c165012ddc0b33c868682334dcb9a72b0535d3be340b74b
 Description: Bật màn hình bằng cách chạm vào nó!
 Name: SmartTap XS (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -20537,14 +20513,14 @@ Version: 2.4-3
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1420
-Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
-Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneos-crack
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, org.mr.unsubsrl
 Filename: ./debs/net.repobvn.voicechangerx-rootless_2.4-3_iphoneos-arm64.deb
-Size: 449608
-MD5sum: 9f4ce1d8ed8e756cf1c006b8236ff030
-SHA1: 247f6d5a63ad9159470f5799d63593ba827c3267
-SHA256: c5db9320276e2796a71056bd1e402db6d9f30cd14e16c5d5ae5315c733860ef6
-SHA512: 83542015faeb2e7a6d021e2d82b78d36fa189ea1148f0319338d3f76f53a4e2372668436fdb4349f58d41e81d4135e9298521951fbe92e5e9a48df65e1d596f2
+Size: 449618
+MD5sum: 308de8cfba0a7a517f3a67662f8d7bea
+SHA1: 5ad5fcfe05110a4a293678b8e404eae19c770192
+SHA256: fde53b5cd67c9485f677ad4c6752e1c45a487c89b6e3fb0e49ea681add5df03c
+SHA512: 1fff1c3442cfa49e484f2995dcaaad18ec09a10127896c84dacc4425a259cdfdd3d59d4bb8d77526ce513baf2c1ce0e548374da8aa2f8f28a23319486dd6aa99
 Description: Thay đổi giọng nói của bạn trong khi gọi!
 Name: VoiceChanger XS (Rootless) (iOS 11 to 16)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -20725,26 +20701,6 @@ Name: Unsubs
 Author: MainRepo
 Depiction: https://mrepo.org/depiction/3036
 SileoDepiction: https://mrepo.org/sileo/3036
-Icon: https://mrepo.org/CydiaIcon.png
-
-Package: org.mr.unsubsrl
-Architecture: iphoneos-arm64
-Version: 1.10
-Section: Development
-Maintainer: MainRepo
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/org.mr.unsubsrl_1.10_iphoneos-arm.deb
-Size: 5590
-MD5sum: 1644bebe07ab1f533b2d2998e372f1a8
-SHA1: b3b3f4cbeb51ec60b23b734d8335f7f3d9c9c2b0
-SHA256: df42c24002ddd3d01421e88594477a2d01a33f5c7d7688f327f2852f22eddd85
-SHA512: 521f7f633dd991912cd66fc20b1ba021dd1ea6a129cd4b1b07f179728861d54e366b52b41c4290306832c9a9ec091cafc522623a79c26246a8ed4c35acf8c14a
-Description: MainRepo License Activator for Limneo's Tweaks
-Name: Unsubs-rootless
-Author: MainRepo
-Depiction: https://mrepo.org/depiction/5442
-SileoDepiction: https://mrepo.org/sileo/5442
 Icon: https://mrepo.org/CydiaIcon.png
 
 Package: plutil
