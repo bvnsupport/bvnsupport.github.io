@@ -174,6 +174,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.repo.designer
 Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Addons (Tweaks)
+Maintainer: BVN Repo
+Installed-Size: 17340
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/bvn.repo.designer_1.4.2_iphoneos-arm64.deb
+Size: 7628852
+MD5sum: 41feb367d584a4dd3dbf76c7a6de609f
+SHA1: 804ced8575c8fd4f3b26366eb12255c0cea49229
+SHA256: 6f892b7654381480ecf21a4bd4c9e8fc55f7545814b5e705ad02c17f816ebec9
+SHA512: 54c86d39b76ca85ab15fbe3a341766e09ae7bbef9337e0a812d885dedf47f0a932f8b14935c77e3d47b68a4df5116dea7fe69518eba0ff841ba481af12bfcff1
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer
+Author: JunesiPhone
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
 Version: 1.4
 Section: Tweaks
 Maintainer: Bvn Repository
@@ -13293,6 +13313,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Lynx 2 VH(Rootless)
+Author: MTAC
+
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
+Version: 2.4.8
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.4.8_iphoneos-arm64.deb
+Size: 810968
+MD5sum: 0bc669e8e969011ee4c057760a78cb15
+SHA1: 33dda408a9236e4ad1542138cd9a9b4d81cd46d2
+SHA256: 4666ba3fdedc34fd277024ff768b4f80fc40c0f5e0ccae101b0df57986b47762
+SHA512: fb0d23e52a67659091770b30d12bd987e7acfdcee6d3dd3f1de3b08499b3a6ea66cab1979f4222d47583d9f76f52a79cf978c5b06876f51a9755bd942deefa72
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Lynx 2VH(Rootless)
 Author: MTAC
 
 Package: com.bvn.marie
