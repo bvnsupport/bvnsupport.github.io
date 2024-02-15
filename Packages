@@ -20954,6 +20954,25 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvn.resentment
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>= 14.0), firmware (<< 16.0)
+Filename: ./debs/vn.bvn.resentment_1.0_iphoneos-arm64.deb
+Size: 133364
+MD5sum: 9b5b266dbaf1c6c7950e87467c434d47
+SHA1: 4ce7f3669616226f3873a163abcb66aaa7cc082a
+SHA256: 90deb5173355a983a1b89c894c9f5b6439b638efa5783fc7b47879099adc853e
+SHA512: 36cc2dbb755e6781a934e77b7a2b6594cd8b22a369b33e1ddf3607d5e41cd664042b3bb66c7fd8c8fafbdcb35a8bf1ac79fb2ab407f3f4889a265e735a7b4b17
+Description: Mang trình phát nhạc iOS16 lên iOS cũ hơn!
+Depiction: http://bvnsupport.github.io/infodeb/Html/resentment.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/resentment.json
+Name: resentment VH(Rootless)
+Author: uz.ra
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvn.rocket-ig
 Architecture: iphoneos-arm64
 Version: 3.8.21
