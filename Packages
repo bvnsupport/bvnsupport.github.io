@@ -20445,6 +20445,25 @@ Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: me.nepeta.axon-rootless
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/me.nepeta.axon-rootless_1.5_iphoneos-arm64.deb
+Size: 142188
+MD5sum: b62d5d3d5a2dc8721879f0e55262d3f4
+SHA1: 960acb6d9a1228f3960e67f5eb5fe7161eb6ca66
+SHA256: a6ece0fb94c845db2ece0f4a24e185d4eea275834c094b5c975eb441db40c3a3
+SHA512: ca0e55a6fcb832216bb392cf7e4095cd7b94226d3a1bdaae1697244335014f39c4b28ba94b883413d54ec85774c888714231f8c794ad42c9cf862c877a447443
+Description: Priority Hub for iOS 15 - 16
+Depiction: http://bvnsupport.github.io/infodeb/Axon2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Axon2.json
+Name: Axon VH(Rootless)
+Author: Nepeta & Baw Appie
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
 Architecture: iphoneos-arm64
 Version: 0.6-20
