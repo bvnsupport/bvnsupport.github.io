@@ -12737,6 +12737,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
 
+Package: com.bvn.airaw
+Architecture: iphoneos-arm64
+Version: 1.6.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 12560
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common
+Filename: ./debs/com.bvn.airaw_1.6.1_iphoneos-arm64.deb
+Size: 11373240
+MD5sum: b9801551a1c7f9070919250c4e792a13
+SHA1: ba50501549755bd0e1e573a0f1d0e19e10633c06
+SHA256: 498bbbbea524290a44ee1ea552dd4282b07f772a9c6bdae1121523898b7344a7
+SHA512: d545a2e39fc2a84a3136e25f0f48e612f6b54e4d7f43a430c1fa5a21c1ac333fe5d921f4d915de7da1b0d0b069909cbfa85e0cbd744e9facbdb1dbca514290e0
+Description: Một tinh chỉnh CarPlay tuyệt vời.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
+Name: Airaw VH(Rootless)
+Author: Dcsyhi
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.akara
 Architecture: iphoneos-arm64
 Version: 2.0.0

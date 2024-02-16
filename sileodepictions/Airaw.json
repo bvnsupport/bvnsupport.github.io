@@ -1,0 +1,125 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Airaw VH\n\n- Bố sung các tính năng cho CarPlay!\n\n- Tinh chỉnh này cung cấp cho bạn các tiện ích mở rộng bố sung cho CarPlay. CarPlay thường hỗ trợ lưới biểu tượng 2 x 4 với tổng số 8 biểu tượng trên màn hình chính. Đối với một số người, điều này có thể là không đủ và đó là nơi Airaw có ích\n\n- Bao gồm các tính năng sau\n\n- Chọn giữa 2 đến 4 hàng biểu tượng ứng dụng trên màn hình chính CarPlay Chọn giữa 4 đến 6 cột biểu tượng ứng dụng trên màn hình chính CarPlay Chọn kích thước biểu tượng. Ấn các tên biểu tượng trên màn hình chính CarPlay\n\n- Ấn hình nền tên biểu tượng ứng dụng trên màn hình chính CarPlay Chọn màu nền tên biếu tượng CarPlay\n\n- Ẩn các dấu chấm Chọn giữa Chỉ hình nền hoặc Trình chiếu hình nền Chọn một hình ảnh để sử dụng làm hình nền của màn hình chính CarPlay Chọn giữa chia tỷ lệ mặc định cho "vừa vặn" Ảnh bài hát làm hình nền Định dạng ngày và giờ trên thanh trạng thái \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Airaw/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Airaw/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Airaw/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Airaw/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Airaw/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Airaw/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Dcsyhi"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.6.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"16/2/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"578 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 15.9"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.6.1\n\n- Sửa lỗi"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
