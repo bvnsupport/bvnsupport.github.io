@@ -1,23 +1,37 @@
 {
-"minVersion":"0.4",
+"minVersion":"0.1",
 "headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Tinh chỉnh Zetsu\n\n- Mở nhiều cửa sổ ứng dụng trên iOS 13/14/15/16\n\n- Tinh chỉnh Zetsu miễn phí được tạo bởi @Csyhi có tính năng mở nhiều ứng dụng cùng một lúc trên iPhone và iPad\n\n- Để kích hoạt bất kỳ ứng dụng nào trong Màn hình chính,  bạn chỉ cần nhấn Giữ ứng dụng và chọn Zetsu để thu nhỏ nó thành của sổ\n\n- Các bạn có thể xem 1 số hình ảnh phía dưới \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
 "url":"https://bvnsupport.github.io/infodeb/Zetsu/Screenshots/1.png",
 "accessibilityText":"Screenshot"
+},
 {
 "url":"https://bvnsupport.github.io/infodeb/Zetsu/Screenshots/2.png",
 "accessibilityText":"Screenshot"
+},
 {
 "url":"https://bvnsupport.github.io/infodeb/Zetsu/Screenshots/3.png",
 "accessibilityText":"Screenshot"
+},
 {
 "url":"https://bvnsupport.github.io/infodeb/Zetsu/Screenshots/4.png",
 "accessibilityText":"Screenshot"
@@ -27,7 +41,14 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Zetsu VH(Rootless).\n\nMở nhiều cửa sổ ứng dụng trên iOS 13/14/15/16 Tinh chỉnh Zetsu miễn phí được tạo bởi @Csyhi có tính năng mở nhiều ứng dụng cùng một lúc trên iPhone và iPad\n\nĐể kích hoạt bất kỳ ứng dụng nào trong Màn hình chính,  bạn chỉ cần nhấn Giữ ứng dụng và chọn Zetsu để thu nhỏ nó thành của sổ\n\nCác bạn có thể xem ảnh phía trên \n\n\n",
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -36,25 +57,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
+"title":"Thông tin "
 },
 {
 "class":"DepictionTableTextView",
-"title":"Tác giả",
+"title":"Nhà phát triển",
 "text":"Dcsyhi"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -67,12 +77,17 @@
 },
 {
 "class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"678 KB"
+},
+{
+"class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.7"
+"text":"iOS 13 đến 16.7"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -85,11 +100,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.5\n\nHỗ trợ iOS16"
+"markdown":"### Phiên bản 1.5\n\n- Hỗ trợ iOS16"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
