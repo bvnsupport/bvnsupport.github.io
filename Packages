@@ -17329,19 +17329,19 @@ Version: 1.5
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 11004
-Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport,ws.hbang.common
 Filename: ./debs/com.repobvn.zetsurootless15_1.5_iphoneos-arm64.deb
-Size: 9992036
-MD5sum: eee81b8857ca1a464c76719d79022f0f
-SHA1: 0f219bd2cc604301d04b5c4cfd8e27d710280157
-SHA256: a78ca7a288b61dcf0567d1258286a05842cde81424c413244748cfb8a2f88403
-SHA512: a4b34516c1081e2d1fa09a889a5ab9e370c61b045806fdd1950b585683da179cf56fd4bb7f954efc3d9fd2dbdd8195014d55f8fd1eb68298fc1d3b8046fc9010
+Size: 9992044
+MD5sum: 01e3e80f23f964e5dbd7ecc28bd6ef43
+SHA1: 22249ee7e078b1e5303ec5c729c3a2cbdf0e5fc7
+SHA256: 5a65c8cabe25f2c290010f2d9b230ef64d7e9dfc99e48e22e433310c9ef92627
+SHA512: bb3e00aec571902a741f2470ce44eb9337e16755a290fdaacab19232e2d1ab612548e77d650bc6dbc31088681a93b8caf999ea038864bffddba5c819ff06bd16
 Description: Multitasking on iOS15 - iOS16.
 Tag: compatible_min::ios15.0
 Author: Dcsyhi <dcsyhi1998@gmail.com>
 Name: Zetsu VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
-SileoDepiction: https://bvnaupport.github.io/sileodepictions/Zetsu.json
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repocydiabvn.aim
