@@ -20845,6 +20845,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.3-1CRK
+Section: Tweaks
+Maintainer: Bvn Repository
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.3-1CRK_iphoneos-arm64.deb
+Size: 7345884
+MD5sum: 909cbd53eecaf6fac17277fcbdca009d
+SHA1: d5dbd334cf2a52a059f751da9ed72c9a752bdd5f
+SHA256: 00c15d44f6679c30ca510907949846f195a4be9181b0cd9a4e7429ff7f91e8b4
+SHA512: 58537e88db94ede6f9813447978192422a6e18094249769fad73e180fe154a12dc5d234a4be5f2d7ad68f78c439c912ddf6f888638fb41b98cb6c46bb354af0c
+Description: Tải xuống hình ảnh và video trên mạng xã hội.
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Name: DLEasy (Rootless)
+Author: AhmedBafkir
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2-2
@@ -21090,25 +21109,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClockFonts.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: ClockFonts (Rootless)
 Author: nqt1195
-
-Package: vn.bvnrepo.dleasy
-Architecture: iphoneos-arm64
-Version: 2.14.3-CRK
-Section: Tweaks
-Maintainer: Bvn Repository
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/vn.bvnrepo.dleasy_2.14.3-CRK_iphoneos-arm64.deb
-Size: 7416774
-MD5sum: 70a70c0334c0d83b5f5ab921d40c7450
-SHA1: 8a34865eb4c18989cacd7810011fe0d7cf23f22a
-SHA256: a402813943d695c0fe50b8bcc7f39ff2924aaaf721370be804938ae001a6ae49
-SHA512: 03c75d2c850ef568a7ccf3aece905773862a067ae7ba2b83c474b25dee151baa395ac7d30f9410370292b5b1dbbfcb55bc580d026d7274d34b413a150cce4b69
-Description: Tải xuống hình ảnh và video trên mạng xã hội.
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Name: DLEasy (Rootless)
-Author: AhmedBafkir
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvnrepo.eqex
 Architecture: iphoneos-arm64
