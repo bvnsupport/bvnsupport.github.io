@@ -17323,6 +17323,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/Zetsu/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Zetsu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.zetsurootless15
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 11004
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.repobvn.zetsurootless15_1.5_iphoneos-arm64.deb
+Size: 9992028
+MD5sum: d8dd123daed580d30d1a574601f16de6
+SHA1: e3fcdddbb2a1ded68f214211eca63859bf3b2a62
+SHA256: 14c46259029bd38ac5a1520c71baa159a2bb9d8e3ce02af63e5b25c23442931d
+SHA512: e6300c01a64c28dd2fbdf4b57ffb88bd377bbc9ca2cda46a20b9acab5a747a47b333712c48a1f0988753cfdca9b05a2ee47b26c512b562d13f2a221be7aa4cd4
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu
+Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://bvnaupport.github.io/sileodepictions/Zetsu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repocydiabvn.aim
 Architecture: iphoneos-arm
 Version: 1.1
