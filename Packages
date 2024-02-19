@@ -17361,46 +17361,6 @@ Tags: compatible_min::ios15.0
 Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
-Package: com.repobvn.vneidbypassjb
-Architecture: iphoneos-arm
-Version: 2.1.3
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: firmware (>=10.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.3_iphoneos-arm.deb
-Size: 23381718
-MD5sum: ad1c72d993231180a00a4275906c8c9f
-SHA1: 2ec3d946c17ffb4f2b27c1fbf5cf391cef295e8e
-SHA256: 73ac18aa5d5aacb5d1d68ae90c2ac4d877458e7cc6368c28150b8d9d977e3abd
-SHA512: 8d65618bdbac1cbdd6e311ad21aea0b0caeb4c4a771079ad54ff9d153f888b7b2267a8333e96645ccec91ec599964963ec9958f5d36f46883ec3e82c21fd3a1f
-Description: Ẩn Jailbreak VNEID
-Name: HideJB VNeID
-Author: BVN Repo <bienvannhat97@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Tags: compatible_min::ios10.0
-Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
-
-Package: com.repobvn.vneidbypassjb
-Architecture: iphoneos-arm64
-Version: 2.1.3
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: firmware (>=10.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.3_iphoneos-arm64.deb
-Size: 23312746
-MD5sum: 0e9d4f9843a3088d02a12d346766f7ce
-SHA1: d90120c23ff99c3a21e9ef7da7f13ef186e5e1c5
-SHA256: cb0ec6388952307eaf060db24c15096de5aa143d7a816387576bc4bd737803b8
-SHA512: 6abcab9585dc459d35175c44ebb3000381b77760aeff83cea256964fbe770ea0ca15cf37d8260fbd6f6f5101246aab1caee93508b1529ccce292d7f6c3c5734a
-Description: Ẩn Jailbreak VNEID
-Name: HideJB VNeID
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: BVN Repo
-Tags: compatible_min::ios10.0
-Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
-
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.7.19-1
