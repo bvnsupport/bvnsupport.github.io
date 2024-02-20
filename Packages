@@ -11223,6 +11223,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.Repobvn.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
+Version: 5.0-37
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 6072
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, com.bvn.limneos-crack, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.Repobvn.audiorecorderxs-rootless_5.0-37_iphoneos-arm64.deb
+Size: 1851272
+MD5sum: a126e3744a683c2c16c2821ca93d7aca
+SHA1: b6a8e4129756d5674bcc2b027bb16d633e243f26
+SHA256: 74df5269a570611737b81e28ac53f6f04af5f2159f8353f0279158109e2f8e97
+SHA512: de767c02259cecdedd4a5e2cbe7f7f919d35d0d8f5c16fb1a6d0cbb1740eb18c62a73a21a77b31cea07c52e1735dc9d388fb9fc9288fde6a96a7f7bce89a5b26
+Description: Trình ghi cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
+Name: AudioRecorder XS VH(Rootless) (iOS 12 to 17)
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: com.Repobvn.audiorecorderxs-rootless
+Architecture: iphoneos-arm64
 Version: 5.0-6
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
