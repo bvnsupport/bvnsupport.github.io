@@ -20692,6 +20692,25 @@ Name: SimpleActivationActions (rootless)
 Author: Elias Limneos <limneoselias@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: net.limneos.simpleactivationactions-rootless
+Architecture: iphoneos-arm64
+Version: 0.1-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/net.limneos.simpleactivationactions-rootless_0.1-3_iphoneos-arm64.deb
+Size: 10710
+MD5sum: 983b58adc3842e19c76d9b1a16b96ddf
+SHA1: 50218860467880148b9e1d171d0b499278314edd
+SHA256: 416f900e108cc46277811b18e0194e3bb4e9d0ebe0408de78e05a30252bcf890
+SHA512: 2703020febd0001c05a2fb9fbe210f3fbcb5ec40507c35f355e2cad7ea81fcd8a43274700606bcb07d98f07a780f3ecba5f5fd539e95283e4335bf20c352033a
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions (rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: net.repobvn.bioprotectxs-rootless
 Architecture: iphoneos-arm64
 Version: 4.6-31
