@@ -20892,26 +20892,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/BigSurCenter/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/BigSurCenter/?p=info
 
-Package: org.mr.dleasy
-Architecture: iphoneos-arm
-Version: 2.13.5k
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3280
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Filename: ./debs/org.mr.dleasy_2.13.5k_iphoneos-arm.deb
-Size: 1795724
-MD5sum: 6e6b024a7730b585316e1564bc616dcb
-SHA1: 5c6fdda813e2d3aca27ffb735126036685a5d533
-SHA256: 0fee50b40b5a14759ee606f494834235336f54dcea0e78d016b5c880831fd485
-SHA512: b54e4a2b25664ed78c54aad1c2b008d139e0428a9ffc89189ff642e9dd3d7de073aeaf00186854d96eae730802293bc56aa5f7e6d65e061ec569fa9f1c7f3c95
-Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
-Name: DLEasy CRK
-Author: AhmedBafkir <prooxy0@gmail.com>
-Depiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=1920&q=75
-
 Package: org.mr.icleanerprorl
 Architecture: iphoneos-arm64
 Version: 7.10.1
@@ -21091,6 +21071,26 @@ Name: DLEasy (Rootless)
 Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.3K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15583
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.3K_iphoneos-arm.deb
+Size: 7416832
+MD5sum: c50675438adec1a8561ec058c3ae89b9
+SHA1: 1711c442cea40cecae2831df554c2ba99a3b7b7a
+SHA256: f1671112dbd43ea3dd17b578bc7561b9145a1c68315830856f11b41e86e8a738
+SHA512: 0ab1211c9f9b5c72745ee11f9a737ab2f14070729d59415d3b095819921b2061c08233d79a758635b9aa8a4b0a2f42359a08c0f2bff9cf929ad79a0af5040b3d
+Description: Tải hình ảnh và video từ mạng xã hội.
+Name: DLEasy CRK
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2-2
@@ -21238,6 +21238,25 @@ Description: Tải xuống các video và chặn Quảng cáo ở các Apps:Face
 Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
+
+Package: vn.bvn.iArrays-crack
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/vn.bvn.iArrays-crack.deb
+Size: 7380
+MD5sum: 03baa57e4f4c786bec7fef8db5dc27a7
+SHA1: fc65d06771623fb3ac8f402cb871886ecf50b205
+SHA256: 966362b6085d63b8360ca5ee01cc3190a14048c183f133d3f31a441920db1c7c
+SHA512: 7d61d49eb6aef2c53408b50b0a3d7c9dc9597dc6d0ce54db45fbcb2c1b79204805f5bb0b0f07f7e07aa96333735d5bcddaa53dfbd31efb6f9e8f95472c041fc6
+Description: Kích hoạt tất cả các chỉnh sửa từ iArrays Repo
+ - Activate all tweaks from iArrays Repo
+Name: iArrays Crack(Rootless)
+Author: Artem Kasper
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.resentment
 Architecture: iphoneos-arm64
