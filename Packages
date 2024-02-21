@@ -17609,6 +17609,46 @@ Name: libAPToast
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.snail.airdrop16rl
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate,  vn.bvn.snail-crack
+Conflicts: com.snail.airdrop16, com.snail.airdrop16.global
+Filename: ./debs/com.snail.airdrop16rl_1.0.3_iphoneos-arm64.deb
+Size: 249058
+MD5sum: db28f323f5849d7c5393c15b01d1ac27
+SHA1: 4d3c63886d9d0358a78eae2be6e898f85095b086
+SHA256: 053683a4e3743536a69c4630fe7b4149b11aac8da11bda983468bd74e9f8d837
+SHA512: 0ee951a27ecf8e9e99a5db50a2e186b85826f5ff8fdb4b7392a61cd3fc32beb0e02045f465d17fea32a9ed362cea5ba97bb545073f3a418722acc70a6254d967
+Description: Đặt giới hạn thời gian cho chế độ “Mọi người” của AirDrop, tương tự iOS 16 nhưng linh hoạt hơn!
+Depiction: http://bvnsupport.github.io/infodeb/Html/AirDrop16.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirDrop16.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AirDrop16 VH(Rootless)
+Author: Snail
+
+Package: com.snail.always120rl
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, vn.bvn.snail-crack
+Conflicts: xyz.cypwn.snail, com.snail.always120, com.snail.always120.global
+Filename: ./debs/com.snail.always120rl_1.1.3_iphoneos-arm64.deb
+Size: 215990
+MD5sum: 5cee478140b2544ea9a18d852e79acca
+SHA1: 033b935b9df162b6e34367f7b68cb2e1cce4f1ab
+SHA256: 3ad47431e0c54e54a8a5e2aa72bcf3b7d055e6af6522f79de6562810dcb29741
+SHA512: a2e9f7b7182bf9dbdaed96f7481439408863ea189a8cdd0c935857cb2ec45fe7667b5b044ad728bafbd068832fc0e1895ecae84471bca6e94727803c57075699
+Description: Làm cho Thiết bị ProMotion iOS 15 tự động thích ứng/đạt tới 120Hz.
+Name: Always120 VH(Rootless)
+Author: Snail
+Depiction: http://bvnsupport.github.io/infodeb/Html/Always120.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Always120.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64
 Version: 1.1.0~rootless
@@ -21295,6 +21335,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Rocket For Instagram
 Author: Majd Alfhaily
+
+Package: vn.bvn.snail-crack
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/vn.bvn.snail-crack.deb
+Size: 17010
+MD5sum: e7a5c1370c1504ff3d36fde597604c7a
+SHA1: 2716a92db49d538db05677cad42b1364eb076f0a
+SHA256: c5ad2c98b09afbf0beab68163d3b0226a6574690a949748a60fc22871f236c2a
+SHA512: 3ce28f2fa1f2e08eae08868a6f4c2886878310e0ca871061a57796d7dfa90446daad6e865529851e1239a772a7f8f1b017b2e14b88a1f0f7db342a32c3994112
+Description: Kích hoạt tất cả các chỉnh sửa từ Snail Repo
+ - Activate all tweaks from Snail Repo
+Name: Snail Crack(Rootless)
+Author: CBZ
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
