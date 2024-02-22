@@ -17615,13 +17615,13 @@ Version: 1.0.3
 Section: Tweaks
 Maintainer: BVN
 Depends: mobilesubstrate,  vn.bvn.snail-crack
-Conflicts: com.snail.airdrop16, com.snail.airdrop16.global
+Conflicts: com.snail.airdrop16, com.snail.airdrop16.global, xyz.cypwn.snail
 Filename: ./debs/com.snail.airdrop16rl_1.0.3_iphoneos-arm64.deb
-Size: 249058
-MD5sum: db28f323f5849d7c5393c15b01d1ac27
-SHA1: 4d3c63886d9d0358a78eae2be6e898f85095b086
-SHA256: 053683a4e3743536a69c4630fe7b4149b11aac8da11bda983468bd74e9f8d837
-SHA512: 0ee951a27ecf8e9e99a5db50a2e186b85826f5ff8fdb4b7392a61cd3fc32beb0e02045f465d17fea32a9ed362cea5ba97bb545073f3a418722acc70a6254d967
+Size: 249076
+MD5sum: 91faf33a22f9bf79e2cd2192bcea5ce6
+SHA1: cee4f0815e6ecb40ff35baf5c5853f050811661c
+SHA256: 9b1825b8ade58b2fe9a56bb45996bf77dd3e8146d5c6b73fccbc1f2d5077aee8
+SHA512: 4c3ac5c12c33a1fe45a0fe3c4c3e856379678dc7dfdc26b49bed43b4406e7c11bced4ade52ab9a1ba64086d97fdcf1ba6f265894ed2813d3405f0254c67540cc
 Description: Đặt giới hạn thời gian cho chế độ “Mọi người” của AirDrop, tương tự iOS 16 nhưng linh hoạt hơn!
 Depiction: http://bvnsupport.github.io/infodeb/Html/AirDrop16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirDrop16.json
@@ -17647,6 +17647,26 @@ Name: Always120 VH(Rootless)
 Author: Snail
 Depiction: http://bvnsupport.github.io/infodeb/Html/Always120.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Always120.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.snail.callsilentrl
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, vn.bvn.snail-crack
+Conflicts: com.snail.callsilent, com.snail.callsilent.global, xyz.cypwn.snail
+Filename: ./debs/com.snail.callsilentrl_1.0.4_iphoneos-arm64.deb
+Size: 244188
+MD5sum: 23fa0b77622e2e6ba5256cf1d12503d2
+SHA1: 6b6330a45171382a8181ea016bd7d446f72ce55e
+SHA256: 9f55d76c25a07b3b98e53301d9a11c88317edaf0af10069a8bbb16c5ed75b3df
+SHA512: 14c76b2d07af5873bac34d80a2f8899f84827b3edd6b48eb577135a2e0ed0849db07000b649eb305a69748927e0be7cd43c2a91116b1938631c8b2bd4f754265
+Description: Tắt tiếng và từ chối cuộc gọi bằng thiết bị Lật/Chạm.
+Depiction: http://bvnsupport.github.io/infodeb/Html/CallSilent.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallSilent.json
+Name: CallSilent VH(Rootless)
+Author: Snail
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.spark.libsparkapplist
