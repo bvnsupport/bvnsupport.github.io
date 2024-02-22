@@ -13691,6 +13691,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.safarix
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.safarix_1.3.1_iphoneos-arm64.deb
+Size: 299134
+MD5sum: 6bf6e83de3638d775d14bf6120006b1c
+SHA1: 4f448cd2178e1833041755f953b1860fb1a55000
+SHA256: e705643f08c1f8e9c0e96042bd31a58fe621fd0f5a2c41f07ed38dfcda982761
+SHA512: 55ba6680167f930105181b4cc2595ed2b9d8a78d218a0942dbebb15810913a2d728bc894dd11a87d39b0d0964bd7afcae7861a713f49f6955fe29e7d78b2f8d9
+Description: Thêm 1 số tiện ích cho Safari
+Name: SafariX(Rootless)
+Author: 0xkuj
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm
 Version: 1.1
