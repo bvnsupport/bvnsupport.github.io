@@ -20713,6 +20713,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.j
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 MainLibMD5: 921b926fd501306429310a4e8659f913
 
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-25
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1684
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), com.bvn.limneos-crack
+Conflicts: org.mr.unsubsrl
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-25_iphoneos-arm64.deb
+Size: 455678
+MD5sum: f761bace4e740a8dbe06330d83e79649
+SHA1: 0f998ed2643ec0204376a42f1eb8afdc1cf08c59
+SHA256: add48e33b6dac3a3679b4841b233bdee87036dce3065497138405580ff12e5af
+SHA512: bcfccb16d05920b71204ceb4190587ea313cc7170e79ce4037c49b77bb9aa9e6a01cd6eaaff5b728e47c0f80b530e259fdbc353f35cb08b4ce193535f48e1075
+Description: Dynamic Island on your notch
+Name: DynamicPeninsula VH(Rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 12fb8ae6a7b6448240b69c068e6b49d0
+
 Package: net.bvn.livecalltranslator
 Architecture: iphoneos-arm64
 Version: 0.1-61
