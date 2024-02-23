@@ -12991,19 +12991,19 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.copic2.rootless
 Architecture: iphoneos-arm64
-Version: 1.15.0-beta-5
+Version: 1.15.0-beta-6
 Section: Utilities
-Maintainer: IArrays <support@iarrays.com>
+Maintainer: BVN Repo
 Installed-Size: 3392
 Pre-Depends: firmware (>=15.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16), com.bvn.iarrays-crack
 Conflicts: com.iarrays.copic10, com.iarrays.copic, com.iarrays.copic2.roothide
-Filename: ./debs/com.bvn.copic2.rootless_1.15.0-beta-5_iphoneos-arm64.deb
-Size: 971062
-MD5sum: d0eb32c26a10ae04b2bfeba0bb9c18f7
-SHA1: 4536cfd8c1fc0d8149e2db04d8a999ada29480e2
-SHA256: ea31cf8258964139d08ebb72b99f1301ed40c0e8f9d628fb4f3dd5660362c06c
-SHA512: 76a0f364b868eda9ddfd56d906d0cad47760c430c2b06eb56a679ee25efb4907ad9ac30dd1b0a918f84fbb24a9cbdd953dbe4a9125195e6e55c8d4c6302dbef6
+Filename: ./debs/com.bvn.copic2.rootless_1.15.0-beta-6_iphoneos-arm64.deb
+Size: 971076
+MD5sum: 4f7bc478a2f89d5aa77d830bd6fadded
+SHA1: 86b9fe5225b802dc100af65c671344f41187804d
+SHA256: 2ac9751c58443744230c404efb616962edc09fb614a97979e998ff468021b2c5
+SHA512: b51c8a24bfd58f5f98d365c4b38b4722479db9a9738ed4a4ca8ce0b5cc0356c6db931aabc19bc2e6a29d042d5ebbda054942adf0d2ccdbeb22ed77aacdc57954
 Homepage: https://iarrays.com/
 Description: Copic 2 mới được thiết kế lại, tối ưu hóa và xây dựng lại hoàn toàn từ đầu. Giờ đây mang đến khả năng hiển thị ảnh Liên hệ ở mọi nơi trên iPhone của bạn. Tích hợp liền mạch với các ứng dụng Danh bạ, FaceTime, Thư, Tin nhắn và Điện thoại có sẵn. Nó tích hợp với màn hình khóa và Trung tâm thông báo, đồng thời hiển thị hình ảnh liên lạc cho các cuộc gọi nhỡ và tin nhắn. Mang lại khả năng bật hoặc tắt chữ lồng hoặc hiển thị hình ảnh tròn hoặc hình chữ nhật và nhiều tính năng khác.
 Name: Copic 2 VH(Rootless iOS15/16)
@@ -13095,19 +13095,19 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.deletecontact.rootless
 Architecture: iphoneos-arm64
-Version: 1.15-beta-1
+Version: 1.15-beta-2
 Section: Utilities
 Maintainer: BVN Repo
 Installed-Size: 792
 Pre-Depends: firmware (>=15.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>=1.0.16)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>=1.0.16), com.bvn.iarrays-crack
 Conflicts: com.iarrays.deletecontact.roothide
-Filename: ./debs/com.bvn.deletecontact.rootless_1.15-beta-1_iphoneos-arm64.deb
-Size: 233060
-MD5sum: 8fffa47d74929a7794e082e4bf26bd82
-SHA1: d2f649dec46a3b03c51a52bbbbefe7d1de6b048d
-SHA256: dac649da780a0b8554d9a5cdff65dcc918206f7b8d0c36ef20f546842fd02315
-SHA512: ee01b4fe32bfafc5284be89b6d8b1457ba7e21df10203dcf370cbe41126c43158f289c5fa5e94e87a946b474ee140be57be45d86658a732faafdf4522019fb3c
+Filename: ./debs/com.bvn.deletecontact.rootless_1.15-beta-2_iphoneos-arm64.deb
+Size: 233068
+MD5sum: a1d59d256d732726b9b939537ac0a1da
+SHA1: 0ec843cbfd94938e2943892e5660cf6828d15318
+SHA256: 784f1b42a6429871f73ffccd2845ddde504eaea437dac85caec7c7ec6098d3c9
+SHA512: 9d559fab9c3785761c8ee63a2f87615b37094d39cdc28ef08cb50043fc32ccefc10e38ed9fb3e3bcf2916551c8ed9fb3770579792cbae66ab485a9838bd3d22a
 Description: Hiện hỗ trợ iOS 16! Xóa Liên hệ cho phép xóa danh bạ khỏi sổ địa chỉ của bạn. Tinh chỉnh nhỏ này thêm biểu tượng thùng rác vào màn hình danh bạ của ứng dụng Danh bạ và Điện thoại di động. Và nó cũng cho phép xóa nhóm danh bạ và hoạt động với tất cả các iDevices của bạn.
 Name: Delete Contact VH(Rootless iOS15/16)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Contact.html
@@ -13360,6 +13360,26 @@ Name: Hide Statusbar Items X(Rootless)
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/Statusbar.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Statusbar.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.iarrays-crack
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 3384
+Depends: mobilesubstrate, preferenceloader
+Conflicts: vn.bvn.iarrays-crack, org.mr.libiarraysrl
+Filename: ./debs/com.bvn.iarrays-crack_1.0.0_iphoneos-arm64.deb
+Size: 7416
+MD5sum: da96a11ad5a6a8c56e501f36e35c29a5
+SHA1: 294722b4e250369154cf7051f869af60b1ce0ba2
+SHA256: 5283eb6d2592a1e36056b4ac248b7f70d9e5b58b8fc0c548311aab439f895067
+SHA512: 540f79408b53fb43cf3b7fa3094379c4563da1e3d912fe7d1dc3d87514808d1afab967ac3fd117500e1f726d0f17a3c1c30554d5d7b1d9fa27c915c01d154b74
+Description: Kích hoạt tất cả các chỉnh sửa từ iArrays Repo
+ - Activate all tweaks from iArrays Repo
+Name: iArrays Crack(Rootless)
+Author: Artem Kasper
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.jade
@@ -13749,17 +13769,17 @@ Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.safarix
 Architecture: iphoneos-arm64
-Version: 1.3.1
+Version: 1.0.2
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 424
 Depends: mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.bvn.safarix_1.3.1_iphoneos-arm64.deb
-Size: 299134
-MD5sum: 6bf6e83de3638d775d14bf6120006b1c
-SHA1: 4f448cd2178e1833041755f953b1860fb1a55000
-SHA256: e705643f08c1f8e9c0e96042bd31a58fe621fd0f5a2c41f07ed38dfcda982761
-SHA512: 55ba6680167f930105181b4cc2595ed2b9d8a78d218a0942dbebb15810913a2d728bc894dd11a87d39b0d0964bd7afcae7861a713f49f6955fe29e7d78b2f8d9
+Filename: ./debs/com.bvn.safarix_1.0.2_iphoneos-arm64.deb
+Size: 310600
+MD5sum: 643bb088b4e35f72a7c396e1ce09c158
+SHA1: 67d84a5bf3b7448ccd8b7031024fd33d81ea730a
+SHA256: 29477e7af710a7f77a1b9222aaa7eea94f2870fa8bdd4deeaaaf0646ecbb060d
+SHA512: d2521e9b091bcfa6700205ebd97d2eb0aa73283dcbd3418d713ed89ebf314a5c75cfdace42cc19823c05478df04f9727de3e51670b38f02d43368c6b593ea0ab
 Description: Thêm 1 số tiện ích cho Safari
 Name: SafariX(Rootless)
 Author: 0xkuj
@@ -13942,6 +13962,30 @@ Name: TweakHub VH(Rootless)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.whoozit.rootless
+Architecture: iphoneos-arm64
+Version: 2.15.0-beta-9
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 3384
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16), com.bvn.iarrays-crack
+Conflicts: com.iarrays.whoozit, com.iarrays.whoozit.roothide
+Filename: ./debs/com.bvn.whoozit.rootless_2.15.0-beta-9_iphoneos-arm64.deb
+Size: 1094370
+MD5sum: 692aae892a91d2c212cb64e9dda872d7
+SHA1: 77f799b26cb133d285c156a9078d660893576dd1
+SHA256: 864fff9f409ec9c1a703a09835843fbc1f987f88c03ce9df2ec65a31ea7d1170
+SHA512: 8375fcf0b3945d591812959d3fb82c9fbaf513734c6d718c07483e77a6c2293180be1f0a0c24668443cb74ae6456a86c4f0bece27b3fb2a0da8248698ec1b46a
+Homepage: http://iarrays.com/
+Description: Không biết ai đang gọi cho bạn và không biết bạn đã bỏ lỡ ai? Đừng lo lắng, giờ đây giải pháp ID người gọi hoàn hảo này sẽ giúp cuộc sống của bạn trở nên đơn giản hơn. Chỉ cần cài đặt cái này và TrueCaller hoặc NumBuster! hoặc ShowCaller trên thiết bị của bạn và bắt đầu tìm kiếm cuộc gọi từ các ứng dụng xếp chồng như Điện thoại, Tin nhắn & Trung tâm thông báo và thậm chí từ CallLogPro.
+Name: WhoozItPro VH(Rootless iOS 15/17)
+Depiction: http://iarrays.com/depiction/whoiscalling
+SileoDepiction: http://iarrays.com/sileo-depiction/whoiscalling/whoiscalling.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bvnrepo.Coolwcat
 Architecture: iphoneos-arm
 Version: 1.7
@@ -14040,19 +14084,19 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvnrepo.calllogpro-rootless
 Architecture: iphoneos-arm64
-Version: 15.0-beta-6
+Version: 15.0-beta-7
 Section: Utilities
 Maintainer: BVN Repo
 Installed-Size: 10084
 Pre-Depends: firmware (>=15.0)
-Depends: mobilesubstrate, org.mr.libiarraysrl (>= 1.0.16)
+Depends: mobilesubstrate, com.iarrays.libiarrays.rootless (>= 1.0.16), com.bvn.iarrays-crack
 Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81, com.iarrays.CallLogPro8, com.iarrays.calllogpro.roothide
-Filename: ./debs/com.bvnrepo.calllogpro-rootless_15.0-beta-6_iphoneos-arm64.deb
-Size: 3932430
-MD5sum: d4dbb070f1c1710f758e084dc6498932
-SHA1: 58d53318bdd4a5ae375aa9c9f9640b43a4ca2183
-SHA256: 83b55e91f23b5ff5ef0322d1e597dea429348ad21806a9b85d320d211c2dd8dd
-SHA512: 2e1926b51ce2c1a8890426d194670e61e4d6bbd85931f1a92c5df042acc9bbdb0318c907f37b9b6c6fb70aea5a14f16c2a5c4b4b45db3861c734233e90e17332
+Filename: ./debs/com.bvnrepo.calllogpro-rootless_15.0-beta-7_iphoneos-arm64.deb
+Size: 3932434
+MD5sum: 050ad5e07292a1b872b441cd06c7d85c
+SHA1: e225c40a63bd67cb9663191243b889bece75106e
+SHA256: 9e348980a4ea722b611e62b62f63dc33663b35a3a5320e0e57e9f06d036c1c7a
+SHA512: cf834c50d920e69e9982bc6ca5860dfa5d7898a12598cf41b27fa5d058bc96f096c6352aad605d02aa81ad7784e709aeac6026a84453464db35c332f68346288
 Description: Bây giờ có hỗ trợ iOS 16.x. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi hoặc tất cả.
 Name: CallLogPro VH(Rootless iOS15/16)
 Author: IArrays <contact@iarrays.com>
@@ -15469,6 +15513,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Arico.json
 Name: Arico VH
 Author: hmodei96
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.iarrays.libiarrays.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.16-beta-14
+Section: Development
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 640
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide, org.mr.libiarraysrl
+Filename: ./debs/com.iarrays.libiarrays.rootless_1.0.16-beta-14_iphoneos-arm64.deb
+Size: 201982
+MD5sum: 567672b6e854fd5930ce704cb62eb9ef
+SHA1: d0f65e28116d4a4d26544a3d90202772f7649fa0
+SHA256: dbff9b47e6100a4104c3b482fda2abe52c484a4eede211302adfd96aede255fc
+SHA512: 7c51991e6a918335f9ed4ff33ee28c8331f5b3f14dce0243c6aa1caf3760296d9faaa1748bfe7468a24636975a7e4ecd94a7860f00cb80b2efea429904bdd5a4
+Homepage: http://iarrays.com/
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
@@ -17130,21 +17195,21 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.simplus.rootless
 Architecture: iphoneos-arm64
-Version: 1.16-CRk
+Version: 1.15-beta-4
 Section: Utilities
-Maintainer: BVN Repo
+Maintainer: IArrays <support@iarrays.com>
 Installed-Size: 1196
 Pre-Depends: firmware (>=12.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16), com.opa334.ccsupport
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16), com.opa334.ccsupport, com.bvn.iarrays-crack
 Conflicts: com.iarrays.simplus.roothide
-Filename: ./debs/com.repobvn.simplus.rootless_1.16-CRk_iphoneos-arm64.deb
-Size: 713162
-MD5sum: 78bfe97e531b54310dacda01c0c039e8
-SHA1: 5dbd0f77ce92c3a75a3cb579ec85bd925c10046f
-SHA256: be0916a57888c2895b2fdd3fa8bcfcdc3135ea15fbf96bd6e1ab1bdf58c67454
-SHA512: 36302fd497225b8244ba40a45337ee862294ea927c977e568e877e5e3d8958d2761b93af42ef52aa28ddd47903bfdf510be1f3cb9bae1d6905b73c8be00c3a91
+Filename: ./debs/com.repobvn.simplus.rootless_1.15-beta-4_iphoneos-arm64.deb
+Size: 714818
+MD5sum: 185b2db99f80711fc2c62405ad887112
+SHA1: 99d4985a17a5367ce4acf5a56c54507fd0428e9b
+SHA256: 71cb8498f144064045fe1cc7e217842e376f161a8541c2aae3996404642fd71d
+SHA512: a110e95f2da8aaab737e6dd8dc1422c477adb3319dfa9b0329da760081bb24915b6556fd6d3e0c05e990915061f39840481d14328b027b868b55e64a64ebcf1d
 Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
-Name: eSim+ VH(Rootless iOS15/16)
+Name: eSim+ VH(Rootless 15/16)
 Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
 Author: IArrays <support@iarrays.com>
@@ -21104,27 +21169,6 @@ Name: iCleaner Pro (Rootless)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
-Package: org.mr.libiarraysrl
-Architecture: iphoneos-arm64
-Version: 1.0.16-beta-12k
-Section: Development
-Maintainer: MainRepo
-Installed-Size: 640
-Pre-Depends: firmware (>=9.0)
-Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
-Filename: ./debs/org.mr.libiarraysrl_1.0.16-beta-12k_iphoneos-arm.deb
-Size: 208910
-MD5sum: 525c1678bd8ac5d92737ccdae0ecee0a
-SHA1: 9ed6bcf4c5e0adfe109eb6f5a35bbd3566eda136
-SHA256: 7a303a7f9a4bb1059507309efc2f045f9ff6691f842cb5c246bf499e0ae7dc98
-SHA512: 58e4a899bc786537c9779ad0b1eee0a16a27427fbb39f8b01dc22f841e8e3300a2a030026a8f6dd196aebd0c04f9be698d85432b70b46d1d1d547b9752265553
-Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
-Name: libiarrays (Rootless)
-Author: IArrays <support@iarrays.com>
-Depiction: https://mrepo.org/depiction/5581
-SileoDepiction: https://mrepo.org/sileo/5581
-Icon: https://mrepo.org/CydiaIcon.png
-
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -21431,25 +21475,6 @@ Description: Tải xuống các video và chặn Quảng cáo ở các Apps:Face
 Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
-
-Package: vn.bvn.iArrays-crack
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/vn.bvn.iArrays-crack.deb
-Size: 7380
-MD5sum: 03baa57e4f4c786bec7fef8db5dc27a7
-SHA1: fc65d06771623fb3ac8f402cb871886ecf50b205
-SHA256: 966362b6085d63b8360ca5ee01cc3190a14048c183f133d3f31a441920db1c7c
-SHA512: 7d61d49eb6aef2c53408b50b0a3d7c9dc9597dc6d0ce54db45fbcb2c1b79204805f5bb0b0f07f7e07aa96333735d5bcddaa53dfbd31efb6f9e8f95472c041fc6
-Description: Kích hoạt tất cả các chỉnh sửa từ iArrays Repo
- - Activate all tweaks from iArrays Repo
-Name: iArrays Crack(Rootless)
-Author: Artem Kasper
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.resentment
 Architecture: iphoneos-arm64
