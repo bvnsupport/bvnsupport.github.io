@@ -10224,6 +10224,26 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.4.3_iphoneos-arm.deb
+Size: 4562
+MD5sum: 25c0fa205db45d258a8186a61bec3be4
+SHA1: 1d13da41d787b5357dc183048ec5873f37b8d4f2
+SHA256: ac8eeb84cce73e889d2cb36c3b5da696197253148702c5af89506fdbe1bcd65d
+SHA512: dc54de5df1dfacea72318a278fc664ae7708e6e611ef74c4c22b813fae58c35be1894903296685b8b9ccc22c4d96b8536fd3984022165ab63353f098fae1d74c
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.zephyr
 Architecture: iphoneos-arm
 Version: 1.6.4-1
@@ -10366,27 +10386,6 @@ Author: PoomSmart
 Depiction: http://support-jailbreak.github.io/infodeb/Uyou11/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Uyou11/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNNAT.youpip
-Architecture: iphoneos-arm
-Version: 1.5.7
-Section: Tweaks
-Maintainer: Biện  Văn Nhật
-Installed-Size: 204
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.BIENVANNNAT.youpip_1.5.7_iphoneos-arm.deb
-Size: 23044
-MD5sum: 69ae67618eb024623ff012e301ca9cff
-SHA1: 18f6330a7b00a7c7173dafe900a56ec613757390
-SHA256: ba52c9f76e7c6a8b9ffdc319428f259f850c37e1112ae71bcdad0343ee3195c2
-SHA512: d9f09be7d4e5367a597f4c1b22f2f7bd70815ef6085b4f2deb093763e4489bfb5d520c249e5cd1174f4c13a6f1b4ae93ea707262e3486c437361005f7729fb96
-Description: Bật PiP gốc trong ứng dụng YouTube.
-Name: YouPiP VH
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: PoomSmart
 
 Package: com.BIENVANNNHAT.preferred
 Architecture: iphoneos-arm
@@ -11757,6 +11756,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Amber/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Amber/?p=info
 
+Package: com.bienvannhat.amber
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.bienvannhat.amber_1.2.1_iphoneos-arm.deb
+Size: 18474
+MD5sum: 8631c335b5c30de63f1bd8523d843c42
+SHA1: 37dee61b0459861425167c54093efd97ef3886e5
+SHA256: 1245872c64cbe66c583e8af2bffb3ecb949be1168d79a4e99ea82b8a9031229b
+SHA512: e1fd0bd1c722262e76a4d435afd074de27df5ba0a92cb258fc10b04224818009365c6ffa6d7f77b6d64547bf6bc3f4028028fc7696ae364021b123b4dbaa21bf
+Description: Amber-ify your flashlight LEDs.
+Name: Amber VH
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/amber.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.appcolorclose
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -12040,6 +12059,24 @@ Name: LatestTranslate VH
 Author: PoomSmart
 Depiction: http://support-jailbreak.github.io/infodeb/LatestTranslate/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/LatestTranslate/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.latesttranslate
+Architecture: iphoneos-arm
+Version: 6.0.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 46592
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
+Filename: ./debs/com.bienvannhat.latesttranslate_6.0.1_iphoneos-arm.deb
+Size: 1954526
+MD5sum: 7dc3a5e999ccca0db6b0c5e5b24e5e52
+SHA1: f02b746a6c6720e510e2b0f54a3fa1d8e0ebc263
+SHA256: 1f94e9c58db3c301df60239ccea38251518c0e49fa645cc47af9a1a2ef47a461
+SHA512: 31340c61f7905b513aefae20cfceeed50d04c5fdd095f92f63316f83787af93923bca4f6afafb390e2346d19e121dc92af18c360e586274045aabd15fd7bb460
+Description: Thêm ngôn ngữ cho ứng dụng Dịch của Apple
+Name: LatestTranslate VH
+Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.libiarrays
@@ -12455,70 +12492,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
-Version: 1.5.15
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 204
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.5.15_iphoneos-arm.deb
-Size: 24416
-MD5sum: b84eff3d0a4de7af452ba172b8ecc6ad
-SHA1: 6dda9129edca31fe8a4328b4605fa728bc355b6b
-SHA256: a4851a9b2482aaa7ab450bd511e26233a42f84a99f679ca59694a15da926b410
-SHA512: 5e2b9eca8368e0185d9f645dfd3982911bb8e8948d87050f832664bf2bc642151776c602c8156c99a6b1a82aa822a2e13a79bef1ba79b4c8a7d0130fbafb1352
-Description: Bật PiP gốc trong ứng dụng YouTube.Hỗ trợ Ios 11-14.8
-Name: YouPiP VH
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-Author: PoomSmart
-
-Package: com.bienvannnat.youpip
-Architecture: iphoneos-arm
-Version: 1.7.19
-Section: Tweaks
-Maintainer: Repo BvN
-Installed-Size: 296
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.7.19_iphoneos-arm.deb
-Size: 35658
-MD5sum: 7be061c5d5b2205449b126c832196438
-SHA1: c918e86795c850e2b8de826ef7dd679eb6f603ae
-SHA256: 554ae4b7a83ae606250f83cf4a66c38c4c30a5c9acae5035ce719e17c5b10fcb
-SHA512: 9f4101814667e4e4c4ea47ec4fba32113fdcc200bf64f804f49c9bdba2066e1f0c0fdbb276b680384f05d10b7cf0557400f90969e364a502a03f87a095b664eb
-Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.Hỗ trợ Ios 11-16.3
-Name: YouPiP VH
-Author: PoomSmart
-
-Package: com.bienvannnat.youpip
-Architecture: iphoneos-arm
-Version: 1.7.21
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 300
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.7.21_iphoneos-arm.deb
-Size: 35772
-MD5sum: 84b4006f564132262d05dd8dcfaeb9a3
-SHA1: f6874c8379896eece7efdc32ebbe4b8c3081f64b
-SHA256: 8daf19130de812afd6721d6783a1e3f1eebcaf6bbcfd1c3e74c3cf970b49a2ae
-SHA512: a030b2028da57ddd9ba2e9d4505a1af7027ff5e8c4064e16b7e74b34c5cef9e333e611dbc44dd756337125116dfbb0cbafd9df463d43f01c3e9b06df29486934
-Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
-Name: YouPiP VH
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bienvannnat.youpip
-Architecture: iphoneos-arm
 Version: 1.7.7
 Section: Tweaks
 Maintainer: Repo Cydia BVN <Bienvannhat97@mail.com>
@@ -12537,6 +12510,29 @@ Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture
 Name: YouPiP VH
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
+Version: 1.8.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.8.4_iphoneos-arm.deb
+Size: 38766
+MD5sum: 6e59b4bd29b75ac86caab24d1429c9b4
+SHA1: 8ab18e5ab8ccee7f71087ed88cc3f4c802d9641a
+SHA256: ec7907853c39ad93205d869300455f50ad21c543d4f8ed3dad6780dcdb1499c6
+SHA512: 55da09a9ce3bd29516eb49f54abb9d540b2c2e628074a57c909b84ed6eeabe6d9430f67189c6fbca5b23703a08cc959b1abb0b073083931277ce71d16a9a892d
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.burritoz.croutons13
 Architecture: iphoneos-arm
@@ -14017,6 +14013,26 @@ SHA256: 626084c41c96ebf11f222f6c10f292997b3b7a2af014bb96f1a09cb21a2dbf50
 SHA512: 1dcf1bea4650c3776ce021f91f53acc0d4ffc016bc3c27fbe2ff88d8d911a8ed9505e562ee1cc3e0d568a06185ee417c0666f25c153c3747140da14d6ec7d8fe
 Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
 Name: Amber (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/amber.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvnrepo.amber-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.bvnrepo.amber-rootless_1.2.1_iphoneos-arm64.deb
+Size: 18604
+MD5sum: 60519e1600be15916fc1db31e1c8f773
+SHA1: 9e71e65af159182f98ce3eb50d29be9b8208e870
+SHA256: 2a19d4341d1d04e60c78c2ab33417e5dfe10f14f6f8cd5e16a8511421549a6c0
+SHA512: 8c6e52ee1b0e83742cda0aa4343a88e34069ecc922a2b054bca8af5ea46052fa70b9dffd22381a760f87ee812370b3ad3f3cfffbfed2e4cab76b11fc0b11ffab
+Description: Amber-ify your flashlight LEDs.
+Name: Amber VH(Rootless)
 Author: PoomSmart
 Depiction: https://support-jailbreak.github.io/depictions/amber.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
@@ -16968,6 +16984,24 @@ Name: LatestTranslate (Rootless
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.latesttranslate
+Architecture: iphoneos-arm64
+Version: 6.0.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 46592
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
+Filename: ./debs/com.repobvn.latesttranslate_6.0.1_iphoneos-arm64.deb
+Size: 1956866
+MD5sum: 98bae4d3f233049ac51d2963d3c40d3a
+SHA1: 4e2778b7e3a09a86816a5a73f3e7ef5fe64a6220
+SHA256: 66e2f0fcbc897a9dbf5b4b45f49acd9edf54db49496281678698c06813804d2a
+SHA512: fa76e3a29a275e6bbf82e5be79e1810b758ceb5734524c2796d34e7348cadaece40ca8725ff02ad1c60d60ce763beefb6155fad3ed08ed954f63bbd5ab61e47f
+Description: Thêm ngôn ngữ cho ứng dụng dịch của Apple
+Name: LatestTranslate (Rootless)
+Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.settingsrevamp
 Architecture: iphoneos-arm64
 Version: 2.0.6
@@ -17462,50 +17496,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
-Version: 1.7.19-1
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 300
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.7.19-1_iphoneos-arm64.deb
-Size: 35992
-MD5sum: b24636156ce17a8d8d23890cb65618d2
-SHA1: 234262d0562396b7340a70c4204f1a824f93ae9e
-SHA256: b1f02893b78c89c701c3f6f04370442518dca04cf5bca7cd6505c988f4f7da88
-SHA512: e357a865563d3cdb9515fa35273a777522a4da54b227a4ec8c74d30ac754f7f94541455f140e22e0e8149e57c9a74110a82cca44aea0992772a8b0a9f2047d01
-Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.
-Name: YouPiP (Roorless)
-Author: PoomSmart
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64
-Version: 1.7.19-2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 300
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.7.19-2_iphoneos-arm64.deb
-Size: 36044
-MD5sum: b5bb7004d496077449f6a409c9151c7b
-SHA1: a5dfbb8526d6502cff2b5454eed9caec90833e63
-SHA256: 9a8cb1f4c3d25817f9c413663b0b81f4d0ba34643e5e9395dc99e96f808f3088
-SHA512: 112d14d9bd3a1e92d8e9624bced7019f8a63070b3789807c3255bb8bb38666d0f8937abf123e1d04bea492351c63b0cdde3ce496cd8f2bccc40b7795d7e990db
-Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
-Name: YouPiP (Rootless)
-Author: PoomSmart
-Depiction: https://support-jailbreak.github.io/depictions/youpip.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/youpip.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64
 Version: 1.7.21
 Section: Tweaks
 Maintainer: Repo BVN
@@ -17520,6 +17510,29 @@ MD5sum: 4913de53ddb68a3b104e829f8ccc84fb
 SHA1: 7b5adfff802b487448b4d032e93c64c06fef1abc
 SHA256: 3b31e792053a5dcd23fac99311e211fb4616822ccc907becbdf9e10cdf4dba2d
 SHA512: 20a2ac5e96ba8b25a84b9925d3e26ff1f9b6668f5735738c21d60b55e528d3eff1c79c823fdb95227193dfb9a3bef2211a7c8e1dae304a3103e085b3f3cc3295
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package:  com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.8.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.8.4_iphoneos-arm64.deb
+Size: 38836
+MD5sum: 684056ccefc78613c36bf8f321588940
+SHA1: 292d680740323803b584c9c06e5e50fb8485e784
+SHA256: 0320d06e823589508f9d9f595f1d59414a84b54229da155b0291ec793796606c
+SHA512: d24c7158c39c1b21e0b59b8be5dd4513dafab032c24814978d04166330724ded9edb4979db0fca46cc45306573ad60292c5c018b771f7d6382de102f0fac945c
 Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
 Name: YouPiP (Rootless)
 Author: PoomSmart
@@ -17542,6 +17555,26 @@ SHA256: 7feae5f2dc71c8fefb497d231bf010ffd0091fe41356abaf6f087a577421b20f
 SHA512: 70db80c51a47f63ddf195befa991224dd03fcfc3d8d0d3cd0706b854496a3691b426ea8d360635efd1449c84c16d7060bb4b26eeca85fe1e08c4976dc2a9c5f1
 Description: Chặn quảng cáo và phát lại nền cho ứng dụng Youtube!.
 Name: YouTube X
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.4.3_iphoneos-arm64.deb
+Size: 4614
+MD5sum: 61d36792cab5fdab4e426ef0d837fe61
+SHA1: 28596c832d3f6450b57280ef7f5886a04b5b7899
+SHA256: 8c8d0d5daa019bea07742e180b3bcceb639575072b171ffe01d4939ef5cb207d
+SHA512: efd8d2e2ba8c827811b2fcd0cb02f2c02482b70ed467e27deac6fa55640fd2507f62605827c09d7463bce097f2d943c4148bc3d3ececd657e498d4dd4fcbfa61
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X(Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
