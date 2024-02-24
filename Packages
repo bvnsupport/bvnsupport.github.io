@@ -21476,6 +21476,26 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvn.bigsurcenter
+Architecture: iphoneos-arm64
+Version: 1.4.4R
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/vn.bvn.bigsurcenter_1.4.4R_iphoneos-arm64.deb
+Size: 879280
+MD5sum: 11dbec627f5d6ffdb94d03b29ab61aae
+SHA1: 880437cc57d8c00b75c6f44a26f913564df66ef1
+SHA256: e48b32ea2f982f19feed55a462a4f283ecfc2384a82beeda83d44775edc74ac3
+SHA512: fecd8bd56eb87436f4425ee3c5ee31d18173d5d85a0c1c2707410b454126b57720dd0167997995ab78c531c8f32319ecf6d6db7d6e55758e61fe600a67d21a75
+Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc định bằng một trung tâm mới nhẹ và trang nhã lấy cảm hứng từ trung tâm điều khiển trong MacOS Big Sur
+Name: BigSurCenter VH(Rootless)
+Author: nicho1asdev
+Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvn.resentment
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -21757,23 +21777,6 @@ SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e21
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
-
-Package: xyz.cypwn.bigsurcenter
-Architecture: iphoneos-arm64
-Version: 1.4.5
-Section: Tweaks
-Maintainer: BVN
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
-Filename: ./debs/xyz.cypwn.bigsurcenter_1.4.5_iphoneos-arm64.deb
-Size: 878168
-MD5sum: e75e1bd12151dfc3ea1cf4a1e7173ef5
-SHA1: 678808b804030708a01887ec0d45bb02ff31d588
-SHA256: 3c68458f7d9362665d567c68e804634caf5532dcbf4a35510df3bd4035e445e2
-SHA512: 580ff609a1d5641d523866741c851583ea144155649df5bb818566cabcd1a5ae1cf6999c96872e357c5b203153687ad23b6f098a8946564603411ebb9898dba8
-Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc định bằng một trung tâm mới nhẹ và trang nhã lấy cảm hứng từ trung tâm điều khiển trong MacOS Big Sur
-Name: BigSurCenter VH(Rootless)
-Author: nicho1asdev
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64
