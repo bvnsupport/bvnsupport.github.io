@@ -68,69 +68,6 @@ Name: AppSync Unified (iOS 5-16)
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: bvn.repo.designer
-Architecture: iphoneos-arm64
-Version: 1.2.9
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 12736
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer_1.2.9_iphoneos-arm64.deb
-Size: 6378648
-MD5sum: bfeb7faf8e5a1fd93b0d8d07a767fde5
-SHA1: 520d56aac9f7cd6c2a233f72b0082072f9a9297a
-SHA256: 5c3b16822f469aaac283f5bdbe420663b0c5a24f59fe963cb49be1e7694d114e
-SHA512: bf45dbb20f6ef4b9a8e4bdbd32e1cf3e4a24d4d53d8fb213c924fee78fc02d04da235ed5320460c82c1ccbc067979757da1dbbdc2ea10253a50a144abb90245e
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Name: Designer VH(Rootless)
-Author: JunesiPhone <junesgraphics@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: bvn.repo.designer
-Architecture: iphoneos-arm64
-Version: 1.3.1
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 16292
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer_1.3.1_iphoneos-arm64.deb
-Size: 12874136
-MD5sum: 9b3515b2a44946c56ce97807e58c9c86
-SHA1: fb5de663d69f2523d7089dc277ddc0cfaf9d3400
-SHA256: 4337cec09c8bab75b094f14c885414f3eab62112fc724f7c114b5c55cf2e5356
-SHA512: 1b2b1e7e988aae705a82d5b517b0787c0bbf62a4fcbd1ecdb8e85ef00682e9ea073efb3735fa3c857c280db42b7221c19ad25e16238277a02576696505113212
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer VH (Rootless)
-Author: JunesiPhone <junesgraphics@gmail.com>
-
-Package: bvn.repo.designer
-Architecture: iphoneos-arm64
-Version: 1.3
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 16292
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer_1.3_iphoneos-arm64.deb
-Size: 12863522
-MD5sum: 1a821782b903f4ebb59d55aae166ee18
-SHA1: 89468df27edf940d7b5a4d85f7936cc148d8e687
-SHA256: 71afa09b5021be5b4480e3fb84b328caa6221b22b94b3eb3e61f5a58cd2c67f8
-SHA512: ce960bd991a564ac75c8680e3bb781bbaeb48cdaa88366d3b987d9ce426a0cc28a8f543e949803fb3da17a48ca9075aea72891f3f242a51bd069b5199066f430
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer
-Author: JunesiPhone <junesgraphics@gmail.com>
-
-Package: bvn.repo.designer
 Architecture: iphoneos-arm
 Version: 1.4.1
 Section: Addons (Tweaks)
@@ -150,27 +87,6 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: bvn.repo.designer
-Architecture: iphoneos-arm64
-Version: 1.4.1
-Section: Addons (Tweaks)
-Maintainer: June <junesgraphics@gmail.com>
-Installed-Size: 17288
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer_1.4.1_iphoneos-arm64.deb
-Size: 13393304
-MD5sum: 3d014fed0d00d06520a87ed34c7452d2
-SHA1: f175582afc9edbb27dc304231e7d729b4867a94a
-SHA256: 3e845806786cec33ef622b81b5df9c20a46405c5d14bd992a54a6aee66e6c8b7
-SHA512: 554d56c8447a533de12d7eb61e18e483b914ee7b3215ad90e02483df367e02b2d2feca5f738612663fd30275139bc35aef0e17f93b85e83ac59d8ede79a54b35
-Description: Design layouts for lockscreen and homescreen
-Name: Designer VH(Rootless)
-Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.repo.designer
 Architecture: iphoneos-arm64
@@ -194,24 +110,23 @@ Author: JunesiPhone
 
 Package: bvn.repo.designer
 Architecture: iphoneos-arm64
-Version: 1.4
+Version: 1.4.3
 Section: Tweaks
-Maintainer: Bvn Repository
-Installed-Size: 16600
+Maintainer: BVN Repo
+Installed-Size: 17340
 Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer_1.4_iphoneos-arm64.deb
-Size: 12990162
-MD5sum: 38e2cc72c80dc84974279d4f04e1ea7e
-SHA1: e67ca96a56e73cd3b6c39d4efc95b10f844827aa
-SHA256: c75fe204261f733a98d358eeacb3e61c871c818c3e3d0f09cc7df6fb782eb2fa
-SHA512: 117a67e7c6b744b38a554a422f21cb5afbe02801e6d8d114357c859c8da4422f872f9a41fd69ffd746761b70246f78e00b31c2a249b09984a20776388fd7121a
-Description: Design layouts for lockscreen and homescreen
+Filename: ./debs/bvn.repo.designer_1.4.3_iphoneos-arm64.deb
+Size: 18295358
+MD5sum: b8d93d6706095c1e5692e33dbc5a3656
+SHA1: ea314483a11e71ceaa8599e21fa82056d3b7f335
+SHA256: 07d412a6b646689c24283e2827ee44d9160e15b0ea707d714fd6fc6b24216a64
+SHA512: 820f21b731044d3db2cf3062aeec4bc02ea970e448c1401f7a49bbced147813d3c18f6a5e7a708d08155bab38e121773b7f813216c2245f538e430c59a9d29bd
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
 Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Designer VH(Rootless)
-Author: JunesiPhone <junesgraphics@gmail.com>
+Author: JunesiPhone
 
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
