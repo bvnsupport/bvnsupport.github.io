@@ -12449,6 +12449,24 @@ Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.boo.libscribble
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: System
+Maintainer: BVN Repo
+Installed-Size: 168
+Filename: ./debs/com.boo.libscribble_1.0.0_iphoneos-arm64.deb
+Size: 17188
+MD5sum: cd8b1197e71828cc7783a0c77cebfe18
+SHA1: c0345634353a969e654ccab604c9232f854be2fc
+SHA256: d47c31c049e4228ba1e97b6d73578f246263d12ebe962974f3217505b8980049
+SHA512: 86dd89ef49509c0e51fc92ffe646fc39e1ffcdfd3c60c1e2be826a4fa8c6a36fa99c0455b457fdc8ca5102a76ec5b53166320fc3a9d1320083725942106bcdc0
+Description: Scribble gesture library
+Tag: role::developer
+Name: libScribble
+Author: Boo
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.burritoz.croutons13
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -13013,18 +13031,18 @@ Architecture: iphoneos-arm64
 Version: 1.15-beta-2
 Section: Utilities
 Maintainer: BVN Repo
-Installed-Size: 792
+Installed-Size: 804
 Pre-Depends: firmware (>=15.0)
 Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>=1.0.16), com.bvn.iarrays-crack
 Conflicts: com.iarrays.deletecontact.roothide
 Filename: ./debs/com.bvn.deletecontact.rootless_1.15-beta-2_iphoneos-arm64.deb
-Size: 233068
-MD5sum: a1d59d256d732726b9b939537ac0a1da
-SHA1: 0ec843cbfd94938e2943892e5660cf6828d15318
-SHA256: 784f1b42a6429871f73ffccd2845ddde504eaea437dac85caec7c7ec6098d3c9
-SHA512: 9d559fab9c3785761c8ee63a2f87615b37094d39cdc28ef08cb50043fc32ccefc10e38ed9fb3e3bcf2916551c8ed9fb3770579792cbae66ab485a9838bd3d22a
-Description: Hiện hỗ trợ iOS 16! Xóa Liên hệ cho phép xóa danh bạ khỏi sổ địa chỉ của bạn. Tinh chỉnh nhỏ này thêm biểu tượng thùng rác vào màn hình danh bạ của ứng dụng Danh bạ và Điện thoại di động. Và nó cũng cho phép xóa nhóm danh bạ và hoạt động với tất cả các iDevices của bạn.
-Name: Delete Contact VH(Rootless iOS15/16)
+Size: 246804
+MD5sum: e0028e50a42b065f5b9aa16e185705a3
+SHA1: ce65d1970703346d2da9bbab0d50d471af370d88
+SHA256: 1f77818c37e691883a11085178f9045f301959145f5d8a8c5d2777d8458b770b
+SHA512: 2648d6e0c68752022be8bcac6c51a18b3332308d9566fdfc4fb21ae9d3c3ac69776a964c2c1098d7bae4bd3b5ad59303b981464e7a184d69f31c9c6d3a2192e4
+Description: Delete Contact allows to delete contacts from your address book. This little tweak adds a trash icon to Contact and Mobile Phone application's contacts screen. And also it allows group delete of contacts and works with all your iDevices.
+Name: Delete Contact VH(Rootless iOS15/17)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Contact.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Contact.json
 Author: IArrays <support@iarrays.com>
@@ -17125,6 +17143,29 @@ SHA256: 71cb8498f144064045fe1cc7e217842e376f161a8541c2aae3996404642fd71d
 SHA512: a110e95f2da8aaab737e6dd8dc1422c477adb3319dfa9b0329da760081bb24915b6556fd6d3e0c05e990915061f39840481d14328b027b868b55e64a64ebcf1d
 Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
 Name: eSim+ VH(Rootless 15/16)
+Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.repobvn.simplus.rootless
+Architecture: iphoneos-arm64
+Version: 1.15-beta-6
+Section: Utilities
+Maintainer: Repo BVN
+Installed-Size: 1196
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16), com.opa334.ccsupport, com.bvn.iarrays-crack
+Conflicts: com.iarrays.simplus.roothide
+Filename: ./debs/com.repobvn.simplus.rootless_1.15-beta-6_iphoneos-arm64.deb
+Size: 715616
+MD5sum: dc482635ef191cb3e186bb3861a773ba
+SHA1: 286c0ce623bd61234c200acfc6755cb341786f8e
+SHA256: 07c220ea6caa8a1d8e9ed95385e8e3f4392412c279ca959aa2682eee7ed7dacc
+SHA512: 321a5ea298218dfc71463f4141ae3eb9a4b9e4a0fc6c0ec815f3829a5133acae2033a57c6511b2e85e2b90c48c4953f05af8130835d191a4c3d896fc31f6ef47
+Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH(Rootless iOS15/17)
 Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
 Author: IArrays <support@iarrays.com>
@@ -21448,6 +21489,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Rocket For Instagram
 Author: Majd Alfhaily
+
+Package: vn.bvn.scribble
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.2), com.boo.libscribble, com.spark.libsparkcolourpicker, xyz.cypwn.xinam1ne
+Filename: ./debs/vn.bvn.scribble_2.1_iphoneos-arm64.deb
+Size: 75396
+MD5sum: 37abddffb97a6028437ed339840ce03e
+SHA1: 983dfe2f1009de41ed884c952eb714300c71ed50
+SHA256: 886bb69bd4c13977cd18bdb1984516f582f5a07d009d4bf2991c4608e3dc1fdc
+SHA512: dc6d860bffaa558790c6c3b2021024479cf7dc25a692976c32bbf8411e9806c48467ca3c2ec3cc196e3f7e670512ab516c98b02fd421f7fd5e6528f2bdf2e987
+Description: Mở khoá bằng cách vẽ lên màn hình.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Scribble.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Scribble.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Scribble VH(Rootless)
+Author: Boo
 
 Package: vn.bvn.snail-crack
 Architecture: iphoneos-arm64
