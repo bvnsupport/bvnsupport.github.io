@@ -13374,6 +13374,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.bvn.latchkey
+Architecture: iphoneos-arm64
+Version: 2.3.3
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.bvn.latchkey_2.3.3_iphoneos-arm64.deb
+Size: 39375052
+MD5sum: 02a390d01c075c12aaa7666aeb3c5256
+SHA1: 181109266a097d079ac9057e0808c9b964b9d2ca
+SHA256: c3a610ba7aa2b6a179f6d5cc6069b0410f52748c4e8cc939caa825aa8ef4f7be
+SHA512: 473089ae7e30068add648ba3883594e5a442da3ea83a9a84ca097ee7824e625d9057ee85f9c0dbfdd3352989fbf2d44043b66456b1a435f25979b9887066df13
+Description: Tùy chỉnh biểu tượng và vị trí khóa. Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
+Name: Latchkey VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: com.bvn.limneos-crack
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -21451,6 +21470,27 @@ Author: nicho1asdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.bvn.nfcwriterx-rootless
+Architecture: iphoneos-arm64
+Version: 4.0-4+debug
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 3724
+Depends: mobilesubstrate, net.limneos.libbulletin, com.bvn.limneos-crack
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
+Filename: ./debs/vn.bvn.nfcwriterx-rootless_4.0-4+debug_iphoneos-arm64.deb
+Size: 1162556
+MD5sum: c7aad8615378f585d005aeaa323a0b56
+SHA1: 1a93e2402acedc756d1c410a830e45db0a0b1983
+SHA256: 50f7e149b1a259b3f7038978bd1fcf615ce997765c65c151634d617a51b8e613
+SHA512: a2dbd987453b23869629e833ca65bb8f39565b6b0c3b61bcc5c1e4d7f1a106b39ac678de2c80c1b464c489610a8e4a27e5a2e32623cf8d105af83761bf36a857
+Description: NFCWriter XS for iOS 11>16
+Name: NFCWriter XS VH(rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
 
 Package: vn.bvn.resentment
 Architecture: iphoneos-arm64
