@@ -13434,6 +13434,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
 Package: com.bvn.lynxrootless
 Architecture: iphoneos-arm64
+Version: 2.4.10
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.4.10_iphoneos-arm64.deb
+Size: 830906
+MD5sum: d584f7f3424fbebbf99411b3ec81c258
+SHA1: 8625de2080f69863b13dbf5a2d67acd789378797
+SHA256: 08482255a961a542cc97f04dc321b13b4dcffa6781b39821aeabf30c83510c17
+SHA512: 60bbe16659c073ec120ceb52504b269b7bd3cb9f0e0b088b256ce7271340541d2978d91b37fdc4eb2a7e687392519f86830abd5f29276d7b1368cf6208afb353
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Lynx 2 VH(Rootless)
+Author: MTAC
+
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
 Version: 2.4.4
 Section: Tweaks
 Maintainer: BVN
@@ -13776,6 +13795,26 @@ Author: Antoine <hanzikashi@gmail.com>
 Name: Senri VH(Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.settingswidgetsrl
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Filename: ./debs/com.bvn.settingswidgetsrl_1.2.3_iphoneos-arm64.deb
+Size: 191712
+MD5sum: eb14a36ab766ab0143fcd88469257a5b
+SHA1: 95a690492ea091fe54362552c085b34c2419681b
+SHA256: cb4fb30541d4f32a67fa7759ecf03062fb5d918c70bfdd21283022438a9dd7db
+SHA512: c6ab3b9f55066fe80957686dc11fc9b591b95e0d418f5d40a284c3e3942102c3ce0ae71e16f72d2327bc3dd9fe0c52231fa79147b6193e46555abb8521aa0228
+Description:  Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/SettingsWidgets/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsWidgets.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: shepgoba
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -14039,21 +14078,22 @@ Architecture: iphoneos-arm64
 Version: 15.0-beta-7
 Section: Utilities
 Maintainer: BVN Repo
-Installed-Size: 10084
+Installed-Size: 11136
 Pre-Depends: firmware (>=15.0)
 Depends: mobilesubstrate, com.iarrays.libiarrays.rootless (>= 1.0.16), com.bvn.iarrays-crack
 Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81, com.iarrays.CallLogPro8, com.iarrays.calllogpro.roothide
 Filename: ./debs/com.bvnrepo.calllogpro-rootless_15.0-beta-7_iphoneos-arm64.deb
-Size: 3932434
-MD5sum: 050ad5e07292a1b872b441cd06c7d85c
-SHA1: e225c40a63bd67cb9663191243b889bece75106e
-SHA256: 9e348980a4ea722b611e62b62f63dc33663b35a3a5320e0e57e9f06d036c1c7a
-SHA512: cf834c50d920e69e9982bc6ca5860dfa5d7898a12598cf41b27fa5d058bc96f096c6352aad605d02aa81ad7784e709aeac6026a84453464db35c332f68346288
-Description: Bây giờ có hỗ trợ iOS 16.x. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi hoặc tất cả.
-Name: CallLogPro VH(Rootless iOS15/16)
-Author: IArrays <contact@iarrays.com>
+Size: 4278792
+MD5sum: fac61e8b5d067f7bcff22ff9a5567381
+SHA1: 7dee1da25ddd51166b734c15a6b6213eb3d80629
+SHA256: a4352222ab86d2329d79652630968dce99d7e7c795a9c2c3057f98300028a981
+SHA512: 8ada37767b596630383ceb3ce02f3d98c8378854744013528d59140368ee3a2721b2ec456673bdf7f91a23baf0fca1d7b69c592948dde7e85543d4324f4b3a73
+Description: Hiện có hỗ trợ iOS 16.x. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi hoặc tất cả.
+Name: CallLogPro VH(Rootless iOS15/17)
 Depiction: http://bvnsupport.github.io/infodeb/CallLogPro+/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallLogPro+.json
+Author: IArrays <contact@iarrays.com>
+Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.bvnrepo.copylogrootless
