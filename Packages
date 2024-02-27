@@ -21629,6 +21629,26 @@ Name: Snail Crack(Rootless)
 Author: CBZ
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: vn.bvn.tinge-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
+Filename: ./debs/vn.bvn.tinge-rootless_1.0_iphoneos-arm64.deb
+Size: 34358
+MD5sum: 34681c544697cc57160dcb9e46440ebd
+SHA1: 81b759629e0ab93fc5d3eeb4947eea3639ed4c74
+SHA256: 260d42cce09f0e6fe11e6d63b12ac8f73805b96a905bd472384f071a9896c09e
+SHA512: 40ca380efb0231f1a39291571a83f0a31e526de6e60a72e03c2eea138df682f26248bcb5c5e737616e150966eb6658183c9bf903a5e2ad3d7ccee1837ff12c00
+Description: Thay đổi màu sắc của biểu tượng thông báo theo màu sắc của ứng dụng
+Name: Tinge VH(rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Author: P2KDev
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
 Version: 1.1.7
