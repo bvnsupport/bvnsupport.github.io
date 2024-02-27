@@ -12786,6 +12786,25 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara VH(Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.akara
+Architecture: iphoneos-arm64
+Version: 2.0.2R
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.bvn.akara_2.0.2R_iphoneos-arm64.deb
+Size: 728828
+MD5sum: 296e9b931c065e63a7537253743fb57b
+SHA1: 3389a5bb0d7cc27ec907261a0c56cbf7f954a397
+SHA256: ba7bbad652f2fc46ed7e65f61c181496fa3a1d02ce6abd41c1364c931955018c
+SHA512: 75aca32d002fd235b982188cdd0688b16216afca059f4c6bccd9db93a311ae206d5bcc7f13640f18c69b2a5f0feb3df924d97c5bcce885acf1b187c1989f41ad
+Description: Minimal design without compromise
+Depiction: http://bvnsupport.github.io/infodeb/akara/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/akara.json
+Author: Tr1Fecta & Kennyroo
+Name: Akara VH(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.alpine
 Architecture: iphoneos-arm
 Version: 1.2
