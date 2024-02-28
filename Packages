@@ -13777,6 +13777,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.safariblocker
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safariblocker_1.3.1_iphoneos-arm64.deb
+Size: 69600
+MD5sum: f055ec3b8c24b6a9f486f328acbdf31a
+SHA1: d24514b2e093b4cb62dd07f5162084ff76a54124
+SHA256: 5c7894a2cab99bce66e061310ef212f2675547a69d7c7062e010d79a9496c735
+SHA512: 4e1bdba4cbbfba9a1e9286e1090ba66e733b14b0f9cfd7863ae09c426cd53df816e6a274a16ce860907d7656781c1ceb48c4becc3f1e8db16a175e0693c7bfdb
+Description: Chặn các tab mới bằng các tùy chọn!
+Name: SafariBlocker VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariBlocker.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
+
 Package: com.bvn.safarix
 Architecture: iphoneos-arm64
 Version: 1.0.2
