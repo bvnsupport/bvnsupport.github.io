@@ -12707,6 +12707,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ITCBauhausR.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unknown
 
+Package: com.bvn.LS-16-Major
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS-16-Major_1.0_iphoneos-arm64.deb
+Size: 587804
+MD5sum: 4f96c2bef2d6ce251bab9092048185b0
+SHA1: 917494b57d25f609284c2b33723ba63d76ebbba7
+SHA256: c68afa90926a6511050b868522c67829fe342dd7c83b23364d00cbe1d3bcb729
+SHA512: 53825731ab96bbe587b51cb61212c1bd71c5f0ad658be6776e673051a1156da95505ab1c8979947166990ffb4e9babef18d89e556f9d6b7202b04f66a6e2cfc9
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS-16-Major
+Depiction: http://bvnsupport.github.io/infodeb/Html/LS-16-Major.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS-16-Major.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: p0s3id0n
+
 Package: com.bvn.LS-16-VN-p0s3id0n
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -12742,6 +12761,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/LS16-YangJiii_Arista.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS16-YangJiii_Arista.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Yangjiii
+
+Package: com.bvn.LS16-YangJiii-Gwyneth23
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS16-YangJiii-Gwyneth23_1.0_iphoneos-arm64.deb
+Size: 147324
+MD5sum: d479a22de0a69ee2b2e6a5af2535d2b1
+SHA1: bf965bc8bf7672cf2f85120aa40c710d71943dbc
+SHA256: 09cff8f908b13a8fe79943e35a4706dbaec3a9b9e39bf440e2c8cf9c4e87eeff
+SHA512: c77344f0af7069cdcf35b96855be9416e146f9eec173c2da11c04534b11c319c3bc065ea5f8db722bd8bedd365d4b77af77a3ef39772f37def1adaae7a9d18e7
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS16-YangJiii_Gwyneth23
+Depiction: http://bvnsupport.github.io/infodeb/Html/YangJiii_Gwyneth23.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YangJiii_Gwyneth23.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: YangJiii
 
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64
