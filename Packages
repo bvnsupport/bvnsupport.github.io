@@ -12707,6 +12707,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ITCBauhausR.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unknown
 
+Package: com.bvn.LS-16-Constance
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS-16-Constance_1.0_iphoneos-arm64.deb
+Size: 144374
+MD5sum: 8900138324e5dbac83091fcb7d17b1f9
+SHA1: 0601280cc75a6631f33e0f3f396cbef02192641b
+SHA256: f375824b7892b2de977aec6a99ca4cd093cc25b0c859b9b49674dd086388c5ca
+SHA512: 9d8a27aa4b9bdb03a64f837b8345035f2e4ea25ff6ec1b778de3d651aa9e69459a7518227c9de2d4fd952ff0079eeadb50a943e345b2bd84eec119cdb9ed93a2
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS-16-Constance
+Depiction: http://bvnsupport.github.io/infodeb/Html/LS-16-Constance.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS-16-Constance.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: p0s3id0n
+
 Package: com.bvn.LS-16-Major
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -12743,6 +12762,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/LS-16-VN-p0s3id0n.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS-16-VN-p0s3id0n.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: p0s3id0n
+
+Package: com.bvn.LS16-Kringle
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS16-Kringle_1.0_iphoneos-arm64.deb
+Size: 42814
+MD5sum: 12f7a88134b0b376e86b858db5b96c17
+SHA1: d71c967351e2fe5eec66f9ac4ad58a845d48bfdc
+SHA256: 21fe3c523a8d11543d820fafc06fa5da2a804a9942a096c634991ad2dfa7163e
+SHA512: c4e2f2094b4c2a5d14b1e5526f42a638b5d60ed15942b88ac7ff6991c38c54b2cf46ff41b7e8b9918e042e9e6db23c3c7bfb342e973eddc810b4af7a61f95479
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS16-Kringle
+Depiction: http://bvnsupport.github.io/infodeb/Html/LS16-Kringle.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS16-Kringle.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Phuc Do
 
 Package: com.bvn.LS16-YangJiii-Arista
 Architecture: iphoneos-arm64
