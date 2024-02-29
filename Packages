@@ -16725,6 +16725,27 @@ Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.pullover-rootless
+Architecture: iphoneos-arm64
+Version: 2.1.5
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3376
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootless_2.1.5_iphoneos-arm64.deb
+Size: 792324
+MD5sum: b87c73dbbcbf80b7776021f69563d72b
+SHA1: e4c4e0a48d8f7e6475322d557558f611231f82ec
+SHA256: 3b4099a1abf1fa87468e642f8697a51ea7c6f250f6f1e4cc83b10ae71ce948e3
+SHA512: 2e892f61dc1e482f43508f5006eebb6a90a4d66c2a56989ad6bfe7093399f82d711ccb6f3544799699f5d2b2fdef28000ea591a49443b3c19882e3d08ce7059e
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
+Name: PullOver Pro VH(Rootless iOS 15/16)
+Author: c1d3r
+Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.satella-rootless
 Architecture: iphoneos-arm64
 Version: 1.8.0
