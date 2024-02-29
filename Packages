@@ -12726,6 +12726,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS-16-Constance.jso
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: p0s3id0n
 
+Package: com.bvn.LS-16-Linear
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS-16-Linear_1.0_iphoneos-arm64.deb
+Size: 149984
+MD5sum: cd0348489e3a88c689663f97ec746dfd
+SHA1: 38700b2be90eb9174cd0875744a4fe431762d5a5
+SHA256: 14c70bb4fb514d857bbfffa188e38e0f10cb821833ff628d4782d190eabd4881
+SHA512: 9a8444d3debe8f7c1bf637b31328662f8266f36a7183b708a981b9a0fe5173028996f1af60e33186d007cb9e2258f004f52ce9827d263d9ec115277fa6fa78b6
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS-16-Linear
+Depiction: http://bvnsupport.github.io/infodeb/Html/LS-16-Linear.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS-16-Linear.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: p0s3id0n
+
 Package: com.bvn.LS-16-Major
 Architecture: iphoneos-arm64
 Version: 1.0
