@@ -16641,6 +16641,28 @@ Depiction: https://support-jailbreak.github.io/depictions/IconRotation.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/IconRotation.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.pullover-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.5-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3376
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro, cn.Bswbw.fixset
+Filename: ./debs/com.reoobvn.pullover-roothide_2.1.5-2_iphoneos-arm64e.deb
+Size: 1875134
+MD5sum: 50182fd6ab03bbd87936763a2c41e831
+SHA1: 3978df3a5ff68810b4ac85e53c05ab7c37ddf76d
+SHA256: 1d8277a3bde587e5f426fcc6d7536f7e38171c388df55a9f997fd252d498c1a1
+SHA512: e80f7782bbb6b1f431836a9c5f4aa98356ced3b2a138df36e7c878a2a2a8ce241fa66d555e8b5e87e7372007950257a7ca922ed24e139f144cddc772bfff4814
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
+Name: PullOver Pro VH(Roothide iOS 15/16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.pullover-rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2
