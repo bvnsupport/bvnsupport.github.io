@@ -16748,6 +16748,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reoobvn.pullover-rootless
 Architecture: iphoneos-arm64
+Version: 2.1.5-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3376
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootless_2.1.5-2_iphoneos-arm64.deb
+Size: 928300
+MD5sum: 7e7c9c68d39825bae3d0fc68c8cd540f
+SHA1: 3972df2183724cf287dbff58b292077718f4bdef
+SHA256: 2944d07f8bddcc070cc06f02d3bf94852c9762bfd64546a4dcbb3ca73c3278df
+SHA512: 0ebb4c22f12b23150e59c4dd19aeff2067c943d0a5de82d6f0409d6b83750437bccb882bed9f64411192e79379b0673c30b0bb216e2c8aa88b9a31ea0d89c175
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
+Name: PullOver Pro VH(Rootless iOS 15/16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.pullover-rootless
+Architecture: iphoneos-arm64
 Version: 2.1.5
 Section: Tweaks
 Maintainer: Repo BVN
