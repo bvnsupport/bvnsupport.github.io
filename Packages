@@ -13946,6 +13946,25 @@ Name: SafariX(Rootless)
 Author: 0xkuj
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.safarix
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.safarix_1.1.0_iphoneos-arm64.deb
+Size: 216522
+MD5sum: c0a7db7589a90b116bb1d75f738433e8
+SHA1: bc1077deda5c5f39eff04c6a5f3c261bbb48c754
+SHA256: 20187f6d8baebe665711f07cbbe552ebed4afec46ec6c5dfb95e49a38aa6108e
+SHA512: 03f9545af5800701370eedf5d51dc46a002685db33caba04f71d2bf8a036bde2468eb9eaa70f47e214befbc3b911b0f46775e386bf70fdac31d835318db4f565
+Description: Thêm 1 số tiện ích cho Safari
+ - Add some utilities for Safari
+Name: SafariX(Rootless)
+Author: 0xkuj
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm
 Version: 1.1
