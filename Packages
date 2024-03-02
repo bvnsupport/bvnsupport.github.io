@@ -13583,6 +13583,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 160
+Depends: mobilesubstrate, oldabi, xyz.cypwn.xinam1ne
+Filename: ./debs/com.bvn.lunartime_1.0.1_iphoneos-arm64.deb
+Size: 11770
+MD5sum: 1a8ec3f36c001aa6fd8dbfd4fb4cbcda
+SHA1: 1c779c9441679d58b152668090c0b603305defb3
+SHA256: e00a1a89b050e842440e66be2520d9d36c3b34656b4bdf5c0e8ad83109e0f6b9
+SHA512: b22998dd8ce2ce66b53eaccf0783e78cb6b2f2eeda4f9c8825cb94b5c0729ec69d5fcfe13220c464a979392a429fd45cd8d22febdddc573c424e586d053303de
+Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
+Tag: purpose::extension
+Name: LunarTime X(Rootless)
+Author: NQT1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
+Package: com.bvn.lunartime
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
