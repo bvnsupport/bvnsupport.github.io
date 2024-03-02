@@ -13587,13 +13587,13 @@ Version: 1.0.1
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 160
-Depends: mobilesubstrate, oldabi, xyz.cypwn.xinam1ne
+Depends: mobilesubstrate, oldabi
 Filename: ./debs/com.bvn.lunartime_1.0.1_iphoneos-arm64.deb
-Size: 11770
-MD5sum: 1a8ec3f36c001aa6fd8dbfd4fb4cbcda
-SHA1: 1c779c9441679d58b152668090c0b603305defb3
-SHA256: e00a1a89b050e842440e66be2520d9d36c3b34656b4bdf5c0e8ad83109e0f6b9
-SHA512: b22998dd8ce2ce66b53eaccf0783e78cb6b2f2eeda4f9c8825cb94b5c0729ec69d5fcfe13220c464a979392a429fd45cd8d22febdddc573c424e586d053303de
+Size: 11756
+MD5sum: 64762b39cada88daf69a9f1354450586
+SHA1: 8a31eea1723ce8f2d666798c8b771200199dd9df
+SHA256: 5789b116288d3d3980cfff56d5de94e16835905fe8af78dc301b34f9b98307ba
+SHA512: c9a15bd9922913383f28b874f661108a20e4c68194ddc2a233ff5184bb4429b8af991efce905d5e1f86c41731f2e09c31bd6ef83c78379e7d441f9d58a9ba2ce
 Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
 Tag: purpose::extension
 Name: LunarTime X(Rootless)
@@ -16235,6 +16235,24 @@ Author: opa334
 Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStore.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStore.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.p2kdev.deleteforeverxs
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.deleteforeverxs_1.1_iphoneos-arm64.deb
+Size: 10000
+MD5sum: 996a5f77efd1191996d685458a22210b
+SHA1: 8bad4ef7389c6bacea4ab2943c80a3bf5d7a9613
+SHA256: f8d3464b5f91756a6deffdd4b5dbd767bb0e8b4bf52f28ff8da94d8758c16c63
+SHA512: 37c910d06a3b99b1fba5de56841b9e6f0596c4c49ee1bc2347313098e0325022868e2e7b6f282c19db64569f8ae375eaaccc827d8f8d968e8db6e79ba8bc2daf
+Description: Xoá ảnh hoàn toàn,không cần phải vào mục đã xoá để xoá
+Name: DeleteForeverXS (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: P2KDev <p2kdev@gmail.com>
 
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
