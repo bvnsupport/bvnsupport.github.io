@@ -22207,6 +22207,25 @@ Name: Xinam1ne All-in-one
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.5-7R
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.5-7R_iphoneos-arm64.deb
+Size: 122408
+MD5sum: 76a7006c408802d1715a4b40637b3ed5
+SHA1: 6ed3ca29377f21f9b026811b1ad8c306791ec633
+SHA256: a761d6378bdd624d95a5d6a17ee6693b0caa1a59cccb37892f85141099ed8ade
+SHA512: 9437b917adca132022bf73c8c526c5cac2e2ae3f8186a4b0c36c363abf876462a37d78ca0e48b23fd0fc0076aa310f3881589b8930f3354fe25d76644ad7f1d2
+Description: Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
+Name: Xinam1ne All-in-One
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
 Version: 1.1.29
