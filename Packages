@@ -18359,6 +18359,26 @@ Name: SnowBoard Preset Extension
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm64
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Provides: com.spark.snowboard.respringextension (= 1.0.7~Beta3)
+Depends: mobilesubstrate, com.spark.snowboard | com.repobvn.snowboard-rootless, xyz.cypwn.xinam1ne
+Conflicts: xyz.cypwn.snowboardrespringextension
+Filename: ./debs/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 79636
+MD5sum: b560fcfab6c7353378ab131605ee2609
+SHA1: 4786fd221f12b0cae883b22165cc7fc42307ef44
+SHA256: 7d9518bf7ff31071d8d315b7c344bb2253d921ac8e7dd7861e98cdf640586566
+SHA512: 6fb2756d2aede481ae1930099fd709ccf8a7310182eef2275d1c8650e6eb2d8bee2c1c8045256b381736ace370628cb84feeec6659c0cfa433c0423abc8ec222
+Description: Respring icon extension for SnowBoard
+Name: SnowBoard Respring Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm64
 Version: 1.0.26~Beta3-rootless
