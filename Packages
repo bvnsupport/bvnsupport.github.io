@@ -13929,6 +13929,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.remini
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.remini_0.0.1_iphoneos-arm.deb
+Size: 15094
+MD5sum: bcd6e762fcca8c10e2f544206b21215d
+SHA1: 29c4e7e507a865dca2c4233b39d2dc1a7a1180ad
+SHA256: 99c5ab06d77946ddcc3a9764f9f847318f7590377e2a2ef2d6bdd120964d374f
+SHA512: e9565f62a9dd4ec560b64fee000536c7919cbec0f099beb76bf2b2df3b5fa8a324ba252a67776da3e4df7a30dce14b2e10d5c92299fe9a39894b34de9a2470e0
+Description: Remini Pro
+Author: Lãng Khách
+Name: Remini Pro
+Depiction: http://bvnsupport.github.io/infodeb/Html/Remini.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remini.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.remini
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.remini_0.0.1_iphoneos-arm64.deb
+Size: 15192
+MD5sum: 68ff6ba37b8d147f2bf4a691a4196821
+SHA1: 3294fec19c2e33901f875e0a94ea8bed36e3792f
+SHA256: 18b88aa31b33d8531fe40661a20059b4b5d6c5f7e2379a58bd37dc60c43bfef3
+SHA512: d1f58e57f2c0820d7af26793d12afb0e149af887115d5e01b4dc68137a911d6f188391639900658f990d45e8651ae3fd0d55652a328bc6925f6e2a82e3f3028e
+Description: Remini Pro
+Author: Lãng Khách
+Depiction: http://bvnsupport.github.io/infodeb/Html/Remini.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remini.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Remini Pro(Rootless)
+
 Package: com.bvn.safariblocker
 Architecture: iphoneos-arm64
 Version: 1.3.1
