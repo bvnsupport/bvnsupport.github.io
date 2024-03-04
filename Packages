@@ -22033,16 +22033,16 @@ Maintainer: Bvn Repo
 Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, firmware (>= 14.0)
 Filename: ./debs/vn.bvn.siriplus_1.0_iphoneos-arm64.deb
 Size: 258456
-MD5sum: 0b19034394822f86ad96ff8ff220ff6e
-SHA1: 85c30842697804f5c3d1493c4d706ed962826b19
-SHA256: 5ce48a0de7f9a1f969e7c063150ca9beacd57444e4d571a4d730456c3dfeca49
-SHA512: 9176d49792f7cdc00e868262f26dfe283225fc567e3fd5d5b4841055508f449668644916a71d71b9f38a5b4f9d9ff5e9295326943e58705303ea7dc2af740f27
+MD5sum: 9b04812d1993dab2177daacf25c0b2ce
+SHA1: 5d249ecebb43547e95b2d8cb34fa4e472913332d
+SHA256: 8e02bbeff48aceebf03f067d392e36069c86ec5c7cd62fd294253cce754e1551
+SHA512: 5cf6700d86a016897420fc435e78ba187372342860594c769a5330eae95d43aabff570083b2eae35a1676478a31c189c13512a0bcc8ba7fee8d2041fe940eb21
 Description: Thay thế Siri bằng ChatGPT/Gemini
 Depiction: http://bvnsupport.github.io/infodeb/Html/siriplus.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/siriplus.json
 Name: SiriPlus (Rootless)
 Author: Uckermark
- Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.snail-crack
 Architecture: iphoneos-arm64
