@@ -10503,25 +10503,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 
-Package: com.Bvnrepo.dockx
-Architecture: iphoneos-arm64
-Version: 2.4.7-2
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 1580
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debs/com.Bvnrepo.dockx_2.4.7-2_iphoneos-arm64.deb
-Size: 514806
-MD5sum: 054811b20265d231b50e7a4680fe9e56
-SHA1: 1470411aad14bca72e7d67cb27747ba2d85703e1
-SHA256: 859fb50fde71cf6cda230439659ed2dc63786098d661730dbefedcf57127f0c8
-SHA512: 4ec00085b35b645f03ed544636ef88a7ad667306392b16e2d6b6f3218e825bf37228e36616ef3bb4bc130ef9e29b6ea69f2530ebfd052612159343edc0fc09c9
-Description: Phím tắt bảng trên dock bàn phím của bạn!
-Name: DockX VH(Rootless)
-Author: udevs
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.Bvnsupport-Yt.cercube
 Architecture: iphoneos-arm
 Version: 5.2.10
@@ -20294,6 +20275,26 @@ Author: TTJB Team <admin@thuthuatjb.com>
 Name: HideJB
 dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1604
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.1_iphoneos-arm64.deb
+Size: 520902
+MD5sum: ca26f157294226b3f4c80e51370b256d
+SHA1: f4f5bce8589e27b419e770a2b15dc8719ffc3cc8
+SHA256: 7c645e1e2d02f31e9359ffc2ed174cf0a72e6c5fd8e7e64f6f4bdc972be8ffa4
+SHA512: dbea32754b51778583dcd8106113cd03baa2a7862ef5c0eb7d5cf796851527972ddbb5aae0061c88fc88484935cbc63f62a2989adf575b4b542a0ef39e4e165a
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX (Rootless)
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
 Package: com.udevs.vexillarius
 Architecture: iphoneos-arm
