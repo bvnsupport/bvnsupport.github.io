@@ -13203,13 +13203,13 @@ Architecture: iphoneos-arm64
 Version: 2.1-2
 Section: Tweaks
 Maintainer: Bvn Repo
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.itznebbs.phoenix, xyz.cypwn.nebbs
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
 Filename: ./debs/com.bvn.deb
-Size: 3901256
-MD5sum: 4d50dba57c8d746451a90148ce23aca3
-SHA1: cdd6745d704f04c0c1aef3532ed0ead39da84226
-SHA256: 6f85028cac87cfa9095743d7c8cf5b4086c1330278c23dc34fc42fed681c6b89
-SHA512: 74939175bc95bf40dfa17abca8e2168cee7d766f4f351612ce768dd04daf077342b02a52c6f428d6de425a33ff69fa50d8abb53a2b5de21e9c676d121d6645ba
+Size: 3901232
+MD5sum: 9a7a0aba8237cc2d8f0ad5fbac5db687
+SHA1: 081b23b1f18f8a0687451f339946792e6537b96b
+SHA256: da66ba0d176ee1071dc990f564950c8c0ce5ce53bc4fab2a0fb5a1836d36edb0
+SHA512: 2b8e4391816f94cda9520d0989445b5e2b3e94affc8fad198671bdd2bdf4efcaee7d9a75d8db0d1a413154e25ea463d4ae1b67d8637c0431ead25beca702eff4
 Description: Tinh chỉnh tốt nhất cho Facebook!
 Depiction: http://bvnsupport.github.io/infodeb/Wolf/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wolf.json
