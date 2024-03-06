@@ -14249,6 +14249,29 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.wolf
+Architecture: iphoneos-arm64
+Version: 2.1-2
+Priority: optional
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/com.bvn.wolf.deb
+Size: 3901280
+MD5sum: d4613e06542c899c8b094df7207b64ca
+SHA1: 60aa95981f0a1ba0d30b09dc9fc038ef9a818cbe
+SHA256: 3a87360c68fba94319ec588f9d80c7fdc696fd24e7a61df96aec3a851e7916f3
+SHA512: 503795054a13047fdee0b889f94066a4a146e284109c72b28afce03fb9c264729a563e34e77e0f3edb4bdc7f3c755103884e892c028a8e8155e78da7804bdd85
+Description: Tinh chỉnh tất cả trong một dành cho Facebook
+Tag: purpose::extension
+Name: Facebook Wolf (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Wolf/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wolf.json
+Author: Michael Lema <samewhitetee@gmail.com>
+dev: lema
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvnrepo.Coolwcat
 Architecture: iphoneos-arm
 Version: 1.7
