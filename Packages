@@ -12693,6 +12693,46 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 428
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_2.0.4_iphoneos-arm.deb
+Size: 79236
+MD5sum: 4c2d214cc3b0b5527b5462939053f426
+SHA1: d6128ef470bcd01c5760e00965e4b53ee10e9dff
+SHA256: 8405e76a68b4fdcd9c375bf331547e70cd0c422bc6ce0f96f808df6896cedd4b
+SHA512: 9764096d2179afdb91ecfe6441fdd3054648070aa868332b0f549a228c90067454396dfdec2c644264486662a63bcf880298745686da3e853d69e58d782bbab2
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Name: 3DAppVersionSpoofer VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 440
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_2.0.4_iphoneos-arm64.deb
+Size: 78582
+MD5sum: 8e4ee14f4490c89b33f40989144216f2
+SHA1: e463bb4867615ddd25c5c8cdf062f45e71bbcdf7
+SHA256: d3d8b9fea187448613fc078b462f867931ac9d65accae431a1ef887361cc452b
+SHA512: 6bf5226c7f1c6c39a59026dfaaf0f10b3a418edefd69fd90371c65685a3169edd53331f798a71deb6ac3bac584fa5a14c489a6cc9d08ff55e1e4a1178e767cd4
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Name: 3DAppVersionSpoofer VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.Christmas
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -14064,6 +14104,44 @@ SHA256: 20187f6d8baebe665711f07cbbe552ebed4afec46ec6c5dfb95e49a38aa6108e
 SHA512: 03f9545af5800701370eedf5d51dc46a002685db33caba04f71d2bf8a036bde2468eb9eaa70f47e214befbc3b911b0f46775e386bf70fdac31d835318db4f565
 Description: Thêm 1 số tiện ích cho Safari
  - Add some utilities for Safari
+Name: SafariX(Rootless)
+Author: 0xkuj
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.safarix
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix_1.1.1_iphoneos-arm.deb
+Size: 312508
+MD5sum: 279cf072712269d834a08bc56ca4676d
+SHA1: 53ece443da2fc308be73b088dc2a9172773b383d
+SHA256: 86b40bd8816b3ec4c94f4df61a5edf964281c76b15f3ba2cda1cae552074697c
+SHA512: 6ee44d8acc6acc1dc692b9e0adfac34123f080c373f48314bf3396644dd2898fb7e678505e089415b1e8bbd67139c7a1d345ff68fb361cb85dd524a70e9cf885
+Description: Thêm 1 số tiện ích cho Safari
+ - Add some utilities to Safari
+Name: SafariX
+Author: 0xkuj
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.safarix
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix_1.1.1_iphoneos-arm64.deb
+Size: 217122
+MD5sum: 2b5b11825874c1f00c790a05bed2d82d
+SHA1: 234e274d3157482ca21481055e42a95435df084c
+SHA256: 991f329208a0124daa955888dd83cfabd16b81795c245d8e8ac85e6f8c58e3cf
+SHA512: a524c31e5486003ebb70c37dee395afebc05515d2c6f4d0832aa3497b924c5a30d9ee311862cabc074c4c420c8d049dbae9978bf888dd37f986e3bbd8ca11f06
+Description: Thêm 1 số tiện ích cho Safari
+ - Add some utilities to Safari
 Name: SafariX(Rootless)
 Author: 0xkuj
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
