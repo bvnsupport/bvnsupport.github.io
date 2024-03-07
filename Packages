@@ -16649,6 +16649,26 @@ Author: opa334 <opa334@protonmail.com>
 
 Package: com.reobvn.choicy
 Architecture: iphoneos-arm64
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.reobvn.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 169270
+MD5sum: 5e2106392e8a27d17235ff6a6ef32cde
+SHA1: 6a1587846ef73f908b4f6262bdfe9735e99f0567
+SHA256: b50b9ab11ecd34270cf83ad3b3fdaeb4d8ed077527544e420ecfce5905da5993
+SHA512: ab925470deac3834a22b836a9ac9286fcc47d23cd150e2e02256da81f47b24f82fdbf6144c258d66f1d66bd2e4d313200e63e81788c8fd71598ad8ffb1619434
+Description: Advanced Tweak Configuration!
+Name: Choicy (Rootless)
+Depiction: http://bvnaupport.github.io/infodeb/Choicy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
 Version: 1.4.7-3
 Section: Tweaks
 Maintainer: Repo BVN <opa334@protonmail.com>
@@ -19015,6 +19035,26 @@ Description: Ẩn Jailbreak cho ứng dụng của bạn
 Name: Choicy VH
 Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Choicy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.supportjailbreak.choicyvn
+Architecture: iphoneos-arm
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1092
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.supportjailbreak.choicyvn_1.4.10-3_iphoneos-arm.deb
+Size: 261692
+MD5sum: 8498224e06c8a4b52a2136582d7e8257
+SHA1: a03e62052f4cce0e99c77875c7ec24205ec6b033
+SHA256: d0d54330af6df9b0efe021e988f2f8598188eb40e3cb94ebedb71ce82850cebd
+SHA512: 79ace3a3da6ddabf44d43d2d1da32f5619205368d7635b582e9f09bbcdd4ad08b959a022770ea764da55413911dd53a24227bb1b1b1e785ce6d4cb861f265afa
+Description: Advanced Tweak Configuration!
+Name: Choicy VH
+Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
