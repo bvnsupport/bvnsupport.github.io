@@ -11018,6 +11018,27 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=i
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 MainLibMD5: fdda9ac703fe7db3eee090148344cb7c
 
+Package: com.REPOCYDIABVN.dynamicpeninsula
+Architecture: iphoneos-arm
+Version: 0.6-80
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubs
+Filename: ./debs/com.REPOCYDIABVN.dynamicpeninsula_0.6-80_iphoneos-arm.deb
+Size: 515260
+MD5sum: b37124fce90169cf4f8154f76bd9b448
+SHA1: 4e26d1771429d3597bb5791859411b08d0cd0e24
+SHA256: 21456a1923e1726e884753d6c4c74b241ee17b35d5b0e99f277c5a8f541588f7
+SHA512: 6f987c7ffecbce3ab2026b244dcb62ca0da5e67a7a177b35d0c03a9796ada7261887fbd508b1b4ff15e389f92fad988d6a356e487d24c92fd1c079b84da32c28
+Description: Dynamic Island on your notch
+Name: DynamicPeninsula VH
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula/?p=info
+SileoDepiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+MainLibMD5: 2c6b794b51a7e5fcced0329b7dfb7150
+
 Package: com.REPOCYDIABVN.fakepass
 Architecture: iphoneos-arm
 Version: 0.1.0-11+debug
@@ -21541,6 +21562,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/bioprotectxs
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 4f1110aadbd864aa76fe9e6be32ac34d
+
+Package: net.repobvn.bioprotectxs-rootless
+Architecture: iphoneos-arm64
+Version: 4.6-35
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 2232
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneos-crack
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.bioprotectxs-rootless_4.6-35_iphoneos-arm64.deb
+Size: 798526
+MD5sum: 4d97280ec5c39c8dac83af51959dbc20
+SHA1: 1f4066eedf3392d1a21e7defb502a86739518dca
+SHA256: f1b4092b76fec8cbc1db68421f696fe92a3a9b408a338de7668f8d33f4d68ed8
+SHA512: 186cb8ba7d00e8ba19518d76aff2a4f8f2cd8e8d64b0389a62c6ed0aef3e8593c6107a003fdc1c2bbf6576787abb613dcdbdd73fa0e60aeb0a123a7c0a41fb22
+Description: Bảo vệ ứng dụng của bạn bằng Touch/Face ID!
+Name: BioProtect VH(Rootless iOS 14/17)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 7bdaf787e1c074a02a711ece6529702b
 
 Package: net.repobvn.smarttapx-rootless
 Architecture: iphoneos-arm64
