@@ -3606,14 +3606,14 @@ Version: 0.0.3-beta
 Section: Tweaks
 Maintainer: Repo Cydia BVN
 Installed-Size: 488
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, oldabi | oldabi-stub
 Conflicts: com.ryannair05.cylinder
 Filename: ./debs/com.BIENVANNHAT.cylinderremade_0.0.3-beta_iphoneos-arm64.deb
-Size: 131354
-MD5sum: 59bf14b0de2cdbc2bd1a87f76962bfd1
-SHA1: dd66ca182295c9b423f77e81c473497d5866e2dd
-SHA256: 7109e61361dfa562b4b2360f1db887b5bb2ce6c5320aa6d2c82decbcde493f7a
-SHA512: 2660b7db0c83c37e477fca8c1a4d2b20ff85bcd076a6be44695c641ae2140890f615b283860d7803d980a75f71514a3e6a8fce8efdbf232948fba1291b913019
+Size: 131356
+MD5sum: 265ec058005aeac37ee02f8fc889a9d9
+SHA1: ebc2dd9a5b6247f4fcb41e71bbff016b02378903
+SHA256: fb0d6dece7ad83b1f3d31ebbb3ebbf53232cb57950296a96ec52c20117821191
+SHA512: 426c1ae284a3f309943a758c1194eb60d76c73d74ad231a58a8e1854e426c0b74f307f822bf749aa1a21502aec40fb5650b33f688a3084c57476efe04a70814a
 Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 15.4.1
 Name: Cylinder Remade (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -11642,6 +11642,27 @@ Name: VideoAdsSpeed VH(Rootless)
 dev: lenglengyu
 Depiction: http://bvnsupport.github.io/infodeb/VideoAdsSpeed/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideoAdsSpeed.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bienvannhat.aim
+Architecture: iphoneos-arm64
+Version: 1.3-1
+Section: Tweaks
+Maintainer: BIEN VAN NHAT <bienvannhat97@gmail.com>
+Installed-Size: 4904
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, com.bienvannhat.iconreporootless, oldabi | oldabi-stub
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aimpro, com.icraze.nexus, com.bienvannhat.aimprorooess
+Filename: ./debs/com.bienvannhat.aim_1.3-1_iphoneos-arm64.deb
+Size: 2779498
+MD5sum: 0093f7272b70b3db4310c2514b14c070
+SHA1: 95058eb3a375729622dfccaa20755d8d2b546f55
+SHA256: a4bdf8c91409dc3de143937cd1385a05def31e3717d84a753aa25b6a177d0120
+SHA512: b6dfed8249402d92b0935065b2c6e1943091878578ae0d749b1cac1bcdb89b5eaa1d7d05274868c9b9934394321a5c7f8419e9690afbdd9adad5689b98312c59
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM VH (Rootless)
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/aim/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aim.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bienvannhat.aim
@@ -21711,6 +21732,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: oldabi-stub
+Architecture: iphoneos-arm64
+Version: 0.3
+Section: System
+Maintainer: alexia <me@alexia.lol>
+Installed-Size: 0
+Provides: oldabi (= 0.3)
+Filename: ./debs/oldabi-stub_0.3_iphoneos-arm64.deb
+Size: 758
+MD5sum: 194bbfe7189d80a011d8b5daeefe06fc
+SHA1: 0df24d0c3c3d5cab6069c9e92da13ed76c9393f6
+SHA256: 6b40a5aeaf827ac8b702c026834a379e1a9225b31788a9995390ff43055905d1
+SHA512: f73510d491213b6b80f6cccd3e68870b33ab93f0202f75ff4e8363d9bfee8cf67e8f6f361874971186f002149c5275ba856ebdf681cb8bd22253999312ffa64f
+Description: oldabi stub for arm64
+ .
+ This package does nothing, it just provides a stub for oldabi on arm64 to be able to install tweaks with broken dependencies.
+Tag: role::hacker
+Name: oldabi-stub
+Author: alexia <me@alexia.lol>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: oldabi
 Architecture: iphoneos-arm64
