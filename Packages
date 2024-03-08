@@ -4740,33 +4740,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
-Version: 1.4.2
+Version: 1.4.3
 Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0)
+Maintainer: BVN
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0), emt.paisseon.xinamine
+Conflicts: com.p2kdev.facebooknoads
 Filename: ./debs/com.BIENVANNHAT.facebooknoads.deb
-Size: 276362
-MD5sum: 34370547c0ee31d6f7a875d5b38eac08
-SHA1: 54b262a97a46a0955057504b93ef80d85890d170
-SHA256: 8366ef0723c9f9659647c1e0d7e4ba0c68eb4a27a0f7d9d2911ee77859b30b15
-SHA512: cd63dce914ed967e26bcc954f962cf128385fa5c7ea9c59712dae669d73164aec44be1e1cccc18782ed4173bd5306d537cbf78aa7c12108ccacbb1d53b7e341a
-Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
- Tính Năng:
- - Loại bỏ các quảng cáo
- - Có thể tải xuống video (nhấn lâu để tải xuống)
- - có thể tải câu chuyện
- - chỉ có thể tôi hình ảnh hồ sơ
- - Vô hiệu hóa truyện nhìn (xem câu chuyện của bạn bè mà không cho họ biết)
- - Ẩn nhà soạn nhạc trên nguồn cấp dữ liệu tin tức
- - Ẩn câu chuyện về nguồn cấp dữ liệu tin tức
- - Hỗ trợ iOS 12-14
- - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+Size: 276620
+MD5sum: b54308deb528f8d6c61d0f47eb3bbeef
+SHA1: 8312034b6f69a5c55793c3c338bcdf2255fbc1e2
+SHA256: 98c9755aa9c334283084c0e63e20de732e23cc854a8deaff633645f1751db45c
+SHA512: e2cc1dc07aa5f9070c6085adf5367f6d5e70cb0ffd41f824386f3424125869616046b7c93ad6cdd57a81090810684db7474c4e123e2c987289a7d094c8f3d86a
+Description: Không có quảng cáo trong ứng dụng Facebook!
 Name: Facebook No Ads (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Hao Nguyen
+Author: Haoict
 
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
