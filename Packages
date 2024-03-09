@@ -12973,6 +12973,26 @@ Name: Airaw VH(Rootless)
 Author: Dcsyhi
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.airpodscompanion
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1060
+Depends: preferenceloader
+Filename: ./debs/com.bvn.airpodscompanion_1.1_iphoneos-arm64.deb
+Size: 511514
+MD5sum: 6f544c465a2047d6f73586adca42e156
+SHA1: e75693cd0376c20ef1534dbc1172e24e15d38be7
+SHA256: daba3bf29b5d757a339d08557299edfdb96b9f2a4a3a23d8b7ff05f1af51ea2b
+SHA512: 355f67563f6e9d2138f49e043e39a5b7c866cb0830baf7972298953debfe9a65ebcfe33d9b04334b9554a9da95d9d4f9a82bdbec69a1d35f17d9b5851662ecb9
+Description: Điều khiển Khử tiếng ồn nổi bên cạnh thanh trượt âm lượng
+Depiction: http://bvnsupport.github.io/infodeb/Html/AirpodsCompanion.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirpodsCompanion.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ethan Whited
+Name: AirpodsCompanion VH(Rootless)
+
 Package: com.bvn.akara
 Architecture: iphoneos-arm64
 Version: 2.0.0
@@ -16784,14 +16804,14 @@ Maintainer: Bvn Repo
 Installed-Size: 884
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Filename: ./debs/com.reobvn.choicy_1.4.10-3_iphoneos-arm64.deb
-Size: 169270
-MD5sum: 5e2106392e8a27d17235ff6a6ef32cde
-SHA1: 6a1587846ef73f908b4f6262bdfe9735e99f0567
-SHA256: b50b9ab11ecd34270cf83ad3b3fdaeb4d8ed077527544e420ecfce5905da5993
-SHA512: ab925470deac3834a22b836a9ac9286fcc47d23cd150e2e02256da81f47b24f82fdbf6144c258d66f1d66bd2e4d313200e63e81788c8fd71598ad8ffb1619434
+Size: 169268
+MD5sum: 79ba2470f4df35693ae478185331510a
+SHA1: fc66c4bd26d3d90ec81e60b2ff83892e8b0db208
+SHA256: 15af7ef24abc30dd189bc4f448ae7561ef975179e27802267b0cd5b3b0e9ac22
+SHA512: 75347c0d07274b2c856a3bbddfd6cd2f25b5953ccd83d6d31c1f8bf5f14e9e122a24b2193dbaa39f7ae975bafb7edcc3d9be02b19846766cfe15b5d10457aabd
 Description: Advanced Tweak Configuration!
 Name: Choicy (Rootless)
-Depiction: http://bvnaupport.github.io/infodeb/Choicy/?p=info
+Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
