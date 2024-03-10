@@ -10150,6 +10150,26 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.6.2_iphoneos-arm.deb
+Size: 5054
+MD5sum: 3517053cc8d50da23701d2ed16ddd479
+SHA1: b590d1cb2f2baa59208f4ba9c03806598526c825
+SHA256: dd3ae7441f5c00e7778f93fd085c4c4ec9d00f9448e968a72eef970637ec2d78
+SHA512: efe76cd911347f668fb97b103caf6096f066986a1a3a48ef22eb88ff56e9d791d6addcfac4b5baec427532a0ae8c41b46547094f8d487107585bd4b03ef561d3
+Description: Chặn QC cho ứng dụng Youtube.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.zephyr
 Architecture: iphoneos-arm
 Version: 1.6.4-1
@@ -18206,26 +18226,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.ytx
 Architecture: iphoneos-arm64
-Version: 1.4.2
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.4.2_iphoneos-arm64.deb
-Size: 4606
-MD5sum: c315ff63117362a1fcfefefb152f20f8
-SHA1: 64fa9b2193ae43d7d2b86a372066fa75dabb60a5
-SHA256: 7feae5f2dc71c8fefb497d231bf010ffd0091fe41356abaf6f087a577421b20f
-SHA512: 70db80c51a47f63ddf195befa991224dd03fcfc3d8d0d3cd0706b854496a3691b426ea8d360635efd1449c84c16d7060bb4b26eeca85fe1e08c4976dc2a9c5f1
-Description: Chặn quảng cáo và phát lại nền cho ứng dụng Youtube!.
-Name: YouTube X
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.ytx
-Architecture: iphoneos-arm64
 Version: 1.4.3
 Section: Tweaks
 Maintainer: PoomSmart
@@ -18238,6 +18238,26 @@ SHA1: 28596c832d3f6450b57280ef7f5886a04b5b7899
 SHA256: 8c8d0d5daa019bea07742e180b3bcceb639575072b171ffe01d4939ef5cb207d
 SHA512: efd8d2e2ba8c827811b2fcd0cb02f2c02482b70ed467e27deac6fa55640fd2507f62605827c09d7463bce097f2d943c4148bc3d3ececd657e498d4dd4fcbfa61
 Description: A lightweight YouTube improvement tweak.
+Name: YouTube X(Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.6.2_iphoneos-arm64.deb
+Size: 5126
+MD5sum: be84c2e9d089a57e55d39b260fd7bc40
+SHA1: 7c3e13011a9979cd5b00356bf27c66f74f293009
+SHA256: ecf960792f4f7d3770edd7d7f1dd49067a5493406f635e6ee1f600a66390ae04
+SHA512: 0abe2d70ae07226c9c549c8a3ea968708c02ab763e8d0e862723f30d2c3962e0063277d84b824a542225024a0d6c4da1a6b377c01215da0bb533d694c3f1854b
+Description: Chặn quảng cáo cho Ứng dụng Youtube.
 Name: YouTube X(Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
