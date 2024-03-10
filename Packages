@@ -14413,6 +14413,46 @@ Name: TweakHub VH(Rootless)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.watched
+Architecture: iphoneos-arm
+Version: 1.1-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.bvn.watched_1.1-8+debug_iphoneos-arm.deb
+Size: 8912
+MD5sum: 5987462418f2a7fdb0787a486cbb13b1
+SHA1: febb98816732c81286b7e6f78ca3307c5540c0fc
+SHA256: 945fe78bacdb063e45a797fb5aa9c78c648f9f9ad23f94d8383e37d1239ae033
+SHA512: 28aebc2b1da1bb8f52faf60ae77128ebe3fb51141b98d21ab88fec00b3d6c446f9392440eeddc126417d0b25f42911b4a9d975cc7eb1ec04ad9892bafbfc899e
+Description: Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới
+Name: Watched
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/Watched.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Watched.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.watched
+Architecture: iphoneos-arm64
+Version: 1.1-9+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.bvn.watched_1.1-9+debug_iphoneos-arm64.deb
+Size: 9006
+MD5sum: 7bb525676f9211b9daa7fb66dec26933
+SHA1: a675012aeaa5a94a06f2fd6a8646f860743ca823
+SHA256: 1b1e555d661e9f4101226857f520ffa25d80992ef7ed3713b651726071a38458
+SHA512: d4cb988eeca0943b49c3aed68d729058c7f94e8435021654fec09b52916b331549dad5043821808583204f970908762613849a8da975410ec1847d2dfbe2b8b3
+Description: Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới
+Name: Watched (Rootless)
+Author: 34306 "Huy Nguyen"
+Depiction: http://bvnsupport.github.io/infodeb/Html/Watched.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Watched.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.whoozit.rootless
 Architecture: iphoneos-arm64
 Version: 2.15.0-beta-9
