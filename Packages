@@ -21711,6 +21711,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 7bdaf787e1c074a02a711ece6529702b
 
+Package: net.repobvn.bioprotectxs-rootless
+Architecture: iphoneos-arm64
+Version: 4.6-57
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2232
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneos-crack
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.bioprotectxs-rootless_4.6-57_iphoneos-arm64.deb
+Size: 799004
+MD5sum: 26b55e4a8c550ae771e3ab8dd0bf9884
+SHA1: 8855719932227e13f1c7883cdef15a62c3d5e5bd
+SHA256: e7796b9ee1abac22ac6cb317931865311a755028db5d2548f596ed8c41e46c36
+SHA512: 6778f6b795518bc1dbebad7a64ad27415622bc798d6016e1f66d3160674d8e383c675891711a7107c62c496cf2e43452368ded2a68c47bd4d3f501a233e06ac6
+Description: Bảo vệ ứng dụng của bạn bằng Touch/Face ID!
+Name: BioProtect VH(Rootless iOS 14/17)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 0242dc630b30418f4fe783bed9efc25b
+
 Package: net.repobvn.smarttapx-rootless
 Architecture: iphoneos-arm64
 Version: 0.5-3
