@@ -13207,6 +13207,25 @@ Name: BHTwitter (Rootless)
 Author: Bandar Alruwaili
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ccadsbegone.rootless
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/com.bvn.ccadsbegone.rootless_1.1_iphoneos-arm64.deb
+Size: 162704
+MD5sum: 4e5ca8219d94319c2ec9f6de085add4b
+SHA1: b091bc0dc4f0238150bcf7c21394ac1c8f96ef3d
+SHA256: 5f80a2cf97d1db77a1b5aad3f2da5a9ac15196032f136d25b966576bef879464
+SHA512: 0fda9a20b2e635473b1761b8b05bcc3e3ab0ae01509b76d8e9ae91b58501a6775a672616ed76693cc62c50dc61f59c01e0740749167e122822cfe98d8608699e
+Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
+ - CC Toggle to block ads on demand!
+Name: CCAdsBeGone (rootless)
+Author: 0xkuj <0xkujz@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.ccadsbegone
 Architecture: iphoneos-arm
 Version: 1.1
