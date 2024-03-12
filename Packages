@@ -13752,6 +13752,27 @@ Name: Limneos Crack(Rootless)
 Author: CBZ
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.little12
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Bvn Repo <bienvannhat97@gmail.com>
+Installed-Size: 1024
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), xyz.cypwn.xinam1ne
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debs/com.bvn.little12_1.2.3_iphoneos-arm64.deb
+Size: 453026
+MD5sum: 379cb33cb2258009cd78e0f30e5ba860
+SHA1: 9603eb4bb66b838e255b228f729d6dfe0ece52a2
+SHA256: 33639cb39143c448eaaca1e1044839eaebaf63ddc4b8ef34610cc5c3b61e2ed3
+SHA512: e12df6b4ce66f1a327696117c0b57debdb694bcd8164d8c5cecbbfacc422ba684b9b437c8a6eff14abb787930fc7e64da79846febf66d4b3e6954ce3ed0c2c5b
+Description: Fake cử chỉ iPhone X cho các dòng máy đời cũ.
+Name: Little12 VH(Rootless)
+Author: Ryan Nair
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
 Version: 1.0.1
