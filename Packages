@@ -13013,6 +13013,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ethan Whited
 Name: AirpodsCompanion VH(Rootless)
 
+Package: com.bvn.airpodscompanion
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN
+Depends: preferenceloader
+Filename: ./debs/com.bvn.airpodscompanion_1.2_iphoneos-arm64.deb
+Size: 512416
+MD5sum: 2efe83a6fa892fc27f83d580a6357d72
+SHA1: 51d4ca7944af65f207f93e8f4605efec65114192
+SHA256: 291ca681b838ecce0f881a36ccac39eea4e5afb691b8b430ff855caefaf99c12
+SHA512: e99ca8835115b9cb144b75a78cf2e5f0f983da4d9451ec25d90667fe1ca6dc3294735f5ad960204132862b00f5d855b25389826e8a231c49d83d438dee07fee6
+Description: Điều khiển Khử tiếng ồn nổi bên cạnh thanh trượt âm lượng
+Depiction: http://bvnsupport.github.io/infodeb/Html/AirpodsCompanion.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirpodsCompanion.json
+Name: AirpodsCompanion VH(Rootless)
+Author: Ethan Whited
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.akara
 Architecture: iphoneos-arm64
 Version: 2.0.0
