@@ -13832,6 +13832,26 @@ Name: Little12 VH(Rootless)
 Author: Ryan Nair
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.locketpatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 17340
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.locketpatch_0.0.1_iphoneos-arm64.deb
+Size: 2699142
+MD5sum: 1fe431987cacdb410f97912550f44ee8
+SHA1: 5d9e37ed93543c66f7bf8f36f7d30b7347c2e431
+SHA256: 411bbb8d71d2ae4aff0f0a172b7c34a330cb2a528dcd7f53356f69eb4e915ca3
+SHA512: ffdf9c104dafdefc1d7f2f25a99379cb0c7176a8dd17af8557263f0f826c240bcd38bd7f373f4f85ae2cba50c3376e76b2bf870a3dd2b485ca3c76c389f151ed
+Description: Locket Gold
+Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Locket Gold (Rootless)
+Author: Dell <dvq273665536@gmail.com>
+
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
 Version: 1.0.1
