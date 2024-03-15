@@ -14240,6 +14240,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remini.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Remini Pro(Rootless)
 
+Package: com.bvn.reo
+Architecture: iphoneos-arm64
+Version: 1.3.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1040
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 2.0), firmware (>= 13.0), cy+cpu.arm64v8 | oldabi | oldabi-xina | oldabi-stub
+Filename: ./debs/com.bvn.reo_1.3.5_iphoneos-arm64.deb
+Size: 546470
+MD5sum: 6de7015af04d1f56caff1aa9671f5d60
+SHA1: dc0c867ee8662b58a11b3347becaaa52d29f552f
+SHA256: 6f47727ceda2f080ae9f2f1f0c5139b92bd780ff79a97adbb62ef142be30375b
+SHA512: b85414f5a9cc95751a00ea6f52500be934d514db8c83c5bb10d510702618b9e3e03077977aae8c100e73dfc52955fea5f3f5321b8d13537570e7b04e92bc1544
+Description: Classic Music player for LS
+Name: Reo VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictionsReo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Mystery
+
 Package: com.bvn.safariblocker
 Architecture: iphoneos-arm64
 Version: 1.3.1
