@@ -14414,6 +14414,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsWidgets.jso
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: shepgoba
 
+Package: com.bvn.showtouch
+Architecture: iphoneos-arm64
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1432
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 546830
+MD5sum: d071130094fb04b84ce9fd881e8055be
+SHA1: 99c1cceca2e634f678f08e3706bcbe79fcab3d73
+SHA256: 2d2c74c46a8728e2d7e699273b629cfc7be86a0c21620e58a34a046ab20f9bb2
+SHA512: 11ff904af8ddd4c5d9b6d3e955f64938a72a9589e6d4e2dff20ba0b037d56ddda97ad9947eb0c1854e2ab27732dd1d2c8b8caf17294d4903eca08d5c535695c0
+Description: Hiển thị nơi bạn chạm vào màn hình
+ - Shows where you touch the screen
+Name: ShowTouch (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: LonestarX
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
