@@ -149,6 +149,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Tweaks
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 18264
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.5_iphoneos-arm.deb
+Size: 18523304
+MD5sum: 761afda970944dca2c6ad5d33e741221
+SHA1: 5e3b51a93ecbed84f8a58d64922244fe9cb7f925
+SHA256: 7d464fac61dcecb43550b0af1217fac8271c531491f0e977806e9e0d47e65caa
+SHA512: a74582d31d5a51cbc546eb861731b6ad2b79cb9aa2a07a7b2fcb1149c7a8b6a6787e7b2f169957e2b3283cd3c0c1971398c1bc6d957d5f5fea7cbd2831862a69
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -13008,6 +13029,25 @@ SHA1: 1e6f0a47f1bcd1cfb65e93a8456eef8c89f31cff
 SHA256: 20ec7963c0772edf31b245d53be63ab05bcb4f21964e418d74b03ce295986474
 SHA512: f022e57c7042dc29397dc2227bfa5a76214e41a97620604fc1b5ce90fb92ea6ac5cb03de83683e8c16fd4d2e5a839b82e0b6a413de712a4230ce232ab9a22ae5
 Description: Một tinh chỉnh CarPlay tuyệt vời.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
+Name: Airaw VH(Rootless)
+Author: Dcsyhi
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.airaw
+Architecture: iphoneos-arm64
+Version: 1.6.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common
+Filename: ./debs/com.bvn.airaw_1.6.3_iphoneos-arm64.deb
+Size: 11007628
+MD5sum: d347d74f363a9772e93ebc991f3955b8
+SHA1: 437196ebd3dff07bc464a4854ddcd695f84307a9
+SHA256: 402eaeb7290e69b2697f1bcd4e735cb8f1c4f2ef3466b00e006f7074a8773d81
+SHA512: 8882e4b7e1e1b18b8ddce4c9bdef70ad58b1eeef474d346b415f222550e82896023ceaac545458a802dfea18101cd6e940f300df2b7717c15e62b557b433b560
+Description: An awesome CarPlay tweak.
 Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
 Name: Airaw VH(Rootless)
