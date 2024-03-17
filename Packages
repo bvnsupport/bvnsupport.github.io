@@ -13054,6 +13054,25 @@ Name: Airaw VH(Rootless)
 Author: Dcsyhi
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.airaw
+Architecture: iphoneos-arm64
+Version: 1.6.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common
+Filename: ./debs/com.bvn.airaw_1.6.4_iphoneos-arm64.deb
+Size: 11007428
+MD5sum: e944fb5cd27fcd7653b8d096870cf69b
+SHA1: a15cdfd02726ca1e790402b4459acce6233b2275
+SHA256: 1732311e11c3c8cbde38c407a570ea153b91575a06cbf4c26cdabe81319f1c4a
+SHA512: f9f7918c64a40f414ed527fed8764f2178d00b8127e71daa4fc22f1af3c9428fa6c084606e6842fddb46c7148fbcabaacccd5ff66b49c5cfa50917e93a8b1ed2
+Description: An awesome CarPlay tweak.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
+Name: Airaw VH(Rootless)
+Author: Dcsyhi
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.airpodscompanion
 Architecture: iphoneos-arm64
 Version: 1.1
