@@ -11398,6 +11398,31 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PowerSelecto
 dev: ichitaso
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.Repobvn.powerselector11-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Utilities
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2212
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.Repobvn.powerselector11-rootless_1.4.0_iphoneos-arm64.deb
+Size: 358634
+MD5sum: 325733966f2141d1f0238cb334fdfd0b
+SHA1: 32943af546beffc3277886459a42996af51f22f1
+SHA256: 811d2741d09d8d6c8eb105457978488877a2a3cd347dc2de689c119fcaf8c7c3
+SHA512: 8b058801c02b7859fb15c25e530e07976a82e6dd77c2ab090613f95b8150a13950aa14759cc27280e0dbfcc7ede35f10108531175f32154a4cd10b1f36da7f1e
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+dev: ichitaso
+Depiction: http://bvnsupport.github.io/infodeb/PowerSelector1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PowerSelector1.json
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
@@ -16328,6 +16353,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/OTADisabler/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/OTADisabler.json
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: ichitaso
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.5-1
+Section: System
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.5-1_iphoneos-arm64.deb
+Size: 19588
+MD5sum: 6334ffe69447b173184293fd490f5f23
+SHA1: 83f3daf154d874f12f9084bb67267c14ff350cb3
+SHA256: 85ad52435a010633178fd4ff88f36034f20968b9cd316701887c0d09439a81db
+SHA512: 8a78c771e59a6a1e4ac2cc34000deee315872ca49bcb10cc706c2e9f480113f27dba8202f374eb915ccedae28aa0831d899da16ad305b8990aee4ddb80443ecb
+Description: Vô hiệu hóa OTA và xóa huy hiệu trên màn hình chính, v.v.
+Name: OTADisabler (Rootless)
+Author: ichitaso
+Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: com.icraze.hestia
 Architecture: iphoneos-arm
