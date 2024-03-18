@@ -72,7 +72,7 @@
 "title":"Nhà phát triển",
 "text":"Dcsyhi"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.6.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.6.4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -81,7 +81,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"16/2/2024"
+"text":"18/3/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -91,7 +91,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 15.9"
+"text":"iOS 14.0 đến 16.7"
 },
 {
 "class":"DepictionLabelView",
@@ -108,7 +108,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.6.1\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 1.6.4\n\n- Đã khắc phục sự cố khi đóng ứng dụng chọn toàn\n\n- Đã khắc phục sự cố các biểu tượng trong suốt không được hiển thị"
 },
 {
 "class":"DepictionLabelView",

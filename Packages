@@ -20806,6 +20806,26 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.5.5-2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.5-2_iphoneos-arm64.deb
+Size: 529160
+MD5sum: e1e7b75d85a803962df1f9c7e65526c6
+SHA1: d1ef6c58b09cf758a061124ba1b5b7be2eb56d7f
+SHA256: 5c11fe973aa00c0f9f3220f367bdfe4fc2921bddb9777305e7283760fedfa9a1
+SHA512: 8cb763a7f0aaedde9a8153ceabc8c2d4175c4015e96af8d34b5a8d3964758e8ac7df36ef524cba940186ff870dd04893db11f9fe8221ff0034687be1475d5d81
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX VH(Rootless)
+Author: udevs
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: com.udevs.vexillarius
 Architecture: iphoneos-arm
 Version: 0.0.2
