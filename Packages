@@ -22516,6 +22516,45 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.4K
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15588
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.4K_iphoneos-arm.deb
+Size: 7416226
+MD5sum: 62463899875d5d6d365c6159f315acb2
+SHA1: f7ecdcbcc96615214b4212816e7eeb2edfc563d7
+SHA256: 12d3036977fd5645344be09682f4448784d7a9a87f54dce13b9ebf9df1bd575e
+SHA512: 06370d969e65877945d973a77497fa0be8e5783dd1221d265923af6c653e589bf45a7a2dce3a757d6ef9eb9cbb4d0a985715a368bf6bf49ee2dc1d093b594b43
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy CRK
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.4K
+Section: Tweaks
+Maintainer: Bvn Repository
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.4K_iphoneos-arm64.deb
+Size: 5529432
+MD5sum: 31b59747b3f4a761dae5a4c17ff78893
+SHA1: 614435cb5a11b67595e5a0fb1f24aa937b93ae9e
+SHA256: 0bc8e05982f0fdc1653752238c92fae62cdf8a11ef84ed438fd6eff2afa5c497
+SHA512: f75742e0c901f30b86f11aa4db95dea5336750be3103b369ec4874c2cbd6f9f84d8a7aaaa92fbf5ce5c62398e6ec79eee3864aad47fbde25324bee4f84d2f3ca
+Description: Tải xuống hình ảnh và video trên mạng xã hội.
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Name: DLEasy (Rootless)
+Author: AhmedBafkir
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2-2
