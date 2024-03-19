@@ -4852,6 +4852,27 @@ Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
+Version: 1.4.3-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0), emt.paisseon.xinamine
+Conflicts: com.p2kdev.facebooknoads
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.4.3-1_iphoneos-arm64.deb
+Size: 276020
+MD5sum: f704905556052ec4bfba819350be49f1
+SHA1: bcd7366334941b78285deba4e5a292f45b0fee84
+SHA256: e905c62301f3d9eec0208091f66bb606e780ec69740cf464346cfae5e4bf3c43
+SHA512: 6b2f69dc5a9c09d2dde5e49f0fa03c5dd3fc859fc770edb6813a2d485c30ffa8261d4c046e8a76e19beb403b8b2ce1f15f8367be0f283f0c28b7abb520c77f53
+Description: No Ads in the Facebook App!
+Name: Facebook No Ads (Rootless)
+Author: Haoict
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm64
 Version: 1.4.1
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
