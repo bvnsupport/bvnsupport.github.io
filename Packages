@@ -22821,6 +22821,43 @@ Name: SiriPlus (Rootless)
 Author: Uckermark
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: vn.bvn.siriplus
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, com.opa334.ccsupport, mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/vn.bvn.siriplus_1.1_iphoneos-arm.deb
+Size: 295668
+MD5sum: 0c6b9c4b20f9140b676d8460f3b7b3b6
+SHA1: c6fe9fb19a779958c31456ba167d32925b0c8e72
+SHA256: 19db9d19754d3f3757baa13a31f307ad6e9322e5447b9ae1597ff5d40e0207af
+SHA512: c94c0b851ba7c88500a63b46120aa62a26edce651e8393900f09c2698973454f4176c6c029518d6bdf9412e1c4a6083d303a7ee6dc268137ac05d3783d80411b
+Description: Thay thế Siri bằng ChatGPT/Gemini
+ - Replace Siri with ChatGPT/Gemini
+Name: SiriPlus VH
+Author: Uckermark
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: vn.bvn.siriplus
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, firmware (>= 14.0)
+Filename: ./debs/vn.bvn.siriplus_1.1_iphoneos-arm64.deb
+Size: 295836
+MD5sum: f25d1bd43385c97dc35c223aea03eec7
+SHA1: 7e00e66ae552034c68edc75bc966083e65cec705
+SHA256: 8f801090b3915ea840a8a95a50fb875a488b86df162fcc2f9cd8a10d4e0e54ec
+SHA512: 520662cd1671f0d9a4c4e5aefc1457d3e486f33d0efcfe520387e87293ff923999529b676615e1f2dd02901de8a7f8fd2e960a5b599228195390f74f2dac038b
+Description: Thay thế Siri bằng ChatGPT/Gemini
+ - Replace Siri with ChatGPT/Gemini
+Name: SiriPlus (Rootless)
+Author: Uckermark
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvn.snail-crack
 Architecture: iphoneos-arm64
 Version: 1.0
