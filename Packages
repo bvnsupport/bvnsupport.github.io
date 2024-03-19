@@ -6532,6 +6532,27 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.lteto5g
+Architecture: iphoneos-arm64
+Version: 0.2-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5), oldabi | oldabi-stub
+Filename: ./debs/com.BIENVANNHAT.lteto5g.deb
+Size: 5892
+MD5sum: 0fb4a253b17644151e74708c60c0a8ab
+SHA1: 41dad01beb4c81a439851e4f16d2be50418877ab
+SHA256: b5975fc6233c3cf4ce82e74bfcfcd372706daf9e88f290ffdb505fa0d95c9694
+SHA512: b5f75b6594f2d72b2214d2817b735261a921c347cf71b432342f0d624f16aba93cc05353a6428b5cc8e054b4568c1c5b9ea4ff970b144317860b1a012e71ef52
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Tag: purpose::extension
+Name: LteTo5G (Rootless)
+Author: fahlnbg
+Depiction: http://bvnsupport.github.io/infodeb/LteTo5G/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LteTo5G.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.lteto5g
 Architecture: iphoneos-arm
 Version: 0.1
 Section: Tweaks
@@ -6549,27 +6570,6 @@ Tag: purpose::extension
 Name: LteTo5G
 Author: fahlnbg
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.lteto5g
-Architecture: iphoneos-arm64
-Version: 0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.BIENVANNHAT.lteto5g_0.2_iphoneos-arm64.deb
-Size: 6248
-MD5sum: c604b9a48251ed7e6e2bed3ecbace230
-SHA1: f48fa0f989b2aa036343ecd49d3c966f14da0693
-SHA256: 41291bf5cab130d81285f060775e7fec59084fc2d4acedd1a1f4e9fdf83e8e4c
-SHA512: 33848818a49795a420a9728a67e9e345803d3336c698d46328177f0f43cca821e1add6511538a4cccc30daaa45fe59a7b856d51d2eaf1b2fdda7fcca371fa044
-Description: Một tinh chỉnh MobileSubstrate tuyệt vời!Hỗ trợ Ios 13/14.9
-Tag: purpose::extension
-Name: LteTo5G (Rootless)
-Author: fahlnbg
-Depiction: http://support-jailbreak.github.io/infodeb/LteTo5G/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/LteTo5G.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.lunartime
 Architecture: iphoneos-arm
