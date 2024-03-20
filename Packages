@@ -23202,6 +23202,23 @@ Name: Xinam1ne All-in-One
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.5-8R
+Section: Utilities
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0) | com.bienvannhat.filza64bit | com.bvnsupport.filza, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/xyz.cypwn.xinam1ne_2.5-8R_iphoneos-arm64.deb
+Size: 120880
+MD5sum: a3e5f340f48cfd8a360314301bb3bf26
+SHA1: e4c22167eb87ee5045f3c3975330cf10d27c7dba
+SHA256: 316adaded25e5b0bf2ce8f083dffb649500e71f931d2c451ebf3a62857f51596
+SHA512: ccbeb3f492f6a8f3534cddab1c65e12ac3b6286b7357acfc157273499ad238a4684defa36dbe473865acb290f5e87522adc8a6c436585a7a10c0e10218e87c13
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
 Version: 1.1.29
