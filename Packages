@@ -14635,6 +14635,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Spectrum.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Skitty & EvenDev
 
+Package: com.bvn.splitviewpro
+Architecture: iphoneos-arm64
+Version: 0.0.3-1-19
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.splitviewpro_0.0.3-1-19_iphoneos-arm64.deb
+Size: 246934
+MD5sum: 44a7d6f50a5d502df0b6f82ad1803be0
+SHA1: 057e5fe8965d01bfb72336396de6cd0057f49d1a
+SHA256: 1f5018fb7655af23a2272e71d8efad1ff686080c6f9b591c58f91e57f9f8ba5e
+SHA512: fb9dc39c19aed75b2f364044ee297234c9056d463fbe4e1e5eba3a341c4d0b469ef1fdb6bd5ea71f06ef3cae84efe77085b398b5d3071460775022f92dc73d7c
+Description: Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến.
+Depiction: http://bvnsupport.github.io/infodeb/Html/split.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
+Name: Split View Pro VH(Rootless)
+Author: sunshinesong
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
