@@ -14230,6 +14230,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/NCT.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nct.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.nobetaalert
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.nobetaalert_4.0_iphoneos-arm64.deb
+Size: 4112
+MD5sum: cc9b5a619ccdd13cd2af8a15abd57af2
+SHA1: e65ad71b1089a78b340bcb16be356c31ce32bb5a
+SHA256: 0aa7fab1b5410315ef55daa7014467e27bd16d405a710818c629ad08a241dfaa
+SHA512: 33bb39d1df669c5feb92a95db599f1683fc81ee6721a55aa753412476d35849ccbc919b7ad13ffd01092780137eb94f36d753c351a7550c90d8403039a45f36c
+Description: Xoá bản thông báo cập nhật Beta iOS
+ - Removes Beta Expired Alerts
+Name: NoBetaAlert (Rootless)
+Author: Hitori
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
 Version: 1.0.2
