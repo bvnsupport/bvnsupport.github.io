@@ -13275,6 +13275,23 @@ Name: Alpine VH(Rootless)
 Author: MTAC
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.autotouch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 74872
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.bvn.autotouch_1.0_iphoneos-arm64.deb
+Size: 14952
+MD5sum: a3f916a9591bfe56a812a0c3778bd5de
+SHA1: fd9eeb873eb4f29391aef72340df913f4b26602a
+SHA256: a1d59475a2170be0de2e77af0c8d69f87beb3b43d765be7cdedfd5bd043825e6
+SHA512: 2f0a3066d1787d5c5078c63ba257a0c37672d6490c2228b00db8186baa4f7d4411824a78949b8dd2cd9483930d665e3614c2cac5282366c5339506e424e9f3ff
+Description: Crack Tweak Autotouch
+Name: AutoTouch Crack
+Author: BVN Repo
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
@@ -21045,6 +21062,28 @@ SHA256: 4e213d28175e8e163b77a110379155c0329f4036d2b5850d851483d17b4c239d
 SHA512: 6253bd636dbd3b8cd07f5457bccf4a4d48085fac5dfc0e27e51c630d3e7c69b8c1512db15a87a5f6de721c481ae5579945d1dffc571c4d9ea37e98e397209d25
 Homepage: https://autotouch.net
 Description: Ghi và phát lại các thao tác chạm, phát các tập lệnh macro tự động.
+Name: AutoTouch VH(Rootless)
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: combvnrepo.autotouch.ios8
+Architecture: iphoneos-arm64
+Version: 8.1.0
+Priority: optional
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 75168
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit | org.coolstar.libhooker, com.bvn.autotouch
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/combvnrepo.autotouch.ios8_8.1.0_iphoneos-arm64.deb
+Size: 32503946
+MD5sum: 2208dd38dd7068ed620a99887712c798
+SHA1: d7745d682cccf18c81e2503ae50f4f921e38e15f
+SHA256: f2fab4446dc2be8d595489109a1c3abd342b0df1565f21c9f551708f854d512c
+SHA512: 05c5c1ef7efa534ef01a7ece0ab30bd08c3e5caff25fcfb9033f2ad228ce13c6bc6d6f314d328d961ad55e134fe1e4fc2024c41302885c7d449c2e2ac3b41ec3
+Description: Record and playback touch operations, play macro scripts automatically.
 Name: AutoTouch VH(Rootless)
 Author: Kent Krantz <kentkrantz@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
