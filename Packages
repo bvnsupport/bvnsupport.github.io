@@ -23316,6 +23316,25 @@ Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6R
+Section: Utilities
+Maintainer: BVN
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6R_iphoneos-arm64.deb
+Size: 120958
+MD5sum: ccbb9764e2fe63b71400560ac0273639
+SHA1: 8ce7bcf6cf00c53bb9649896997af71f2b36e02b
+SHA256: 01af83a825fa58bccb2d697d39d3024cb84337243e6ef6d8a70c153480d1e71c
+SHA512: 5123fafa55d4d4ce76904825e372d36ee0c36fcbd752d81d06bf9c0a07b0167dc59453600817594f86d49ef2c2cd416e8742e49cc14f96e8c7cdf32174753f83
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
 Version: 1.1.29
