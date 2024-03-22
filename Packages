@@ -7633,44 +7633,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.picsart-rootless
 Architecture: iphoneos-arm64
-Version: 22.4.4
+Version: 1.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
 Installed-Size: 940
 Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.picsart-rootless_22.4.4_iphoneos-arm64.deb
-Size: 268926
-MD5sum: 33490a7700841de820f0bfa38076f40a
-SHA1: 89894b6fa7ddb3c4cf8e8b46d079f3826ba3f7ee
-SHA256: 2b33b4e0fceea74d10c0f39206c19273cc9d554ff582652d712aa05cd31e3555
-SHA512: ba2164af77c103eee79673bf5fba63b90d0b8f018435f1ce39cd7a133f5b47c92cef711829a0eb5f7173aa47e8298c0a80a844cdb61911f6f81434bbd453b12b
+Filename: ./debs/com.BIENVANNHAT.picsart-rootless_1.0_iphoneos-arm64.deb
+Size: 13442
+MD5sum: 4010a98443ab550f9889eeae75d6e8ed
+SHA1: aaaad6c52e9c576861f2f0917a308cbaf0e40ea4
+SHA256: 0b4cd7692da89fe27174e4a35d1f49f2b05116cfcf0a226060c9c188c095adb7
+SHA512: 56102d449ebf46dde4aa727ded9b87eb6dd06387922c55b64ae813e9cdbec7d60454869a62bf5a2aafd77e9a9d73cb1b7892b0a8b1a5848a73c9a6607a11ea40
 Description: 
   • Mở khóa tất cả các tính năng
   • Xóa Quảng cáo và Biểu ngữ
   • Gói cao cấp & VIP
 Name: PicsArt® Gold (Rootless)
-Author: Laila Azmi <Lailaazmi@my.com>
-Depiction: http://support-jailbreak.github.io/infodeb/PicsArt/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PicsArt.json
+Author: Lãng Khách
+Depiction: http://bvnsupport.github.io/infodeb/PicsArt/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.picsart
-Architecture: iphoneos-arm
-Version: 14.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 8144
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.picsart_14.0_iphoneos-arm.deb
-Size: 2342758
-MD5sum: fdf7c02419d9f8360c31d43c6a353d1c
-SHA1: e76cac9c8ca1db39d54ab389b0bcb899679d3710
-SHA256: cc70b615268db15ae08835d757b1eb940362dab032e56039cfa269cf21566d5f
-SHA512: d588fe3deef458a2a36fda3134a5d590b04ae09d0f37460107726abc8483f42ae220329038b9310e445c0f7bd8067031e0259eaf7213c7dda8813db58dabf92f
-Description: PicsArt Cao cấp,hỗ trợ phiên bản Mới nhất
-Name: PicsArt Premium
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Laxus
 
 Package: com.BIENVANNHAT.pockettranslator
 Architecture: iphoneos-arm
@@ -12179,45 +12161,25 @@ SomeOtherEntryToControl: True
 
 Package: com.bienvannhat.picsart
 Architecture: iphoneos-arm
-Version: 21.4.7
-Section: Applications
-Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
-Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000), com.bienvannhat.picsart1
-Filename: ./debs/com.bienvannhat.picsart_21.4.7_iphoneos-arm.deb
-Size: 50385668
-MD5sum: 609050211e3342ab2951709cb684493e
-SHA1: e3396d85f90f3764ad14486caa8d222e4d9f0d69
-SHA256: 6dc7660db7e7ad76853dc924e114a5dfadcf70a7856c4c27f5239adac42a6eed
-SHA512: d6dfc2898309884c9234d25d3fd2c1577c1be036568b015fcb6cddfd2bedab99f890df5ab4d947c3b53440bc238dd9999c230b84436735cf417e4272711904a8
-Description: PicsArt Cao cấp,hỗ trợ phiên bản Mới nhất
-Name: Picsart Premium
-Author: Biện Văn Nhật <bienvannhat97@gmail.com>
-Tags: compatible_min::ios10.0
-Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bienvannhat.picsart
-Architecture: iphoneos-arm
-Version: 22.4.4
+Version: 1.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 940
 Depends: mobilesubstrate
-Filename: ./debs/com.bienvannhat.picsart_22.4.4_iphoneos-arm.deb
-Size: 273386
-MD5sum: 1f1ebf04cec59f4cfcbca0f450881715
-SHA1: 6371466aa398d1491c2a92a963475f95a83382f2
-SHA256: b3233203b713818e1aae7f96b2d35286b28fee88c63e32657c29a01f37b7a80c
-SHA512: c803e3061aeeac737b648569bc031ccbabccc6866ea6ed590e135afeb8bebf861e47f43147e0ea5493d636ef3ff2232719befda6035fd41eed0a1c9ad7a12c16
+Filename: ./debs/com.bienvannhat.picsart_1.0_iphoneos-arm.deb
+Size: 13818
+MD5sum: b8a45a86e65501d44db58075f6aabb70
+SHA1: 528da34e756ba5487514a29de9a77eac70e66eb2
+SHA256: c56ced6fa7e6c7951aea5d7e11a4aaef64f20ea5ebcb71a7735824ac8ada6c63
+SHA512: 113f59b9c61325781cda28ee622c68dfdbcaa1b06afc12a8a2789b4ace96c643ef5dbe1ca7071a775606a0cb3c0542597130a0b45e1a0b8c100d64b52288e5a2
 Description: 
   • Mở khóa tất cả các tính năng
   • Xóa Quảng cáo & Biểu ngữ
   • Gói cao cấp & VIP
 Name: PicsArt® Gold
-Author: Laila Azmi <Lailaazmi@my.com>
-Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+Author: Lãng Khách
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.satella
