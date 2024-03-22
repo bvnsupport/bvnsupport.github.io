@@ -14635,6 +14635,25 @@ Name: Split View Pro VH(Rootless)
 Author: sunshinesong
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.splitviewpro
+Architecture: iphoneos-arm64
+Version: 0.0.3-1-48
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.splitviewpro_0.0.3-1-48_iphoneos-arm64.deb
+Size: 254198
+MD5sum: 4c928c9071d08758f01915678f67736b
+SHA1: dfb2b75775f9c0074aaf3cdf673278004f6ab659
+SHA256: 7a4cb155716a5738177c1758962247bb22eb53e420a0972f8cf0f1a3f94a5c1a
+SHA512: 154008359684fb8cca5a81adfdde338cb852800d6c7d3a4f4b2edad296c92f72227981dcc3232efb81fcd4a082152159115802300be02a0d62b8ecc90b23fd71
+Description: Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến.
+Depiction: http://bvnsupport.github.io/infodeb/Html/split.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
+Name: Split View Pro VH(Rootless)
+Author: sunshinesong
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
