@@ -14655,17 +14655,36 @@ Author: sunshinesong
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.splitviewpro
+Architecture: iphoneos-arm
+Version: 0.0.3-1-49
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.bvn.splitviewpro_0.0.3-1-49_iphoneos-arm.deb
+Size: 253722
+MD5sum: 5b8810c138a71e58db724548946faecf
+SHA1: d35cc961ff6c8af8132d90b73866a1e5d57fc9c9
+SHA256: cce425d892d22f89ed181840cd95b304a9a03878a3c78265eb431f47eb2f924f
+SHA512: 7ac31adb644fce45a39b3cd77bb95f7b43301c33bdd489ca1c28ee51b33fa25f2eb0c12a759f9bc88cb03c39ed8ec569c5d461dae5fcda3aaf164bf63a95d167
+Description: Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến.
+Depiction: http://bvnsupport.github.io/infodeb/Html/split.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
+Name: Split View Pro VH
+Author: sunshinesong
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.splitviewpro
 Architecture: iphoneos-arm64
 Version: 0.0.3-1-49
 Section: Tweaks
 Maintainer: Bvn Repo
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.bvn.splitviewpro_0.0.3-1-49_iphoneos-arm64.deb
-Size: 254166
-MD5sum: 8936c0d80fca9a4057a980bc43bb278a
-SHA1: bd42f6d17d74102d9809a46817321c77b523ea07
-SHA256: 99f2d51aba90ef7b4656dc330398f639526f54a6a5156eb14e0bfde13619d0df
-SHA512: baf980e21cd108813fbde30c53c273e3ba8a79cc1a2a7913b5933bbe1e9610d4e7c51b8b0bb8a13d8fdae96713686d82e3b1cd4d9bd4511924c1c50782230aad
+Size: 254158
+MD5sum: 23377c2325d8a913dcd984163f512067
+SHA1: 09c30048ae45e092fcd8cca99bf46f780adedde2
+SHA256: cf081eba7e34333c059a4a2da7412554d783830b3cebc3203ad78749c4a07b5e
+SHA512: 04072c496d54bb7462e21bc67de8718977b1a874fb3c357485a98b3971e3f94332cb2f1f0f3994ac55af956f6c967ccdf9f32705732543cd147a23ded8982934
 Description: Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến.
 Depiction: http://bvnsupport.github.io/infodeb/Html/split.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
