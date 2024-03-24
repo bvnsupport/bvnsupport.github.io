@@ -1,0 +1,117 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Kayoko VH\n\n- Nếu bạn thường xuyên sử dụng tính năng sao chép và dán trên thiết bị iOS của mình, bạn chắc chắn sẽ thấy tinh chỉnh Kayoko của Traurige cực kỳ hữu ích. Trình quản lý bảng tạm dành cho iOS này cho phép bạn theo dõi các mục đã sao chép gần đây của mình và cung cấp quyền truy cập nhanh vào chúng\n\n- Kayoko là một tinh chỉnh bẻ khóa cung cấp trình quản lý khay nhớ tạm tuyệt vời cho các thiết bị chạy trên iOS 13 đến iOS 15. Công cụ này cho phép bạn dễ dàng truy xuất các mục đã sao chép gần đây thông qua truy cập nhanh từ bàn phím. Với Kayoko, việc quản lý lịch sử khay nhớ tạm của bạn chưa bao giờ dễ dàng hơn thế\n\n- Tinh chỉnh Kayoko có thể được kích hoạt từ thanh dự đoán hoặc bằng cách sử dụng phím chính tả xuất hiện trên bàn phím\n\n- Kayoko có thể xử lý tới 500 bản ghi lịch sử, bao gồm văn bản và hình ảnh. Số lượng các mục được ghi nhớ có thể được điều chỉnh từ cài đặt\n\n- Đối với iOS 16 Ae có thế thử cài để sử dụng,nếu không tương thích vui lòng xoá Tweaks\n\n- Các bạn hãy xem 1 số hình ảnh phía dưới \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Kayoko/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Kayoko/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Kayoko/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Kayoko/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Traurige"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.1-1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"25/3/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"578 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.6.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.0.1-1\n\n- Hỗ trợ Rootless & Roothide"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
