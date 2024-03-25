@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Tinh chỉnh replaced\n\n- Tweak này sẽ xoá bỏ các cảnh báo trong phần giới thiệu của iPhone ví dụ “Linh kiện không xác định & Linh kiện Apple chính hãng"... \n\nㅤ\n\n",
+"markdown":"Tinh chỉnh replaced\n\n- Tweak này sẽ xoá bỏ các cảnh báo trong phần giới thiệu của iPhone ví dụ “Linh kiện không xác định & linh kiện Apple chính hãng. \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,9 +50,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Huy Nguyễn"
+"text":"Huy Nguyễn "
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -83,7 +83,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",
