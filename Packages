@@ -14444,6 +14444,48 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Mystery
 
+Package: com.bvn.replaced
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: ./debs/com.bvn.replaced_1.0_iphoneos-arm.deb
+Size: 4602
+MD5sum: 46ce1a889154748a309f52d8dc51ee8b
+SHA1: a60cb1ac89e3b5da63ff2d7bddda10cfa04dfe7a
+SHA256: 0f4d6f3ae9edfe6427af2f5b671f9dac5321fa04b9016758c40b0a50f7442b2b
+SHA512: c6e6e97fe182a0f009a862c6f26fd6c2c26a637e1d205ff8f79d87a4d84cec14802d353875524d0e931fa19e727959a56c466c3763822e8c9f20a79d30629cb1
+Description: Xoá thông báo linh kiện không xác định và linh kiện chính hãng trong mục giới thiệu của iPhone.
+Name: replaced
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.replaced
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: ./debs/com.bvn.replaced_1.0_iphoneos-arm64.deb
+Size: 4652
+MD5sum: 959ad55dca8ed2d2f628b5d358a9413d
+SHA1: 8403cf7b2d3fed852e518c808a551b069c03c24a
+SHA256: 247bb552d8b9f4333fc0898dbf7f672d223bc6d3a0661f37c83a59b503d56c11
+SHA512: 5a47fdbf0ea6b7f34472295ffb0f355dd4c4fe10acab314e85cb19c7612222c01575910e387238eab43c8c668fd3eb0b2916d9378a251105ca177c9451e514dc
+Description: Xoá thông báo linh kiện không xác định và linh kiện chính hãng trong mục giới thiệu của iPhone.
+Name: replaced (Rootless)
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.safariblocker
 Architecture: iphoneos-arm64
 Version: 1.3.1
