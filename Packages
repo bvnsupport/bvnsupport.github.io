@@ -170,6 +170,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.4.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18212
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.5_iphoneos-arm64.deb
+Size: 34988442
+MD5sum: 74356a0e4e82eb289c1570ecca5d1f68
+SHA1: 798a5969bafa510994525cd609318f3f98651461
+SHA256: 16adb18d0061a088fb0c6cfd6750b1d8a6653d711b6770c8367e5ae961fcac07
+SHA512: 92526a6baa6eddf8fd4f3c6da0133daf23a7094ce85446929720c432226625f1c0677a75ba39a55956537135e1775d552c5e7d67e4dc599f1a10b6fb13e3e393
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
