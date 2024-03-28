@@ -13615,6 +13615,26 @@ Depiction: http://bvnsupport.github.io/infodeb/edge2/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/edge2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.fiona
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.fiona_1.0.6_iphoneos-arm64.deb
+Size: 159444
+MD5sum: d396aacd1629833ff0cb09c73a460219
+SHA1: eff0c85c607429d67602428fffedb96c53f1a832
+SHA256: 56c452051a20ff1c84ef01628c646440868eccbd6feae4f0f61a9efc3908f2a4
+SHA512: e1aa374e9d37d14380df4e38a4262ba83db2d3aa0f49998b5036ee391848e09f76294366ae3f3ca8306c1be0083ea7882c80b7a1b4eca310a64d000e2f6198aa
+Description: Thanh Tab nổi cho thiết bị iOS.
+Name: Fiona VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: yan
+
 Package: com.bvn.folderlist
 Architecture: iphoneos-arm64
 Version: 1.0
