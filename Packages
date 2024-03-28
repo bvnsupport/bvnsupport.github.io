@@ -14545,6 +14545,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ring
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.bvn.ring_1.0.1_iphoneos-arm64.deb
+Size: 235230
+MD5sum: dd4bef5b4e65afe7687df7f3a1aaccbc
+SHA1: 3d8810d22a73184363d3c4d775754fb30def1a0d
+SHA256: 7743551551ffc3319aab86a5fc866e2705cd3b55df1ebc13ad085e6585cf9e29
+SHA512: 0958165207182b7646328ffb477f2072fb1880e438fd72d812ea16a322023d72ae851965a3832282c886a60fe7c4a7d06abc265833efbf6b35426d708393b5f0
+Description: Dễ dàng quản lý âm lượng chuông của bạn!
+Name: Ring VH(Rootless)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ring.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ring.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.safariblocker
 Architecture: iphoneos-arm64
 Version: 1.3.1
