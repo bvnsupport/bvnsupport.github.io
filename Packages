@@ -10625,6 +10625,27 @@ Author: opa334
 
 Package: com.REPOBVN.crane-rootless
 Architecture: iphoneos-arm64
+Version: 1.3.14-6
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3120
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.14-6_iphoneos-arm64.deb
+Size: 895860
+MD5sum: 27ea43aedec8581005f624ddc9c24475
+SHA1: 121fcb53e72152690d46416d7519f9fc9380dca4
+SHA256: 239e8f4c04fc450dd2b028eb1088383c9f3a93c83c0a75558ff82d516b1e4952
+SHA512: aee735956d469dd67ac5cc6c49666a3af98f4bd3f0b09fe98023b783bfb56bbf94008193f83dbd9f247a98288e1af20359a74c918cd867add5814a57b22b2bc1
+Description: Multiple containers for your applications!
+Name: Crane VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334
+
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64
 Version: 1.3.14
 Section: Tweaks
 Maintainer: MainRepo
@@ -15154,6 +15175,27 @@ Description: Gói Tiếng Việt cho Tinh chỉnh Copy Log
 Name: Copylog Gói TV (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Biện Văn Nhật
+
+Package: com.bvnrepo.crane
+Architecture: iphoneos-arm
+Version: 1.3.14-6
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 3392
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.bvnrepo.crane_1.3.14-6_iphoneos-arm.deb
+Size: 1142266
+MD5sum: a568ed861e310c1c6ad1852f1f42467a
+SHA1: 3494215771a9b5e23cccdd03e4e5067d33eabac5
+SHA256: a9fe0408a1ea2bbb32d0da5b58acf3a48ec14219386bdbc9a4e3076516abc768
+SHA512: 5bf18f1cdabb87c5de132c5b3221ef147df592dd32b6acbe66539971913ba186831470d7f13ab371126b7ef71ab07be5e7ca83cd17ee68a06c1d0effe96bfd75
+Description: Multiple containers for your applications!
+Name: Crane VH
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334
 
 Package: com.bvnrepo.crane
 Architecture: iphoneos-arm
