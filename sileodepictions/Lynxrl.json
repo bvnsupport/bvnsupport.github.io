@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"MTAC"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.4.10" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"27/2/2024"
+"text":"1/4/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -96,7 +96,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.4.8\n\n- Thêm tùy chọn để thay thế phím đọc chính tả bằng bàn phím loại bỏ\n\n- Đã thêm tùy chọn để hiển thị dữ liệu di động được sử dụng trong Cài đặt\n\n- Đã thêm tùy chọn để hiển thị tốc độ tải xuống và tải lên mạng trong StatusBar\n\n- Đã thêm tùy chọn để chọn kiểu làm mờ nền của Trung tâm điều khiển"
+"markdown":"### Phiên bản 2.5\n\n- Đã thêm tùy chọn để hiển thị điều kiện thời tiết hiện tại trên thanh trạng thái CarPlay\n\n- Đã thêm tùy chọn để ẩn thanh trạng thái CarPlay bị mờ\n\n- Đã thêm tùy chọn hiển thị các thư mục dưới dạng biểu tượng của ứng dụng đầu tiên bên trong\n\n- Đã thêm tùy chọn để ẩn tất cả các chỉ báo Tiêu điểm trên Màn hình khóa"
 },
 {
 "class":"DepictionLabelView",
