@@ -170,6 +170,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.4.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18316
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.6_iphoneos-arm.deb
+Size: 18539598
+MD5sum: 534fe8907656f4183d5a3111fb09f33d
+SHA1: 16c3d47a45ed9224f8b2edce165daecdb85f221d
+SHA256: 97033b30baeb639b4445f518065bbae8831e7a19d8ead92587242dcb861047ac
+SHA512: 3a209321963ce43134608c8097992f25a2a04510c23e89ec218c11071cb736dd97910323c2be4e3e3cb2cad0eff728b9d6b18d5d001da8c05da5df07104deb33
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.4.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18212
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5), oldabi |oldabi-stub
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.6_iphoneos-arm64.deb
+Size: 35004116
+MD5sum: 23050e4fea26038bdd6c5c3f5835344b
+SHA1: 634a000ef59677a296e0c5a5ce50741ab7856e6c
+SHA256: b2d4b3b0656c5a234ef5e821401ad7cffb502100d316890268068a2fb0ecef5b
+SHA512: 335d71a27703008e18db16e555872a5cc6b9ff80b96d3cfb18a1bf3ac97593b1f325df15ae3da92f12c508875ae1b5a67fd74b4ff366c6135ec72576b852a4ec
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
