@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Locket Gold\n\n- Mở khoá tính năng Gold cho ứng dụng Locket\n\n- Lưu Ý: Đối với Bootstrap vui lòng bật Ứng dụng Locket trong Bootstrap \n\nㅤ\n\n",
+"markdown":"EPIK Pro\n\n- Mở khoá tính năng Pro cho ứng dụng chỉnh sửa Ảnh & Video EPIK\n\n- Lưu Ý: Đối với Bootstrap vui lòng bật Ứng dụng Epik trong Bootstrap \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,7 +21,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/Locket/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/epikpatch/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/epikpatch/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -61,12 +65,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/3/2024"
+"text":"2/4/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 16.6.1"
+"text":"iOS 14.0 đến 16.6.1"
 },
 {
 "class":"DepictionLabelView",
