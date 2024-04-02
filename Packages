@@ -13492,6 +13492,46 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.copylogfix16
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/com.bvn.copylogfix16_1.0.0_iphoneos-arm.deb
+Size: 8524
+MD5sum: f0e42a2bfeb37e8817f87a7a13a1f6ab
+SHA1: f621d12c309bc60c3579ba25d11ebb7e808cdff2
+SHA256: ea95581f611391115c80aff18fe6f8fedd05591055ddb6a17e1d397e2ab6dbc8
+SHA512: 0ae3d591b964896591ab242bad1711c515d6f7ccf55fd3dd743836df8dc397eb98cb104a915bc8b88cc31fbb81fb568f6f4e6e661d456d08c4457167b59b5cce
+Description: Sửa lỗi copylog không hoạt động trên iOS16
+ * Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.copylogfix16
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/com.bvn.copylogfix16_1.0.0_iphoneos-arm64.deb
+Size: 8612
+MD5sum: 972ae6b1781904dc2bdbf615b0194233
+SHA1: 26e7031e8492a9dd65c45ee8be8a456be8113f7b
+SHA256: 26ab231efb9a21dd4215531e3442c339738e2aa8efd817cbd8d92f4a620d0de7
+SHA512: 37e7f3fba7e207991fe0da0ad503f27a1bc747c7008d2d2ae0e3759973f7e9ade926640252f05c34b08a601ae147c21c94b7bf321374cd6a9f38384a9c83424b
+Description: Sửa lỗi copylog không hoạt động trên iOS16
+ * Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm
 Version: 1.4.3
