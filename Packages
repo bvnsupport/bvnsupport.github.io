@@ -13786,16 +13786,16 @@ Maintainer: BVN Repo
 Installed-Size: 576
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
 Filename: ./debs/com.bvn.fiona-rootless_1.0.7_iphoneos-arm.deb
-Size: 160318
-MD5sum: 8f3c0951233ba5f4150933f483b9ed34
-SHA1: d55f59fa8715bf768e42a2417cbb53a54556b2f2
-SHA256: 11186353c78407483cfd8c899b5b917ecced0fc961db84275ccad951e6ef9998
-SHA512: 50b39b24c5a541598c347a73526c150e4dc6fab8590bc69b990a42c92b1139728d6efc5e78cd0b0606acba424d935b0d82969f2a75d8a949a70fa52b5bd80a91
+Size: 160314
+MD5sum: 552c40f0126d729a7f9725f513c02a22
+SHA1: 8316d3040633073ecf8268308e6c4a76b1eea55a
+SHA256: cb1fc011488928463eb3b0194f3c57ad534d2ba065ed207c4ccac0e833cfa16f
+SHA512: f54a53722338e1399634633b60b514d26f4e95e39873b153ed254a147160516cbd90e6dbe34308f57f37f430e60734aa248a613c56cfb63747e316896a482bf9
 Description: Thanh Tab nổi cho thiết bị iOS.
-Name: Fiona VH(Rootless)
+Name: Fiona VH
 Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: yan
 
 Package: com.bvn.folderlist
