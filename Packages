@@ -13357,6 +13357,46 @@ Name: AutoTouch Crack
 Author: BVN Repo
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.b612patch
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.b612patch_0.0.1_iphoneos-arm.deb
+Size: 2701328
+MD5sum: 80ffe95a0c48a63a70d55f11a603564f
+SHA1: accad46cec6645f401f7b62b91e8e60d420770b1
+SHA256: 9b9364a174c2dd32354b61cf82c5c5e88dfebbf56d553dae149743569bce6553
+SHA512: f6dc7d7edee3b858ecdf6e50c20f60e34af2bc2f89dbbfbaf2ee071eda058b744c756ab620508a1e5514d4af30a75d0ea1bb9f112c0068f5460de3f799f53786
+Description: Mở khóa VIP B612
+Name: B612 Unlocked
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/B612.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/B612.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.b612patch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 2964
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.b612patch_0.0.1_iphoneos-arm64.deb
+Size: 2701384
+MD5sum: 653b614009c6c7af15dae414b95c8a45
+SHA1: 2839ea2fa7528368f9f44d51474f8e8e17e3bd97
+SHA256: 67846ec3b643af038af33f69e882e8d4d71069440711ca93f18ba011de619468
+SHA512: f5b5ef8406a3da488747a06365c05018abda426cc49cbe9f0c9328782eb15702ea3b7b12e572f9d50e4651b9fe6c125bea8e30fc5642e54562ec9aedcef87596
+Description: Mở khóa  VIP B612
+Name: B612 Unlocked (Rootless)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/B612.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/B612.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
