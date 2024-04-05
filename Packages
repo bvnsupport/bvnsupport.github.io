@@ -13778,6 +13778,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: yan
 
+Package: com.bvn.fiona-rootless
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.fiona-rootless_1.0.7_iphoneos-arm.deb
+Size: 160318
+MD5sum: 8f3c0951233ba5f4150933f483b9ed34
+SHA1: d55f59fa8715bf768e42a2417cbb53a54556b2f2
+SHA256: 11186353c78407483cfd8c899b5b917ecced0fc961db84275ccad951e6ef9998
+SHA512: 50b39b24c5a541598c347a73526c150e4dc6fab8590bc69b990a42c92b1139728d6efc5e78cd0b0606acba424d935b0d82969f2a75d8a949a70fa52b5bd80a91
+Description: Thanh Tab nổi cho thiết bị iOS.
+Name: Fiona VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: yan
+
 Package: com.bvn.folderlist
 Architecture: iphoneos-arm64
 Version: 1.0
