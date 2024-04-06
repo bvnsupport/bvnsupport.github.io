@@ -4893,6 +4893,35 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Conflicts: com.p2kdev.facebooknoads
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.4.2_iphoneos-arm.deb
+Size: 278102
+MD5sum: 6b714160de5696a99d2348edb327dbdf
+SHA1: 584602f6e42414ac16cf7b3e6cba90672d46b303
+SHA256: 8de3ed3c9ae99879181d193ee6d53cbb320bf5993c1020377e3472470ddf58b7
+SHA512: 5ca0601d3dacac57b6495da2cf5ae4b12ece5d489651365969245948c2a0355f98f556f4746cc5e6457bb391d473b6c5cf288bc5adb515c040148a1c4e502cc5
+Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
+ Tính Năng:
+ - Loại bỏ các quảng cáo
+ - Có thể tải xuống video (nhấn lâu để tải xuống)
+ - có thể tải câu chuyện
+ - chỉ có thể tôi hình ảnh hồ sơ
+ - Vô hiệu hóa truyện nhìn (xem câu chuyện của bạn bè mà không cho họ biết)
+ - Ẩn nhà soạn nhạc trên nguồn cấp dữ liệu tin tức
+ - Ẩn câu chuyện về nguồn cấp dữ liệu tin tức
+ - Hỗ trợ iOS 12-14
+ - Hỗ trợ phiên bản Facebook mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 307.0)
+Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Hao Nguyen
+
+Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.4.3-1
 Section: Tweaks
@@ -4906,6 +4935,27 @@ MD5sum: f704905556052ec4bfba819350be49f1
 SHA1: bcd7366334941b78285deba4e5a292f45b0fee84
 SHA256: e905c62301f3d9eec0208091f66bb606e780ec69740cf464346cfae5e4bf3c43
 SHA512: 6b2f69dc5a9c09d2dde5e49f0fa03c5dd3fc859fc770edb6813a2d485c30ffa8261d4c046e8a76e19beb403b8b2ce1f15f8367be0f283f0c28b7abb520c77f53
+Description: No Ads in the Facebook App!
+Name: Facebook No Ads (Rootless)
+Author: Haoict
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.4.3-2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0), emt.paisseon.xinamine
+Conflicts: com.p2kdev.facebooknoads
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.4.3-2_iphoneos-arm64.deb
+Size: 277364
+MD5sum: c254719b43b73dc708a4d32c156eb418
+SHA1: 1372a9ec7dbedaaeb961e47619c8cad60dc6725d
+SHA256: 415d91e4ea1de9d671cca0d96d8c25ba0d76eea82c9be03df802dc76a858c5fd
+SHA512: 62df1abc9e0a088af1f5eeac65afa97519562bd25fc9e82755667859ecbb53eebc5e8db74c797475b6ca122cfd3cc6332c66287e972a4c3f545d0e4f84da2c33
 Description: No Ads in the Facebook App!
 Name: Facebook No Ads (Rootless)
 Author: Haoict
