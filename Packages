@@ -17848,6 +17848,27 @@ Depiction: https://support-jailbreak.github.io/depictions/IconRotation.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/IconRotation.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.pullover-rootfull
+Architecture: iphoneos-arm
+Version: 2.1.5-3
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3376
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootfull_2.1.5-3_iphoneos-arm.deb
+Size: 975602
+MD5sum: f054b98c61cc889549d2acfa71a611a7
+SHA1: d7f6f0f61bd7294f9778afb6174bfe5c968987c8
+SHA256: a937dc427a2f5a70d6f85f00cfb2105b5b85046aa805daed0dbd610c746acfed
+SHA512: b48548e2dade2d3d18122863d1116a8d8f581f641817f4ac451aa337c241aa43177a16362222ec22e8d294a32ef48ac51c6e8571ff9541a5716270afde8dda75
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
+Name: PullOver Pro (Rootfull iOS 16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.reoobvn.pullover-roothide
 Architecture: iphoneos-arm64e
 Version: 2.1.5-2
