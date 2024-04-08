@@ -212,6 +212,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.vn.onesettings
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 1117
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm64.deb
+Size: 347782
+MD5sum: 1a221bc6cd7da4cefe86270eebe7c54c
+SHA1: 077832531cb78405df3daf2a1e9eae66cfac5072
+SHA256: 3b4e581eee57579e2c798665b6584f3d416789022db5e3eb1dde9f24b707c761
+SHA512: 6ec7a15c5b831b2e71d0431ee01cd492885ce023b36e88961a9ab3c3b16d49dc54a74c963d12e2999c84e32f2d102bd9e268c1b81502c7104526bb53b524e467
+Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
+Name: OneSettings VH(Rootless)
+Author: Nightwind
+Depiction: https://bvnsupport.github.io/depictions/OneSettings.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -14449,6 +14470,26 @@ Author: MTAC
 
 Package: com.bvn.lynxrootless
 Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2604
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.5.1_iphoneos-arm64.deb
+Size: 923942
+MD5sum: 762f251eefa786114e2a70af7aff7be6
+SHA1: 561b7e1f881a4fbb82deaf0aa94f84d8e5e8cf07
+SHA256: d4bcd3ef7b8cd77cc294944ee72bb5dc46de3a1dd5b5bdc438a3ca10fbec38f0
+SHA512: 9f3a3eb0a0d975def806c050fb2e7defb0597783d45253ce733872dcdc9fc6820e11165de13dfe2a9b49714b3d47275e2f4df7acf6735feaefe73c3c777fb0b1
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2 VH(Rootless)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
 Version: 2.5
 Section: Tweaks
 Maintainer: MTAC
@@ -14562,6 +14603,24 @@ Description: Xoá bản thông báo cập nhật Beta iOS
  - Removes Beta Expired Alerts
 Name: NoBetaAlert (Rootless)
 Author: Hitori
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.onessetingsvh
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.onessetingsvh_1.0.1_iphoneos-arm64.deb
+Size: 6410
+MD5sum: ede643aa28cd79b65eb7e087d58ee0e9
+SHA1: de878e362f68267925feaaf0d594868c021d1882
+SHA256: 82c15ec130acb22b5e56931c37dece6586b5809c4695f44870672ebc48c19e5c
+SHA512: 2d1f37f99d1c10062a78b72f4b2b78971c97ddab5729701b6780943988c9f336a11ba063655a0ac2aa3cadb617e079d274a7d4bfa878ce3dd1159e0ef382c192
+Description: Gói Tiếng Việt cho Tweaks OneSettings
+Name: OneSettings (Gói TV)
+Author: BVN
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.onessetingsvh

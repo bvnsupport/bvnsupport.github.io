@@ -1,0 +1,129 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Tinh chỉnh OneSettings\n\n- OneSettings là một tỉnh chỉnh cho ứng dụng Cài đặt. Nó bắt chước ứng dụng Cài đặt từ OneUI của Samsung sang iOS!\n\n- Bạn đã bao giờ muốn ẩn thanh tìm kiếm và ô tài khoản iCloud? Với OneSettings, bạn có thể làm được điều đó! Có rất nhiều tính năng và khả năng tùy chỉnh trong gói ưu tiên cho sở thích của bất kỳ người nào. Phụ đề cho các ô trong bảng? Chắc chắn rồi! Nền cài đặt tùy chỉnh? Tại sao không? Nội tiếp bảng xem và bán kính góc? Tất nhiên! Số lượng lưu trữ giả mạo? Vâng! Có rất nhiều, nhiều tính năng và hơn thế nữa sẽ có trong các bản cập nhật! \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OneSettings/Screenshots/7.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Nightwind"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.1.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"8/4/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"223 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 17.3"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.1.1\n\n- Sửa lỗi văng cài đặt trên Roothide JB"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
