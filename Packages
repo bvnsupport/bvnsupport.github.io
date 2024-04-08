@@ -14564,6 +14564,24 @@ Name: NoBetaAlert (Rootless)
 Author: Hitori
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.onessetingsvh
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.onessetingsvh_1.0_iphoneos-arm64.deb
+Size: 6392
+MD5sum: 740a5bf891a8c64a5caae20f029fcd83
+SHA1: e7521ef980d27d8cedeb64c681b8f01a6e958e0c
+SHA256: b6743ec834d751bc63c80b5ef3fad03cf992d3b1d15b52826e6836aa801fe191
+SHA512: b4d29f9ec6634900b63599deeea256208f6bd4bb49361b5bb2da11aaff2ad93ddddfda0395bbbda9b217cbc3ae73ec525d46192511a372c42a85d853d82d9d68
+Description: Gói Tiếng cho Tweaks OneSettings
+Name: OneSettings (Gói TV)
+Author: BVN
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
 Version: 1.0.2
