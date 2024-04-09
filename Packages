@@ -19484,6 +19484,26 @@ Author: Snail
 
 Package: com.snail.always120rl
 Architecture: iphoneos-arm64
+Version: 1.1.3-1
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, vn.bvn.snail-crack
+Conflicts: xyz.cypwn.snail, com.snail.always120, com.snail.always120.global
+Filename: ./debs/com.snail.always120rl_1.1.3-1_iphoneos-arm64.deb
+Size: 163564
+MD5sum: cd462bf012790b8923645624ab970175
+SHA1: 97e0b492506253bb80a31796a75e03dee5d7ebac
+SHA256: 559abf498b2b5b067fd00a2efa5ae1ffe17c14c027feb1a4496410fa7e90a93e
+SHA512: e09d74f86afbe1a91984405e58e7b04f096c0cb378b9778a2c8b28afaa25df660e998175556a8513250b1f70340a36b9b4502ac0d7cb53be825b1636b9c1ab78
+Description: Làm cho Thiết bị ProMotion iOS 15 tự động thích ứng/đạt tới 120Hz.
+Name: Always120 VH(Rootless)
+Author: Snail
+Depiction: http://bvnsupport.github.io/infodeb/Html/Always120.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Always120.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.snail.always120rl
+Architecture: iphoneos-arm64
 Version: 1.1.3
 Section: Tweaks
 Maintainer: BVN
