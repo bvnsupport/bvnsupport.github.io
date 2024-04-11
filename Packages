@@ -14623,6 +14623,26 @@ Name: NoBetaAlert (Rootless)
 Author: Hitori
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64.deb
+Size: 8100
+MD5sum: dec7bd5caaa2342caf2765bee95db0f6
+SHA1: 25b08b86ad3ae7cc701c78afbbf2b4e3ea467241
+SHA256: 7a649f301930cb7b7e48f93fad0ae9ed3bb5f365e9b1350c3bb7cc188c4862d5
+SHA512: d5593382f80fbfbf4d8851476191023d092fe658c3e203036f74fa1eb6e4a4f597cdffd67abcea95a36de10df46929d32d126c26b7dea928456c5a956b6414be
+Description: Thông báo yên tĩnh khi nhạc đang phát.
+Name: NoInterruptWhenPlayingMusic
+Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ginsu
+
 Package: com.bvn.onessetingsvh
 Architecture: iphoneos-arm64
 Version: 1.0.1
