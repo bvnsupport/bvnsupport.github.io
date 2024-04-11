@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"nointerruptwhenplayingmusic\n\n- Không làm âm thanh nhỏ đi khi có "Thông báo" \n\nㅤ\n\n",
+"markdown":"nointerruptwhenplayingmusic\n\n- Không làm âm thanh nhỏ đi khi có Thông báo tới \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -20,6 +20,9 @@
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Locke/Screenshots/1.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -47,7 +50,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Ginsu"
+"text":"Dell"
 },
 { "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
 {
@@ -63,7 +66,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.6.1"
+"text":"iOS 15 đến 16.6.1"
 },
 {
 "class":"DepictionLabelView",
