@@ -13568,13 +13568,13 @@ Version: 1.0.1
 Section: Tweaks
 Maintainer: BVN
 Installed-Size: 2668
-Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.comet, com.yan.lottie
+Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.comet, com.yan.lottie, gzip
 Filename: ./debs/com.bvn.bloom_1.0.1_iphoneos-arm64.deb
-Size: 778198
-MD5sum: 968b549af5f34bbe9eccffe84d32498d
-SHA1: 37d4c7f0ce20e5551f0d951295d154b75743535b
-SHA256: 0e11a1175c6e77dbfbcbb702f5b2ce8a5271740c31271c6580d183806ed7da06
-SHA512: c9df787e7405481617dc973a51d03d2d49f4ce8d72282d751ab73fd1c1c5333e9d5123902f7a18c0b3d1835123a4d75b02749a094226040225c3799edede998b
+Size: 778202
+MD5sum: b0738cb2a2f3632187d6d2288878a584
+SHA1: 8a1093d11c674568bf4fdd49f2b3fea2edd213ba
+SHA256: e7f2616d6bbb5d7b244466bcb0cce74a0297a2610681ccf0a2405c9c48ab8404
+SHA512: 8cd806729232bc1ffc4fbb22fd43603ba3c49253a2b16d2770ca96b6c9b515bda5453d7ddc1d54370724c16fa55ce21b88ce5cf3a6702fe67b2aeef49f2ed03a
 Description: Beautiful animated notifications.
 Name: Bloom (Rootless)
 Author: yan
