@@ -17456,6 +17456,25 @@ Author: Muirey03 <tommy.muir@btinternet.com>
 dev: muirey03
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
+Package: com.nan.bindfs
+Architecture: iphoneos-arm64
+Version: 0.4.1-1
+Section: Terminal_Support
+Maintainer: BVN Repo
+Depends: coreutils, sed, plutil, firmware (>> 14.0)
+Conflicts: mobilesubstrate (= 999)
+Filename: ./debs/com.nan.bindfs_0.4.1-1_iphoneos-arm64.deb
+Size: 9926
+MD5sum: a8e733b278b9f5379ac2f6e839561062
+SHA1: 2bfc097cfac596f8b08a9290dcd75ddad9b834c6
+SHA256: 055c82bf1c37fc5aba5669f916780261e51aa79f047155ca6ea5d20c9e555edb
+SHA512: ce80b2c75c507719cf8030d008dc760bfb968bc2ac934618174404f6704ded23e308129715ef2f4a5ee22630ad6449a5a938a32edc2d5e8eccd25d4646e649a3
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (Dopamine)
+Author: 无尽伤痛都锁进黑夜 & zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
 Package: com.niceios.nicebarx
 Architecture: iphoneos-arm
 Version: 3.0.0.5R
