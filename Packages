@@ -12093,48 +12093,6 @@ Name: BatteryHealth (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bienvannhat.filza64bit
-Architecture: iphoneos-arm64
-Version: 4.0.1-4
-Section: Utilities
-Maintainer: Biện Văn Nhật
-Installed-Size: 23200
-Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/com.bienvannhat.filza64bit_4.0.1-4_iphoneos-arm64.deb
-Size: 8707344
-MD5sum: 6d822852a18fa259b714b7fc2de70c00
-SHA1: d595f4f3e04e286de1878b54c2d6af953c26dd23
-SHA256: 3d022a05a15b65d37ae39628adfff0249c461e09cf0b79aef128dc608f47867f
-SHA512: 27e10d3f58d4b535b61e5240bc4f1dd6005c52cf3b445b2a10b4ce4e1cfe7ccd2cbddec17ff604ff092645fe39f8b36a4934df8303eddb6a7f70437acce50654
-Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 11+. Phiên bản này chỉ hỗ trợ các thiết bị 64-bit
-Name: Filza File Manager (Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-Author: TIGI Software
-
-Package: com.bienvannhat.filza64bit
-Architecture: iphoneos-arm64
-Version: 4.0.1-5
-Section: Utilities
-Maintainer: Biện Văn Nhật
-Installed-Size: 23200
-Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/com.bienvannhat.filza64bit_4.0.1-5_iphoneos-arm64.deb
-Size: 8707346
-MD5sum: dd5eab225d7ca544b7b0c95d8fe4252f
-SHA1: 3adf646b9b9e5cb7fc52685625941975e35864e9
-SHA256: a00a9fb2d68c7c18bf4378e0342c47773940e14048aa5f0343a94d30bc42dda2
-SHA512: f5621db57b4989e0d0445a25e8fdfdd9598b6ad0b179e9a7d621d9e8079df72f57fbc485ebc0744f61a79102eab13c7cf4d96435eddce3e4cdaf06401214491c
-Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 11+. Phiên bản này chỉ hỗ trợ các thiết bị 64-bit
-Name: Filza File Manager 64-bit (Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-Author: TIGI Software
-
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -12933,6 +12891,25 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.Alexana
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.Alexana_1.0_iphoneos-arm64.deb
+Size: 8338
+MD5sum: e59ca610b7ff79db8e4f73836076d59a
+SHA1: 0678c6c941ed0a47cc64662e47ee6e97c12be973
+SHA256: 75965eb5fa8cd806b9bd81cf4044727323122df5544ebd08fa252e3f445cd59b
+SHA512: 7d4b5dade4f40b0de5371700f00c9019a32759213bfc214f08c7c96ce9014e37a2d24e5c7bee5aa9a013dcc007355bb8cd31acbbc5360f119cb6272c2556142b
+Description: Phông chữ cho AIM
+Name: Alexana (Rootless)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/Alexana.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Alexana.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.AppCrack
 Architecture: iphoneos-arm64
 Version: 0.1-1
@@ -12970,6 +12947,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Christmas.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Christmas.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.Exodar
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.Exodar_1.0_iphoneos-arm64.deb
+Size: 12828
+MD5sum: e90395555c1f0bf474d68389593864f6
+SHA1: f3be8c3e9e462818a500952cca9fa62443c6252b
+SHA256: 3045e4393a0ed5b3e0a2cefa0676863d2eda340a0dd3957d4f9bcf21140d0ffe
+SHA512: f96a09404da5fa85af90ee93e5086548c6663c3e2fcd57b4d88771d6486d976836c2b6e9227572f4420283790e96f8ee1d327f698a2fb082fc04168503368cd9
+Description: Phông chữ cho AIM
+Name: Exodar (Rootless)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/ExodarO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Exodar.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.ITCBauhausR
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -12987,6 +12983,63 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ITCBauhausR.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ITCBauhausR.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unknown
+
+Package: com.bvn.KroppenFwO
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.KroppenFwO_1.0_iphoneos-arm64.deb
+Size: 14468
+MD5sum: d8e41597ee7280acfd7addae6460fc1f
+SHA1: 99d70e9d78a097e336ba24395e70cbff6c3306c5
+SHA256: c22fdf8308ce497c46b7b0946469c1193e3f7728497f3139ec0dceedfd2eaa05
+SHA512: de3737f8c23cef2c41c50663c8f3c6ff3ca594e44882b16bed8bb81ce02d674f1d8e3e7848dba91b1e3ea580f292351bb889a9f09e497727c383ff9f45cc6732
+Description: Phông chữ cho AIM
+Name: Kroppen FwO (Rootless)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenFwO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenFwO.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.KroppenOutline
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.KroppenOutline_1.0_iphoneos-arm64.deb
+Size: 13534
+MD5sum: 2dfd5ba9b04ec601bd525f8ca2341271
+SHA1: 481e8dcd927dce06ee99d3d6d81291d21ba85b72
+SHA256: edb66ded64651a352a1dbdd0fb25bd79b282e4277a74fdd8b530126c5650352e
+SHA512: 0ead69dd177f20aff6bbc104c57ed76c1e91b0f2b9936ffcac905760aeab234e8969b72bd960c6a5c0dc28a4146717964d5800509f4a47f9f7b40bb66ae67152
+Description: Phông chữ cho AIM
+Name: Kroppen Outline (Rootless)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenOutline.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenOutline.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.KroppenRound
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.KroppenRound_1.0_iphoneos-arm64.deb
+Size: 8402
+MD5sum: c7887a0ec53dfde6170496bfe874164b
+SHA1: 3997db1d9be22b5946ecaef114e326a8fa8128af
+SHA256: e71e4b96de737aa034662772ba3d19769cef47ba338ab964fa8c3904f5c6ae4b
+SHA512: ba158c4e294788353fccce2b628767c1d366a1ebdfb432a540a4f022395a4a5022fc71ef118cfb82e92f8dc4afd1bc79f7cabef6af0536084709e610988a8b63
+Description: Phông chữ cho AIM
+Name: Kroppen Round (Rootless)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenRound.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenRound.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.LS-16-Constance
 Architecture: iphoneos-arm64
@@ -16417,27 +16470,6 @@ Name: Filza File Manager VH
 Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
-Author: TIGI Software
-
-Package: com.bvnsupport.filza
-Architecture: iphoneos-arm64
-Version: 4.0.1-2
-Section: Utilities
-Maintainer: TIGI Software
-Installed-Size: 34948
-Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
-Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/com.bvnsupport.filza_4.0.1-2_iphoneos-arm64.deb
-Size: 13936026
-MD5sum: b343eb95c91925b897791796879b53b7
-SHA1: 7e1c2a4ec79bf526ec690b96cdeeae4c31dfd3f4
-SHA256: bbfdd4800b455a42914bae07f9e5bc040ae847e58bfd78932dec406f178ae6f0
-SHA512: 258faa6b6797170adc396659595b11d8485a150d56f3abef0d636fffc9344a4cd5064278c7f39aa2bd2ef55a3659c2e0c4c8c0eb0157783ee65b6a3cd2c788bd
-Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
-Name: Filza File Manager (Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 Author: TIGI Software
 
 Package: com.bvnsupport.jailbreak.github.io.icon
@@ -21699,6 +21731,51 @@ Name: HideJB
 dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64
+Version: 4.0.1-5K
+Section: Utilities
+Maintainer: Biện Văn Nhật
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39, com.bienvannhat.filza64bit
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-5K_iphoneos-arm64.deb
+Size: 8707346
+MD5sum: aff853787f7dc793d045fe7a0c758a5b
+SHA1: 076daa9e6b36263aaa0de4cc6f1d66eaa0c9355d
+SHA256: a948d1c997246b6c1853f1a47bdbc4901e1c8d040d9c799da65fbaf9bd433f92
+SHA512: 4f11b42a07d8d6a61bab320c2d58543e519196e96011291c1bf086d90b87f1648af40de54772d8b3e201e22ac128eb8536071b9e619eea648adfa37f35da806b
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 11+. Phiên bản này chỉ hỗ trợ các thiết bị 64-bit
+Name: Filza File Manager 64-bit (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Filza/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: TIGI Software
+
+Package: com.tigisoftware.filza
+Architecture: iphoneos-arm64
+Version: 4.0.1-3K
+Priority: optional
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 31822
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39, com.bvnsupport.filza
+Filename: ./debs/com.tigisoftware.filza_4.0.1-3K_iphoneos-arm64.deb
+Size: 13915516
+MD5sum: 2f11c0946c874eb1c4a4bb73ba6eb763
+SHA1: db14e45e190d25844aaf3069edd00966f045d91e
+SHA256: a62265e720bd30a5b2c5b55257d9820483c8b82cfe79548f373dd1afb703e3ab
+SHA512: c59a853d6ee53f911d8d624159984f8b060ebea553446bcfac478ca976ad2131d0dc12e84b0c7749174c59979f9216745e12ab97e656f1c58177a2a91f0c9543
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Name: Filza File Manager
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64
 Version: 2.5.1
@@ -23978,6 +24055,27 @@ SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e21
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-2
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-2_iphoneos-arm64.deb
+Size: 123980
+MD5sum: 24284c1d9ed1ab93a17727b19701163a
+SHA1: a21ec8f18845156f74eda26982cf5e05750a9fdf
+SHA256: bc33af5a7367e369cd8713a5dab7526b816ebefb7d9d2106e38f88d793a247a9
+SHA512: 0a05d1341c4622e358b8290fb7927a09d904287ce0049df81cc6ebb5e97bc9572b2ae97453b7f7239b27233ae7f3e9e45dd9b1c4f7b5d36dbec04122d619367b
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2282
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
