@@ -14734,6 +14734,23 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/masktet.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/masktet.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.misakivh
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.misakivh_1.0_iphoneos-arm64.deb
+Size: 3984
+MD5sum: 73eea6cb3f17e70ae19c4ee8a71ca775
+SHA1: 64f6afc410cfc5b77e9556bf078ebd1ee10a933b
+SHA256: f74f659a549548e4d037c4d1ce83693148f8ba6e42f38410a5447a468a61e243
+SHA512: 98cca37abd1892f27d320ca8736bafd9ce4582b6b6bc52071174f6a15bfa50ad7f84f19f45764ee8a4f48e317720bdd561377c76f85508f15c287ca09536b7d8
+Description: Gói Tiếng Việt dành cho Tweak Misaki
+Author: BVN Repo
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Misaki (Gói TV)
+
 Package: com.bvn.nct
 Architecture: iphoneos-arm64
 Version: 1.0.0
