@@ -23688,6 +23688,26 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: vn.bvn.T9Dialer
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 23200
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, firmware (>= 15.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/vn.bvn.T9Dialer_1.2.0_iphoneos-arm64.deb
+Size: 69028
+MD5sum: 5a2eae710ecaf8f4643548872060d8af
+SHA1: fc3acc200a52fa23f82a64de20b30cc115acb59e
+SHA256: f04b821f6721a3edd3472dffd8903a055e3416acc36cfd187cb1260a577c303f
+SHA512: ef305511cc121ed591055db747879ea7eff8cdff46803e8b0e499d16ebd1d42aed09efee8d169076970f5757d54349bb2a6d424af5bb3922c6304cc91fe8600e
+Description: Hiển thị tìm kiếm theo tên hoặc số điện thoại
+Name: T9Dialer VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/T9Dialer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/T9Dialer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Jordan Koch
+
 Package: vn.bvn.bigsurcenter
 Architecture: iphoneos-arm64
 Version: 1.4.4R
