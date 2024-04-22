@@ -13918,6 +13918,23 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.disablescreentime
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Filename: ./debs/com.bvn.disablescreentime.deb
+Size: 1294
+MD5sum: 4aa5b9dedf608f641e6f8949f84b3224
+SHA1: 9819614fcca30f1590dc69df193dcc3994e654dd
+SHA256: 7fcc2c47c400a8ac30ab19b330b1f0ead7a94d83b29392156f54ebeb78cede0f
+SHA512: 454cfe27b281aa4f9e6a2257a6d658852a38b713281326574ff57ad1d30777ea2e1f6eb9cb439fbc97f58874c1cfbdd031f4722510a974b21868bfbf32237771
+Description: Tắt thời gian sử dụng trên thiết bị của bạn,nếu bạn bị quên mật khẩu thời gian sử dụng hãy sử dụng Tweak này để tắt nó.
+ * This package provides a script that disables Screen Time functionality on iOS devices.
+Name: Disable Screen Time
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Hitori
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -14775,6 +14792,23 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
+
+Package: com.bvn.ntspeed
+Architecture: iphoneos-arm64
+Version: 0.2~beta9
+Section: Tweaks
+Maintainer: Repo Bvn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.ntspeed.deb
+Size: 93356
+MD5sum: a8a51358dc69aaad8586073bbe532971
+SHA1: 2e6320fde37721d356d566b4cbc755fc703bbcb5
+SHA256: 3c46003834866d36d1ae26eca83fb2bcdb4c07dd89ef4ecd9e1bf1edada31f47
+SHA512: e57bcae2e3d4f050f4863d2b435014b66a867e4e27984133167ca91a520091c7a991a79ac29c40032afbc4fdea93579157ddce8058fd1a5007776e3d7ed9472d
+Description: Hiển thị tốc độ mạng ở thanh trạng thái.Hỗ trợ ios 15." tới ios 16.7
+Name: NtSpeed (Rootless)
+Author: Julioverne
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.onessetingsvh
 Architecture: iphoneos-arm64
@@ -24095,6 +24129,27 @@ SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e21
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-2
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-2_iphoneos-arm64.deb
+Size: 123980
+MD5sum: 24284c1d9ed1ab93a17727b19701163a
+SHA1: a21ec8f18845156f74eda26982cf5e05750a9fdf
+SHA256: bc33af5a7367e369cd8713a5dab7526b816ebefb7d9d2106e38f88d793a247a9
+SHA512: 0a05d1341c4622e358b8290fb7927a09d904287ce0049df81cc6ebb5e97bc9572b2ae97453b7f7239b27233ae7f3e9e45dd9b1c4f7b5d36dbec04122d619367b
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2282
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
