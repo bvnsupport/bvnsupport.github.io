@@ -23745,6 +23745,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: vn.bvn.misaki
+Architecture: iphoneos-arm64
+Version: 2.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, com.bvn.misakivh
+Filename: ./debs/vn.bvn.misaki_2.0.2_iphoneos-arm64.deb
+Size: 331518
+MD5sum: 679b279d523fbcb00e5c52bc8af924aa
+SHA1: 4d4ce9d3ca1d75d35512f20f0604a3b658efa1c7
+SHA256: 5eef7bc8bc145b9e78aa008acf8b8e084c57ea0c757036cf71c29ae4ed816068
+SHA512: 389a6584e04d34b711b45f470a6e3acbf7255b25b485d4721e7e2b0238a244850a04ad2faf2f9f7b84f9dfa7e678b7cce29e962bd9b23a1226ef6048b12a6602
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Misaki.html
+SileoDepiction: https:// bvnsupport.github.io/sileodepictions/Misaki.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Hitori
+Name: Misaki VH(Rootless)
+Field: 12345.67891.2345678
+
 Package: vn.bvn.nfcwriterx-rootless
 Architecture: iphoneos-arm64
 Version: 4.0-4+debug
