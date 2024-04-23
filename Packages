@@ -24187,27 +24187,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
 
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-2
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-2_iphoneos-arm64.deb
-Size: 123980
-MD5sum: 24284c1d9ed1ab93a17727b19701163a
-SHA1: a21ec8f18845156f74eda26982cf5e05750a9fdf
-SHA256: bc33af5a7367e369cd8713a5dab7526b816ebefb7d9d2106e38f88d793a247a9
-SHA512: 0a05d1341c4622e358b8290fb7927a09d904287ce0049df81cc6ebb5e97bc9572b2ae97453b7f7239b27233ae7f3e9e45dd9b1c4f7b5d36dbec04122d619367b
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2282
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
 Version: 1.1.29
