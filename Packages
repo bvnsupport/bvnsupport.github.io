@@ -221,15 +221,15 @@ Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
 Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm64.deb
-Size: 347782
-MD5sum: 1a221bc6cd7da4cefe86270eebe7c54c
-SHA1: 077832531cb78405df3daf2a1e9eae66cfac5072
-SHA256: 3b4e581eee57579e2c798665b6584f3d416789022db5e3eb1dde9f24b707c761
-SHA512: 6ec7a15c5b831b2e71d0431ee01cd492885ce023b36e88961a9ab3c3b16d49dc54a74c963d12e2999c84e32f2d102bd9e268c1b81502c7104526bb53b524e467
+Size: 347798
+MD5sum: c7b0ab3691fc1e4f9088d2cda98c0f3f
+SHA1: e43554a1cdbbac2e8ad85dc7dd3960c3fe97b878
+SHA256: 27b0371b265bfec5680f0bf41b3d641788cfb14595180b7197d98eb7f22fe77d
+SHA512: 0c20d341a608758fd2712ec44a9448337571325df9dc33cbd646d1f1e574812134c883813c96dc75215ec9b5d1649aa835a6e52917b3bab3ab0584ed00e8bc7a
 Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
 Name: OneSettings VH(Rootless)
 Author: Nightwind
-Depiction: https://bvnsupport.github.io/depictions/OneSettings.html
+Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
@@ -24186,6 +24186,27 @@ SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e21
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-2
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-2_iphoneos-arm64.deb
+Size: 123980
+MD5sum: 24284c1d9ed1ab93a17727b19701163a
+SHA1: a21ec8f18845156f74eda26982cf5e05750a9fdf
+SHA256: bc33af5a7367e369cd8713a5dab7526b816ebefb7d9d2106e38f88d793a247a9
+SHA512: 0a05d1341c4622e358b8290fb7927a09d904287ce0049df81cc6ebb5e97bc9572b2ae97453b7f7239b27233ae7f3e9e45dd9b1c4f7b5d36dbec04122d619367b
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2282
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
