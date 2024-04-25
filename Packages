@@ -23756,11 +23756,11 @@ Maintainer: BVN Repo
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Conflicts: com.bvn.misakivh
 Filename: ./debs/vn.bvn.misaki_2.0.4_iphoneos-arm64.deb
-Size: 328228
-MD5sum: daefcd8775194e29f174288b3f561e25
-SHA1: 048e415ca9a45a09f0e2e32036248b8a5e0ba664
-SHA256: 1140fa198c8a393d4bf99475c53ab77f226911ae1df0235f389394e9f482c795
-SHA512: 4bf8537e8c75d37940aee2433e41f1db2a6000beb42feab9cf2c6220bda6acfffcf20024b02b1e485f5dfae41800b94115eced477fab1d54059d7b214ac7595e
+Size: 328210
+MD5sum: 645b0dd65077f88245995be356968816
+SHA1: 1fe69a16893742dabb5ea23be6787390a800ce0a
+SHA256: 438203a62460d423abbed887e9e8a2eac82897c71b1f431d4a8abc21175008ce
+SHA512: 3be4eb369055d40561c7cc789e4536b288bac8b9c670b8a157bbf6c38a4b4d24c3a9b3eeb08dbb4b3d344ee197284d772649e72533b656e967518fc5429d0241
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Depiction: http://bvnsupport.github.io/infodeb/Html/misa.html
 SileoDepiction: https:// bvnsupport.github.io/sileodepictions/Misaki.json
@@ -23771,6 +23771,7 @@ Wutdis1: 123.456789.012345
 Wusdat2: 12345678901234567890123456789.012
 Wutdis3: 1234567890123456.78901234567890
 Wusdat4: 123456789012345678901234567890123456.7
+Whutrthoze: 123456 7890123456789012345.678
 
 Package: vn.bvn.nfcwriterx-rootless
 Architecture: iphoneos-arm64
