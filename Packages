@@ -14734,23 +14734,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/masktet.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/masktet.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
-Package: com.bvn.misakivh
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.misakivh_1.0_iphoneos-arm64.deb
-Size: 3984
-MD5sum: 73eea6cb3f17e70ae19c4ee8a71ca775
-SHA1: 64f6afc410cfc5b77e9556bf078ebd1ee10a933b
-SHA256: f74f659a549548e4d037c4d1ce83693148f8ba6e42f38410a5447a468a61e243
-SHA512: 98cca37abd1892f27d320ca8736bafd9ce4582b6b6bc52071174f6a15bfa50ad7f84f19f45764ee8a4f48e317720bdd561377c76f85508f15c287ca09536b7d8
-Description: Gói Tiếng Việt dành cho Tweak Misaki
-Author: BVN Repo
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Misaki (Gói TV)
-
 Package: com.bvn.nct
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -23764,6 +23747,30 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hitori
 Name: Misaki VH(Rootless)
 Field: 12345.67891.2345678
+
+Package: vn.bvn.misaki
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Conflicts: com.bvn.misakivh
+Filename: ./debs/vn.bvn.misaki_2.0.4_iphoneos-arm64.deb
+Size: 328228
+MD5sum: daefcd8775194e29f174288b3f561e25
+SHA1: 048e415ca9a45a09f0e2e32036248b8a5e0ba664
+SHA256: 1140fa198c8a393d4bf99475c53ab77f226911ae1df0235f389394e9f482c795
+SHA512: 4bf8537e8c75d37940aee2433e41f1db2a6000beb42feab9cf2c6220bda6acfffcf20024b02b1e485f5dfae41800b94115eced477fab1d54059d7b214ac7595e
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Depiction: http://bvnsupport.github.io/infodeb/Html/misa.html
+SileoDepiction: https:// bvnsupport.github.io/sileodepictions/Misaki.json
+Author: Hitori
+Name: Misaki VH(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Wutdis1: 123.456789.012345
+Wusdat2: 12345678901234567890123456789.012
+Wutdis3: 1234567890123456.78901234567890
+Wusdat4: 123456789012345678901234567890123456.7
 
 Package: vn.bvn.nfcwriterx-rootless
 Architecture: iphoneos-arm64
