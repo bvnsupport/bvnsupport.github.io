@@ -18169,6 +18169,27 @@ Depiction: https://bvnsupport.github.io/depictions/PullOver.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.reoobvn.pullover-rootfull
+Architecture: iphoneos-arm
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootfull_2.1.6_iphoneos-arm.deb
+Size: 980410
+MD5sum: 2707f91314cfc2f5da44e96af1e1b1c4
+SHA1: 73aaca2c21f4896bccfbc712094cf0da833e4df9
+SHA256: dc7e0a215e39e436e5fd80ed17ccf101841c4c2e376432caf54d9eb09a562477
+SHA512: 902be38c0e94cc4a7eaec2dbe961ac9d19f5af525bd9840ec5b1559951801f5ec1666d843061583e6497548c14a9ba0ef129284e2466cc9a004a0a7924fb4e24
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro VH(Rootfull iOS16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.pullover-roothide
 Architecture: iphoneos-arm64e
 Version: 2.1.5-2
