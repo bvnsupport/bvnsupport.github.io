@@ -18378,6 +18378,27 @@ Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.pullover-rootless
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootless_2.1.6_iphoneos-arm64.deb
+Size: 980706
+MD5sum: 40dc306dfc42554c92e7dd61793d5a43
+SHA1: 167da8a3118a69c02c6d5df1b201941d5dfc4d28
+SHA256: e97b8cdd25067d82cd809189ca17b10735b07319652fb5e63932e722cc70ddae
+SHA512: 8f290bccf33c89d1621ec94f937081fcca86274d1284db263496f0035c74cc682003f5c45437b854e4529da4e665b0bc1cdc17f809046921c7791b4a143dd9b0
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro VH(Rootless iOS 15/16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.satella-rootless
 Architecture: iphoneos-arm64
 Version: 1.8.0
