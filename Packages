@@ -23733,45 +23733,20 @@ Architecture: iphoneos-arm64
 Version: 2.0.2
 Section: Tweaks
 Maintainer: BVN Repo
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, com.bvn.misakivh
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: ./debs/vn.bvn.misaki_2.0.2_iphoneos-arm64.deb
-Size: 331518
-MD5sum: 679b279d523fbcb00e5c52bc8af924aa
-SHA1: 4d4ce9d3ca1d75d35512f20f0604a3b658efa1c7
-SHA256: 5eef7bc8bc145b9e78aa008acf8b8e084c57ea0c757036cf71c29ae4ed816068
-SHA512: 389a6584e04d34b711b45f470a6e3acbf7255b25b485d4721e7e2b0238a244850a04ad2faf2f9f7b84f9dfa7e678b7cce29e962bd9b23a1226ef6048b12a6602
+Size: 337012
+MD5sum: db053b29e713c14e5c53f326b6c6937f
+SHA1: 5ac422f3062dc512ae117ef95cddb96c71a2f945
+SHA256: 05e939e92f7608a3cbcfd4741c866b1fe9dc0f68858eb19013e3d0a5995fdcbd
+SHA512: e2ed576a1e6e99efd97d9387b324549fff81ee676e8ee513da12b6bb0ee44dda5f5a4576ed85b1c9c0fa09ccc40adbb5e0241f09d3a55934bc1c9ef3a1fb9dc5
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Depiction: http://bvnsupport.github.io/infodeb/Html/Misaki.html
-SileoDepiction: https:// bvnsupport.github.io/sileodepictions/Misaki.json
+Depiction: http://bvnsupport.github.io/infodeb/Html/misa.html
+SileoDepiction: https:// bvnsupport.github.io/sileodepictions/misaki.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hitori
 Name: Misaki VH(Rootless)
 Field: 12345.67891.2345678
-
-Package: vn.bvn.misaki
-Architecture: iphoneos-arm64
-Version: 2.0.4
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Conflicts: com.bvn.misakivh
-Filename: ./debs/vn.bvn.misaki_2.0.4_iphoneos-arm64.deb
-Size: 328210
-MD5sum: 645b0dd65077f88245995be356968816
-SHA1: 1fe69a16893742dabb5ea23be6787390a800ce0a
-SHA256: 438203a62460d423abbed887e9e8a2eac82897c71b1f431d4a8abc21175008ce
-SHA512: 3be4eb369055d40561c7cc789e4536b288bac8b9c670b8a157bbf6c38a4b4d24c3a9b3eeb08dbb4b3d344ee197284d772649e72533b656e967518fc5429d0241
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Depiction: http://bvnsupport.github.io/infodeb/Html/misa.html
-SileoDepiction: https:// bvnsupport.github.io/sileodepictions/Misaki.json
-Author: Hitori
-Name: Misaki VH(Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Wutdis1: 123.456789.012345
-Wusdat2: 12345678901234567890123456789.012
-Wutdis3: 1234567890123456.78901234567890
-Wusdat4: 123456789012345678901234567890123456.7
-Whutrthoze: 123456 7890123456789012345.678
 
 Package: vn.bvn.nfcwriterx-rootless
 Architecture: iphoneos-arm64
