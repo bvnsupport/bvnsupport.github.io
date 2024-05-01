@@ -13250,6 +13250,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Swipe Left To Back
 Author: Mao
 
+Package: com.bvn.VisionOS
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Theme Rootless
+Maintainer: Repo BVN
+Depends: com.bvn.VisionOS-p
+Conflicts: xyz.cypwn.visionos, com.checOver.visionos
+Filename: ./debs/com.bvn.VisionOS_2.5_iphoneos-arm64.deb
+Size: 63349628
+MD5sum: c00d08cb9e579cae79045e002bdabb7e
+SHA1: d0fa61f7bc7e0a06a83376496f0b5a3ed2896bac
+SHA256: 4964020f90a0669b72d4f10ef2ad24fb0b032d0509e44be7a8714b548a2b3a0d
+SHA512: 1cb90128faab1172af1e0b84ab43a570014a409e4431033d058755010e203998e60cf07c390fd883bdf67f2cb0ae88d16c7f0560c042da0d652d2caa26e9ae9c
+Description: Chủ đề VisionOS Kích hoạt qua Tinh chỉnh Snowboard
+Name: VisionOS (Rootless)
+Author: Billie
+Depiction: http://bvnsupport.github.io/infodeb/Html/VisionOS.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisionOS.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.1
