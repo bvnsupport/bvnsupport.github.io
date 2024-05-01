@@ -13250,38 +13250,19 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Swipe Left To Back
 Author: Mao
 
-Package: com.bvn.VisionOS-p
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: Theme Rootless
-Maintainer: Repo BVN
-Conflicts: xyz.cypwn.visionos, com.checOver.visionos
-Filename: ./debs/com.bvn.VisionOS-p_2.5_iphoneos-arm64.deb
-Size: 63515904
-MD5sum: d59640a736a1e11c4ba48cc1d0416765
-SHA1: ea2c0b3f775cc0ef73d896cc74031f41f8adb32d
-SHA256: ef3c06ce66b4b4731a9602b8875c4aece2d38dcc0a1766030005895b809f482d
-SHA512: 30a327c1718e16840ff439e1014dd3acdd757c28afb3afdb7e7778490e40da61495d5e34d7885c9042f014049f51944398c1c3b67150318a056e0bae4875983f
-Description: Chủ đề VisionOS Kích hoạt qua Tinh chỉnh Snowboard
-Name: VisionOS (Rootless)
-Author: Billie
-Depiction: http://bvnsupport.github.io/infodeb/Html/VisionOS.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisionOS.json
-Icon: file:///var/jb/Library/IconRepo/chudee1.png
-
 Package: com.bvn.VisionOS
 Architecture: iphoneos-arm64
 Version: 2.5
 Section: Theme Rootless
 Maintainer: Repo BVN
-Depends: com.bvn.VisionOS-p
+Depends: com.bvn.phutro
 Conflicts: xyz.cypwn.visionos, com.checOver.visionos
 Filename: ./debs/com.bvn.VisionOS_2.5_iphoneos-arm64.deb
-Size: 63349628
-MD5sum: c00d08cb9e579cae79045e002bdabb7e
-SHA1: d0fa61f7bc7e0a06a83376496f0b5a3ed2896bac
-SHA256: 4964020f90a0669b72d4f10ef2ad24fb0b032d0509e44be7a8714b548a2b3a0d
-SHA512: 1cb90128faab1172af1e0b84ab43a570014a409e4431033d058755010e203998e60cf07c390fd883bdf67f2cb0ae88d16c7f0560c042da0d652d2caa26e9ae9c
+Size: 63349668
+MD5sum: b02b6f917dfc6018f4996f8a57cb71bf
+SHA1: e2415f07ca37d45b4b7f4eafd066c58ba1c9d9b0
+SHA256: 94877e9e58506b769ae21c477a08406a246b85464a06438b5a995dbe1d37ce72
+SHA512: d2d3b431cca50702874048053bd04d1d2634ecd8954e62d257523a615a9668817b7198aeb712029c222ea538887dddc0afb0af0d98b9576001c5191e06585cae
 Description: Chủ đề VisionOS Kích hoạt qua Tinh chỉnh Snowboard
 Name: VisionOS (Rootless)
 Author: Billie
@@ -14884,6 +14865,22 @@ Description: Gói Tiếng Việt cho Tweaks OneSettings
 Name: OneSettings (Gói TV)
 Author: BVN
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.phutro
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Theme Rootless
+Maintainer: Repo BVN
+Filename: ./debs/com.bvn.phutro_2.5_iphoneos-arm64.deb
+Size: 63515794
+MD5sum: da6b722fe7acbfd1f1ec06b90eba9eaf
+SHA1: eb778aaa745409637e4bbabcf7fe0d620faf76e2
+SHA256: 8c095f2bb6aca7c8c29e2697eb7329aa5f4da4b02ce36fbb96b25e666323fee6
+SHA512: b868c9d24de7283bda238fe1e7a7be7885dab973c26a4d0b49504d3b7ad21a6c2a0711cbca4102f227692ac1e732464331db17aaf9ed641245afbc15594d55ee
+Description: Chủ đề VisionOS Kích hoạt qua Tinh chỉnh Snowboard
+Name: VisionOS (Gói phụ)
+Author: Billie
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
