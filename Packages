@@ -213,6 +213,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.vn.onesettings
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 1117
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm.deb
+Size: 372060
+MD5sum: 97127915f408d351070730cd0111a1d9
+SHA1: f1e4f44b55c7f16b1bfc3f3c7e1291fb4713e241
+SHA256: c0c74ae2ba6a01266ff35fa27bb509ff25d7847f6c7997c38f9101912cd1e1c5
+SHA512: f7fe6c7e0c63abf8e7020af81340101f3921004b9f679901be4d998f6783195d91f976337a3502bcb6c183b903aaeb9fc06b02aef4755fafe85415282f38e7e3
+Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
+Name: OneSettings VH
+Author: Nightwind
+Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.vn.onesettings
 Architecture: iphoneos-arm64
 Version: 2.1.1
 Section: Tweaks
@@ -7366,44 +7387,6 @@ SHA512: 57c30159dcd4f06d7bc9b588ca5266ff69eb3f73ac6f5a2f29d16b25d3741b3198ad5bbf
 Description: Hiển thị tốc độ mạng ở thanh trạng thái.Hỗ trợ ios 6 tới ios 14.9
 Name: NtSpeed VH
 Author: Julioverne
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.onesettings
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate (>= 0.9.5000), com.BIENVANNHAT.libgcuniversal, ws.hbang.common, preferenceloader
-Filename: ./debs/com.BIENVANNHAT.onesettings_1.0.2_iphoneos-arm.deb
-Size: 992214
-MD5sum: 701333c6feb422ff81a572e7750f17ab
-SHA1: 8c55f49e1706f1ea75e6bdc3eaeb255a525b06ff
-SHA256: d9d330c5a06d666267d1a55b30e3378b91b481d8d64f13575c4f6d41d664e515
-SHA512: e778102cf77db2b0cfc5cc20d2ffd9e20f4ce749a50bd8402d0278a883b4e3db2fa519f81c73ec0977411e5cc1133472291ebdce62cd730f076a7ed687554050
-Description: Cấu hình cho ứng dụng Cài đặt của bạn!
-Name: OneSettings Việt Hoá
-Author: Nightwind
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.onesettings
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.onesettings
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.onesettings
-Architecture: iphoneos-arm
-Version: 1.2.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate (>= 0.9.5000), com.BIENVANNHAT.libgcuniversal, preferenceloader
-Filename: ./debs/com.BIENVANNHAT.onesettings_1.2.0_iphoneos-arm.deb
-Size: 1738064
-MD5sum: 3fa9dffc5f46e56219d2ad8a644e9943
-SHA1: 5f8a1bc21fef2a4a4da1dffbbf83c911e1c57e27
-SHA256: c8cc35ed0695d6c654bced9e403efc96ec97a9fc387f2fc86c9dd5647c6df369
-SHA512: d37c91e1e3761ca84c4e08760fb7383ca081a6f0f229e336b496d27ed3856965a8dc51c51c3518f47153302c96ac51e026d0d8b30b48e0533051b22edd7607f6
-Description: Cấu hình cho ứng dụng Cài đặt của bạn!
-Name: OneSettings Việt Hoá
-Author: Nightwind
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.onesettings
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.onesettings
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.orionappstoreapps
