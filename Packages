@@ -13680,6 +13680,24 @@ Name: CAHighFPS VH(Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.callblocker
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.callblocker.deb
+Size: 80976
+MD5sum: eac9629aa455a137d5f7a8646d3583b7
+SHA1: a7a86b3ac8dbdb6f46e95ba1708e2b848a8f0b02
+SHA256: a8ad788fe341416cc6a559aa5680b14754f9f96a3ee9b20a4a34dff7f2fbda0e
+SHA512: e4632affb854e32c49606522c96fa793e50ae3fa9124787bc232df74c17387ed2bdcdff645de8fb3fa3e7609aec6ba6bdbfbec0c357a5ff4aae199648ee1ddb1
+Description: Chặn cuộc gọi nâng cao hơn.Cho phép bạn chặn các cuộc gọi đến theo ý thích của mình. Có thể chặn cả số điện thoại chưa lưu và dù bị chặn nhưng nếu người bị chặn gọi cho bạn thì sẽ vẫn hiển thị ở nhật ký cuộc gọi để bạn biết.Hỗ trợ Ios 15.0 tới 15.9
+Name: CallBlocker VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64
 Version: 1.1
