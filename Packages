@@ -5706,6 +5706,28 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HideSerialNu
 
 Package: com.BIENVANNHAT.hideserialnumber-rootless
 Architecture: iphoneos-arm64
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 416
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.3-1_iphoneos-arm64.deb
+Size: 67124
+MD5sum: 5786e5502a396820d0de8708ce8e827b
+SHA1: 3c906c6891e4d0b58e80fe7358a65e005b53a4ec
+SHA256: 103c4d5f32b039ea1575e9f9d6701365d8c865b8edfd82272eead76cbae6daca
+SHA512: 8914c04fec78b1714a9058396e9df43851fcb689496208eb11248123fa97365d52078ccea95fab00999cee1fd01efa4b0fe6c9c6d042a2e6e720bda5b535cab7
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+dev: ichitaso
+
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
 Version: 0.0.3
 Section: Tweaks
 Maintainer: Biện Văn Nhật
