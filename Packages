@@ -17126,6 +17126,28 @@ Name: libhdev
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: Hao Nguyen <hao.ict56@gmail.com>
 
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64
+Version: 2.0.6-1K
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1027
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Conflicts: vn.bvn.misaki
+Filename: ./debs/com.hitori.misaki_2.0.6-1K_iphoneos-arm64.deb
+Size: 371046
+MD5sum: 5c71657fb4020d799fe934755e227f45
+SHA1: b07c06cd085f28ef36adaf83c44fefdcb717c33e
+SHA256: 0c4eb305d1527a9ed7267ecb13b3d2cbec894c5a0d62dd6616b22bb0f011602e
+SHA512: 7c5366f35ddddee4fa20e0e4c4cad8fca1759ea6bfa42d8318c188ade2c327cb5d9d4b0f65f6c03f083a43f19e7f543af742af9c620f1007e2495a483c064e93
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki VH(Rootless)
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.hmodei.arico
 Architecture: iphoneos-arm
 Version: 3.6R
