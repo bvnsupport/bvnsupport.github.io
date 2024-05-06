@@ -212,6 +212,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.4.8
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 18588
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.8_iphoneos-arm.deb
+Size: 9859026
+MD5sum: dfca480407b837c19fd8bca1da422a30
+SHA1: 92640d47a252358dd0011b00b1d75cd52030c123
+SHA256: 8f9427e62fe6d3112c424b328c9db39f7c4056881ac55ec62c18ab039b8d5e78
+SHA512: d21cbdc661f4851424b7b7c88d3f9e8dfadde554ee03b7651a7d1659f16f024c5161aeeacaccd456976647e27126c5b5cbfa98f63fd3f923b7b3b9d163f8bc37
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.4.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18588
+Depends: mobilesubstrate, preferenceloader, oldabi | oldabi-stub
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.8_iphoneos-arm64.deb
+Size: 9852222
+MD5sum: 39a9e7069907d91e6e99857dcc4bf191
+SHA1: b7503be1ddf4565824d6a0f8e9744fb1d731f3c2
+SHA256: 2a03d7af98d3f5a8b6252f4e4d3d4d1a5efc7f6883ddcd0e5735dc44beea2dd0
+SHA512: beb364644a5a7bfcf3d63d9d55bce2a5f815b9584d664ab4043b1bffd59f2020db00aa794d018a6f47c21906f26d0ef5a8421c37ab9d9c85ed9eaafc692cbccf
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: bvn.vn.onesettings
 Architecture: iphoneos-arm
 Version: 2.1.1
