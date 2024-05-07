@@ -13609,6 +13609,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/B612.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/B612.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.backgrounderaction15autostate
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 384
+Depends: com.opa334.ccsupport, com.opa334.altlist
+Conflicts: jp.akusio.backgrounderaction15, xyz.cypwn.backgrounderaction15
+Filename: ./debs/com.bvn.backgrounderaction15autostate_1.0.3_iphoneos-arm64.deb
+Size: 51094
+MD5sum: 2fd8324bd2774ba5b7cd1b70fd567ac3
+SHA1: 1d0573de0c5c424f2fc3b49dd068843930f24b72
+SHA256: dfc66fa94ea0099b4a93a7a2b6fac47735d3ffbb1aff6eebde4750ac67cf67f7
+SHA512: 00d0a49020bea438cee1574e407086c7c3c5d0b29933b5c43224eeee4b188bd8133637b2b05e7e4f9182649599ca3c9457d15639de6a90fb1be8d47352a16d74
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Name: BackgrounderAction15AutoState
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/backgrounderaction15.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/backgrounderaction15.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
