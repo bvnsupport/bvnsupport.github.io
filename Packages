@@ -23934,6 +23934,27 @@ Author: Hitori
 Name: Misaki VH(Rootless)
 Field: 12345.67891.2345678
 
+Package: vn.bvn.networkmanager
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 396
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: me.nixuge.networkmanager, xyz.cypwn.networkmanager
+Filename: ./debs/vn.bvn.networkmanager_1.4.3_iphoneos-arm64.deb
+Size: 62426
+MD5sum: d78194832a40b70abc4a76e69f231ef9
+SHA1: e09a41e2b73f02e7947cea4e1d8488f19cec4483
+SHA256: 855b6d3684b8e2fc8f0a6d96e46d6bdb0fea1a5a26ab23e35247ad69d0aa910a
+SHA512: f035d0a94e912edf1e2309ace30f95b9350c89175237cea4a57b9a9e64088d49125dbb21720a0c9b24de70f971a6dcc4028255925a5f3cf4b3170b3697d2eb8c
+Description: Buộc kết nối 2G/3G/4G/5G từ Trung tâm điều khiển
+Name: NetworkManagerReborn (Rootless)
+Author: NoisyFlake, Nixuge
+Depiction: http://bvnsupport.github.io/infodeb/Html/NetworkManagerReborn.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NetworkManagerReborn.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvn.nfcwriterx-rootless
 Architecture: iphoneos-arm64
 Version: 4.0-4+debug
