@@ -13799,6 +13799,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: 0xkuj
 
 Package: com.bvn.classicfolders3
+Architecture: iphoneos-arm
+Version: 3.0.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 2456
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.dao.classicfolders3
+Filename: ./debs/com.bvn.classicfolders3_3.0.1_iphoneos-arm.deb
+Size: 1754870
+MD5sum: 83923c659e07f880b271ead1d28a3745
+SHA1: 64493535695ac7b2df2bcaebbd819db9f262fbe5
+SHA256: a990692155e669463e22192e8a2b537fadb93cecda43e02fad5e1ad4206588c1
+SHA512: 9bd75ae9f2d29814d02bd65d5899b08769116813089776488de8cc402d1c848e76c06da34c09059e4b1075e062637c7d596eff58b1b9369670a0dc04787a3603
+Description: CoolStar's Classic Folder 3, Lizynz dựa trên tối ưu hóa sửa chữa mã nguồn mở của CoolStar và hỗ trợ iOS15+.
+Name: ClassicFolders 3 VH(iOS15+)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: CoolStar & Lizynz
+
+Package: com.bvn.classicfolders3
 Architecture: iphoneos-arm64
 Version: 3.0.1
 Section: Tweaks
