@@ -13798,6 +13798,27 @@ Name: CCAdsBeGone VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.0.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 2456
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.dao.classicfolders3
+Filename: ./debs/com.bvn.classicfolders3_3.0.1_iphoneos-arm64.deb
+Size: 1756268
+MD5sum: f3b5e1f0fa2c3da645516e41ae7844f4
+SHA1: 802383f5d90543cbc59c9c6fd626f70bd0b3c8fd
+SHA256: e4758c12395c4bb5322f219019995b85d789ac09fd117a470d8415e9d5066acb
+SHA512: b9ad86b89ff7a0831ce127539118cefbbeaf93e07c4ee120756bcd6cabd5e497c6358e5f3b2c170c188b8b51542ea85fad69a1f2096f04dfb7ae9e5365c9ada6
+Description: CoolStar's Classic Folder 3, Lizynz dựa trên tối ưu hóa sửa chữa mã nguồn mở của CoolStar và hỗ trợ iOS15+.
+Name: ClassicFolders 3 VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: CoolStar & Lizynz
+
 Package: com.bvn.colorbadges
 Architecture: iphoneos-arm64
 Version: 1.5.0
