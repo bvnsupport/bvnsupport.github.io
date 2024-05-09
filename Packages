@@ -13840,6 +13840,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: CoolStar & Lizynz
 
+Package: com.bvn.classicfolders3
+Architecture: iphoneos-arm
+Version: 3.0.2
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.classicfolders3_3.0.2_iphoneos-arm.deb
+Size: 3706190
+MD5sum: 7a7be77ef65819ee9691d739d08a9923
+SHA1: c57550c55f13bc50770fc7e7006d01ee2f48e963
+SHA256: 64966487fa779cef64f36b938c0355814d75cfb52ba419f46426382d5328b704
+SHA512: 6d9a4d0a5a06597c369edd0273af0f2169ea153f45ea238e0dcd97129eb65c1895abb6b11b300766e710b002ca29697c3bed3cb73bb1688ec92e95072cdb7236
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 3 VH(iOS15+)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: CoolStar
+
+Package: com.bvn.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.classicfolders3_3.0.2_iphoneos-arm64.deb
+Size: 3706336
+MD5sum: 174f8063d84d67ed0a5f528241be467b
+SHA1: dec2752ab7aecfea7af5572196e8c2bf83504450
+SHA256: ac45be2c63b8d782a1882aeac46e7ae5d0248138a1dd14d02522f7160ece6dee
+SHA512: 2de984e305794c4d84d5228cbe27b980d2eea7bb8364a0cb0a5657ec5e7431c69706b7f30ebf12c0d34f02c2eeab90893d062a406f14087b5df094c0fd3cccc3
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 3 VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: CoolStar
+
 Package: com.bvn.colorbadges
 Architecture: iphoneos-arm64
 Version: 1.5.0
