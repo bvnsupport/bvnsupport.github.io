@@ -12716,6 +12716,29 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
+Version: 1.8.10
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.8.10_iphoneos-arm.deb
+Size: 31600
+MD5sum: 574b2c7311255fdc29e464bf4373f5b9
+SHA1: e3fab44018897e3d7445b990ea51cfe34d81137e
+SHA256: 6c47163e054b461ce1f15ed374d21abd48206ae5fa9e1d64c17b6fd8b278dce0
+SHA512: 59fd8bbe18753c6c104e692a55f7ad745706fa27beca3c7575eb7828137e59e3c3a60ea49d443adb975b890e990d919cafbbabdfb64dbe74d808a531e1c1a4ac
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
 Version: 1.8.4
 Section: Tweaks
 Maintainer: Bvn Repo
@@ -19786,6 +19809,29 @@ MD5sum: 4913de53ddb68a3b104e829f8ccc84fb
 SHA1: 7b5adfff802b487448b4d032e93c64c06fef1abc
 SHA256: 3b31e792053a5dcd23fac99311e211fb4616822ccc907becbdf9e10cdf4dba2d
 SHA512: 20a2ac5e96ba8b25a84b9925d3e26ff1f9b6668f5735738c21d60b55e528d3eff1c79c823fdb95227193dfb9a3bef2211a7c8e1dae304a3103e085b3f3cc3295
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.8.10
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip, com.ps.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.8.10_iphoneos-arm64.deb
+Size: 31588
+MD5sum: dd3fffd36f0af49843b9a79a843415ca
+SHA1: 04eaeab5efcefb81f22d5b01349d8f1e6977cfb1
+SHA256: f2adc8a5078426b5638f3c4804db3c6900bcf253132c5812764745f270dc1383
+SHA512: 2bb2e3cfae6f8d7ed2a8e79d96e29ffcec9c3d4cd4af80d555af7d2d12fb3a95296cede01ca459dcb56279036c386409dd74454fa30b063554f7bb4f96f259ae
 Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
 Name: YouPiP (Rootless)
 Author: PoomSmart
