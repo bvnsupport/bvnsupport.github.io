@@ -14056,14 +14056,14 @@ Version: 1.0.1
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 168
-Depends: me.tomt000.copylog, firmware (>= 16.0)
+Depends: firmware (>= 16.0)
 Conflicts: com.0xkuj.copylogfix16
 Filename: ./debs/com.bvn.copylogfix16_1.0.1_iphoneos-arm.deb
-Size: 10248
-MD5sum: 0fb1b83185c09c3fb737de93b2896da8
-SHA1: 98adbdaaace6f1f34b9fda1b5b5fbb6a17a768c6
-SHA256: a2229ced4dc0d9e788531eccb4ccb76d8b00c3754cdc7ecdeb8d7517e2d18a12
-SHA512: c5fe25c952cb6eb663952c4ef08f27d892a53c23805f4b045db60771e0b1ee3638559cfb0ca10894bc0850bf9f1370a2651c5f779e5a26b9c1f333cb5b1964e0
+Size: 10236
+MD5sum: d645d3cbd113a9984d4acb90f48c6b5a
+SHA1: bed6b09f14f98a5e34a8f4904e2e1e0f1dd600a5
+SHA256: df4ae72c2bd8f57524aa5178706429969d6a36f58bccd3803370a9f29d610f8f
+SHA512: 0563ba502347da4997e08b35691f5137cee13c3722a7bc266346393cc0409be21ce1add52d18094c8ac3d545eaceb8f9a198940d3724bbcd9798488ac1fb31d4
 Description: Sửa lỗi copylog không hoạt động trên iOS16
  * Fix copylog not working on iOS16
 Name: CopyLogFix16
@@ -14076,14 +14076,14 @@ Version: 1.0.1
 Section: Tweaks
 Maintainer: BvN Repo
 Installed-Size: 168
-Depends: me.tomt000.copylog, firmware (>= 16.0)
+Depends: firmware (>= 16.0)
 Conflicts: com.0xkuj.copylogfix16
 Filename: ./debs/com.bvn.copylogfix16_1.0.1_iphoneos-arm64.deb
-Size: 10350
-MD5sum: c832ecd8f0c09075226da8f4275b8684
-SHA1: cef72432c1b41f082519961a593f1ff4e4dbf18a
-SHA256: 0ca5334fc6137afc8b7f30b8bbc62cf89ddba5e6e74d091a4010008b34f73bd8
-SHA512: 938405c34c936bc28a5776836180f919589c854a5389a5019738a9bd935bb19f819cb1d74c8d53be75c2c3fa4c4a8f993e815236e81ab9462cf13528bc393969
+Size: 10338
+MD5sum: b376b9d801c1f48c00e8cfcf7e7f0479
+SHA1: 57ae776536d5c9d8da9845154a4d15f8fdabc390
+SHA256: aa09b68557ebb29e4ad05d1c5d295b5d80c5b9e95f11b46142297298b09c0b30
+SHA512: adcde04579ea7f6501bfc166775c07946e4e927f2e1022991766dd24db35a8e077dc2e95e863911979c4770dbd71d29c7ca11eac53bfdd6308210003fe1f9bb2
 Description: Sửa lỗi copylog không hoạt động trên iOS16
  * Fix copylog not working on iOS16
 Name: CopyLogFix16 (Rootless)
