@@ -15028,6 +15028,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/masktet.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/masktet.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.n95
+Architecture: iphoneos-arm64
+Version: 4.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15096
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.n95_4.4_iphoneos-arm64.deb
+Size: 14282042
+MD5sum: ff044a6e1594aace6b8de38c6b55dfd4
+SHA1: f7d0a6df2170afb6dcf7ca7cd648dd5d75101f5c
+SHA256: ce5980545956f5227eee52ef49e8752a76c609125746ac34ef86a78d0bed14db
+SHA512: 6deb608bdc798bc751da8b8305e17ea82824d7b38b20bede02ed988400ca3a2521c24921be45da2e0269d684f8f05c98905cece21dd992c5c27ad3b3767721f0
+Description: Mask album artwork images in Apple Music!
+Name: N95 VH(Rootless)
+Author: Ethan Whited
+Depiction: http://bvnsupport.github.io/infodeb/Html/N95.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/N95.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.nct
 Architecture: iphoneos-arm64
 Version: 1.0.0
