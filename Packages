@@ -15107,6 +15107,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplay
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
 
+Package: com.bvn.notrecording
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 416
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.notrecording_1.1.1_iphoneos-arm.deb
+Size: 38070
+MD5sum: ac724f6ba0db5f182ecca904c497d923
+SHA1: 7818a01277799220b693e74fd998f83adfa0c769
+SHA256: dfbe7c883e8d5a5a1e20191b9377f92a313ae23241fe90aef316a0a122e68963
+SHA512: bafcaab8c5c395fc6e17ebc25e0f449c9b206684edf91e150aba07e11571bfd5969a932fb8d6ccd996d661332a27aca9e8517b88d31c5014dab38377d91b61d0
+Description: Spoof screen recording detection!
+Name: NotRecording VH
+Depiction: https://bvnsupport.github.io/depictions/NotRecording.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NotRecording.json
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: opa334
+
+Package: com.bvn.notrecording
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 352
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.notrecording_1.1.1_iphoneos-arm64.deb
+Size: 27362
+MD5sum: 8dae8f172b15706da02fd206022620c7
+SHA1: 3d8a5236bbf1c708818aec07bb07fbc9d0c06404
+SHA256: 0e1aafbf8625371cba25b7a6025265389ee8ba4368b13155980a948900e879df
+SHA512: 775657ebe9a7c3dcc85206c1ff17dbb94230a1182fe46dedcdd82fa06aae08756f7931850931de166a82c1094c5a00cc2ac90fa978d73ba629a8817cd3c2fa25
+Description: Spoof screen recording detection!
+Name: NotRecording (Rootless)
+Depiction: https://bvnsupport.github.io/depictions/NotRecording.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NotRecording.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334
+
 Package: com.bvn.ntspeed
 Architecture: iphoneos-arm64
 Version: 0.2~beta9
