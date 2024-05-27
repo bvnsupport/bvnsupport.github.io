@@ -35,6 +35,10 @@
 {
 "url":"https://bvnsupport.github.io/infodeb/Zetsu/Screenshots/4.png",
 "accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Zetsu/Screenshots/5.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -64,7 +68,7 @@
 "title":"Nhà phát triển",
 "text":"Dcsyhi"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.6" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +77,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"17/2/2024"
+"text":"27/5/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -100,7 +104,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.5\n\n- Hỗ trợ iOS16"
+"markdown":"### Phiên bản 1.6\n\n- Thêm nhiều tính năng mới"
 },
 {
 "class":"DepictionLabelView",
