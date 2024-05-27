@@ -19956,6 +19956,26 @@ Tags: compatible_min::ios15.0
 Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
+Package: com.repobvn.vneidbypassjb
+Architecture: iphoneos-arm64
+Version: 2.1.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.vneidbypassjb_2.1.5_iphoneos-arm64.deb
+Size: 23284444
+MD5sum: b4f61a42551134a6f4ccb94f21b83303
+SHA1: 2436452eaa0ea0c97f4246a15e721a3adab57bc6
+SHA256: 7ddbf2c0f0880395adfe53b0b0968656d48d5dec8fbeb1b11035cd010df40c01
+SHA512: 5db04205ee7ccec2482b3899daf7862c251b6e7a1d6eed7119207b8698376fe2b867877becc78d6a2fd7d79b0fc11619315b52873f6b09ed691d74c3a272001c
+Description: Chặn Jailbreak Ứng dụng VNeID
+Name: Hidejb VNeID
+Author: Biện Văn Nhật
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Tags: compatible_min::ios15.0
+Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
+
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.7.21
