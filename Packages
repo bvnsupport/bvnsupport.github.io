@@ -20128,6 +20128,27 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.zetsu
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Tweaks
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11650
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.repobvn.zetsu_1.6_iphoneos-arm.deb
+Size: 10306514
+MD5sum: e76f47260a6a20c242fd0ce690f01b7a
+SHA1: 5b6750e64156ab5f3c9edb9c202fa1e49f17537c
+SHA256: 36614456d729b6772970d422698b7ffca9d9ec5eb0f8628b732afaf940deeac8
+SHA512: 2a99f1190c17a233107996959047783b9274970b26126fc51823406bc01dd83fdefbd2b3ad20370ae6aa241720646657cbcbe1b88e17e44bb1a378538fc2bd9b
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu
+Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.repobvn.zetsurootless15
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -20161,6 +20182,27 @@ MD5sum: 01e3e80f23f964e5dbd7ecc28bd6ef43
 SHA1: 22249ee7e078b1e5303ec5c729c3a2cbdf0e5fc7
 SHA256: 5a65c8cabe25f2c290010f2d9b230ef64d7e9dfc99e48e22e433310c9ef92627
 SHA512: bb3e00aec571902a741f2470ce44eb9337e16755a290fdaacab19232e2d1ab612548e77d650bc6dbc31088681a93b8caf999ea038864bffddba5c819ff06bd16
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.zetsurootless15
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 11675
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.repobvn.zetsurootless15_1.6_iphoneos-arm64.deb
+Size: 2025684
+MD5sum: 98ad418661d2ae81208d8e59266086b7
+SHA1: d0810bbd9a8e8e3ddead36ad9a3985492ec122f8
+SHA256: 1fc1be9cd1f3c72121cb035999f0b72cc34be6e8ecbdce83c83a83ca09e67a74
+SHA512: 85dcfa785fef1fdff26fc5cfc4509a58d4b102338a6e803a63818b0b11e5ab010be0c855ec6260effa2924be248554b292f4b3e09e755c3825586a5e6e597de7
 Description: Multitasking on iOS15 - iOS16.
 Tag: compatible_min::ios15.0
 Author: Dcsyhi <dcsyhi1998@gmail.com>
@@ -22916,26 +22958,6 @@ Description: multitasking for iOS15 rootless.
 Name: MilkyWay4-rootless
 Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
 Author: @akusio_RR
-
-Package: jp.dcsyhi.zetsu
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Dcsyhi
-Installed-Size: 1032
-Depends: mobilesubstrate,preferenceloader,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0),applist
-Filename: ./debs/jp.dcsyhi.zetsu_1.0_iphoneos-arm.deb
-Size: 563914
-MD5sum: 91f5541d62f6321de471f45e2341d31b
-SHA1: bbb266014a7b51be51c85970c5490576f299c9b8
-SHA256: 5c4660b471c39538ef8b1cdd7816cd20b807db7a36306136a51b988bbd247909
-SHA512: 73a20a8eff640cb2485591256ff2f738dec332c12c8a12c1845421909df88c60ccf86f4b6c53bbe38baeea5dabc05b4433d04c5673075efe41671875549aee8f
-Description: Multitasking on iOS14.x
-Name: Zetsu VH
-Author: Dcsyhi
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Zetsu/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Zetsu/?p=info
 
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
