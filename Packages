@@ -24371,6 +24371,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: vn.bvn.disupdateapp
+Architecture: iphoneos-arm64
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/vn.bvn.disupdateapp_0.0.3-1_iphoneos-arm64.deb
+Size: 85328
+MD5sum: d44bc339fddcdc898e1dbf2a85fe46d9
+SHA1: ea40671f8e8324e18fffa7ca43d4da7bdc56e60b
+SHA256: 412cd6db48889e9bbe9df7923e59f986c8ded5038926aaff14484d3136f1b9e7
+SHA512: 53e442a66f1914573df97d047980a7f4d2357797ba305b44aadb4af55029d05968102f3b6ee83436d585f646316c6a5728e19c91bd64c249763f6b4b79150c6f
+Description: An awesome MobileSubstrate tweak!
+Name: BlockAppUpdate VH(Rootless)
+Author: zqbb
+Depiction: https://bvnsupport.github.io/depictions/BlockAppUpdate.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BlockAppUpdate.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvn.misaki
 Architecture: iphoneos-arm64
 Version: 2.0.2
