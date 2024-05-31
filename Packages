@@ -15686,6 +15686,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.settingswidgetsrl
 Architecture: iphoneos-arm64
+Version: 1.2.3-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.settingswidgetsrl_1.2.3-1_iphoneos-arm64.deb
+Size: 97386
+MD5sum: daf08ef7973a88c748030701e2b68d4c
+SHA1: 96a2d7e7e8b249aaf5b7eab946ca6422ba362ce1
+SHA256: f5984dd324b83676c1b10e8850037d1fbc437a784c081ebd7ee7f1e14029bf72
+SHA512: 30986cf9dbdf40e223cadda97f9841918c749d690180ca57ee96761d8a270d5ab90a7dae20acef6a80411b7f53cff99d2c18aab51738fe9c4ff4ae144bcba94c
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/SettingsWidgets/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsWidgets.json
+Author: shepgoba
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.settingswidgetsrl
+Architecture: iphoneos-arm64
 Version: 1.2.3
 Section: Tweaks
 Maintainer: Bvn Repo
