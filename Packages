@@ -15917,6 +15917,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.tranzlo.rootless
+Architecture: iphoneos-arm64
+Version: 3.5
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker, xyz.cypwn.xinam1ne
+Filename: ./debs/com.bvn.tranzlo.rootless_3.5_iphoneos-arm64.deb
+Size: 2567828
+MD5sum: 5cd376e6eae4c99cf0808429b023e117
+SHA1: ef7afe10a17a63d9492f4f0c8dfd95cf84760d53
+SHA256: f070c7159320ddcf7126ed47db979ffd0efb826347e6e9896688e83bccdcc7dd
+SHA512: 1208fc23578b7c0c84f67617ff663511d2cb7604ea7ccad1034b2d386e25bab94ddeb06afb458acb375fdf75c3f179c978352e8ec49afb7ba66ac9a38f6c82fd
+Description: A life savior translator tweak
+Name: Tranzlo VH(Rootless)
+Author: MiRO
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tranzlo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tranzlo.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.tweakhub
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -20311,6 +20330,23 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStore.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStore.json
 Author: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64
+Version: 1.1.1~rootless
+Section: Tweaks
+Maintainer: BVN
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.1.1~rootless_iphoneos-arm64.deb
+Size: 36984
+MD5sum: 85faf6c51f8df818e70fb8f90e220a00
+SHA1: 50c427ab7129c4a9b0deacc5c0bd5c8fef9190b4
+SHA256: 710a82469a0f9793e1a376ee04df936994c2cc6e5e430e9dd5b94c4f330a9bbf
+SHA512: 1614906dc54d199fb184e6e03737373f77a80dc31849dffcf2055a4dbbc6929f2576096eac936869c55c8c3d1cc12ade5c2cf3b62ba025d69a790baa6eab8739
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Name: RocketBootstrap
+Author: Ryan Petrich
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.rpgfarm.libaptoast
 Architecture: iphoneos-arm
@@ -24874,6 +24910,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
 
+Package: xyz.cypwn.cephei-compat
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN
+Provides: com.nightwind.cephei-compat (= 0.0.1)
+Depends: mobilesubstrate
+Conflicts: com.nightwind.cephei-compat
+Replaces: com.nightwind.cephei-compat
+Filename: ./debs/xyz.cypwn.cephei-compat_0.0.1_iphoneos-arm64.deb
+Size: 5756
+MD5sum: 74ac0d2b668ce46f996e6d9866e2f352
+SHA1: 945cc9a756a5dded5d609da1c4e1e10fcfcfb2ec
+SHA256: 9d5bf920f4e1a11a391b897625fe63f22940c911fba0275f097748c89a84b736
+SHA512: b317b38dac9b3c795cf31ced4e587c03e24a79782364e5376a538ac40a971555ce1fc1743dd0d5a1a8cff01b80e3f86d3dfd2b81cecc60beecd9c24bd32a6580
+Description: Fixes an incompatibility with new versions of Cephei that certain tweaks have. Adds back the old `translucentNavigationBar` property from earlier versions of Cephei in order to prevent a `didNotRecognizeSelector:` exception being thrown. Tested with Shortmoji 2.
+Name: Cephei-compat
+Author: Nightwind
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64
 Version: 2.6-2
@@ -24894,27 +24950,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
