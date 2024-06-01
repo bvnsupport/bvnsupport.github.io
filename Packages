@@ -14813,6 +14813,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Locket Gold (Rootless)
 Author: Dell <dvq273665536@gmail.com>
 
+Package: com.bvn.lottielockscreen
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật  <Bienvannhat97@gmail.com>
+Installed-Size: 600
+Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie, xyz.cypwn.xinam1ne, xyz.cypwn.cephei-compat
+Filename: ./debs/com.bvn.lottielockscreen_1.0.3_iphoneos-arm64.deb
+Size: 107868
+MD5sum: ef8cf911560195dd3ff8e7c49d504df9
+SHA1: e015936503760250ae8e36f6671f691397356918
+SHA256: 36f776c24f23005ce8f4907ce0cd72e500545886afe8a32feb2fd370264aeb38
+SHA512: d5422f0307ab2bf000ee59776e991cab7dfeb0fd540b9f83f114c15cf0e1f115424bd75a248442e1ed4d5986bccf0e42cd1adbe4ea0e310f345fa98a1dccbb92
+Description: Lottie Lockscreen là một tinh chỉnh về hoạt ảnh có thể cho phép bạn chạy Hiệu ứng Lotties trên Màn hình khóa của bạn
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios16
+Name: LottieLockscreen (Rootless)
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -15922,13 +15941,13 @@ Architecture: iphoneos-arm64
 Version: 3.5
 Section: Tweaks
 Maintainer: BVN Repo
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker, xyz.cypwn.xinam1ne
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker, xyz.cypwn.xinam1ne, xyz.cypwn.cephei-compat
 Filename: ./debs/com.bvn.tranzlo.rootless_3.5_iphoneos-arm64.deb
-Size: 2567828
-MD5sum: 5cd376e6eae4c99cf0808429b023e117
-SHA1: ef7afe10a17a63d9492f4f0c8dfd95cf84760d53
-SHA256: f070c7159320ddcf7126ed47db979ffd0efb826347e6e9896688e83bccdcc7dd
-SHA512: 1208fc23578b7c0c84f67617ff663511d2cb7604ea7ccad1034b2d386e25bab94ddeb06afb458acb375fdf75c3f179c978352e8ec49afb7ba66ac9a38f6c82fd
+Size: 2567842
+MD5sum: 143b76b971f0d8fdbe1679ae0c3a67c4
+SHA1: 443b55cb0e1ec0a93e4f4a5f12f2d8b2ea8a7287
+SHA256: 469767b7c22fd1720c58769243d5fab5a611d2bb0ff4749a33aba0f69335997a
+SHA512: a45c10abd80289e4a4e0582517c620d11a3b2b7286a47fc5b2a4eed37e906bb28215211ae37ca0ec076b066bdcbd508b4058b9acf717c1957e83f5bf608920ea
 Description: A life savior translator tweak
 Name: Tranzlo VH(Rootless)
 Author: MiRO
@@ -17758,6 +17777,25 @@ Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.miro.liblottie
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: System
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1516
+Depends: firmware (>=11.0)
+Filename: ./debs/com.miro.liblottie_1.0.2_iphoneos-arm64.deb
+Size: 227472
+MD5sum: a8ae25c227ead3ef0ca97796cc0ed7f6
+SHA1: 9c6b4dbb15746b33e7564c5e542f1aa7cbda2416
+SHA256: 583a9e6a1c9c31d8303724e4c00954f856d3a094438ea95758453ae4c19d012d
+SHA512: 864559a6a0e87730d12cc715c210d865008227b636d37de59c8209c8d81bd6ee390f7023fe0548e8882654c4dcedeb849b90f1223a5656f6db4c193ebd11c50c
+Description: Lottie animations library.
+Tag: role::developer, compatible_min::ios11, compatible_max::ios14
+Name: libLottie
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.liblottie
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.miro.libmiro
 Architecture: iphoneos-arm
 Version: 1.0.17
@@ -17796,6 +17834,26 @@ Name: libMiRO
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.libmiro
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1876
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiro_1.1_iphoneos-arm64.deb
+Size: 516578
+MD5sum: 81ea813c69af02b16917182d902ed901
+SHA1: 931ac5af3ef03ac545ef18fae7b75559f7084943
+SHA256: 6188c8537113c57225ba4a609a75b10188ac8da237dfb538c9949d03257904d1
+SHA512: 7a7d36cf29ba3f7c671adfa940c5eb621625a5d35a0df7680e2930642ab026b8813532b4557f67ed249d06c3f59cf992081ba1cc593956e6129b7168283c3e08
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiRO
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
 Package: com.miro.libmiroprefs
 Architecture: iphoneos-arm
@@ -17853,6 +17911,46 @@ Tag: role::developer, compatible_min::ios12, compatible_max::ios14
 Name: libMiROPrefs
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.libmiroprefs
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1140
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiroprefs_1.1_iphoneos-arm64.deb
+Size: 357128
+MD5sum: 1c9185e853066207d298bde15b81c819
+SHA1: 8616338c5c087dc81feaa94be95390868b430c61
+SHA256: 42f0606d824ed61a5953da38a77d99c4ba747b9ed31dd25e4c726bad93967fd9
+SHA512: d29c597953f6dc6444cf2c6a49400e713e8c13a4eb09b519b3959a1ba1a8a88a32cf46acfc8dcf5d637d2a89f54f817496ae4c393b243fda10d433d4b9162095
+Description: Shared library for my tweaks' preferences.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROPrefs
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: com.miro.lottiestatusbar
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 3252
+Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie (>=1.0.2), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs, xyz.cypwn.xinam1ne
+Conflicts: com.miro.statusbarsupport
+Filename: ./debs/com.miro.lottiestatusbar_1.0.7_iphoneos-arm64.deb
+Size: 184230
+MD5sum: 6fc6175c6ef8c9b36f96632e0afe0dac
+SHA1: d5632dd5fc5ec13541f238971a4c750a328c4a21
+SHA256: 54458fe8d4b6dbfbf0f06184661bfbe3997b9d8a3b81242d8d81520b15fdbd36
+SHA512: a2441b1748d48b49322f8576fdb255186952f21f44ae876651ffdce115929c8b6b6276a7ed0b299370d7b067ac82de637b20a86b35dff3702a921a5ec93eba8f
+Description: Lottie StatusBar là một tỉnh chỉnh về hoạt ảnh có thể cho phép bạn chạy Hiệu ứng Lotties lên các Biểu tượng trên Thanh trạng thái của bạn
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios16
+Name: LottieStatusBar (Rootless)
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.miro.tranzlo
 Architecture: iphoneos-arm
@@ -24950,27 +25048,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
