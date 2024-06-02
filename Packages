@@ -17978,21 +17978,19 @@ Package: com.miro.lottiestatusbar
 Architecture: iphoneos-arm64
 Version: 1.0.7
 Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
+Maintainer: bvn repo
 Installed-Size: 3252
-Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie (>=1.0.2), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs, xyz.cypwn.xinam1ne
-Conflicts: com.miro.statusbarsupport
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.cephei-compat, xyz.cypwn.xinam1ne
 Filename: ./debs/com.miro.lottiestatusbar_1.0.7_iphoneos-arm64.deb
-Size: 184230
-MD5sum: 6fc6175c6ef8c9b36f96632e0afe0dac
-SHA1: d5632dd5fc5ec13541f238971a4c750a328c4a21
-SHA256: 54458fe8d4b6dbfbf0f06184661bfbe3997b9d8a3b81242d8d81520b15fdbd36
-SHA512: a2441b1748d48b49322f8576fdb255186952f21f44ae876651ffdce115929c8b6b6276a7ed0b299370d7b067ac82de637b20a86b35dff3702a921a5ec93eba8f
+Size: 1682166
+MD5sum: 977ad31007892578d99a66bdf3bac08e
+SHA1: 51f47685f13a0827dcc9492e6810ccf00de159f5
+SHA256: d8b870b2037e2fae8e645e97fb3b073e2655323e1b1edbf21909a20626da5a36
+SHA512: ea5ec07a7045d7e4c234fb0fdeb390d03c8d4460afc71b318ba6e13e35cdbf88b1eb897e45c7c14dd074e0ccb2fca588b0bdd83390bd2302c3345f185ac32e95
 Description: Lottie StatusBar là một tỉnh chỉnh về hoạt ảnh có thể cho phép bạn chạy Hiệu ứng Lotties lên các Biểu tượng trên Thanh trạng thái của bạn
-Tag: purpose::extension, compatible_min::ios12, compatible_max::ios16
 Name: LottieStatusBar (Rootless)
-Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MiRO
 
 Package: com.miro.tranzlo
 Architecture: iphoneos-arm
@@ -25090,6 +25088,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-3
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
+Size: 123772
+MD5sum: 51feed08bd3754ef6ba67395995cc784
+SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
+SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
+SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2484
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
