@@ -296,6 +296,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: cm90.crossoveripc
+Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
+Size: 27804
+MD5sum: 86e071def90a7265ab97ffdec4e22979
+SHA1: 22e20ce507d9053ed2ea9cba5446a148e8db203c
+SHA256: 7e18d2a9dc1785612c80157ba20ea63ff56e6554fb5cd6843578b14ac1da9ec4
+SHA512: 597d722bf2e38b29a90e4597c32d04eb253d143089c10f450004754379284b481212d9f37a2e0a806f7f42febe60ac78723f7c28b6edcbb5c5a2cc4c81abcb2d
+Description: Một công cụ giao tiếp xuyên suốt quá trình để gửi và nhận tin nhắn trên iOS 15 & 16 dành cho JB Rootless
+ - A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Name: CrossOverIPC (Rootless)
+Author: @CrazyMind90
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -14111,6 +14130,24 @@ Name: CopyLogFix16 (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.cr4shed
+Architecture: iphoneos-arm64
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
+Filename: ./debs/com.bvn.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Size: 455476
+MD5sum: 7aced02b7922150d227dfc1456bbde79
+SHA1: 747d1c475cd6fbaaaa258c3ba56c69fefdcf3c65
+SHA256: 0734baa343c311279e47dac77a2d75b22c2ad6df29370d6410a777f0da95f813
+SHA512: 728a2a2b6de97862ddcaedbd5343948ede6d9cf8f76042d327b83f7755dfb069eb3727de65d5901e69eb25a0280b6f22bc5a382c7d0d8271be305c249acf9af5
+Description: Trình báo cáo sự cố hiện đại dành cho iOS
+Name: Cr4shed (Rootless)
+Author: Muirey03
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm
 Version: 1.4.3
@@ -17366,6 +17403,29 @@ Description: Thiết bị khóa nhanh và tiết kiệm pin 🔋
 Name: Fast-LS Việt Hoá
 Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.cokepokes.libnotifications
+Architecture: iphoneos-arm64
+Version: 0.3-6-1+debug
+Priority: optional
+Section: Development
+Maintainer: BVN Repo
+Installed-Size: 376
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
+Size: 31186
+MD5sum: 9c1d12ef47fd48759c9db42b276f55a2
+SHA1: 58e8fe1db33a25d3d68aefd285ce51700c674653
+SHA256: 940ccf7817dc9c386f68749c037374c4fca6fc562ce157857982ee55a26e03e2
+SHA512: c321e952c05e5682d057d5c7496a67f60e22bb41b0b1baa725a122e69810f3c1bd15d0d9e056690dfb36aa5e85a6ba970d410445cc1f66f57dac20df0d8a010f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: libnotifications (Rootless)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+dev: cokepokes
 
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm
