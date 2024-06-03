@@ -17405,6 +17405,26 @@ Author: CreatureSurvive
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: System
+Maintainer: BVN Repo
+Provides: com.creaturesurvive.libcscolorpicker (= 1.0.6)
+Depends: firmware (>= 15.0), xyz.cypwn.xinam1ne
+Conflicts: xyz.cypwn.libcscolorpicker
+Replaces: xyz.cypwn.libcscolorpicker
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
+Size: 306840
+MD5sum: bfd9f45f0d56f1b01c9b51c554dec6b4
+SHA1: ac14d0471112a3d6d081692a4caab557ad3d55c5
+SHA256: fecb395728abde9cdf43a436acd11ef30cb708cb47eeacd8451d14da3ce29d70
+SHA512: b46400897ce96312a38a0ee9a104d698ea9382e4aca15ed0bcb6d36ce62daa3b353080630e24d845c993b01574d35536a0b491635b892c906361d1293199eea3
+Description: A minimal color picker library for developers
+Name: libCSColorPicker
+Author: CreatureSurvive
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
 Version: 1.0.3
 Section: System
@@ -20307,6 +20327,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.zetsu
 Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11997
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.repobvn.zetsu_1.6.2_iphoneos-arm.deb
+Size: 2165046
+MD5sum: 4e35673c1a4b596efc55844072924710
+SHA1: 5eeb340574c5274e13412cac0ff87b29811ba5fa
+SHA256: f322b1b12bf2d6d7f744e4dd4db2d69573f28df9be69cff9503d26a25b8b392d
+SHA512: ccafd3596c0527031612fb9b6f41b3acb25aba03e5b19651f425f5fc083512381f4cfff33f91334ae6f4851b014d5c2c319efc1421fbe9b819eddade95d7027b
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu VH
+Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.repobvn.zetsu
+Architecture: iphoneos-arm
 Version: 1.6
 Section: Tweaks
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
@@ -20363,6 +20404,27 @@ Description: Multitasking on iOS15 - iOS16.
 Tag: compatible_min::ios15.0
 Author: Dcsyhi <dcsyhi1998@gmail.com>
 Name: Zetsu VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.zetsurootless15
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 12005
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.repobvn.zetsurootless15_1.6.2_iphoneos-arm64.deb
+Size: 2165420
+MD5sum: 089866bf26d4fa1d470d3a1e24e377a3
+SHA1: ea32425ddc75a86c9249e892646db9bc27db8a74
+SHA256: 6e14c5bd0dfa45f2fd1eb378e5afc9b7ed78e8a80d0fd2a28cb7476b02856983
+SHA512: a5ce77babc75401849e669dc0c29e215b564e58502571932a33870591f288347c253479a4a17e981d345e278f38d37fa9918cc9d03f72e40cdb6ed17d97a5104
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu
 Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
