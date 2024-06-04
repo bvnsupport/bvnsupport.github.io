@@ -15959,6 +15959,46 @@ Name: Split View Pro VH(Rootless)
 Author: sunshinesong
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 4.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1112
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.0_iphoneos-arm.deb
+Size: 391588
+MD5sum: 15ff186a1fea18be1e8989039a2c6d67
+SHA1: 450b41341b080aeae970550040f5e0ae4f5367ad
+SHA256: 747fe67d8158f8b1acf4af4dbf0d71bcee6e976202d0ac4e8a53ff7d5da5b6c1
+SHA512: 554b2867c934a396a3e3049d6897c404c01815d48fdb1374ffdac51043c3fe72c21cd599cddfac487cd85119dd592939d15b299f27144696fbf465fa042e35e6
+Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
+Name: EeveeSpotify
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1112
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.0_iphoneos-arm64.deb
+Size: 391524
+MD5sum: 4ba1501b503dd2ed3cdd0a99f9ea2e09
+SHA1: 16ab0861372b10cb19f9a2d33a7b70435d75121e
+SHA256: 70bbeb860168d8021bedf82527ce52d04e85905fabf411ab3ac67a6d1af81bea
+SHA512: 0ec91f075c2b2e21cb767e028a11d4e8fef2792a98469eb7ba5263c71b3a904e7f04954b56bd50b6b1b2eadf1dcca243241a2f6b15f73501127488d889e407ce
+Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
+Name: EeveeSpotify (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Eevee
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
@@ -24361,6 +24401,42 @@ Author: MainRepo
 Depiction: https://mrepo.org/depiction/3036
 SileoDepiction: https://mrepo.org/sileo/3036
 Icon: https://mrepo.org/CydiaIcon.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm
+Version: 1.26.0
+Section: System
+Maintainer: BVN Repo
+Installed-Size: 9564
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
+Size: 2867206
+MD5sum: b5ac7d3e9b14871ad8d80885da83b5f5
+SHA1: 7c7a0726b6461c98ff0c67caf50d3a3eeeae853e
+SHA256: d1c5d53655f4c3f376d2f2825d77e1f1a1459cc098332ab90d87da8bda6a22e9
+SHA512: 585687b15bdc91bb29f1fc32d9fef3d69d4a70b80f25a30953920ac7796bf311551bb2c8cfcad1fba142180137c180b78d25f3b3aa1dbcc368ad03bbb1ee31aa
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: eevee
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.26.0
+Section: System
+Maintainer: BVN Repo
+Installed-Size: 9564
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
+Size: 2867356
+MD5sum: b3a5d277f896c8026eb9bc5e01896e2d
+SHA1: 0d681d123c1fbe48aec3afa3d1565a649736427d
+SHA256: 37e4add77581aa15d4cefa3f90d3d0ff23daa75cbba86fef364ec6325c8e4637
+SHA512: b7a9b81d6fe4229c2e4e69cad68a91dc04f40e8b07c6dfd6022dcead57af39113bbb5e602efbcac3a5a135ab69ee7735f38dfa38eba0e7ecce22fe81bb5d3f35
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Author: eevee
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: plutil
 Architecture: iphoneos-arm
