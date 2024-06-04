@@ -1,0 +1,117 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/Eevee.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"EeveeSpotify\n\n- Tinh chỉnh Spotify Premium miễn phí giống Spotilife\n\n- Tinh chỉnh hiện có thể chặn các yêu cầu của Spotify để tải dữ liệu người dùng, giải tuần tự hóa dữ liệu đó và sửa đổi các tham số trong thời gian thực\n\n- Bạn có thể chọn phương pháp vá lỗi Dynamic Premium trong cài đặt EeveeSpotify\n\n- Tùy chọn Không vá Premium [dành cho người dùng có đăng ký Premium đang hoạt động]\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Eevee"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"4.0" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"5/6/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"123 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 4.0\n\n- Thêm tuỳ chọn đặt lại dữ liệu\n\n- Đã sửa lỗi nền trắng của cửa sổ bật lên gốc\n\n- Đã sửa lỗi mở liên kết Spotify trong ứng dụng khi ứng dụng bị đóng"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
