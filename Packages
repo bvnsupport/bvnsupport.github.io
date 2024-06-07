@@ -254,6 +254,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.4.9
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 18668
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.9_iphoneos-arm.deb
+Size: 9881418
+MD5sum: 396efea3b1b52a149df113c3c2086007
+SHA1: 5369f0d89c9c3af60650ce5b13bbd5aab6aa6b63
+SHA256: 290b33041b06c45ad2fd74d2a0ecf018904f8bf57ea5486e33b0d04ced2cb714
+SHA512: 627f56a8eda25434b77c406f4a69fe080fb7acdddc171aad7ab8ddd81425aabbb1b8fd0734a53eb4904600e685bfcfff5abdc2e77de0b7c830a6a936636feee7
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.4.9
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18668
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.4.9_iphoneos-arm64.deb
+Size: 9881574
+MD5sum: 92a63a277a832fc67613418f0e4e0a94
+SHA1: 456240da946bb85dd552c56a3c92f0a960e72670
+SHA256: 0d9b0487646f62207b20f1d365724b1abe0e953548be94bbea43a415fad5ad65
+SHA512: 51a9da69d6e55455809b5e5ae4befb5d84c1601ff0cab9270700ee04e9731b73107785c937d4dabfc402285cb3a9ece342121bfc4b8526408bf91f56ff9c073b
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: bvn.vn.onesettings
 Architecture: iphoneos-arm
 Version: 2.1.1
