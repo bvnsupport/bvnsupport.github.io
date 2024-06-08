@@ -16222,6 +16222,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.weatherls
 Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 252
+Depends: mobilesubstrate
+Conflicts: com.bienvannhat.aimprooess, com.bienvannhat.aim, xyz.cypwn.aimpro
+Filename: ./debs/com.bvn.weatherls_1.0.3_iphoneos-arm64.deb
+Size: 51222
+MD5sum: c7c136f1a4266a5b8007ccdc3f3e7070
+SHA1: 03222a6ae588aee6231b9abe8e1d52c5ff651775
+SHA256: aac077c5360ba365a9cf7229da2ff2576310ffc761d446d1dc42f8703a094c1c
+SHA512: c4fdf15fb9426b4165069cd48d4834ba25ec28a16df9bb4b0570f989f19fda649c4b4aee74d064d87a7f08ef8d38913e95c43f2b8b5927e942c8f592ec01f205
+Description: Thêm thời tiết & âm lịch vào màn hình khoá.
+Depiction: http://bvnsupport.github.io/infodeb/Html/WeatherLS.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WeatherLS.json
+Name: WeatherLS (Rootless)
+Author: nqt1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.weatherls
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: nqt1195
