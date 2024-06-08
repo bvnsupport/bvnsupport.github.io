@@ -11589,11 +11589,11 @@ Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debs/com.Repobvn.audiorecorderxs-rootless_5.0-37k_iphoneos-arm64.deb
-Size: 1852816
-MD5sum: 7e133f5bd1a17872f50adcdd1d44fef9
-SHA1: 75bf78918f6fb6380dc865c6f2a8d3020b3d3ffe
-SHA256: 412a7ccaae98b0c1164ec1b078dce9a1abddf70e28579d5a2f288f1187897b01
-SHA512: 61e5fc51883194fee394d77a1598623c72854583ce787fd78a9d312eda5dc51aa276e2f69949424bacbe16cf781f5c0eb7d7fc65003ab45968996b0c7503d10e
+Size: 1855000
+MD5sum: 0560b74f931bfa81ac7e71c76ae4efd8
+SHA1: c25d4a896932103a5901808cee12dd80493afacf
+SHA256: da475907115263ff51f2fe4703ca9f49b0aa234c5d0ca0443bc7833c8416dcf5
+SHA512: cd80f5fe2c75dd673339b4fac433c95014ea02dd7b6cafd7a0a663f275da77ce9975587188522d6f20cd79be99f42c053edbd2fa9ac48465bb07fe0e71efc554
 Description: Trình ghi cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
 Name: AudioRecorder XS VH(Rootless) (iOS 12 to 17)
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -16218,6 +16218,27 @@ Name: Watched (Rootless)
 Author: 34306 "Huy Nguyen"
 Depiction: http://bvnsupport.github.io/infodeb/Html/Watched.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Watched.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.weatherls
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 252
+Depends: mobilesubstrate
+Conflicts: com.bienvannhat.aimprooess, com.bienvannhat.aim, xyz.cypwn.aimpro
+Filename: ./debs/com.bvn.weatherls_1.0_iphoneos-arm64.deb
+Size: 56956
+MD5sum: fb7efa376f80b5f6df4f1cadec7eb654
+SHA1: c6cc9f652b258ef6183708c6665a8a05f21c1e8e
+SHA256: babaf0d8384d748d3e000b8b0fbcc683bcde56bbf0c263b5ccbc68595de03e62
+SHA512: 8ef5d2491a4eb0ce791b75d834ced8a98b5d3efac92b78c1c593b64de914f727de686cff63f79433ede315e2b43005f3b3cb8bcd9fd4def3aa9e99dd96134887
+Description: Thêm thời tiết & âm lịch vào màn hình khoá.
+Depiction: http://bvnsupport.github.io/infodeb/Html/WeatherLS.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WeatherLS.json
+Name: WeatherLS (Rootless)
+Author: nqt1195
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.whoozit.rootless
