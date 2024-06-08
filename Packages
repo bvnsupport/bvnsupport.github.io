@@ -23483,6 +23483,27 @@ Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
 
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.2-1
+Section: System
+Maintainer: BVN Repo
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2-1_iphoneos-arm64.deb
+Size: 126938
+MD5sum: df913b10590cd16b33a4ad367a25012c
+SHA1: b5384b305afd7d0e7a451a4b51e3c40f1e9e54df
+SHA256: 1255509c534bca039002518e8ae479fc8b42d8255092e7d5d2271e0fed3244a8
+SHA512: 69ac84dabc852b85ab4b2fb6ad3be7be6adeb3118f325475ebe156c2f84d55f29430cf6c81fb3862e0638b9e19793e0e81a028c941b1d4e3c74d7b6ebdee97e5
+Description: Một công cụ thử nghiệm để chặn Jailbreak cho các ứng dụng. (Chỉ hỗ trợ iOS 15-16 với Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/vnodebypass.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/vnodebypass.json
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm64
 Version: 4.8.1
@@ -25432,6 +25453,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-3
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
+Size: 123772
+MD5sum: 51feed08bd3754ef6ba67395995cc784
+SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
+SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
+SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2484
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
