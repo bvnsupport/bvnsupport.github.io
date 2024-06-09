@@ -16247,15 +16247,15 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.watuzik
 Filename: ./debs/com.bvn.watusitools_2.4.25_iphoneos-arm64.deb
-Size: 6246886
-MD5sum: f93d26479d9fc1b09638feb212c8e33f
-SHA1: 7e1a36743a39fb0f315ec0a8176a64a6d8e040f6
-SHA256: ff946ace56ec27c71270cef613eaed508e97c1b821dd5e5fc254dd702d7c8dcc
-SHA512: dcb4cf9c3bb8f5ede3a3ecdf56cfb6dac69601474e931d3ae19d726c44ac9f18d1cb1785f8693824e720a90d0cec4437e0cf451ae7e607b5f5c6020b798a132e
+Size: 6246896
+MD5sum: 8ce32342719e7cd4aa37dd6783e74d86
+SHA1: 854c78b6962bfe8cc1eb6e0af12ad288e77ee355
+SHA256: fe7cfe424759784b89aad080611d665aac8afd6f12df0e13cbcf08435b0c11d8
+SHA512: 612fc99459a625f68a04b24a3cbb1d1971d94a1ff0ae655f3ad6a8058ff00095752004ce219df626292940d6a2ca83a7c0cd8eba17ee6df0689df61813cb0be1
 Description: Thư viện dành cho các chỉnh sửa của Watusi và WhatsApp
 Name: WatusiTools
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.bvn.weatherls
 Architecture: iphoneos-arm64
