@@ -16325,6 +16325,46 @@ Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
+Version: 4.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_4.0.1_iphoneos-arm.deb
+Size: 7702636
+MD5sum: 14a50c7d111821f979fdc9313b11798c
+SHA1: 5c617d9455f81e5d2b18d889e4468c925931f0b0
+SHA256: f15fcab9b93ec1700a5fb7cdab5d5a2b060ea33e628ffc6516a35c673fb7a9e7
+SHA512: cd4bfb058f424407561023a0b175ea8e06353a2d2abb1f6ee52cd2a4565855277aa07d4a4e12121a340e43d360a1e87b191affc30e29e10ba643b7cc10a1c266
+Description: Bổ sung các tính năng hữu ích cho Youtube
+Name: YTLite VH
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm64
+Version: 4.0.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_4.0.1_iphoneos-arm64.deb
+Size: 7702450
+MD5sum: 32baf2879d86c055ec0d3be9f48ef8e0
+SHA1: a77eea7d568a776e0e7189dbba58adafbe5d1164
+SHA256: 1a118797ebcf502d567799617f5d1b27b7d5846a6f33fd64088141bb57a3709d
+SHA512: 1deb0c76113884f417c82c81c19d157ad138906c97d20a526e9561a22ec984d4582108b36060e5d30a83ff52dd50e7e4f258bfbda2718b9fbf1b6f02a8840bfd
+Description: Bổ sung các tính năng hưu ích cho Youtube
+Name: YTLite VH(Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm
 Version: 4.0
 Section: Tweaks
 Maintainer: BVN Repo
@@ -25490,6 +25530,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-3
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
+Size: 123772
+MD5sum: 51feed08bd3754ef6ba67395995cc784
+SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
+SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
+SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2484
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
