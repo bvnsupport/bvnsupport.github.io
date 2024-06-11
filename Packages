@@ -14416,16 +14416,16 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Package: com.bvn.dumpdecrypter
 Architecture: iphoneos-arm64
 Version: 1.4-4
-Section: Netskao-Tweaks
+Section: Tweaks
 Maintainer: Bvn Repo
 Installed-Size: 4324
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.bvn.dumpdecrypter_1.4-4_iphoneos-arm64.deb
-Size: 1816254
-MD5sum: dbc5c135cc8e81a170a424691dcd6027
-SHA1: a8d5536895382ed4979add9f629327203f3a0887
-SHA256: ccc9f5cea13bd1b4df8599691362d1d4bf7ed8a9044eeef00537778ac17e9fb5
-SHA512: 7d7b36db09a2168534348e81be5324d3c154f4907c5b6edbe3a050120859ce6f4b1265241ed0ff377204177c56084d0065246440ecac92a1dd1e1e53708e67a9
+Size: 1816252
+MD5sum: 3fbb24086a541d36e493713eb808dd56
+SHA1: 0d38466352609aabd15357edd83dec4a7008f8e7
+SHA256: c28e0ab2e3be7c81f9a9fe2295dfbecad8c1441f25a3ffd153bb1e248ab90d47
+SHA512: fe71b7e3b74c8dc8665806ad3efdf53714f4edca254c26aa122aac2f5ddddbbf9b7773271fab063f78b8b6b86b281aa528e6728a195df9bd2146521ca5e366d3
 Description: Decrypt iOS Apps and Plugins
 Name: DumpDecrypter (Rootless)
 Author: Netskao
@@ -25648,27 +25648,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
