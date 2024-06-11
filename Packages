@@ -16321,6 +16321,24 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.watusitools
 Architecture: iphoneos-arm64
+Version: 2.4.25K
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.watuzik
+Filename: ./debs/com.bvn.watusitools_2.4.25K_iphoneos-arm64.deb
+Size: 6247392
+MD5sum: e455d65374e022131de93c6f482cb315
+SHA1: 6c5df34df1e02fd98aa356317ae49b22e2d165c9
+SHA256: cb3120b68548ebcf80936729f6008390c47561ff79d2eaef4a0c3ea13227609c
+SHA512: 0916fbcaa3d4b29214ed5881b8f371a7639305e4b5019101ab2390096aa4934b2c84ccea764a4c7d74f779a1ee00557cced5ca3c3d7128edef1ffe2e9dfeaa0c
+Description: Thư viện dành cho các chỉnh sửa của Watusi và WhatsApp
+Name: WatusiTools
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Author: Fouad Raheb <support@fouadraheb.com>
+
+Package: com.bvn.watusitools
+Architecture: iphoneos-arm64
 Version: 2.4.25
 Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
