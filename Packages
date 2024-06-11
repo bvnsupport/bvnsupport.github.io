@@ -14393,6 +14393,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 
+Package: com.bvn.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-3
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 3968
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.bvn.dumpdecrypter_1.4-3_iphoneos-arm64.deb
+Size: 1644902
+MD5sum: fca9d82f7f314f467a261aab893ce872
+SHA1: 125f67fcb73a1bb52b7578348a09812d2df4c7b7
+SHA256: e816070b7c70c38f4430ebdb904751abe3d312beb844d9b874ba7c6b68441763
+SHA512: 26718cad4b0c1bb2e31c499085abc148745249234916f475eb1235bab8f0246951294d5a1d0fe7b1f810ab7669c8966374ccbebd136b4a07236de122f20cdeea
+Description: Công cụ giải mã và xuất iPA các ứng dụng
+Name: DumpDecrypter (Rootless)
+Author: Netskao
+Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
