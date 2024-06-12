@@ -14073,27 +14073,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ColorBadges.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ColorBadges.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.contactsync
-Architecture: iphoneos-arm64
-Version: 1.1.6
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 612
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.13)
-Conflicts: com.fouadraheb.contactsync, com.f0u4d.watusitools
-Filename: ./debs/com.bvn.contactsync_1.1.6_iphoneos-arm64.deb
-Size: 141826
-MD5sum: 4ffcbf4e43c633a87fbf85acecf9e631
-SHA1: d1c90505e613a6cb0152450331f824a90c91fed2
-SHA256: d62146335719063928e4c44e9d5ba72f43237585af8ae580d4dd033a119f1ee4
-SHA512: aae2b7d9ae80035f88557c1288235ce18d996c3a9e54eb915804decc5e8d4ca274512b7bd99dbe77f769cb414311935b0046b6aebdded1dfde7552049e07a447
-Description: Sync WhatsApp Profile Pictures to your Contacts
-Name: ContactSync (Rootless)
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.bvn.coolcc
 Architecture: iphoneos-arm64
 Version: 2.0
@@ -15462,25 +15441,6 @@ Name: OneSettings (Gói TV)
 Author: BVN
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.onlinenotify
-Architecture: iphoneos-arm64
-Version: 3.4.4
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 696
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.7)
-Conflicts: com.f0u4d.onlinenotify, com.f0u4d.watusitools
-Filename: ./debs/com.bvn.onlinenotify_3.4.4_iphoneos-arm64.deb
-Size: 224112
-MD5sum: 7e17cd4044a05e680778398f518b1f56
-SHA1: 8ab983a8c5a5d2e2a7b7cccdb815ddaaa4610924
-SHA256: 95dfb6240df42d712e2659475c33d4ce142498d9f7e5af7c40428f508e02ab75
-SHA512: 19755999666eb8214343ab912310e46f7967a8bd5334b407082892a470261f255fa129267bff13bffc3cd902504021c740e3cb4825bbef37ee71e6f83a8709a8
-Description: Track your friends on WhatsApp Messenger!
-Name: OnlineNotify (Rootless)
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.bvn.phutro
 Architecture: iphoneos-arm64
 Version: 2.5
@@ -16141,26 +16101,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Eevee
 
-Package: com.bvn.stalky
-Architecture: iphoneos-arm64
-Version: 4.1.26
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 6772
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.23)
-Conflicts: com.f0u4d.stalkybeta, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, com.f0u4d.watusitools
-Enhances: WhatsApp
-Filename: ./debs/com.bvn.stalky_4.1.26_iphoneos-arm64.deb
-Size: 2194444
-MD5sum: b0ed2054677d5ded02dbdb8d0be6c5a2
-SHA1: b201747da6a77d2ab5d6197ee5c4bfd437417050
-SHA256: 9f51cf8ead51912517d8ca3a677024c832e37d11fb9bd601a233cc21e5edfbf4
-SHA512: 8f1dbef01adba8587d628514f3f413b2c786f2616e947ec8110602cc37959e262c6018e14f1326f7f4e31237305b939d9f304da12f4def9f9d72ad253c54564a
-Description: Track & download your contacts latest profile & statuses updates on WhatsApp
-Name: Stalky
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
@@ -16339,97 +16279,6 @@ Author: 34306 "Huy Nguyen"
 Depiction: http://bvnsupport.github.io/infodeb/Html/Watched.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Watched.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.33
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6644
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.23)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, com.f0u4d.watusitools
-Filename: ./debs/com.bvn.watusi3_1.2.33_iphoneos-arm64.deb
-Size: 2547128
-MD5sum: c88a351f6f8828358821f7590d9c13f6
-SHA1: af8ddb9902d7f268a4f2e644250152aa5343c5ab
-SHA256: 4be85a7267939df50b3f96db46768f152d05545814fed5f5d46705898ce0d380
-SHA512: 4cbdccffef3ca53430c0e5b22542fe9209027375363a9b314fabf53994c9e5badf052ad1eec5782c328cc5a448a1cc16c744bc1ed10bf0a2a4f48795d5db8e86
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.25K
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.watuzik
-Filename: ./debs/com.bvn.watusitools_2.4.25K_iphoneos-arm64.deb
-Size: 6247392
-MD5sum: e455d65374e022131de93c6f482cb315
-SHA1: 6c5df34df1e02fd98aa356317ae49b22e2d165c9
-SHA256: cb3120b68548ebcf80936729f6008390c47561ff79d2eaef4a0c3ea13227609c
-SHA512: 0916fbcaa3d4b29214ed5881b8f371a7639305e4b5019101ab2390096aa4934b2c84ccea764a4c7d74f779a1ee00557cced5ca3c3d7128edef1ffe2e9dfeaa0c
-Description: Thư viện dành cho các chỉnh sửa của Watusi và WhatsApp
-Name: WatusiTools
-Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
-Author: Fouad Raheb <support@fouadraheb.com>
-
-Package: com.bvn.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.25
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.watuzik
-Filename: ./debs/com.bvn.watusitools_2.4.25_iphoneos-arm64.deb
-Size: 6246896
-MD5sum: 8ce32342719e7cd4aa37dd6783e74d86
-SHA1: 854c78b6962bfe8cc1eb6e0af12ad288e77ee355
-SHA256: fe7cfe424759784b89aad080611d665aac8afd6f12df0e13cbcf08435b0c11d8
-SHA512: 612fc99459a625f68a04b24a3cbb1d1971d94a1ff0ae655f3ad6a8058ff00095752004ce219df626292940d6a2ca83a7c0cd8eba17ee6df0689df61813cb0be1
-Description: Thư viện dành cho các chỉnh sửa của Watusi và WhatsApp
-Name: WatusiTools
-Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
-Author: Fouad Raheb <support@fouadraheb.com>
-
-Package: com.bvn.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.27k
-Section: Development
-Maintainer: BVN Repo
-Depends: firmware (>= 12.0)
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.watusik
-Filename: ./debs/com.bvn.watusitools_2.4.27k_iphoneos-arm64.deb
-Size: 6172208
-MD5sum: 8c68b86cbb930874fee8e685f11ed464
-SHA1: e5a347163bd14af34f645b80c02aca0f528a8155
-SHA256: 4dbe71157387da15e083ff1c5ce7e0ac4b2c9fe4ad5ee1caaee75323bd8078e2
-SHA512: 9135ccac3b1f7575cf79ec1bd25d2fc83273666e7d4684c0bc76f29799c908473bbcdecd1a0a004900fe102d5e325522d487170be0b2322d1eb6107aced1ba31
-Description: Library for Watusi and WhatsApp tweaks
-Name: WatusiTools
-Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
-Author: Fouad Raheb <support@fouadraheb.com>
-
-Package: com.bvn.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.28K
-Section: Development
-Maintainer: BVN Repo
-Depends: firmware (>= 12.0)
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.watusik, xyz.cypwn.fouad
-Filename: ./debs/com.bvn.watusitools_2.4.28K_iphoneos-arm64.deb
-Size: 6198794
-MD5sum: 068274a62f47054372f617b9c43c4e24
-SHA1: 9b7ce99cb4d3e6d09683dd646e3d383bf406fa74
-SHA256: 40abd9a2c928d9fe1c1ab5de585b9387ff4ea2950548478482ff5938c884d37f
-SHA512: b2d1be133d72c6a214625f02d3bae78dce7a016c7f55f070cc12ed53a64127f069dd3ae76567035b9a76b71b744b6e8d43dfef32629f032560c6ee5aa463a825
-Description: Library for Watusi and WhatsApp tweaks
-Name: WatusiTools
-Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
-Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.bvn.weatherls
 Architecture: iphoneos-arm64
