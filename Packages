@@ -16375,6 +16375,24 @@ Name: WatusiTools
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 Author: Fouad Raheb <support@fouadraheb.com>
 
+Package: com.bvn.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.27k
+Section: Development
+Maintainer: BVN Repo
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.watusik
+Filename: ./debs/com.bvn.watusitools_2.4.27k_iphoneos-arm64.deb
+Size: 6172208
+MD5sum: 8c68b86cbb930874fee8e685f11ed464
+SHA1: e5a347163bd14af34f645b80c02aca0f528a8155
+SHA256: 4dbe71157387da15e083ff1c5ce7e0ac4b2c9fe4ad5ee1caaee75323bd8078e2
+SHA512: 9135ccac3b1f7575cf79ec1bd25d2fc83273666e7d4684c0bc76f29799c908473bbcdecd1a0a004900fe102d5e325522d487170be0b2322d1eb6107aced1ba31
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Author: Fouad Raheb <support@fouadraheb.com>
+
 Package: com.bvn.weatherls
 Architecture: iphoneos-arm64
 Version: 1.0.3
