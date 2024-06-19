@@ -13048,6 +13048,25 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.16player
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 14), firmware (<< 16), preferenceloader
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.laughingquoll.quart, com.tako3s.printemps, com.teslaman3092.16player, xyz.cypwn.16player
+Filename: ./debs/com.bvn.16player_1.0.5_iphoneos-arm64.deb
+Size: 531554
+MD5sum: feb8ca41b53b2c0809f87592abbb6956
+SHA1: 2bd8d92d778ff4698889b3b17cb0711d313f6d21
+SHA256: 577a3ba21137249187eec32a4db1fe5cc251dd7ec3301d6f38fa2752e49069c4
+SHA512: bcee1c8c6cdbf1c636d473bb9e69a32b8972c3b2e7e70642223ea44478fe04727ad21b29bab217a8d5d5dae764383897d2e78807d60d67847fe1ab2eb47ea497
+Description: 16Player - the best tweak to bring the iOS 16 lock screen music player to your iOS 14 or iOS 15 iPhone or iPad.
+Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
+Name: 16Player (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.3dappversionspoofer
 Architecture: iphoneos-arm
 Version: 1.3.1
@@ -16119,6 +16138,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Eevee
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 4.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1308
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.2_iphoneos-arm.deb
+Size: 460998
+MD5sum: 6033ab740cac91a514528493b1312c3b
+SHA1: 2cc3e3d3108f7e0f7c56fd4fdaa1e5bd24e18703
+SHA256: 2e7062e9107d0c4cedb3d42b926f97002b15c550d338c04c84046d508b1e28ee
+SHA512: a21c7b21b5f8eb3db436036dd2ebc3ed5cb61f6024e3d106b4e2277bc0cd51ba0334618c1dd1dc21870f13268c030a8b7c420c62fa5f505af111ac351e1fc931
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 4.2
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1308
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.2_iphoneos-arm64.deb
+Size: 460870
+MD5sum: 7a3fc348e23b9b48d92f86f12cbda21c
+SHA1: fa359614b621b2f7557ee97f3b6fdbb43ab48c87
+SHA256: 90ddcc52f6afabdce93803a35107a819615b0512dd8f09ef80d3757c66fe8f29
+SHA512: 409a89704a515b0393f3af5ae1cda8d77b68eeee8b7f812c3e12a03b25805d7c77070738c2c5f035583d97e41daea3e9cde0353d9dc2f6fb82567e63778b93e0
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Rootless)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
