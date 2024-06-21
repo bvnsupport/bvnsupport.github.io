@@ -2144,15 +2144,15 @@ Version: 5.0-18
 Section: Tweaks
 Maintainer: REPO CYDIA BVN <bienvannhat97@gmail.com>
 Installed-Size: 6112
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.bvn.limneos.crk
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.bvn.limneo
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debs/com.BIENVANNHAT.audiorecorderxs_5.0-18_iphoneos-arm.deb
-Size: 1862892
-MD5sum: f130431c3392f24528d071695afe5331
-SHA1: a12483761e9c3222911e0fc3ffed5febed21d615
-SHA256: befa9196575cf7e6d785d7bf350b242659752ffa2ae69247d83677ba7771af0f
-SHA512: 2e00a57239a04eb385123ef4943d7e022b1605486cf99bbf13425e790865488aa391f70a75d3040860afd77bd99a3f0d430f3a5bda17625a5ddd7764bb7e9054
+Size: 1862890
+MD5sum: 038c2a15da5fd91843777eb70c0e4dc4
+SHA1: 2a33298ac37f24453e97ccd6978a0ab3f703bdd7
+SHA256: 5e836e1a604a0589b21431bc454410ef38de07723d4bf6d858aeaa0189d770d5
+SHA512: 86174e45f88b10c3e5dfdef951387c91fd0cbc6213784660d1fce2946aee38970bb44bb514cbdeb5f232e29acc9240f9ec587612b1190b53b5d6587c972542a0
 Description: Ghi âm cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
 Name: AudioRecorder XS (iOS 12-16)VH
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -2938,14 +2938,14 @@ Version: 4.8-2
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 2232
-Depends: mobilesubstrate, preferenceloader, com.bvn.limneos.crk
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneo
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debs/com.BIENVANNHAT.bioprotectxs_4.8-2_iphoneos-arm.deb
-Size: 860522
-MD5sum: 072793614086847ba7bc7fb0c8d96347
-SHA1: f513f2af6d13f9e0939beb2c3eec08e57f8b006c
-SHA256: 4ca95478d8fd7f8eee3445add9bf04ec4e386f76c9e1821e0223bb4956d60463
-SHA512: 7e2dee02a46301f648dbd68e76ea2494fd431f4c14c736ee499fc8b00bd367f910c71340cd07cea6193169d14dff44773ec8186e8e92b630175b65e0031032cf
+Size: 860520
+MD5sum: 0c5cb71df674fc6a0fa7eec3c2b0b751
+SHA1: 003a5b283a0697ace37271bd4be38ff90bfbb273
+SHA256: f6c074265c886a6e2c4e8dda3b3fabce5cfee6d34ec615bc327705a3d2164fad
+SHA512: dd45c29c58e16969869d4c053b4fd612761b5e435030f8fe21c2bcf847cd7a2f2ac3a040ba0ea83c356bd78e2f08a1f44c2f68bca7dee9f1ad7ba82f93f37927
 Description: Protect your apps with Touch/Face ID!
 Name: BioProtect XS VH(iOS 12/16)
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
@@ -11168,13 +11168,13 @@ Version: 0.6-80
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1668
-Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), com.bvn.limneos.crk
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0),  com.bvn.limneo
 Filename: ./debs/com.REPOCYDIABVN.dynamicpeninsula_0.6-80_iphoneos-arm.deb
-Size: 515264
-MD5sum: 5dd170a8ed90b2142a049339a0399028
-SHA1: 542a34207acacd6b1529441e2edef5e5d67568f1
-SHA256: 84d7b378851670db0e8579543bb8cb2722e5b67625ce2d51503f6443ab4fe7ed
-SHA512: 5b62256c73a560b141067012ab5c626b2862357a8b8337228f8ac8e3ae7025203c3a899ad3c14965d2d3f8a6d0eaf722b6ea9ff3cc6fc8a035c1d888fa8179a3
+Size: 515262
+MD5sum: d90ffe8d0f533744f13de05a0bbab43a
+SHA1: d57781198c5280f2b2f112be393c06568a6f5160
+SHA256: e67ba334fd02b414bdeb86e08111e9141700bcb957ea10271693ac63c75a59ce
+SHA512: 36dd8ccbfcc6dad1b6df4524b488127930169af29d8942ce2562196b6d8dc7fcd5871b16ba79821033fd0560222c01d22e8c8ead64cac6122dda56c2cdf48ca0
 Description: Dynamic Island on your notch
 Name: DynamicPeninsula VH
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -11348,14 +11348,14 @@ Version: 2.4-11
 Section: Tweaks
 Maintainer: Repo Cydia BVN
 Installed-Size: 1420
-Depends: mobilesubstrate, preferenceloader, com.bvn.limneos.crk
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneo
 Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, net.kenhtao.voicechangerx
 Filename: ./debs/com.REPOCYDIABVN.voicechangerx_2.4-11_iphoneos-arm.deb
-Size: 451414
-MD5sum: 4534dbbafc7d9fa8db7b78a0722a0802
-SHA1: 44e765f81526bb2e41cd7e922bb38ec9705305fe
-SHA256: 2b9b38689712f7a3287f8f50563ab1d7a320c0d58f4e0302e01a815e34f205f8
-SHA512: 0a7c515a084a0ecc3048f43a3c94d189230d9baf57a1e58301839989df043c6a1cc80d2ae43c44d4c4af72754992656f36fc4000243edd9fb86c5648ecb4cb33
+Size: 451410
+MD5sum: d532d91753a87d0b08d4756a691c4922
+SHA1: 534e716c083d5f8d65eeb805e057c90330eabb2a
+SHA256: 210128700daadd7258080218bb2555fa982218de75e7071488ae08ecd8535f9b
+SHA512: 029aa4b723b4572964d629e16eff2e84f3a16e1399ca7d1ffea3a557f0cfe424e8f8ff1b935b79137afa6b0e58d98151748836b3977d08ac73bb5227e5247437
 Description: Thay đổi giọng nói của bạn trong khi gọi!
 Name: VoiceChanger XS (iOS 11 to 16)
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -14740,6 +14740,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.bvn.limneo
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: org.mr.unsubs
+Filename: ./debs/com.bvn.limneo_3.1_iphoneos-arm.deb
+Size: 7766
+MD5sum: cf61dbec5cc5847522d238933b158615
+SHA1: 669416e85652bc53737b5b00d10b0b0b4b51a6e6
+SHA256: 7711b706229cd4e33c4975f8a905928fb33b1e0febaba8ba588fef2a75d607e6
+SHA512: 2f0d4c84a4b1f9191cdd22899039f84de5ed87e616e7b51e4f6e228bccaac6acc608493481822a2390e189ff02a117144376935b087a446d020948db3b09fbd8
+Description: Kích hoạt tất cả các Tweak của Limneos by CBZ.
+Name: Limneos Crack All
+Author: CBZ
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.limneos-crack
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -14757,25 +14776,6 @@ Description: Crack cho các tinh chỉnh của Limneos
 Name: Limneos Crack(Rootless)
 Author: CBZ
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.limneos.crk
-Architecture: iphoneos-arm
-Version: 3.1
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: org.mr.unsubs
-Filename: ./debs/com.bvn.limneos.crk_3.1_iphoneos-arm.deb
-Size: 7772
-MD5sum: da4329f4f0e4a7449a6a2aa8544600ea
-SHA1: fbd7a547b7a5ec2a00e6468879c0d4b018164ee4
-SHA256: 6f90d5fa125af8983ecd4cfe1a128e0d575190b141030caad497b4a0c2029869
-SHA512: 8183ccc36d2396106f765f9a0f0ab92761d63e3e7d637a9e1cc7298150be4ce959445d845257211dd377dcd673fc2d4698939219d08f6f6000b94e1c9ba23348
-Description: Kích hoạt tất cả các Tweak của Limneos by CBZ.
-Name: Limneos Crack All
-Author: CBZ
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.little12
 Architecture: iphoneos-arm64
