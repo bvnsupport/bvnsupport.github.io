@@ -5698,6 +5698,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/hideseri.json
 
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4_iphoneos-arm64.deb
+Size: 95112
+MD5sum: 96c842c15acdef6b7d491e7f5de0b147
+SHA1: 014f6a59a60eec4054b8142f0635cce2b91b471b
+SHA256: 73e214d730c86fe92cfc219de87ceed9507edb7e3dc20f3eaa8ebf2fe99cc063
+SHA512: c41aa36107046750925942d87ff4c26217b587c4462f256abbdcb882c1d03125d57e785d2d4db6d01a4639f0fea0c9b1d0b271a314e0c83bcbd6c62f54781196
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+dev: ichitaso
+
 Package: com.BIENVANNHAT.hideserialnumber
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -5719,6 +5741,28 @@ dev: ichitaso
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+
+Package: com.BIENVANNHAT.hideserialnumber
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 408
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber_0.0.4_iphoneos-arm.deb
+Size: 100338
+MD5sum: 9a37992c2be31643a7b5b43172ab62fa
+SHA1: 87b77ad66e32bb060263de769f175b8cd178727c
+SHA256: 4526e75553da7e5c049e46410e69121dbe10081da9b0414e5d476fb03e579454
+SHA512: 6d2aa5c184cd4dc51e676684a53722a349e29c82e9c1a5f3f45ff4b7b47aa070e25282f61b184df5c38f27bc49b5161e03cce74ad30e8c6200c6037761755623
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: ichitaso
 
 Package: com.BIENVANNHAT.homebarsizer
 Architecture: iphoneos-arm64

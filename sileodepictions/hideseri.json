@@ -10,15 +10,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/HideSerialNumber/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/HideSerialNumber/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://support-jailbreak.github.io/infodeb/HideSerialNumber/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/HideSerialNumber/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://support-jailbreak.github.io/infodeb/HideSerialNumber/Screenshots/3.png",
+"url":"https://bvnsupport.github.io/infodeb/HideSerialNumber/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/HideSerialNumber/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -62,12 +66,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/06/2023"
+"text":"21/06/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.4.1"
+"text":"iOS 15.0 đến 17.x"
 },
 {
 "class":"DepictionLabelView",
@@ -84,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 0.0.3\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 0.0.4\n\nThêm tuỳ chỉnh mới"
 },
 {
 "class":"DepictionLabelView",
