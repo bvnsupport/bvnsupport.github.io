@@ -14241,6 +14241,25 @@ Name: Disable Screen Time
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hitori
 
+Package: com.bvn.doodle
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVn Repo
+Depends: preferenceloader
+Filename: ./debs/com.bvn.doodle_1.0_iphoneos-arm64.deb
+Size: 3630108
+MD5sum: 1f2065c0a97ee3cdee8f8e73161e678f
+SHA1: b72ef3fb82dad6df0a17e3c52f2c41008629d83f
+SHA256: 458529f8813d66a6edcc160af1d07b11796a68373207762cc7e7813da4df2f4d
+SHA512: 7dfb08d6a952fb2e3e98955e702deee1c4831a6e49d6d651acccddd0e03e8c6b4517bc2e89a09369bb5f93c14cdeaff5c05638a6725fda832514e8dd68f9e955
+Description: Mở khóa thiết bị bằng hình vẽ
+Depiction: http://bvnsupport.github.io/infodeb/Html/doodle.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/doodle.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Doodle VH(Rootless)
+Author: Ethan Whited
+
 Package: com.bvn.dumpdecrypter
 Architecture: iphoneos-arm64
 Version: 1.4-2
