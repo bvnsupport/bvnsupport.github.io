@@ -16246,6 +16246,44 @@ Name: TweakHub VH(Rootless)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.vcam
+Architecture: iphoneos-arm
+Version: 1.0.0-108+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vcam_1.0.0-108+debug_iphoneos-arm.deb
+Size: 68106
+MD5sum: ecd072845dc5d8b1dbc7829af72606f1
+SHA1: 3e01355bf8e21acf201325c5fff6bd9c0e276492
+SHA256: a62f347829abd5f3d360487c5448c554689eee6b0c42556c7e0c702e20cd48bb
+SHA512: dfa0f674902a84eae073af69ca39ce8fb2669eab23d921a5e398e157695eea43b8960a2f1f46fcd27474282ec78d715f8f6f142ef6565ceead0c66bfdcfb77a9
+Description: VCAM4iOS
+ - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
+Name: VCAM4iOS
+Author: trizau
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.vcam
+Architecture: iphoneos-arm64
+Version: 1.0.0-108+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vcam_1.0.0-108+debug_iphoneos-arm64.deb
+Size: 68170
+MD5sum: f122bf6021aeb0b4242de4db3295165c
+SHA1: 17bcd28ae1bb7896be3154c442895b71ecd2aa2d
+SHA256: f56c9ae1d29286584ef56a331d8230012909e39d1a9fa9d7b27fb4dfd07c3079
+SHA512: 7c490ccbd762fa38f3c6e5e54083ac47d9a86f669190085fcfbfe38905a291d5cc1cfe73b0edc215b295d951c773a3b55bc409b175feffdf599305ffb6c7bb1e
+Description: VCAM4iOS
+ - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
+Name: VCAM4iOS (Rootless)
+Author: trizau
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.verxina
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -25581,6 +25619,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-3
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
+Size: 123772
+MD5sum: 51feed08bd3754ef6ba67395995cc784
+SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
+SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
+SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2484
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
