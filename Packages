@@ -11168,25 +11168,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.callbarxs
 Architecture: iphoneos-arm
-Version: 4.0-127
+Version: 4.0-128
 Section: Tweaks
 Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
 Installed-Size: 1728
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, org.mr.unsubs
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, com.bvn.limneo
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/com.REPOCYDIABVN.callbarxs_4.0-127_iphoneos-arm.deb
-Size: 544408
-MD5sum: 361c8bd29b9816f276e3894570f5f781
-SHA1: 4ae29ba44fec5ebe73e75bae895a89ca4d764b30
-SHA256: 55c07ca1b79631a85a03bdc73b9e730b3cc6ecacd415f890b4208bf39efd1071
-SHA512: cb6214fa717a570a4e3abe29e056bccf0f3ea550524eae1fd206dc690d70ab63c5ca82c76a75fb222e4beffa53053a75b938e75e3684b1c3e568235a310e21df
+Filename: ./debs/com.REPOCYDIABVN.callbarxs_4.0-128_iphoneos-arm.deb
+Size: 544398
+MD5sum: 1dd6886a255287db3811831498c7daef
+SHA1: 80fd69edb2c2aaff9e504d7938f9890b30431073
+SHA256: 6f41a95d44b830f0dac518ebc3df1cdbe276dc018344b6e280cc631c70c7dada
+SHA512: 9b174aac07cf6b05837ccc61ab8b170291efc2f196eed4f498e7d1363370d44649cd7851af1e766ca3472f7225eefe89675db354884fd7bc92b4091de3e8b5d8
 Description: Đừng để các cuộc gọi đến làm gián đoạn bạn!
 Tag: purpose::extension
 Name: CallBar XS (iOS 12/14)VH
 Author: Limneos
 dev: limneos
-Depiction: http://support-jailbreak.github.io/infodeb/CallBar/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/CallBar/?p=info
+Depiction: http://bvnsupport.github.io/infodeb/CallBar/?p=info
+SileoDepiction: http://bvnsupport.github.io/infodeb/CallBar/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.centeredlabels
@@ -25540,6 +25540,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-3
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
+Size: 123772
+MD5sum: 51feed08bd3754ef6ba67395995cc784
+SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
+SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
+SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
+Depiction: https://repo.cypwn.xyz/depiction/2484
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
