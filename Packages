@@ -15316,6 +15316,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplay
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
 
+Package: com.bvn.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.nointerruptwhenplayingmusic_1.0.2_iphoneos-arm64.deb
+Size: 8200
+MD5sum: 8fe09e4953aced96f27b820d106ae56b
+SHA1: bef4b691456cd8b57336d8d68d353c37e06508f7
+SHA256: a5c6c6465a194623ff16f03727811f0db6959e8201bd799569161993ac052a5a
+SHA512: 5feded1ae47632585c742019236157f916b1d8b7c134555a03d21c74a8b3e5bc7bb49cf7e11bbfe09894468b056cffbc8d2f33f01845214b552552883d43233b
+Description: Không làm âm thanh nhỏ đi khi có "Thông báo"
+Name: NoInterruptWhenPlayingMusic
+Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ginsu
+
 Package: com.bvn.notrecording
 Architecture: iphoneos-arm
 Version: 1.1.1
