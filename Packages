@@ -12176,6 +12176,26 @@ Name: BatteryHealth (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.cylinderremmade
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1123
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Filename: ./debs/com.bienvannhat.cylinderremmade_1.1.1_iphoneos-arm64.deb
+Size: 319880
+MD5sum: 1b3a4cc35356ab18142c673ff891c795
+SHA1: 2af058a00a2e7f9fdc8e65be758a488b74523854
+SHA256: f3f09080b7e0f64d1c1114141cde9caecd9de61ef80983008cc0c21685e44b8e
+SHA512: b28c9d29aa586f579f10f11174626d06a9d956755a71a1d8603e992423a995e40a847c208917e1ffa1259c5b40e9972c99857333d575857c63865788ff1bbcdc
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.
+ - Hỗ trợ iOS 11 - 16.X .Phiên bản này đã được chỉnh sửa xoá bỏ Oldabi giúp các thiết bị A11 trở xuống cài đặt dễ hơn.Các thiết bị A12 trở lên vui lòng cài đặt gói Oldabi trước khi cài đặt gói nay tránh gây xung đột.
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Cylinder Reborn VH(Rootless)
+
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
