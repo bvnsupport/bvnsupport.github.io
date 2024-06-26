@@ -18724,26 +18724,46 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: opa334
 
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.0.11
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.11_iphoneos-arm64.deb
+Size: 45436
+MD5sum: 6b2e3c1c4815a9d7b3d4a341daf81488
+SHA1: f7742112830355a78f463a844c4c8bde077de10c
+SHA256: a20c1e35b6a5e82a28e863a4b887e7b2879e8762181dc44bb2ab5dc7005c6c85
+SHA512: 8658e9ed798b72510fdc321c9c9c63e7775042b3fbcc33e652169b8d3932d05a20970f4f24f4d8c77406fa88ed643b3beaeb60323e2361fff869630ff5f75db5
+Description: A modern AppList alternative
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.opa334.ccsupport
 Architecture: iphoneos-arm64
-Version: 1.3.10-2
+Version: 1.3.13-2
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 528
+Maintainer: opa334
+Installed-Size: 560
 Provides: com.ioscreatix.silo
 Depends: mobilesubstrate, firmware (>=11.0)
 Conflicts: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
-Filename: ./debs/com.opa334.ccsupport_1.3.10-2_iphoneos-arm64.deb
-Size: 86332
-MD5sum: 83568011f4d93377a9925ec5643735dd
-SHA1: 4ef67f8d42911fe60a9c97b2c82cce8c368bd8f6
-SHA256: 11c21776d6793c8ba7ff32f1d57c083ceaad8318de4d12455c111b11b44b6eeb
-SHA512: 9c5b336336bcd097c6e906a91f71ce7c7ca67842f24b0eb3e9522dd2eda4d501ed530136987eeafcfec435e99e223252f5c10d6633e9a4f76226f0c9f51d357c
+Filename: ./debs/com.opa334.ccsupport_1.3.13-2_iphoneos-arm64.deb
+Size: 93656
+MD5sum: f6fab5693c56d6e8c61ae684e846059d
+SHA1: f89ab6763e63ae131060b94815df09c32225f3b2
+SHA256: a4e76334f78f9bcd628e46bd415b53e3001a2364020cb8572bcb7eb07cf19366
+SHA512: 51a0b571d253dcf6f67e64956f226f33a4f4a0a8f0619a1c6381c23cefd40e370721c81e298cd7f8cfd0b32fd0a856d6d57dc36051ecd2edd2fa2bb341a07bf9
 Description: Support tweak for CC modules!
 Name: CCSupport
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 
 Package: com.opa334.libsandy
@@ -18768,23 +18788,41 @@ Author: opa334
 
 Package: com.opa334.libsandy
 Architecture: iphoneos-arm64
-Version: 1.1.3
+Version: 1.1.4
 Section: System
-Maintainer: BvN Repo
-Installed-Size: 340
+Maintainer: opa334
+Installed-Size: 264
 Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Filename: ./debs/com.opa334.libsandy_1.1.3_iphoneos-arm64.deb
-Size: 23796
-MD5sum: ba767c2289f89ebc6d7ab9f9e677d306
-SHA1: d242b8db79b1c72c667d8453e78fd66ba09f23f7
-SHA256: f92216aba269ac4251e5fc3c25e3547feb3c2504fa450596385c06b6aa940e01
-SHA512: 2fc101193fe8a34123b981acee78a05d26d45db84c7814fa2c40c62c17a7ec6ac6008a460663ef5a47eefa115e5612b80061e610b54decbc49f61def06f19174
+Filename: ./debs/com.opa334.libsandy_1.1.4_iphoneos-arm64.deb
+Size: 20764
+MD5sum: b8626074a8f10258c34a6cbb114bef06
+SHA1: c7f3a466527f1427fbe326391e4817c7dcdc5bf9
+SHA256: 7cf3f29063393caf5f00fff9c0993b3037a4154e77cf715459874c8309e251a1
+SHA512: 0a1d650fc19b16ac1f5c653ad8f4dbd1243fbdd24df13f17c36207a4777c4b18d2d9584cdb4aa066d0f92a25dcf5d23c04fc033a493108b4c3f26e4ba726beca
 Description: Securely extend the sandbox of system processes and user applications
 Tag: role::developer
 Name: libSandy
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.opa334.libundirect
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: System
+Maintainer: opa334
+Installed-Size: 168
+Filename: ./debs/com.opa334.libundirect_1.1.6_iphoneos-arm64.deb
+Size: 13498
+MD5sum: c26ff11f5b5626f357b25567c9818c71
+SHA1: debb165bccd1242fe5dc26c75dbc80d3646d3e67
+SHA256: 16648226d0b588b0cad890b422a2d4ec51104afdac6097bdda6981df759088b3
+SHA512: 3ec25cf690cbfbb7f0dfe0d13a6d57efbde6119171c97a55806bc965b5ccee1dfa1cc28b6799108ade66d4b533d9efa1ee55ac60998c7cf78e9d0783231b2374
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: role::developer
+Name: libundirect
+Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: com.opa334.trollstorehelper
 Architecture: iphoneos-arm64
