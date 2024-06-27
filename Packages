@@ -13832,13 +13832,13 @@ Version: 1.0
 Section: Fonts
 Maintainer: BVN
 Filename: ./debs/com.bvn.bong_1.0_iphoneos-arm64.deb
-Size: 14958928
-MD5sum: e0882d216cd88ac3a32c52a4403798ee
-SHA1: 02ae020588df9f8a3257005bab2ae398e886fa5b
-SHA256: 3a96e7d6389b1f0522f9374b2a01a6b6ac864bf53c967dd23d076361b5e5fa7a
-SHA512: ad43b6e0bf024dc0ecae2acff8cc1d8993b8493dbf29cdd3a1bd9715c418133fee988bf0f23d74d3b079d0cf185155529944139119893a69e5f57db1aeb14af5
+Size: 14958938
+MD5sum: 9c45b969106cb9d710b18e9fcab1fc65
+SHA1: fd761a46539ba094f71c00421f376dc53e1ab8a9
+SHA256: 442fa777a29d5cbe8430f82346c75d3d4a2122be35ddeef4c39569ffc98b44f6
+SHA512: c25eebfd2627ae37b5442bb863812e0cd18aa8af459c8b6694f78ddb9d087e6134b2b217a9cf8278688a5f861f52ab00caadb46651b924f23d0d2ea687d8df24
 Description: Phông chữ Bông iOS14-16.
-Name: Bông (Rootless)
+Name: Rixlovefool (Bông)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Bing.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bong.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
@@ -25757,27 +25757,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
