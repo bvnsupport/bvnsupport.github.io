@@ -13826,6 +13826,24 @@ Name: Bloom (Rootless)
 Author: yan
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.bong
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: BVN
+Filename: ./debs/com.bvn.bong_1.0_iphoneos-arm64.deb
+Size: 14958928
+MD5sum: e0882d216cd88ac3a32c52a4403798ee
+SHA1: 02ae020588df9f8a3257005bab2ae398e886fa5b
+SHA256: 3a96e7d6389b1f0522f9374b2a01a6b6ac864bf53c967dd23d076361b5e5fa7a
+SHA512: ad43b6e0bf024dc0ecae2acff8cc1d8993b8493dbf29cdd3a1bd9715c418133fee988bf0f23d74d3b079d0cf185155529944139119893a69e5f57db1aeb14af5
+Description: Phông chữ Bông iOS14-16.
+Name: Bông (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Bing.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bong.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: unclear
+
 Package: com.bvn.cahighfps
 Architecture: iphoneos-arm64
 Version: 2.0.0
