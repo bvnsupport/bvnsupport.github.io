@@ -12162,15 +12162,15 @@ Package: com.bienvannhat.batteryhealthenabler
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Biện Văn Nhật
+Maintainer: BVN Repo
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
 Filename: ./debs/com.bienvannhat.batteryhealthenabler_1.0.1_iphoneos-arm64.deb
-Size: 8430
-MD5sum: ce3a0b34685c68015e558299825c1700
-SHA1: 159d06ec69d8a3ecb4b9e9a88dce39aacec700da
-SHA256: fd4627cdb49af3a4d67c3b278c8ba34b0d5acec9c695eeaedd01d4a5ea36cc61
-SHA512: 3ccee1b594879b772ec8732a73ccf40abdb515927a06ef694d90fadcdcb27deb874a1131c18b006208ef1c0d30ce22090995f9ae41926d531ece53417ff7fde5
+Size: 8164
+MD5sum: f3ba39514d4cda79f0d2591a5deeed65
+SHA1: 9ce9ffb3c45343eb129cba97e656d5ed3afbdab6
+SHA256: 5120cbb76810a74e77607ba7d11c797308e00c8fb88596579af0105c0e5528bb
+SHA512: 49dfa8d9ba53c214b1f03d8ecc5556909556c022f4fcb4aa09dd95524a29a4b8a9ce6f33825a0c525d7e99c1a3ccb3deb79be8b942406fcd2b7643d90494615a
 Description: Bật Tình trạng pin trên các thiết bị không được hỗ trợ.
 Name: BatteryHealth (Rootless)
 Author: PoomSmart
@@ -13917,6 +13917,29 @@ Description: CC Toggle to block ads on demand!
 Name: CCAdsBeGone VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: 0xkuj
+
+Package: com.bvn.chromahomebarx
+Architecture: iphoneos-arm64
+Version: 0.5
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 642
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, xyz.cypwn.xinam1ne
+Filename: ./debs/com.bvn.chromahomebarx_0.5_iphoneos-arm64.deb
+Size: 3207174
+MD5sum: e2cb26fc568162e936c8f03c4242f674
+SHA1: 57b69afb2eb1fc2699772947f9aab021c4e938a7
+SHA256: e4ef982225b771b6ecb67f74887d1e5fb30dd6d162a77eab5c7de45258c370bc
+SHA512: 74f4c20601c96588a1aad0b50e2ab5823319798eee6b7ee28fa40b82d32a8f3eaff743009ae16e6361f2f66266778bcde69a783dfd6e60c2aeb58b897e6e83b9
+Description:  ChromaHomeBarX chỉnh màu Thanh Home cho iPhone X, cũng hoạt động với LittleX.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
+Name: ChromaHomeBarX VH
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+dev: afnanahmad
+Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.classicfolders3
 Architecture: iphoneos-arm
