@@ -18350,6 +18350,27 @@ Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.miro.fbfreeze
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1292
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), xyz.cypwn.xinam1ne, xyz.cypwn.cephei-compat
+Filename: ./debs/com.miro.fbfreeze_2.1_iphoneos-arm64.deb
+Size: 400936
+MD5sum: cf270769b8b250326373707d0e1a576f
+SHA1: ae2583d36cbae4736eef4efde04b48f61f73bbc6
+SHA256: 7fa6de88cdf967a653edcc1e1711a5f7721ce40aa6e10ea194df89779e0d750a
+SHA512: 39d5ddd09cece3b62ea9fba377c13641707a0c9eb7072fb929b320f3d6e60a45aa17e785483725b406e597130df804cbade279fd73a0b1e3e9357704dbe9ce18
+Description: Không hiển thị "đã đọc/xem" cho tin nhắn trên ứng dụng Facebook Messenger.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: FBFreeze (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FBFreeze.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FBFreeze.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.miro.liblottie
 Architecture: iphoneos-arm64
 Version: 1.0.2
