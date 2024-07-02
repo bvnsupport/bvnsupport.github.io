@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"Eevee"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"4.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"4.3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"19/6/2024"
+"text":"2/7/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 4.2\n\n- Thêm tuỳ chọn đặt lại dữ liệu\n\n- Đã sửa lỗi nền trắng của cửa sổ bật lên gốc\n\n- Đã sửa lỗi mở liên kết Spotify trong ứng dụng khi ứng dụng bị đóng"
+"markdown":"### Phiên bản 4.3\n\n- Một số sửa lỗi và cải tiến:\n\n- Đã sửa lỗi thông báo "Không thể tải lời bài hát này" khi chúng bị hạn chế trên Musixmatch\n\n- Tùy chọn hiển thị lý do dự phòng trong tiêu đề thẻ lời bài hát\n\n- Đã cập nhật OpenSpotifySafariExtension không còn khớp sai trên các liên kết như Charts.spotify.com"
 },
 {
 "class":"DepictionLabelView",
