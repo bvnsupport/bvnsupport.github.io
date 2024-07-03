@@ -15738,6 +15738,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.reo
+Architecture: iphoneos-arm64
+Version: 3.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2228
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 14.0)
+Filename: ./debs/com.bvn.reo_3.0.0_iphoneos-arm64.deb
+Size: 1538314
+MD5sum: 6fa699bda361417efed93c716c934a64
+SHA1: aecb528fb6e8ab2ea83fa8ac80463b8279fc8b86
+SHA256: 89c4299e09e80ecda0a1843db5839a69f360322f77dea50fbae09c7e9a3b15a2
+SHA512: bf0b48889172433a20ea03302d10af0a9641535dfaa016257417397c1b1fc0d31a4a475597f4cf82d9d1e0ebdb7dcbde4a46766180966777312b86e0e38aee00
+Description: Fancy Dancy player for LS
+Name: Reo VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Mystery
+
 Package: com.bvn.replaced
 Architecture: iphoneos-arm
 Version: 1.0
@@ -25841,27 +25861,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
