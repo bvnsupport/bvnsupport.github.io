@@ -119,6 +119,14 @@
 {
 "url":"https://bvnsupport.github.io/infodeb/Reo/Screenshots/25.png",
 "accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Reo/Screenshots/26.png",
+"accessibilityText":"Screenshot" 
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Reo/Screenshots/27.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -148,7 +156,7 @@
 "title":"Nhà phát triển",
 "text":"Mystery"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.6.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -157,12 +165,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/4/2024"
+"text":"3/7/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"515 KB"
+"text":"1,3 MB"
 },
 {
 "class":"DepictionTableTextView",
@@ -184,7 +192,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.3.5\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 3.0.0\n\n- Hỗ trợ iPad và thêm 1 số tính năng mới"
 },
 {
 "class":"DepictionLabelView",
