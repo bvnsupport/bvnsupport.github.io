@@ -14188,6 +14188,26 @@ Name: CopyLogFix16 (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.copyvault.tv
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 12336
+Depends: com.squidforce.copyvault
+Filename: ./debs/com.bvn.copyvault.tv_1.3.1_iphoneos-arm64.deb
+Size: 4780
+MD5sum: 7e070b562e1274e73b58249c59804c25
+SHA1: 0d20902ce4b699584c2bf07083a1eb942666f9be
+SHA256: bfaacc7a0a05727b0502ecdcff4041545d29dc0ae673f78fc1c56837b92724c6
+SHA512: a45a377aad14e70362b925ea00815e2c38b13c9afd44430c6e64de8ea1fc4fe45a346a62ed0a3e50d810dd11c5a7dfaa4a0df35b34579e7d5e6e5a03532a8705
+Description: Gói Tiếng Việt dành cho Tweak CopyVault
+Name: CopyVault (Gói TV)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CopyVault.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CopyVault.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: BVN Repo
+
 Package: com.bvn.cr4shed
 Architecture: iphoneos-arm64
 Version: 4.3.1-1+debug
