@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"CCBorder16 VH\n\n- Trung tâm điều khiển kiểu iOS18 có thể điều chỉnh và điều khiển hình dạng mô-đun \n\nㅤ\n\n",
+"markdown":"CopyVault Gói TV\n\n- Gói Tiếng Việt cho Tweak CopyVault\n\n- Yêu cầu cài Tweak CopyVault từ Nguồn Havoc để sử dụng \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,7 +21,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/CCBorder16/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/CopyVault/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CopyVault/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CopyVault/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -33,10 +41,10 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi"
+"title":"ỦNG HỘ TÔI😙"
 },
 {
-"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"markdown":"[**Nhấp vào đây**](https://bvnsupport.github.io/infodeb/THONGTINTHANHTOAN/?p=info) - ✌️\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,9 +58,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"fiore & p2kdev & 妖刀"
+"text":"BVN Repo"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +69,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"5/7/2024"
+"text":"6/7/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 16 đến 16.5.1"
+"text":"iOS 14 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -83,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.5\n\n- Hiện tại nó chỉ phù hợp cho các bé iOS16 trải nghiệm, chưa hỗ trợ iOS15."
+"markdown":"### Phiên bản 1.3.1\n\n- Thêm Ngôn Ngữ Việt Na cho Tweak CopyVault"
 },
 {
 "class":"DepictionLabelView",
