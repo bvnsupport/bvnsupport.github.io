@@ -13959,6 +13959,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm64
+Version: 1.1.6.5
+Section: 嗨-工具
+Maintainer: 妖刀
+Installed-Size: 444
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
+Filename: ./debs/com.bvn.ccborder_1.1.6.5_iphoneos-arm64.deb
+Size: 49416
+MD5sum: b2b62f51e2644ee814515ab5bccc032f
+SHA1: 147c90aa355dd640117c8523855ecf95fc62e2ff
+SHA256: f431da100dc47d6e392e09885b4da9271cab45abb2fd43d0d883c6f6cfe12972
+SHA512: 31d45229dcbf66c0d6ef5ac91a4766bf204c2e7e8f2c6fee5c0689044ddbc3629d1d21fef801cddf751e906e79dad6c0a5c6396db7f822d3ef96c82a2d136693
+Description: Trung tâm điều khiển kiểu iOS18 có thể điều chỉnh và điều khiển hình dạng mô-đun 。
+Name: CCBorder16 VH(Rootless)
+Author: fiore & p2kdev & 妖刀
+Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ccborder
+Architecture: iphoneos-arm64
 Version: 1.1.6
 Section: Tweaks
 Maintainer: BVN Repo
