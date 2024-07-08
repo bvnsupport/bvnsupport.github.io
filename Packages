@@ -13960,17 +13960,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm64
 Version: 1.1.6.5
-Section: 嗨-工具
+Section: Tweaks
 Maintainer: 妖刀
 Installed-Size: 444
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
 Filename: ./debs/com.bvn.ccborder_1.1.6.5_iphoneos-arm64.deb
-Size: 49416
-MD5sum: b2b62f51e2644ee814515ab5bccc032f
-SHA1: 147c90aa355dd640117c8523855ecf95fc62e2ff
-SHA256: f431da100dc47d6e392e09885b4da9271cab45abb2fd43d0d883c6f6cfe12972
-SHA512: 31d45229dcbf66c0d6ef5ac91a4766bf204c2e7e8f2c6fee5c0689044ddbc3629d1d21fef801cddf751e906e79dad6c0a5c6396db7f822d3ef96c82a2d136693
+Size: 49412
+MD5sum: b2c0b65f9d7729879325bbd11736e0af
+SHA1: 0d5631e469d882a7743587299bdd2f57e6addc92
+SHA256: 5f3e42f4b6b431aa52144596a6161e1cf875fa5de08edb6762abfa046aaf2774
+SHA512: 2fd3df1e40ac61f1d236a4a3fe3466b0a044430a71a14a769d4b6faa39133f4cb9e88874effec237ecc001888f8b8f60efbe8dcf7ce54a62f527c88f75804037
 Description: Trung tâm điều khiển kiểu iOS18 có thể điều chỉnh và điều khiển hình dạng mô-đun 。
 Name: CCBorder16 VH(Rootless)
 Author: fiore & p2kdev & 妖刀
@@ -25962,27 +25962,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
