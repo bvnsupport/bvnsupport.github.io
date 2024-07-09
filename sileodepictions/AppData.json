@@ -56,7 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Fouad Rahed"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"5/7/2023"
+"text":"9/7/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15 đến 16.4.1"
+"text":"iOS 15 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -92,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4.1\n\n- Thêm biểu tượng bảng điều khiển và giữ để bắt đầu ở chế độ an toàn"
+"markdown":"### Phiên bản 1.4.2\n\n- Fix API"
 },
 {
 "class":"DepictionLabelView",
