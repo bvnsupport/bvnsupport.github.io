@@ -14008,12 +14008,12 @@ Installed-Size: 460
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.bvn.ccborder_1.1.7_iphoneos-arm64.deb
 Size: 56848
-MD5sum: ad7ac51e91f39509d3ea9306a246cc7e
-SHA1: 4be97c6df686b8f96d4ad0b5f1425c7547c9b22c
-SHA256: d662fd312391b9834d9af5438116ce1cb58a714fce1002d89b9ac3c4b0553a88
-SHA512: ba93de53a364fddf0c82a9cc407a3d74d0dd69acbeda027cc66b8900fed05b27b63c9ea82d981002a68d8449f0bb9e3c2ef0c5eb4c55c7934ef50b7b08ea9219
+MD5sum: 163850106163e0c1be9eaabef868596f
+SHA1: 4126d5f823f9d2eb8960dcc9fb1f7764ac9adb72
+SHA256: 24c3f87049ab8fb81d301f09a4b9d5d72d71287be821d136600ac745abcefd76
+SHA512: 864c013246b84189361d551e31ef4fda021e72e16a41f6541a4e23805f33749cc752036dfd7b6accda4c9755d43e01931524b84f8860540c10ff32532cf0766c
 Description: Tinh chỉnh đơn giản giúp loại bỏ nền mô-đun và thêm đường viền, giống như CoolCC!
-Name: CCBorder16 VH(Rootless)
+Name: CCBorder VH(Rootless)
 Author: fiore
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
@@ -14274,13 +14274,12 @@ Version: 1.3.1
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 12336
-Depends: com.squidforce.copyvault
 Filename: ./debs/com.bvn.copyvault.tv_1.3.1_iphoneos-arm64.deb
-Size: 4780
-MD5sum: 7e070b562e1274e73b58249c59804c25
-SHA1: 0d20902ce4b699584c2bf07083a1eb942666f9be
-SHA256: bfaacc7a0a05727b0502ecdcff4041545d29dc0ae673f78fc1c56837b92724c6
-SHA512: a45a377aad14e70362b925ea00815e2c38b13c9afd44430c6e64de8ea1fc4fe45a346a62ed0a3e50d810dd11c5a7dfaa4a0df35b34579e7d5e6e5a03532a8705
+Size: 4766
+MD5sum: f2798130fa2ff17e80c25a83e111b298
+SHA1: 2f950a77b96c1b921763fcd89e8a92c3e6d02f72
+SHA256: 480ac7df9c43f793535725ef8254189d7a64af5a70de897e200bd3dd1020afdc
+SHA512: 97712f20056ab8a5dbec8402f33a8b7dadc55bf768701a171f7e27c3df0ce5b3b906d3e51f6bdab766895fcbe5096600ec24e276ab8b8598539934ad0f0d0a09
 Description: Gói Tiếng Việt dành cho Tweak CopyVault
 Name: CopyVault (Gói TV)
 Depiction: http://bvnsupport.github.io/infodeb/Html/CopyVault.html
