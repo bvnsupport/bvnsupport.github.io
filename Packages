@@ -13999,6 +13999,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ccborder
+Architecture: iphoneos-arm64
+Version: 1.1.7
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 460
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.bvn.ccborder_1.1.7_iphoneos-arm64.deb
+Size: 56848
+MD5sum: ad7ac51e91f39509d3ea9306a246cc7e
+SHA1: 4be97c6df686b8f96d4ad0b5f1425c7547c9b22c
+SHA256: d662fd312391b9834d9af5438116ce1cb58a714fce1002d89b9ac3c4b0553a88
+SHA512: ba93de53a364fddf0c82a9cc407a3d74d0dd69acbeda027cc66b8900fed05b27b63c9ea82d981002a68d8449f0bb9e3c2ef0c5eb4c55c7934ef50b7b08ea9219
+Description: Tinh chỉnh đơn giản giúp loại bỏ nền mô-đun và thêm đường viền, giống như CoolCC!
+Name: CCBorder16 VH(Rootless)
+Author: fiore
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
+
 Package: com.bvn.chromahomebarx
 Architecture: iphoneos-arm64
 Version: 0.5
