@@ -16389,6 +16389,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 4.4
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1520
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.4_iphoneos-arm.deb
+Size: 543684
+MD5sum: 38144dd3d2943dc56a1874c329d84fc9
+SHA1: dc91c109b76f95e443797d7769e0584284296967
+SHA256: e14df8b00a1222779195c5d30263aa14f8bd04c8bffb4e379edcf74cf1d6b86e
+SHA512: 8a8dcb0d671fcc934331bc0d86f3e77e4b149d3423446170b133d3b69f8747df6ed1b999d07f7731c9bb3b17e7f11fe103e7138d4ac0aa9e0536a33717c351bb
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Eevee
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 4.4
+Section: BVN Repo
+Maintainer: BVN Repo
+Installed-Size: 1520
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.4_iphoneos-arm64.deb
+Size: 543620
+MD5sum: 51d89f75fd3bf579e55fe40df92d2d7a
+SHA1: 19ba471e79b9d446ca1ca7b00f262053c880c6b8
+SHA256: 60b75b8a9b602d4efd1d5a27e1d1ed1c3c797ec5ec3a1b198a1115dd1afee4c2
+SHA512: ab77aafa41340b79301244e838ad3620d02a75a9e16caf54a495ef50f83758a2ad40b239c1c0008c93d03f4d9a8869fe39e4eca35650c8bcce099833a45cb82e
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Eevee
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
@@ -26044,27 +26084,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
