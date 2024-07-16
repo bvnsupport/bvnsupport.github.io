@@ -16216,6 +16216,26 @@ Name: ShowTouch (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: LonestarX
 
+Package: com.bvn.snapeditpatch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.snapeditpatch_1.0_iphoneos-arm.deb
+Size: 120934
+MD5sum: adf0902c172d646017bddaeb59e04619
+SHA1: 84c2cc850ca17f6566827fa37148ca86f8bfa8ca
+SHA256: 0763e908766475ee2b392be9100f4486454b7fa6da825c49670883f79bab2509
+SHA512: 70194391a02e6352c0bd34b0c4297905d4760de2ff7d042a04de8bc01d2b2ec3ed54cfef4157158671bf683bf94f5e6b0a9d36096ce0477a75673ae9e8d33339
+Description: Unlock SnapEdit PRO
+Name: SnapEdit PRO
+Author: abc
+Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
