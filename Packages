@@ -25479,6 +25479,25 @@ Name: DLEasy CRK(Rootless)
 Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.5
+Section: Tweaks
+Maintainer: Bvn Repository
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.5_iphoneos-arm64.deb
+Size: 7345708
+MD5sum: 2ede9a38a537cfc2b68c933e82d02ecd
+SHA1: 1d1ca25ea1540141633012ec91c981c65021ec06
+SHA256: 96ec0c6c4d6d382e606eb21e448dbffca333ee4d158e58fbf85b4e6ed021a213
+SHA512: b09b3217a34d7ae1b22c3a8fc60c8aa09b6115c5ac90901bc6d90326f8e31572c9d2d4ccbeac29331c1423c4695bbae5152272eeb992ea764145ce0afc36c4fe
+Description: Tải xuống hình ảnh và video trên mạng xã hội.
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Name: DLEasy CRK(Rootless)
+Author: AhmedBafkir
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2-2
