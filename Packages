@@ -25480,6 +25480,26 @@ Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: ru.rejail.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15588
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.5_iphoneos-arm.deb
+Size: 7417682
+MD5sum: 121f314a07d8bf6b58c9f6438fc04756
+SHA1: 51e5248e075fe7f7e723e5f6b54be3156dbfca31
+SHA256: 6e459f3f425df5553a5d6814743acc1060e6cd5b78e8c2e78114bcf72624cb14
+SHA512: c5d2f8dae8edfab73025a14c7fc64f73f350a14bc957786640bbbeb432b55a08e23fc6598acecc26d5ab51952e4b2907dcca9f57a77d1ba48fa353878a097471
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy CRK
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64
 Version: 2.14.5
 Section: Tweaks
