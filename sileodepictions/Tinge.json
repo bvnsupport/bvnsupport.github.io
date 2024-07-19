@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"P2KDev"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,12 +69,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"28/2/2024"
+"text":"20/7/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.7.2"
+"text":"iOS 14.0 đến 16.7.2"
 },
 {
 "class":"DepictionLabelView",
@@ -91,11 +91,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.1\n\n- Đã thêm tùy chọn trong cài đặt\n\n- Thuật toán tô màu được sửa đổi để tương thích với các chủ đề biểu tượng tối"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by Biện Văn Nhật",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1

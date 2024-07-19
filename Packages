@@ -10372,6 +10372,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.ytx
 Architecture: iphoneos-arm
+Version: 1.6.11
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.6.11_iphoneos-arm.deb
+Size: 5244
+MD5sum: b09cb8526b3d6aaa58a3c06eac4b6baa
+SHA1: 3337352805e2143b367e65ac96933897b5d23a84
+SHA256: c077bd507ed79a28570c0b2717047725b0afbf6af378eb17be0403de11cfe37b
+SHA512: 9dfe940fd414c3df8e08d764f1532cd026e09b90b1ce7bf3cf9a2e71dfafdd2d3a2274e77f66ba4d77ebe95b986de18281059bbd9a31ad8a1ab245078edbe6e4
+Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
 Version: 1.6.2
 Section: Tweaks
 Maintainer: BVN
@@ -12769,6 +12789,29 @@ MD5sum: cb3c62576673395417ec784bc90c943d
 SHA1: f96a550e1581240c3da7ba0fbb2651f01512bb76
 SHA256: f0de8d70ad51bb642579954fbcffa8d08f6398c9f7b8b5f0450ee1d8ec04ffb9
 SHA512: d085dbb91b86b452108504a97e17c67c7b78d43aa472ba8a4aec03b9eceda724d75e9dbc3ab5d1d818064b504fde097d80df496e4f1e137c6090c7c817d0ce57
+Description: Enable native PiP in iOS YouTube app.
+Name: YouPiP VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
+Version: 1.8.14
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 188
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.8.14_iphoneos-arm.deb
+Size: 31094
+MD5sum: feb644c7365a0ee7dc98a5179a3953d0
+SHA1: 75288c8f999a41378f4afeedcd08fc40c4390478
+SHA256: 72b5696806b3c598644bf03f4da730179828b6a9dc935cc500c7449eadcaf43e
+SHA512: 021ba5309f55b9e842199f1b31c6a998be787be8ba0f8bb2d992b47c22089d4ccb0ec5dc317999b92db87be3f9dce77fd1a6260eae42b0598293c20dd1cad537
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP VH
 Author: PoomSmart
@@ -16569,6 +16612,25 @@ Author: iOS Creatix, kasiimh1, p2kdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.tinge
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bvn.tinge_1.1_iphoneos-arm.deb
+Size: 58346
+MD5sum: b3cab43a8f335faecff020e2ae5883ac
+SHA1: 46248ef18078c99309d41c26433e4e966d1ea782
+SHA256: 13ba7897be5a7fa2de424a38274f061a33ea05d625574c41f70f988af9f77b0a
+SHA512: 305ab617836b58a0e7c4445d4483809ec0dcd7b9893c54fa1d9eb23d69375c24d9fe1c3b2bc4e6403a4f9afa9987bb8144c20a17f13a6f1a75b2fafe547c1c9c
+Description: Color your badges with Perfection!
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Tinge VH
+Author: P2KDev
 
 Package: com.bvn.tweakhub
 Architecture: iphoneos-arm
@@ -21200,6 +21262,29 @@ Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.8.14
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 188
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.8.14_iphoneos-arm64.deb
+Size: 31156
+MD5sum: 479b8073d696f4e5abae067af35aa2db
+SHA1: 446981a6c7f67886c2e4794e2475fe8a65937725
+SHA256: 2285ed423467f027558edcd36476fdb4915d3e47845433d8ade57a0a415f1aac
+SHA512: d14ae90b819a458f3e90d252369fccf4542e39ad5629416f34a725c944e4267bde3d607993800347c20f8a8ceecf6284ba3fdfb097f9b6711b40a8dfbce7d5c4
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package:  com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.8.4
@@ -21281,6 +21366,26 @@ SHA256: 589ebeb8a5cefdce977a67088d6b4ddb9f15c4c0bdcf2a17dbbc0d4515c9fe02
 SHA512: 429d191fd6a8b83bbce0db8cd6ffa5de2640440ff97980d8cbd9b0e47ee384b9d830ce72043ccbe3f05c568df9792579b160559152b207f00c171c734c8c7425
 Description: Chặn quảng cáo và phát lại nền cho Youtubr
 Name: YouTube X(Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.6.11
+Section: Tweaks
+Maintainer: BvN
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.6.11_iphoneos-arm64.deb
+Size: 5320
+MD5sum: 5dda49ec8ad2b49d74fe14c33a3b6483
+SHA1: 137dcf32c42c0322e63fcb0e6eabcafa38ced5a1
+SHA256: 1f093efac619ddc5765933039a5812d4819b80cd4a97a6adb1122d4882e54246
+SHA512: 70b63729903e67c40026591a27e1992a984f4409213568d869db64e203da0b50c881794661dbfed76c96e3ef9bcf5e912fda3be49e365accc022c1e500c558ac
+Description: Chặn quảng cáo và phát lại nền cho Youtubd
+Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
@@ -25940,6 +26045,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
 Author: P2KDev
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.bvn.tinge-rootless
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/vn.bvn.tinge-rootless_1.1_iphoneos-arm64.deb
+Size: 59376
+MD5sum: 8ec95070995cdf3c8e2f66cd064a9722
+SHA1: 32a6b293629085c445df33c51a5bc4a6936216e2
+SHA256: 468a8bdef1da8330bdbb35cd13547fe5c20b79741c1bd5dcfa86cab05a6f53ad
+SHA512: 0b684fa963d69c08f62c47a625dd9a6a7286c834b08c887ee35ea53c7161813c43a96afe4b571d001c3ca2cd0eabd7a5dab5a14cbd9a498ca8b287aecc1b3b54
+Description: Color your badges with Perfection!
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Tinge VH(Rootless)
+Author: P2KDev
 
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
