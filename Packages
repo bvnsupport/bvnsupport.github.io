@@ -16768,6 +16768,46 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Verxina VH(Rootless)
 Author: uz.ra
 
+Package: com.bvn.videosunmute
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.videosunmute_1.0_iphoneos-arm.deb
+Size: 9670
+MD5sum: 808e66ac9607c8a57715e67df16cb222
+SHA1: ca3ec60d3a24ca944f5f50e3966501f18f6750b8
+SHA256: 6a72ed5dc9cb4c5f14c02dae54b1753b7a65ff246771f46cef5f1da6a4624921
+SHA512: cdc22c6144be5b60140ec84956285771d8ad0a8f866a3da0303ea5a9cd79ee86f051bc28b5166c2c07173d472baacc0a0bc95d2cb5c41fd58392ca7c2839ed31
+Description: Bật tiếng video khi mở trong Ứng dụng Ảnh!
+Name: VideosUnmute
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/VideosUnmute.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideosUnmute.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.videosunmute
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.videosunmute_1.0_iphoneos-arm64.deb
+Size: 10032
+MD5sum: 1c20d257f3e1ba952cbee6eb7c79a257
+SHA1: d7b4318832594e0c6ad4dc120dee6948c7f16fb7
+SHA256: ab90c3cbb4ba25eddf1e43e8633a46231a49c5fba529335901067416678f839f
+SHA512: 56e117477869c4afda62b7a9073f7fdf5d214ff6116bca01362b53efea37a6655026c36e88d6ad0cf1494e971c87645d0bcd3840cbd3551f1409fb2bfc45377c
+Description: Tự động bật tiếng video khi mở trong Ứng dụng Ảnh!
+Name: VideosUnmute (Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/VideosUnmute.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideosUnmute.json
+
 Package: com.bvn.watched
 Architecture: iphoneos-arm
 Version: 1.1-8+debug
@@ -26393,27 +26433,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
