@@ -10430,6 +10430,26 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.7.1_iphoneos-arm.deb
+Size: 5048
+MD5sum: 9b267fc0862eb49664a8fa8ba003364c
+SHA1: 4fc30cf206edc399cd47f2fca3f6c7c32f30d177
+SHA256: 8186df19f530173dc7fce9318a3af052abfcf084e1ba889fe63ea5676c4be3a5
+SHA512: 75620b3dc7b06197d9e5058168864026e32c97e9d1f02c0c6186278fe59f463296e1d29a6d5b39425496e6f46e2ae24e8707db337ca6fda89506435dc9fc16f7
+Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.zephyr
 Architecture: iphoneos-arm
 Version: 1.6.4-1
@@ -21426,6 +21446,26 @@ SHA256: 8cf6c4824788f5ae8eb82f9c9b58433ab20593a542e599b70a557c3548fa61a6
 SHA512: 1413079412aa7516307659a5fdccd96f58cdfe3d483b95498eb84ea615ceb17e0e3c22c040289ef81d6fb94ad225a5f90dcc7eec713c8f72782231a693aee132
 Description: Chặn quảng cáo và phát lại nền cho Ứng dụng Youtube
 Name: YouTube X(Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.7.1_iphoneos-arm64.deb
+Size: 5124
+MD5sum: db8e45e7c439270f2b167b58d0d9b41b
+SHA1: 1f95198ed1515d2687096d8268d8a85ac5f6ae20
+SHA256: b044f6f2b8d9e6ddd8cfd212ee1ad885fb120392c3945b69c57803c035aca9e4
+SHA512: 96451d84feed9c89c082d7d1d1d6d8a1eb7c0584194698d329f80394ed749f618d7647774c0d6df5c76a1613a745cfd9f60ca09988e1472a63a31ee22b64f934
+Description: Chặn quảng cáo và phát lại nền cho Youtube
+Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
