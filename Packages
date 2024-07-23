@@ -13508,6 +13508,48 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
 
+Package: com.bvn.Surgepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 940
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.Surgepro_1.0_iphoneos-arm.deb
+Size: 23522
+MD5sum: 5fcc39e116e888f2bfba54da61c79e08
+SHA1: 88351b112515d09f354f7165553750e1eeb72b3d
+SHA256: 9eecd02b9aa24c0bf985fd0ee9e8a885989956ecf9d2afb00c8624e11f5e25a4
+SHA512: 5b32c8e4bcf57589d4bd659a4b4933466d019636b67371113c516e8545ff196b7a79a819b8cb726fa4b5a2e16e4998b948799312a7c3d82edcd181b65f1dbb06
+Description: 
+  • Mở khóa tính năng Pro cho Surge 5
+Name: Surge 5 Pro
+Author: unclear
+Depiction: http://bvnsupport.github.io/infodeb/Html/Surgepro.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Surgepro.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.Surgepro
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 940
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.Surgepro_1.0_iphoneos-arm64.deb
+Size: 17884
+MD5sum: 35f6a40b5347d5f64de58a5de587bf90
+SHA1: 7ebe964ef4fa653010eaa43639eeb01d171825b4
+SHA256: 2679c8fb4b03c8116ff8627526253f2d89330fe8168b8d688c965d6e0e83ce59
+SHA512: e4bd95a6f59ea194f69425e995ff9b4a29d17130258139dbfffdeedc532f7eb000757df05389f47c3283e7fa4fe3ab9e9d487531b6f24ac119f2e166d94ead45
+Description: 
+  • Mở khóa tính năng Pro cho Surge 5
+Name: Surge 5 Pro (Rootless)
+Author: unclear
+Depiction: http://bvnsupport.github.io/infodeb/Html/Surgepro.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Surgepro.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.Swipelefttoback.rootless
 Architecture: iphoneos-arm64
 Version: 1.0-6
@@ -26514,27 +26556,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
