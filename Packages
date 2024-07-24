@@ -13938,6 +13938,47 @@ Name: BatteryNotch VH
 Author: gilshahar7
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.beautyplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: LK
+Installed-Size: 160	.dragon/_
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.beautyplus_1.0_iphoneos-arm.deb
+Size: 9448
+MD5sum: eb05f775da280c10d8aca3bda0f317f6
+SHA1: 3baed3a483f7cf4dfe4a8709fb52bce329de9a84
+SHA256: 915cb13d5d25fc8d78339fc090717aaa07123dd84641cf9964e8d917604dca42
+SHA512: 9d2ba3afa7757039311623e747a05dc4be7c5ecfcc971866b4cc86587b77d59de46a36c868680a1c500f60d352f3f5f21d7f59dadf1f509abf16068178563d23
+Description: A cool MobileSubstrate Tweak made By TG@hiepkimcdtk55
+Author: LK
+Name: BeautyPlus Vip
+Depiction: http://bvnsupport.github.io/infodeb/Html/BeautyPlus.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BeautyPlus.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.beautyplus
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 160	.dragon/_
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.beautyplus_1.0_iphoneos-arm64.deb
+Size: 9742
+MD5sum: 8923853b377f0600ddb9d75f58dfee1b
+SHA1: 0f8e3d68b7e6fe8ce15620cadf22243b6b0fb80c
+SHA256: b42910e5597b9576044559ee2a33505e0b9a81efb90470165a338bf9d4de3f05
+SHA512: d6e2d804b1738809ba5c293886c398f8f371d4d4c66562ab02eae8275eb62edc8b14dc9f6e2c033779f2bc0abf7af16caf9f8086c1f9da09b3a1509ad300a7db
+Description: 
+  • Mở khóa tính năng Vip cho Ứng dụng BeautyPlus bởi TG@hiepkimcdtk55
+Author: LK
+Depiction: http://bvnsupport.github.io/infodeb/Html/BeautyPlus.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BeautyPlus.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: BeautyPlus Vip(Rootless)
+
 Package: com.bvn.bhtiktok
 Architecture: iphoneos-arm
 Version: 2.3
@@ -26598,27 +26639,6 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2282
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-3
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-3_iphoneos-arm64.deb
-Size: 123772
-MD5sum: 51feed08bd3754ef6ba67395995cc784
-SHA1: fbb3b510df6c788d6042a7ce53439ae1c9d82fd8
-SHA256: b276cc05fae8c86059e4f7a4fe42b7ad054c4525a347bed94f9f05fac45e3a19
-SHA512: db4279c492a5ed316665d6331818d241dbe89527fe3c57a0e502d9e526297015883e04f655e64151b83db1bb57ef1db4f2156bebc3f8d304d2ee5cf70fcd19d0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza.
-Depiction: https://repo.cypwn.xyz/depiction/2484
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
