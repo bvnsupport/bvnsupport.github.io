@@ -13588,6 +13588,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/VisionOS.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisionOS.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.Wink
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.Wink_1.0_iphoneos-arm.deb
+Size: 34244
+MD5sum: 971ba5cd9d65834423e90b833f5977f7
+SHA1: 7523e67bb4b1eba5d39d8b75a4881fa50605df46
+SHA256: 12a0305eeb1ac78ea4622655a63cd4bf813b74970f67f89646cbea3125c5cfd2
+SHA512: e9e4f6933d58e490f573cc1c0c588b0154a417540e0ef90808ee94702ef90797fecc85f87a5f00653d192be590c55fe244446b3d6deb0f27a57ac150a16ad462
+Description: 
+  • Mở khóa tính năng Vip cho Ứng dụng Wink
+Author: unclear
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wink.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wink.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Wink Vip
+
 Package: com.bvn.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.1
