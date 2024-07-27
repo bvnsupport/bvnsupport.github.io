@@ -26335,26 +26335,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.tinge-rootless
 Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: P2KDev
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
-Filename: ./debs/vn.bvn.tinge-rootless_1.0_iphoneos-arm64.deb
-Size: 34358
-MD5sum: 34681c544697cc57160dcb9e46440ebd
-SHA1: 81b759629e0ab93fc5d3eeb4947eea3639ed4c74
-SHA256: 260d42cce09f0e6fe11e6d63b12ac8f73805b96a905bd472384f071a9896c09e
-SHA512: 40ca380efb0231f1a39291571a83f0a31e526de6e60a72e03c2eea138df682f26248bcb5c5e737616e150966eb6658183c9bf903a5e2ad3d7ccee1837ff12c00
-Description: Thay đổi màu sắc của biểu tượng thông báo theo màu sắc của ứng dụng
-Name: Tinge VH(rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
-Author: P2KDev
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: vn.bvn.tinge-rootless
-Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Maintainer: BVN Repo
@@ -26371,6 +26351,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Tinge VH(Rootless)
 Author: P2KDev
+
+Package: vn.bvn.tinge-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 440
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/vn.bvn.tinge-rootless_1.2.1_iphoneos-arm64.deb
+Size: 60246
+MD5sum: 8ef1729bb1110c099fcd2a9df0e9344d
+SHA1: 4adcd4acc24d3c381637cc3264a96fe3f0ddbe79
+SHA256: acd8cf4b22dfeada60f703039116f536a89b95c40525c3b0703be7bd6f82f005
+SHA512: e8f4aab271f94248befb779af4b2111911cbb1e590efc0205d4c2aa090fadeff9e30bf8cd3ae1ba3b502580ae124a5538317acf7dd609298c8b40311a278a63b
+Description: Color your badges with Perfection!
+Name: Tinge VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: P2KDev <p2kdev@gmail.com>
 
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
