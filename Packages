@@ -26372,6 +26372,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: P2KDev <p2kdev@gmail.com>
 
+Package: vn.bvn.tinge-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/vn.bvn.tinge-rootless_1.2.2_iphoneos-arm64.deb
+Size: 60940
+MD5sum: 91c8132ca08ab1271bb1051e2bff700b
+SHA1: f5e85a3508181f2fe20867c907143e27f722dbd5
+SHA256: 6f1cd67d3e1e957939f58edb557d96155a5841de8c4af01bc953b0acd7aed2e9
+SHA512: 9c24a275114557cc3e69f11426356fc05be378cb31dbf7f5ba2c071918c660b703eb9004abb9da1c8a000078e346135f9a85c5effaffd6bd82725e1cb4d646e1
+Description: Color your badges with Perfection!
+Name: Tinge VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
 Version: 1.1.7
