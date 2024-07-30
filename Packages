@@ -16466,6 +16466,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.sniper
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 364
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.sniper.deb
+Size: 45176
+MD5sum: 0b859fcfb7c958c3dee142bec0b7a8fc
+SHA1: 475cd043d6b6509d7b57e390f9461e4140e94ea2
+SHA256: b7fd2b3817354bbb4556175bccad92c54401b33f00c34e2c91380d955249f9c1
+SHA512: 9d354be5ce5fdab111f85ba264cd6bebb4b2455837f64f3aee5066c5e47f879efda34dde64b0bc12f17510ec8fabb9b34208b52dd1667177fc6927ded05f852a
+Description: Xóa quảng cáo khỏi một số ứng dụng
+Name: SniperTool (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/SniperTool.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SniperTool.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Sniper @DNS_Sys
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
