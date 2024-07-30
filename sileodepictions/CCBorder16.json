@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"fiore & p2kdev & 妖刀"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.6.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.8" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +61,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/7/2024"
+"text":"30/7/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.5.1"
+"text":"iOS 16.0 đến 16.7.2"
 },
 {
 "class":"DepictionLabelView",
@@ -83,7 +83,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.7\n\n- Hỗ trợ iOS 15."
+"markdown":"### Phiên bản 1.1.8\n\n- Đã thêm tùy chọn kích thước số thanh trượt âm lượng/độ sáng."
 },
 {
 "class":"DepictionLabelView",
