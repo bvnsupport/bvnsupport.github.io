@@ -296,6 +296,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18812
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.5_iphoneos-arm.deb
+Size: 8170040
+MD5sum: 2582d1b2eff06253566b225f618f04c5
+SHA1: 1e5b06cc30c98dd17ab9f8b3e20ad86709a371d2
+SHA256: d1f058b1c2058443ed202679f8b7f458aad74674935411131198ae09b513cc2c
+SHA512: 7643622ba6f11b20683f9aca8ae9c0a0c1bed7a95495b91e69100d7c7e7fe52fd9ec24c628e79e444ef81fed44ec49a3e96d0c08c94fe5a9b444b3ee9346a2a1
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18812
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.5_iphoneos-arm64.deb
+Size: 8167790
+MD5sum: c51701ecbfeddffe375b616dc9f3a2c5
+SHA1: 75098669fa01811942d5395c1dac2c46d4081727
+SHA256: 37396503b160f4aeca2057641c0c985dcbaf7c1d23c055ad661ad983de03e1b8
+SHA512: e734d26e8c790888f6612122e55355a8aa10920facc5de30e0e1cc2cda3999118a9b50d8166233f278d8ab27bffd3315f1df0ac30a5200a6ba1b24f4529a5886
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: bvn.vn.onesettings
 Architecture: iphoneos-arm
 Version: 2.1.1
