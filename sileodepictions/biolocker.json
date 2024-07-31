@@ -1,0 +1,125 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/Eevee.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Bio Locker\n\n- Tweak bảo vệ tốt nhất cho cho iOS!Tính năng bảo vệ cho Ứng dụng, Thư mục, Thông báo , Trung tâm điều khiển, Công tắc và Cài đặt bằng Touch ID hoặc Face ID [trên iPhone X trở lên] và mật mã.\n\n- Các tính năng:\n\n- Khóa ảnh: Thêm lớp bảo vệ bổ sung cho Ảnh của bạn và không ứng dụng nào có thể truy cập ảnh của bạn nếu không có sự cho phép của bạn.\n\n- Khóa thông báo: Khóa thông báo trên màn hình khóa và thông báo của Trung tâm thông báo bằng những cú nhấp chuột đơn giản. Cho đến khi bạn không cho phép thì không ai có thể xem hoặc xóa chúng\n\n- Mật mã: Đôi khi TouchlD có thể không phát hiện được hoặc cho phép dấu vân tay của bạn [trong trường hợp thiết bị bị khóa do các lần mở khóa không thành công liên tục, v.v.].Trong những trường hợp như vậy, hãy thiết lập bảo vệ bằng mật khẩu để bạn cũng xác thực một mục bị khóa bằng mật mã.Xin lưu ý mật khẩu này không phải là mật khẩu chính của máy bạn\n\n- Khóa cảm ứng 3D: Nếu một ứng dụng hoặc thư mục bị khóa thì 3D Touch tương ứng của nó cũng bị khóa và yêu cầu bạn xác thực bằng cách khác để xem menu 3D Touch của nó\n\n- Khóa ứng dụng từ 3D Touch: Đây là cách tinh tế để khóa ứng dụng và thư mục của bạn chỉ bằng một lần nhấn\n\n- Hỗ trợ Apple Watch: Bio Locker có thể mở khóa ứng dụng khi đeo Apple Watch và đeo khẩu trang vào mặt \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/5.png",
+"accessibilityText":"Screenshot" 
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"iarrays"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.15.0" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"1/8/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"316 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.15.0\n\n- Sửa lỗi 3D Touch"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
