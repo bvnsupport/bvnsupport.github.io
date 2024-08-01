@@ -16847,6 +16847,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Eevee
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 4.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.6_iphoneos-arm.deb
+Size: 909176
+MD5sum: c64023aeec35354b269136521139044a
+SHA1: 629ddbf6b560ce75bf287798eadc876accca2450
+SHA256: 1e3763c0ff91b5f7ac0ada8e7d66be041bafcefe6255470bc5afa346b1e71e4b
+SHA512: b940973690fd4f1dd6b7786c521b0f069b2160cb701897bc4258811c64868ca8527ec4bb20fbd20d4f97b8538718eb2a8bda7bb0ece6a8672b8b0bed2cdfc7d0
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Eevee
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 4.6
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 2568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify_4.6_iphoneos-arm64.deb
+Size: 909058
+MD5sum: f73d8d01ecb91401a251d1e9b286de96
+SHA1: 4b701168d856a18456bfa385c7afdb67b48c4cc7
+SHA256: d953d21a88e0062f0edeb08cff31063dd2f734ffa70a061fd75bb0630d70038e
+SHA512: 90beff01e94464982927f35e765ae63ea5a32329ea92e7867f0fc3cd0692618203b1d49326395a70a06618491b864ca747f28c56d6ed6cab3197dffcd64651c5
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Eevee
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
