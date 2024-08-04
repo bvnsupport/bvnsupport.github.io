@@ -12305,15 +12305,14 @@ Version: 1.1.1
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 1123
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, oldabi
 Filename: ./debs/com.bienvannhat.cylinderremmade_1.1.1_iphoneos-arm64.deb
-Size: 319880
-MD5sum: 1b3a4cc35356ab18142c673ff891c795
-SHA1: 2af058a00a2e7f9fdc8e65be758a488b74523854
-SHA256: f3f09080b7e0f64d1c1114141cde9caecd9de61ef80983008cc0c21685e44b8e
-SHA512: b28c9d29aa586f579f10f11174626d06a9d956755a71a1d8603e992423a995e40a847c208917e1ffa1259c5b40e9972c99857333d575857c63865788ff1bbcdc
+Size: 319708
+MD5sum: 6a22e71f12ec43c6bdf8ebd9490923e7
+SHA1: 584e14d055a3855823282708d43849dd25e03117
+SHA256: 749e60a71ebe97c1e5b7f7208b4cf8c0af388a9a98b018ecb8d767a8a10b970e
+SHA512: db29e198736ebf9620748b592cb71f5d04c17e435834d895819a2f0211584fd6331d9cd7c843a175684c8f4ab5d6ea08acb09aa40a61d0b708a7b00e4491218d
 Description: Hiệu ứng cuộn trang màn hình chính như Barrel.
- - Hỗ trợ iOS 11 - 16.X .Phiên bản này đã được chỉnh sửa xoá bỏ Oldabi giúp các thiết bị A11 trở xuống cài đặt dễ hơn.Các thiết bị A12 trở lên vui lòng cài đặt gói Oldabi trước khi cài đặt gói nay tránh gây xung đột.
 Tag: compatible_min::ios11.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -14722,6 +14721,24 @@ Description: Ẩn các tinh chỉnh Rootless (iphoneos-arm64) trên Cydia,Sileo,
 Name: cyarchfix
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.cylinder
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1372
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.bvn.cylinder_1.1.1_iphoneos-arm64.deb
+Size: 357478
+MD5sum: e1e84a800458b93329ad7c0c0564b999
+SHA1: 9519ca2f31b15c9c313bdc718cea3e997acf40a4
+SHA256: 307d4d3ff1da940b7fa826a978fdb78dfe015ed025c01664fb44a27748e4475c
+SHA512: 22ab21f77b59c9892afeb79165c095341a79ba24b2503d22a2ef57da3927b32fd38121e9b4102f7041c287e7e6e592f72db5aa1e044e75881929c571112c2fa4
+Description: Make your icons dance
+Name: Cylinder Reborn VH(A9-A11)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ryan Nair
 
 Package: com.bvn.wolf
 Architecture: iphoneos-arm64
