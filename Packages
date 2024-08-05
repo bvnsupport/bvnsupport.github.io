@@ -1,0 +1,210 @@
+Package: BIENVANNHAT.violetpro-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 6740
+Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
+Filename: ./debs/BIENVANNHAT.violetpro-rootless_1.0.0_iphoneos-arm64.deb
+Size: 5919322
+MD5sum: 44b33a671722b003a6ba12e18d772c36
+SHA1: 898aae0192f5e06bfbbfac8a64df6810556564d6
+SHA256: ad44c85e6a5d8049c575a8ea330f20cd422d80ed34e0e1b5e24122644e02259b
+SHA512: 0d1ce9101b600d4eec1bcd40651d10dfbac3f446ff8f13f60ca10aea58064500a8f37beaef1e5700298c40caa3999d11647492603448e3f82fff81469f1eb251
+Description: Người giúp việc cho trình cắm Siri được cá nhân hóa Siri của bạn!
+Depiction: http://support-jailbreak.github.io/infodeb/Violet/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Violet.json
+Name: Violet Pro VH(Rootless
+Author: Erast
+Sponsor: 搬运工
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm
+Version: 113.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 636
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm.deb
+Size: 78208
+MD5sum: 5ad81ef0c0e00bbfbf4020087e33fa91
+SHA1: 88f6a3d238f142f28c52dad7575edf42efec6fa1
+SHA256: 02ecade7e624007f5a13c0338bb7fb0cee85fbe4097e6e574a5bd80226252443
+SHA512: baf2d656dd7b1da93ece5b8b3b7b8c1a25c83e9509cc381b512a8571ee749e013277d918ece200ff1ddb79460f9c465ef0b64e1dcdd19c02f49af650a2475021
+Homepage: https://cydia.akemi.ai/
+Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
+Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: AppSync Unified (iOS 5-16)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64
+Version: 113.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 676
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm64.deb
+Size: 77432
+MD5sum: 0d33db4466257498e4035be5808be008
+SHA1: d2645d4f24b5adfa6b0847e3b9296ce1011cab10
+SHA256: df4bb1348ca3ee291418f8808c87447ea5f21b2ca9e0a80d8d14014b3be76394
+SHA512: 5956df86d02368aee42ad834b4c0198fac36a024babf59798ba081b3aa63aee115f0dde06bae27acbb60a1acba93c1f96c037f3586a841b2ada2470f767f3fa5
+Homepage: https://cydia.akemi.ai/
+Description: Cho phép khả năng cài đặt các ứng dụng iOS chưa được ký/đã được ký giả.
+Depiction: http://bvnsupport.github.io/infodeb/AppSync/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppSync.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AppSync Unified (iOS 5-16)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18812
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.5_iphoneos-arm.deb
+Size: 8170040
+MD5sum: 2582d1b2eff06253566b225f618f04c5
+SHA1: 1e5b06cc30c98dd17ab9f8b3e20ad86709a371d2
+SHA256: d1f058b1c2058443ed202679f8b7f458aad74674935411131198ae09b513cc2c
+SHA512: 7643622ba6f11b20683f9aca8ae9c0a0c1bed7a95495b91e69100d7c7e7fe52fd9ec24c628e79e444ef81fed44ec49a3e96d0c08c94fe5a9b444b3ee9346a2a1
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 18812
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer_1.5_iphoneos-arm64.deb
+Size: 8167790
+MD5sum: c51701ecbfeddffe375b616dc9f3a2c5
+SHA1: 75098669fa01811942d5395c1dac2c46d4081727
+SHA256: 37396503b160f4aeca2057641c0c985dcbaf7c1d23c055ad661ad983de03e1b8
+SHA512: e734d26e8c790888f6612122e55355a8aa10920facc5de30e0e1cc2cda3999118a9b50d8166233f278d8ab27bffd3315f1df0ac30a5200a6ba1b24f4529a5886
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH(Rootless)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: bvn.vn.onesettings
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 1117
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm.deb
+Size: 372060
+MD5sum: 97127915f408d351070730cd0111a1d9
+SHA1: f1e4f44b55c7f16b1bfc3f3c7e1291fb4713e241
+SHA256: c0c74ae2ba6a01266ff35fa27bb509ff25d7847f6c7997c38f9101912cd1e1c5
+SHA512: f7fe6c7e0c63abf8e7020af81340101f3921004b9f679901be4d998f6783195d91f976337a3502bcb6c183b903aaeb9fc06b02aef4755fafe85415282f38e7e3
+Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
+Name: OneSettings VH
+Author: Nightwind
+Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: bvn.vn.onesettings
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 1117
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm64.deb
+Size: 347798
+MD5sum: c7b0ab3691fc1e4f9088d2cda98c0f3f
+SHA1: e43554a1cdbbac2e8ad85dc7dd3960c3fe97b878
+SHA256: 27b0371b265bfec5680f0bf41b3d641788cfb14595180b7197d98eb7f22fe77d
+SHA512: 0c20d341a608758fd2712ec44a9448337571325df9dc33cbd646d1f1e574812134c883813c96dc75215ec9b5d1649aa835a6e52917b3bab3ab0584ed00e8bc7a
+Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
+Name: OneSettings VH(Rootless)
+Author: Nightwind
+Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: cm90.crossoveripc
+Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
+Size: 27804
+MD5sum: 86e071def90a7265ab97ffdec4e22979
+SHA1: 22e20ce507d9053ed2ea9cba5446a148e8db203c
+SHA256: 7e18d2a9dc1785612c80157ba20ea63ff56e6554fb5cd6843578b14ac1da9ec4
+SHA512: 597d722bf2e38b29a90e4597c32d04eb253d143089c10f450004754379284b481212d9f37a2e0a806f7f42febe60ac78723f7c28b6edcbb5c5a2cc4c81abcb2d
+Description: Một công cụ giao tiếp xuyên suốt quá trình để gửi và nhận tin nhắn trên iOS 15 & 16 dành cho JB Rootless
+ - A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Name: CrossOverIPC (Rootless)
+Author: @CrazyMind90
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNBAT.runaway
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.BIENVANNBAT.runaway_0.0.6_iphoneos-arm.deb
+Size: 31638
+MD5sum: a49a4a10c89b93b60143cd34e0fa4ed6
+SHA1: fd106943884777ed14d50930fc2d57881d05caa3
+SHA256: 28c99c9545e255227d1ffd405df000402efc983d4eeeb5447bd072af2e2bce73
+SHA512: dfc78c68a5a5ff8f572038c305adc0f8e3e1acdf83784f4d363161fddd2968145e72cbb21841d62ce478eb859c18b781f81d08d7da958b5e13cd59e00d283b7b
+Description: Hiển thị tốc độ mạng trên thanh trạng thái của bạn.
+Name: Runaway Việt Hoá
+Author: ned
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.betterccxi
+Architecture: iphoneos-arm64
+Version: 1.6.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.atwiiks.betterccxi_1.6.deb
+Size: 137076
+MD5sum: 16ccafcb8cf23054a02de46dfcb9e394
+SHA1: dc59147ce3e281a99b69d48372850554942f33b7
+SHA256: 0fe3d659d2ea85348f15dae099477f27fe96fd15a616338757e009b1adfc200a
+SHA512: fed9eb3bccdf6c2e71f7a5fa24cd824809be9891cf48b81d332e6ebc1cc195cfcfa7b2d43b33be911c2dca183757e301055c22cbc6499f26e765f687def8700a
+Description: Tăng cường trung tâm điều khiển của bạn trên iOS 11 và iOS 12
+Name: BetterCCXI VH(Rootless)
+Author: ATWiiks
+Depiction: http://support-jailbreak.github.io/infodeb/BetterCCXI/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/BetterCCXI.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
