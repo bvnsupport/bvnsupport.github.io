@@ -12070,6 +12070,25 @@ Name: BatteryHealth (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.cylinderremmade
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1123
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, oldabi
+Filename: ./debs/com.bienvannhat.cylinderremmade_1.1.2_iphoneos-arm64.deb
+Size: 319708
+MD5sum: 9750a9988eb8efcea2620a19bee8de32
+SHA1: 25429e6ccfdde1a2e5ce9629327c1217f708879b
+SHA256: b6780e8c97d1f6a1b0776d7fdc170c8a535652616edd0035eb08fc7951529f25
+SHA512: 013ae0b18752e84c12c0c24bac81acae4b2b7c6c175e95b800c953d348e47a34874098ced85e4891176e795882eac043b4568f9ee213a2d35b50cd97367f187f
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Cylinder Reborn VH(Rootless)
+
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -14473,24 +14492,6 @@ Description: Ẩn các tinh chỉnh Rootless (iphoneos-arm64) trên Cydia,Sileo,
 Name: cyarchfix
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.cylinder-vh
-Architecture: iphoneos-arm64
-Version: 1.1.1
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 1372
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: ./debs/com.bvn.cylinder-vh_1.1.1_iphoneos-arm64.deb
-Size: 357480
-MD5sum: da45a07947bd162950597a8d5d171e69
-SHA1: 4fd8b16f68276ac7c477b23f42689c13a4aff3c3
-SHA256: b898b9bb3f7646e4f5c9de875a57575013c22644438bb9eef8ec9789856d0e07
-SHA512: c62952e54ac8d099edb33bfc5b488721a81549e9341f9ea4b4a604fa833e1793209697ba4b550a2c4c30730d47b123c514ccb37ea364345207275247ad53f7cd
-Description: Make your icons dance
-Name: Cylinder Reborn VH(A9-A11)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Ryan Nair
 
 Package: com.bvn.wolf
 Architecture: iphoneos-arm64
