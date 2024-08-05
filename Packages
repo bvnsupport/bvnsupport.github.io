@@ -14703,6 +14703,24 @@ Name: cyarchfix
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.cylinder-vh
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1372
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.bvn.cylinder-vh_1.1.1_iphoneos-arm64.deb
+Size: 357480
+MD5sum: da45a07947bd162950597a8d5d171e69
+SHA1: 4fd8b16f68276ac7c477b23f42689c13a4aff3c3
+SHA256: b898b9bb3f7646e4f5c9de875a57575013c22644438bb9eef8ec9789856d0e07
+SHA512: c62952e54ac8d099edb33bfc5b488721a81549e9341f9ea4b4a604fa833e1793209697ba4b550a2c4c30730d47b123c514ccb37ea364345207275247ad53f7cd
+Description: Make your icons dance
+Name: Cylinder Reborn VH(A9-A11)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ryan Nair
+
 Package: com.bvn.wolf
 Architecture: iphoneos-arm64
 Version: 2.1-2
