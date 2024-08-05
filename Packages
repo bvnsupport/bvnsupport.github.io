@@ -516,15 +516,33 @@ Installed-Size: 1123
 Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, oldabi
 Filename: ./debs/com.bienvannhat.cylinderremmade_1.1.2_iphoneos-arm64.deb
 Size: 319708
-MD5sum: 9750a9988eb8efcea2620a19bee8de32
-SHA1: 25429e6ccfdde1a2e5ce9629327c1217f708879b
-SHA256: b6780e8c97d1f6a1b0776d7fdc170c8a535652616edd0035eb08fc7951529f25
-SHA512: 013ae0b18752e84c12c0c24bac81acae4b2b7c6c175e95b800c953d348e47a34874098ced85e4891176e795882eac043b4568f9ee213a2d35b50cd97367f187f
+MD5sum: ba0c81555f73bc35128976fdecf6da9f
+SHA1: b0052e42650b2a30bfbe4c169bc0b465bbaa5497
+SHA256: 29ae1d212232a20d80c07a7e0d4cbfb5fed73b4653feab873bc3f5fc505f1424
+SHA512: a6e4119922b7ba2c2f4e6a4a5e397a8c811da890e5f6e427645c4bd61dfb788ff1bd85a8dfada30ddc20a7fca621c2af645255d337feb3c8ca5b70e09b67738a
 Description: Hiệu ứng cuộn trang màn hình chính như Barrel.
 Tag: compatible_min::ios11.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Cylinder Reborn VH(Rootless)
+
+Package: com.bvn.cylinder-vh
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1372
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.bvn.cylinder-vh_1.1.1_iphoneos-arm64.deb
+Size: 357480
+MD5sum: 1180f023f504aa9172b59a7ccb001a4d
+SHA1: 6a7e7535beccf52e4a095c7cb9341a3a6561b15b
+SHA256: cb9d5860fdc6a42a017123e990603f3a97881815cb508d6b5eec08311a68ed91
+SHA512: 778929bf1b870a5c4396eac8dae701300fbef80dfa78df8f99708f52d25203732013ad9d7aca9f6d0ecb519b5f67884be85042dbadfabe6f3f9f6ecc6416e877
+Description: Make your icons dance
+Name: Cylinder Reborn VH(A9-A11)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ryan Nair
 
 Package: com.bvn.solstice
 Architecture: iphoneos-arm
