@@ -394,25 +394,6 @@ Name: AE Christmas
 Author: unclear
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.DARKMODE
-Architecture: iphoneos-arm
-Version: 3.4
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 1228
-Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
-Conflicts: com.laughingquoll.noctisxi
-Filename: ./debs/com.BIENVANNHAT.DARKMODE_3.4_iphoneos-arm.deb
-Size: 254544
-MD5sum: f1cf2719bbd442970a921828c9438b7e
-SHA1: 82164571d2c5cbe09809d89b5d82d87f41cd3db5
-SHA256: c13874e1f90c49d4a0e68cc467135fd8c1dc3a2b7174a99d234c1cd3ead62aee
-SHA512: 711c3b80c9885b905a6e2c564ef36466e2246ea9645682e690f2b331c542cdb7bbfeed69030f45b7e7545036519f61814da7ed86565a9b989cefcb7551dcc5e0
-Description: Chế độ tối hoàn hảo hỗ trợ iOS 12
-Name: Chế Độ Tối(Ios12)
-Author: LaughingQuoll
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.Diarywallpaper
 Architecture: iphoneos-arm
 Version: 0.1
@@ -1459,25 +1440,6 @@ Name: Analog VH
 Author: Ginsu
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Analog/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Analog/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.andauchamtrang
-Architecture: iphoneos-arm
-Version: 0.2-beta
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 123
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.BIENVANNHAT.andauchamtrang_0.2-beta_iphoneos-arm.deb
-Size: 8852
-MD5sum: bd3050189d1bf6a358cbbcc32ba36112
-SHA1: a30f73144b7f3fb3083e33ffc4927abb339943ed
-SHA256: 5c7bd1319f301cc5d692c7062d0eefdef4d8f19cd3d1cf0fa421309561f59d81
-SHA512: 5a39104d47e547db90ea599cef3602b17c5fd52917cae7f5f20890aa0d3268f277b3a64723e9ab8830c18596c370a72c044a2cfb9825ae8c3cccf943b179c415
-Description: Ẩn dấu chấm trang trên màn hình chính.Hỗ trợ ios 14 -14.5
-Author: Biện Văn Nhật
-Name: Ẩn Dấu Chấm Trang
-dev: BVN
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.andock
@@ -10859,47 +10821,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.PullOverPro15
 Architecture: iphoneos-arm
-Version: 15.16
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Depends: firmware (>= 15), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Conflicts: com.rpgfarm.libapappview, com.rpgfarm.pulloverproapappview
-Filename: ./debs/com.REPOCYDIABVN.PullOverPro15_15.16_iphoneos-arm.deb
-Size: 1612756
-MD5sum: 9a3c73aaa3dd4cc0dfa87cc9af5c141e
-SHA1: 5e05729cfb2f55275d0858e754e5666f428eb064
-SHA256: 5997161289ca11be4d0d1551b367ed59ad88b26ac426f61dd47bc7486fe24709
-SHA512: 1f590d3d236049e362f8776420f355618095daa7ef4ece3cf5d903e7b32a25499fec599aa7220dfa2a10e4a01a6eb9b1ac2cef159ecb265ef199ebc75765294d
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!Chỉ hỗ trợ iOS 15-16.2.
-Name: PullOver Pro iOS15
-Author: c1d3r
-Depiction: http://support-jailbreak.github.io/infodeb/PullOver/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/PullOver/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.REPOCYDIABVN.PullOverPro15
-Architecture: iphoneos-arm
-Version: 15.17-1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1488
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.REPOCYDIABVN.PullOverPro15_15.17-1_iphoneos-arm.deb
-Size: 495526
-MD5sum: b7d4fb43c4e07cf14f33337a84fbbc6a
-SHA1: c8b769e24a5cb213fb75cf55a8edd4faceb271fc
-SHA256: 26ad1db7baeaf3f1bac9e058600cac67b250d055cebd6298ea3dc8c9c674dd21
-SHA512: 98c2a7d748d9fbf6175abee52a53b08ee10089dbaa77c9c0ae813b88ae56e4f0eab4ac0ef03ef9db6525d2389d0358b828bc1ebee3bef47356639b192b658473
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS16
-Name: PullOver Pro VH(iOS11/16)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.REPOCYDIABVN.PullOverPro15
-Architecture: iphoneos-arm
 Version: 15.17-2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
@@ -10917,27 +10838,6 @@ Name: PullOver Pro VH(iOS11/15)
 Author: c1d3r
 Depiction: https://bvnsupport.github.io/depictions/PullOver.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.REPOCYDIABVN.PullOverPro15
-Architecture: iphoneos-arm
-Version: 15.17
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 1488
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.REPOCYDIABVN.PullOverPro15_15.17_iphoneos-arm.deb
-Size: 491592
-MD5sum: 40aec9c75e99e13b894dca24637ed44d
-SHA1: 005e44113e451964105edd0cf47f00445daf07f8
-SHA256: 15f5b5797370d5319235622eb5001e20e59d395f61408a63b416393fe4bef77a
-SHA512: 4f7cb35a345db894d70b574319302d5e90917b25ef11dc187b96a1427045476c6f65a0829879759faba76f352971094c671e28400d57c9c06be9711e7e68e8b7
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS15
-Name: PullOver Pro VH(iOS11/15)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.a-bypass
@@ -11630,40 +11530,6 @@ Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
 Name: Shadow VH (Legacy)
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: jjolano
-
-Package: com.ali7assan.hyperixa
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 4404
-Depends: mobilesubstrate, com.Ali7assan.hyperixakit, firmware (>= 14.0)
-Filename: ./debs/com.ali7assan.hyperixa_1.1_iphoneos-arm.deb
-Size: 3067100
-MD5sum: 609f355b6b42ff9f66c000370b1369e2
-SHA1: 436a0a2f4148b01d9c08927dd253516dbdd9e1eb
-SHA256: d73b52b71351c3f8b59eebd0dc0bc07f3e28435a397ff5c3b7284bdfe883c18a
-SHA512: 9f2f20c76213957d647a8201f732e7512d944196ffc014939896a275d0d526175d8de5a70385911e646ca29e927d1e172179fbc4f7e6eecdedbfd6bba4a5fd11
-Name: Hyperixa
-Author: Hyperixa <hyp3rixa@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.ali7assan.hyperixakit
-Architecture: iphoneos-arm
-Version: 1.1
-Section: System
-Maintainer: Ali7assan
-Installed-Size: 1480
-Filename: ./debs/com.ali7assan.hyperixakit_1.deb
-Size: 432836
-MD5sum: e62676a9329c02b605069441b26e0202
-SHA1: 6602fba9cbeb3b77706bd273cb965162cf7981b7
-SHA256: fc81047a007df2fe6edebe419296b0502a0187b40ca53ab1568e67a74cf2ba0b
-SHA512: 0152f7aec3592618d680ae20dcb47237d7ef10e76d631f6aec341e091be3e5fa86ddf7a5e2408d51c98ca321c9faf1be0700010d0dc285acf7d11589a4cf1de9
-Tag: role::developer
-Name: HyperixaKit
-Author: Hyperixa
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.betterccxi
 Architecture: iphoneos-arm64
@@ -14295,46 +14161,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Copic.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.bvn.copylogfix16
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 168
-Depends: firmware (>= 16.0)
-Conflicts: com.0xkuj.copylogfix16
-Filename: ./debs/com.bvn.copylogfix16_1.0.0_iphoneos-arm.deb
-Size: 8524
-MD5sum: f0e42a2bfeb37e8817f87a7a13a1f6ab
-SHA1: f621d12c309bc60c3579ba25d11ebb7e808cdff2
-SHA256: ea95581f611391115c80aff18fe6f8fedd05591055ddb6a17e1d397e2ab6dbc8
-SHA512: 0ae3d591b964896591ab242bad1711c515d6f7ccf55fd3dd743836df8dc397eb98cb104a915bc8b88cc31fbb81fb568f6f4e6e661d456d08c4457167b59b5cce
-Description: Sửa lỗi copylog không hoạt động trên iOS16
- * Fix copylog not working on iOS16
-Name: CopyLogFix16
-Author: 0xkuj
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.copylogfix16
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 168
-Depends: firmware (>= 16.0)
-Conflicts: com.0xkuj.copylogfix16
-Filename: ./debs/com.bvn.copylogfix16_1.0.0_iphoneos-arm64.deb
-Size: 8612
-MD5sum: 972ae6b1781904dc2bdbf615b0194233
-SHA1: 26e7031e8492a9dd65c45ee8be8a456be8113f7b
-SHA256: 26ab231efb9a21dd4215531e3442c339738e2aa8efd817cbd8d92f4a620d0de7
-SHA512: 37e7f3fba7e207991fe0da0ad503f27a1bc747c7008d2d2ae0e3759973f7e9ade926640252f05c34b08a601ae147c21c94b7bf321374cd6a9f38384a9c83424b
-Description: Sửa lỗi copylog không hoạt động trên iOS16
- * Fix copylog not working on iOS16
-Name: CopyLogFix16
-Author: 0xkuj
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.copylogfix16
 Architecture: iphoneos-arm
@@ -18755,44 +18581,6 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
-Package: com.hmodei.arico
-Architecture: iphoneos-arm
-Version: 3.6R
-Section: Tweak
-Maintainer: Biện Văn Nhật
-Installed-Size: 4168
-Depends: mobilesubstrate, com.spark.libsparkapplist
-Filename: ./debs/com.hmodei.arico_3 (1).deb
-Size: 2022514
-MD5sum: 77df0f3aa5f963b9ef2c56c6431fb487
-SHA1: b22beba11fc142bbd5e3a6b8a5fc301168e7fae5
-SHA256: d0aca383117575126131e42117ee0ac99ca6ef5bf23966ed589088dc779fe8ae
-SHA512: 2c29f79efb49d9fe10b259e323e6e35ea70dddf4ff0a24afd77a6c924819f13c553829937a74a30ed1f386a5e2dc4002089c5499365404f8955fb06d2db25e02
-Depiction: http://bvnsupport.github.io/infodeb/Arico/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Arico.json
-Name: Arico
-Author: hmodei96
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.hmodei.arico
-Architecture: iphoneos-arm
-Version: 3.2R
-Section: Tweaks
-Maintainer: hmodei96
-Installed-Size: 3980
-Depends: mobilesubstrate, com.spark.libsparkapplist
-Filename: ./debs/com.hmodei.arico_3.2R_iphoneos-arm.deb
-Size: 1975582
-MD5sum: 10f3222e22464fdc8659a4445d019acc
-SHA1: 49cf332cdbb4e6883d99d4bed8b6870762b9e156
-SHA256: b01de695748b09efb9e09eec11d48fefeab740b51fd0ca80953166d07d9275e6
-SHA512: f56ea061a6dffaa879408855b38db577b480b4ef87b29881c16c725620d94f32e5e86f886e95ad0270059b23da343b7c1e0b86fce74e9f05b0f715039dcfd052
-Depiction: http://bvnsupport.github.io/infodeb/Arico/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Arico.json
-Name: Arico VH
-Author: hmodei96
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.iarrays.libiarrays.rootless
 Architecture: iphoneos-arm64
 Version: 1.0.16-beta-14
@@ -19842,26 +19630,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reobvn.choicy
 Architecture: iphoneos-arm64
-Version: 1.4.10-2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 884
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.reobvn.choicy_1.4.10-2_iphoneos-arm64.deb
-Size: 171528
-MD5sum: 70303a1f2351c124a6218c695af22793
-SHA1: d2e8bc51655614885ff973dac16f01469b04053c
-SHA256: 99a799499ad9264a281022322a1756624bf2e6889a55e1441f8905c7f99884cd
-SHA512: 1b63cc82d060d9313c8360a9d096aca9ac4aaae44a450fa4f30e162b8cd6782eda4b8378b7c4c6b4e6ce624162521424c97e94a6353260812d0d540d0fc771a1
-Description: Advanced Tweak Configuration!
-Name: Choicy VH(Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Choicy.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
-Package: com.reobvn.choicy
-Architecture: iphoneos-arm64
 Version: 1.4.10-3
 Section: Tweaks
 Maintainer: Bvn Repo
@@ -19877,80 +19645,6 @@ Description: Advanced Tweak Configuration!
 Name: Choicy (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
-Package: com.reobvn.choicy
-Architecture: iphoneos-arm64
-Version: 1.4.7-3
-Section: Tweaks
-Maintainer: Repo BVN <opa334@protonmail.com>
-Installed-Size: 836
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.reobvn.choicy_1.4.7-3_iphoneos-arm64.deb
-Size: 174808
-MD5sum: ae4654565faa09c4850138ae0ee0ddcb
-SHA1: ba6f059fb27a3e422bab8b0852e8fd8e9af41b7e
-SHA256: 7c20862ce65ed9fd1d3c028c2012f1990d12479eb1ac88e4316736d05322f80e
-SHA512: da22aa8c92de44b05e8fcdfea4e4d88c548764fd467d1002cd46ebce485e1d3ec964a17dae2c412caa17532bbf9fbb13e3d751fd24856bca59e476e2e56841ff
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn!
-Name: Choicy (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
-Package: com.reobvn.choicy
-Architecture: iphoneos-arm64
-Version: 1.4.7
-Section: Tweaks
-Maintainer: Repo Bvn
-Installed-Size: 836
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.reobvn.choicy_1.4.7_iphoneos-arm64.deb
-Size: 174818
-MD5sum: 6eb7d801857af10fe74413ec127636a7
-SHA1: 043787207afb756d81b84f4255e26820aae3f931
-SHA256: 350aeafb8ca1a37946e071ada8b061ea1e20873ddb19999f22b630e6a70a37a5
-SHA512: 3e8b68c88e252a55145451adbc8442fbec624f6b17d7b96c19e7dea6cee11b4705009018394692eb1333f8928c7c04c4e21f567d8b08630e6f433608791d435f
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.Hỗ trợ iOS 15.0-15.4.1
-Name: Choicy (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
-Package: com.reobvn.choicy
-Architecture: iphoneos-arm64
-Version: 1.4.8
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 884
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.reobvn.choicy_1.4.8_iphoneos-arm64.deb
-Size: 168806
-MD5sum: c2f41e3e2f9115802ec02949896d0e1c
-SHA1: bec215b17a8356190f7e7c129c28088dd9e7ebf7
-SHA256: bc09651845a2a567f33901e1c2d2eab9f74b1bae8817e697fba7943b9abb6476
-SHA512: 4b2b7415bd77805a7fcc3349e8aa6051e3bb63bffe9b3648077bbc10b42d8355dda39759f07a40f2edf559ac55d309aeae0fba57ea0f235899c8796c0f9b4fb7
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.
-Name: Choicy (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
-Package: com.reobvn.choicy
-Architecture: iphoneos-arm64
-Version: 1.4.9-3
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 884
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.reobvn.choicy_1.4.9-3_iphoneos-arm64.deb
-Size: 169426
-MD5sum: 3c803c738bfedf088a7753548cc57472
-SHA1: f875ac7c63954a7b525f0f15b8337aaa6dda0514
-SHA256: d61a1ea6e78b603a7246ee1e41e6367f1d5696c3c8bfc0c7323dd267a9763b19
-SHA512: 8754947ed463683736d88b1b95d5e9734faf066a78488fdff4f5d0992281c4185698c99712dfca3fc540ee9f75f2d861ab56d4410053fb3805adc724fb6f43f4
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn
-Name: Choicy VH (Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Choicy.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
@@ -19976,27 +19670,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reoobvn.pullover-rootfull
 Architecture: iphoneos-arm
-Version: 2.1.5-3
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootfull_2.1.5-3_iphoneos-arm.deb
-Size: 975602
-MD5sum: f054b98c61cc889549d2acfa71a611a7
-SHA1: d7f6f0f61bd7294f9778afb6174bfe5c968987c8
-SHA256: a937dc427a2f5a70d6f85f00cfb2105b5b85046aa805daed0dbd610c746acfed
-SHA512: b48548e2dade2d3d18122863d1116a8d8f581f641817f4ac451aa337c241aa43177a16362222ec22e8d294a32ef48ac51c6e8571ff9541a5716270afde8dda75
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro (Rootfull iOS 16)
-Author: c1d3r
-Depiction: https://bvnsupport.github.io/depictions/PullOver.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootfull
-Architecture: iphoneos-arm
 Version: 2.1.6
 Section: Tweaks
 Maintainer: Nets
@@ -20014,215 +19687,6 @@ Name: PullOver Pro VH(Rootfull iOS16)
 Author: c1d3r
 Depiction: https://bvnsupport.github.io/depictions/PullOver.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-roothide
-Architecture: iphoneos-arm64e
-Version: 2.1.5-2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro, cn.Bswbw.fixset
-Filename: ./debs/com.reoobvn.pullover-roothide_2.1.5-2_iphoneos-arm64e.deb
-Size: 1875134
-MD5sum: 50182fd6ab03bbd87936763a2c41e831
-SHA1: 3978df3a5ff68810b4ac85e53c05ab7c37ddf76d
-SHA256: 1d8277a3bde587e5f426fcc6d7536f7e38171c388df55a9f997fd252d498c1a1
-SHA512: e80f7782bbb6b1f431836a9c5f4aa98356ced3b2a138df36e7c878a2a2a8ce241fa66d555e8b5e87e7372007950257a7ca922ed24e139f144cddc772bfff4814
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro VH(Roothide iOS 15/16)
-Author: c1d3r
-Depiction: https://bvnsupport.github.io/depictions/PullOver.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 596
-Depends: firmware (>= 15), mobilesubstrate
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.2_iphoneos-arm64.deb
-Size: 1169962
-MD5sum: c66bda155eba4be39a31d2d2e35112e8
-SHA1: b5cd7cb702bb663bfe3d711ca29bcc3861f5560a
-SHA256: 3cd8f09c5c865679d2b69cdcd09dd45eb194a0f4dfbffc9069da1ade1eeb5ea9
-SHA512: 5cb85be5a3a582cc4e27199ee4cbde8c4fb799ca795553feef4f5e940f6293bb9d237812a97110e001185e2be55d69bbe159f06e6782227336ae425f290cd905
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Chỉ hỗ trợ iOS 15-16.2.
-Name: PullOver Pro15 VH (Rootless)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.3-5
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.3-5_iphoneos-arm64.deb
-Size: 1264866
-MD5sum: 2ade211745c2780ba6e5c9460a53ee58
-SHA1: 53a9cd2196bcc89df2b761f9db2fca0d5ca59aa5
-SHA256: c946b97e77d66aad837b5b8d1268280bea0cdae7d9ef889c5c4b0b9e7fd18831
-SHA512: b1044cdb6d669d3ff93ab813e0ce26fdbdcce9ee7ed3bbd6ba4e1373d18951c17e447ba5c118ce404a0d1bf221dfffcc1d8acc1c78b9b9ec0eca904c68cfce71
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro15 VH (Rootless)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.3
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 596
-Depends: firmware (>= 15), mobilesubstrate
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.3_iphoneos-arm64.deb
-Size: 1169962
-MD5sum: 9e39f188cbacef9819013854075d487b
-SHA1: 6e988b14bff62c8c6d8aca405729372f3e3318b7
-SHA256: 9f6b7b70ae50fc777cb6579498ac0dea8dfda25b7c031fcd3b56ed6a9bf91727
-SHA512: 5596590b29c9dae8f7aa0aba58f3413d935513a7df2eadedd43e7395a979786544256d139bda04648ce89c6536dfe0974e4d750e05be5db605f0aa069725f1dc
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Chỉ hỗ trợ iOS 15-16.2.
-Name: PullOver Pro15 VH (Rootless)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.4-1
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.4-1_iphoneos-arm64.deb
-Size: 1309456
-MD5sum: e4763d8821f620d45306cc768243876a
-SHA1: a58437df17e56ed451e25737a49e68359e004d3a
-SHA256: b2b885bdb37585dcc52a7c8836c084a63c858e7731f5ba77a3a46babcc3b2f9f
-SHA512: adb2ac20741aa01d524cde98bc038b4f6ae3356141a2604445786654f5600bb6906ca18038d9f96a20154a7328e33e6f7672854ae9a7ac49ffeda13e4f7b0fcf
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro15 VH (Rootless)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.4
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.4_iphoneos-arm64.deb
-Size: 1242962
-MD5sum: 8f2b2d62d925b8a54d861287bf2fc5cc
-SHA1: 7f5957ea5abd274131e61d702e32658c0fa3cd8c
-SHA256: ecba88885cdea1112f2a361f1766bc27a1d5fa036c10389cd1b15ddf33e20e7e
-SHA512: d96ad1b9db603fc6cfae90495e51c938a0a6f6c273d8d6897768a6c08b5d1b61da6acd5a8ae036e7257d2e2f3ec38bf72e2911bb34be2484f9dbd843b7c70c32
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro15 VH (Rootless)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.5-1
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.5-1_iphoneos-arm64.deb
-Size: 1145988
-MD5sum: 540accc67764af58e980a5a2b57d4928
-SHA1: 3b1bbdf44174f2fbafcb230f3a176a04da21d416
-SHA256: 7be5a3869e48d36c4135ae0098bc5833e44db84a143c8ccbaea6faec57a67c34
-SHA512: ef77fe66aed6b06e7c80c4a95ba047ec566081b8b0233016831621cd196ed1963aa814ca00e7e277bc1118a6410b671df1004276cdebbf054c33f623be70a819
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro VH(Rootless iOS 15/16)
-Author: c1d3r
-Depiction: https://bvnsupport.github.io/depictions/PullOver.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.5-2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.5-2_iphoneos-arm64.deb
-Size: 928300
-MD5sum: 7e7c9c68d39825bae3d0fc68c8cd540f
-SHA1: 3972df2183724cf287dbff58b292077718f4bdef
-SHA256: 2944d07f8bddcc070cc06f02d3bf94852c9762bfd64546a4dcbb3ca73c3278df
-SHA512: 0ebb4c22f12b23150e59c4dd19aeff2067c943d0a5de82d6f0409d6b83750437bccb882bed9f64411192e79379b0673c30b0bb216e2c8aa88b9a31ea0d89c175
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro VH(Rootless iOS 15/16)
-Author: c1d3r
-Depiction: https://bvnsupport.github.io/depictions/PullOver.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.5-3
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.5-3_iphoneos-arm64.deb
-Size: 975852
-MD5sum: c6affcaa04eda6ea43a8b76d300a258a
-SHA1: 6b0a7d2d2b53c55ff083795f9381366e8471555e
-SHA256: 9e3326b2f7b8e9fbc1996066945463f56e9a728a532f9c74c6e086f8412c9e13
-SHA512: d944662e0f4618aa3b0e554bc45a258b4db6314ad640f6fb2eb3decb39fc78a95e9c652fd4991ba103c1565f0573ad94fe7184f2d63d9160866b8d21390ae892
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro VH(Rootless iOS 15/16)
-Author: c1d3r
-Depiction: https://bvnsupport.github.io/depictions/PullOver.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.reoobvn.pullover-rootless
-Architecture: iphoneos-arm64
-Version: 2.1.5
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.reoobvn.pullover-rootless_2.1.5_iphoneos-arm64.deb
-Size: 792324
-MD5sum: b87c73dbbcbf80b7776021f69563d72b
-SHA1: e4c4e0a48d8f7e6475322d557558f611231f82ec
-SHA256: 3b4099a1abf1fa87468e642f8697a51ea7c6f250f6f1e4cc83b10ae71ce948e3
-SHA512: 2e892f61dc1e482f43508f5006eebb6a90a4d66c2a56989ad6bfe7093399f82d711ccb6f3544799699f5d2b2fdef28000ea591a49443b3c19882e3d08ce7059e
-Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
-Name: PullOver Pro VH(Rootless iOS 15/16)
-Author: c1d3r
-Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reoobvn.pullover-rootless
@@ -20325,84 +19789,6 @@ Author: CreatureSurvive
 Depiction: https://support-jailbreak.github.io/depictions/Shuffle1.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shuffle1.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repo.appdata-rootless
-Architecture: iphoneos-arm64
-Version: 1.4.0
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 2412
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.bienvannhat.iconreporootless
-Filename: ./debs/com.repo.appdata-rootless_1.4.0_iphoneos-arm64.deb
-Size: 995174
-MD5sum: 2e12553c5398df318ff470fc8b982086
-SHA1: 9cf1550c6dcb8f30669cbdddc6de204cc096c2ea
-SHA256: e196719042911831dc1d48af462636e6fec6ee6924cadc0cda9f536e6c5624f8
-SHA512: 51672e77c4275639b5e726c79bdd8ffb02b2223580fe26f545f5be3d6e19790b00d182c6c310480842633eb17240b792512ed17d9620068981051cd035bad121
-Description: Vuốt lên hoặc xuống biểu tượng trên màn hình nền hoặc nhấn 3D và giữ menu chọn để gọi công cụ gõ tắt dữ liệu ứng dụng biểu tượng Phiên bản này hoàn toàn là tiếng Trung và được quản trị web chỉnh sửa và tối ưu hóa. Sửa đổi và tối ưu hóa: Thêm phiên bản đơn giản của ứng dụng hạ cấp, thêm tùy chọn trượt xuống để gọi ra, thêm xem trạng thái mã hóa ứng dụng, thêm tùy chọn bảng để xóa đường phân chia bảng, sửa đổi phiên bản gốc gỡ ứng dụng thành gỡ cài đặt thực sự mà không giữ lại dữ liệu, sửa đổi phiên bản gốc sau khi xóa bộ đệm Làm mới đồng bộ sự cố hiển thị dữ liệu tổng, khắc phục sự cố lỗi nhấn và sao chép thông tin trên trang thông tin thêm ban đầu, sửa đổi dữ liệu đặt lại của phiên bản gốc để bao gồm dữ liệu thư mục trong nhóm chương trình đặt lại và sửa đổi kích thước dữ liệu của cột dữ liệu đặt lại ban đầu để bao gồm dữ liệu thư mục bên trong nhóm chương trình, sau khi sửa đổi phiên bản gốc để đặt lại dữ liệu, hiển thị dữ liệu được lưu trong bộ nhớ cache và số lượng quyền không được làm mới đồng bộ, sửa đổi phiên bản gốc không thể được sử dụng để đặt lại dữ liệu/đặt lại quyền/gỡ cài đặt ứng dụng khi ứng dụng được tải xuống từ không phải AppStore được gọi (đã sửa đổi Sau đó, chỉ vô hiệu hóa trên các ứng dụng hệ thống)
-Name: AppData (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Fouad Raheb
-
-Package: com.repo.appdata-rootless
-Architecture: iphoneos-arm64
-Version: 1.4.1-1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 23032
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.repo.appdata-rootless_1.4.1-1_iphoneos-arm64.deb
-Size: 7401276
-MD5sum: 57c267ae12437b5eaa91a4603b34b8df
-SHA1: 32c6521e0e1aa055d7399c759a579a5e37fe8a73
-SHA256: d4af013fa1de4f2db187ecfcb1effec125392f0f69f09646ffc1b5b2b398349c
-SHA512: bc0422b8e8be42739873412a24548e17a398e531149be3c7a8297b105a0fd47a22f839d67f1855175f1b22191694b6fab9140737b8eb551dd6cf8c9d10869051
-Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
-Name: AppData (Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Fouad Raheb
-
-Package: com.repo.appdata-rootless
-Architecture: iphoneos-arm
-Version: 1.4.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 2456
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.repo.appdata-rootless_1.4.1_iphoneos-arm.deb
-Size: 926092
-MD5sum: e85bfc4d612440c6f46af27043f5f060
-SHA1: f6e7865457a4d2a8463374d54e867476c3c3a02b
-SHA256: a3e60ba4f178d6c3683fe6fdfb2d1c140fb3897f8623b32dd0eca8152778be35
-SHA512: 06e44dd381fcba87ca8f57baefadef506c92b64fa2db79de90fa116cb9921c4abedf8bd72fe400dacae8041d79937027e5468553d05225e454b9180604ffc621
-Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
-Name: AppData VH
-Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Fouad Raheb
-
-Package: com.repo.appdata-rootless
-Architecture: iphoneos-arm64
-Version: 1.4.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 23032
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.repo.appdata-rootless_1.4.1_iphoneos-arm64.deb
-Size: 7401272
-MD5sum: 3fd1695dd161dac8a059869b96e7c167
-SHA1: c33049e4535778b51d51a0a347c479d8560c4e90
-SHA256: b346dda4934eca8717484f3390fe0960238832bd78831e93ae380b282ff8e3f3
-SHA512: 85e86c28c6aacbe41ddbdc6ea724f81cf00418f12ee2dfc68521c0c0ed71585b33d4a525ee6c00fdd8cb1f3bb53da97d7a1e7ded9889c56964f7dc307942821f
-Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
-Name: AppData (Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/AppData/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AppData.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Fouad Raheb
 
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm
@@ -21972,26 +21358,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Always120.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Always120.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.snail.always120rl
-Architecture: iphoneos-arm64
-Version: 1.1.3
-Section: Tweaks
-Maintainer: BVN
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, vn.bvn.snail-crack
-Conflicts: xyz.cypwn.snail, com.snail.always120, com.snail.always120.global
-Filename: ./debs/com.snail.always120rl_1.1.3_iphoneos-arm64.deb
-Size: 215990
-MD5sum: 5cee478140b2544ea9a18d852e79acca
-SHA1: 033b935b9df162b6e34367f7b68cb2e1cce4f1ab
-SHA256: 3ad47431e0c54e54a8a5e2aa72bcf3b7d055e6af6522f79de6562810dcb29741
-SHA512: a2e9f7b7182bf9dbdaed96f7481439408863ea189a8cdd0c935857cb2ec45fe7667b5b044ad728bafbd068832fc0e1895ecae84471bca6e94727803c57075699
-Description: Làm cho Thiết bị ProMotion iOS 15 tự động thích ứng/đạt tới 120Hz.
-Name: Always120 VH(Rootless)
-Author: Snail
-Depiction: http://bvnsupport.github.io/infodeb/Html/Always120.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Always120.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.snail.callsilentrl
 Architecture: iphoneos-arm64
 Version: 1.0.4
@@ -22690,89 +22056,6 @@ Name: Cask 2 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.supportjailbreak.choicyVN
-Architecture: iphoneos-arm
-Version: 1.2.6
-Section: Tweaks
-Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
-Installed-Size: 778
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
-Filename: ./debs/com.supportjailbreak.choicyVN_1.2.6_iphoneos-arm.deb
-Size: 165250
-MD5sum: 7efda9e21240e4545feb14cccfdf8d2c
-SHA1: 42d43e47e133d4f9fc688694226298c0d2f3e542
-SHA256: 3ca6803356a6f2fb723cfb388c916be6d7a6079f99100bda37d2b92d6c6afced
-SHA512: 4d25d4d9b47770dce4b1953b7a1babdb53388255f7746d270a3e46b09902ca93f5ab5c29ee0357900f2c926c5ce9aa5909c20e8f1a761168ef0c15ff37b56aae
-Homepage: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=choicyDp
-Description: Cấu hình tinh chỉnh nâng cao,chặn phát hiện Jailbreak
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy Việt Hoá
-Depiction: Tinh chỉnh,chặn phát hiện Jailbreak cho ứng dụng của bạn.
-Sponsor: bienvannhat.org <http://nhatbie 97@gmail.com>
-dev: opa334
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.supportjailbreak.choicyVN
-Architecture: iphoneos-arm
-Version: 1.3.2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 802
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.supportjailbreak.choicyVN_1.3.2_iphoneos-arm.deb
-Size: 252874
-MD5sum: bce68b18e39042fb78d614cb8daa13a7
-SHA1: 0ee62efe07bc0f9238f445f3cf5f2dceaad832c6
-SHA256: d44aa9e5ed5c97f808be314b18b8d212ffef38f119b449e13d8f39f5dbc2a0b6
-SHA512: 550ff41e8a9a85888e25d53f0fe12cbc9827c2477b037cbf9030db7f1e48feca66853e0f35cbcdf7a6c488f65eb1b6d1fb4dda8fd44ff90cf1eeb0510f24a863
-Description: chặn phát hiện jailbreak
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy Việt Hoá
-dev: opa334
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.supportjailbreak.choicyVN
-Architecture: iphoneos-arm
-Version: 1.4.2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 802
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.supportjailbreak.choicyVN_1.4.2_iphoneos-arm.deb
-Size: 252874
-MD5sum: 7a03eb971fd5033d6b4fc4085fd22f39
-SHA1: 579ebb0d063ffd70732122f23cd1b9d63b4a9fb3
-SHA256: 80b52e4706d5349264ddbf4dbbfada00070e3224fe43779d760a79790fcb34e5
-SHA512: 9ebcd7e12dc6338312f42f8733532cb78ee55977bbba5b393b9375f7684255f0f9ce665038a698dbe9875ef0d31932d915743c683b7fb70f991a5f4ca38ec869
-Description: chặn phát hiện jailbreak
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy Việt Hoá
-dev: opa334
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
-Package: com.supportjailbreak.choicyvn
-Architecture: iphoneos-arm
-Version: 1.4.10-2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1092
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.supportjailbreak.choicyvn_1.4.10-2_iphoneos-arm.deb
-Size: 263810
-MD5sum: 8beb1863f7b33412100fdb952e32a360
-SHA1: e5ba4c1eca81df45b114647fa9a463fd6e1179a7
-SHA256: 639c40c70c4869d902bfff718ac1874bfc68bb213c6d2a678257bb4ee3943990
-SHA512: 35df063720556c079c178470be0c549d8742329dfe7a7b804a41c84498705d4ef7ce217247108199af65f14cb77aa926556cd3bcc8d1eeef9017cdea4c09e2cf
-Description: Ẩn Jailbreak cho ứng dụng của bạn
-Name: Choicy VH
-Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Choicy.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
 Package: com.supportjailbreak.choicyvn
 Architecture: iphoneos-arm
 Version: 1.4.10-3
@@ -22792,86 +22075,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
-
-Package: com.supportjailbreak.choicyvn
-Architecture: iphoneos-arm
-Version: 1.4.10
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 1024
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.supportjailbreak.choicyvn_1.4.10_iphoneos-arm.deb
-Size: 263782
-MD5sum: 491ba968e7427b8bb97cd7d20d4a26f0
-SHA1: 866a497033332ee59af55d84423cac2071e8087d
-SHA256: 2ca390a45be93c8aec5528e7bd85b98cdce12408b067c7938931641a87683db6
-SHA512: ab5d5c43fe6b9671153ffc36a3d79d85b2f92864d938fb97768a22039cb191549703dfb8454e9434b86d93d5c799b90560ee5a16b78111fd2f9e782d69861486
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn!
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy VH
-Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-dev: opa334
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.supportjailbreak.choicyvn
-Architecture: iphoneos-arm
-Version: 1.4.3
-Section: Tweaks
-Maintainer: Repo cydia Bvn
-Installed-Size: 1076
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.supportjailbreak.choicyvn_1.4.3_iphoneos-arm.deb
-Size: 254010
-MD5sum: 05652cd8963c8b5b50de1a1f293d1f4b
-SHA1: b6f47d904f55a9d41c08ba1470b5cc7528c1942c
-SHA256: 379309ff6f046de173241b7bb2211c04404dcdb6d2ac34a423efde30c6d45064
-SHA512: f97eaec7278cfd8e56c490868c50cf92472dc0226bd8d96483b752f9603db1e76e781df7c73cb285f528af8aa7469ae8051cf15be0a23a3655cec47188fe4c10
-Description: Advanced Tweak Configuration!
-Name: Choicy VH
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-
-Package: com.supportjailbreak.choicyvn
-Architecture: iphoneos-arm
-Version: 1.4.7-3
-Section: Tweaks
-Maintainer: Repo BVN <opa334@protonmail.com>
-Installed-Size: 1076
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.supportjailbreak.choicyvn_1.4.7-3_iphoneos-arm.deb
-Size: 259788
-MD5sum: 290b73a0d9da53ad017363b8150c612a
-SHA1: ca7d7edc3884ca445949eeb8eb1e0032ab2cfee6
-SHA256: 2afa3038a132377f3e1aa007903053016df31ed33a06fc0878412c45819f00f5
-SHA512: eb275e770dee7b71c2151a991461ffdfa1632e5c5b2fad6703318d1a77b2596f4b13dcd7b18ff525667c47f200ec71573abd482fba7bc5960608281c47e2bf92
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.
-Name: Choicy VH
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-
-Package: com.supportjailbreak.choicyvn
-Architecture: iphoneos-arm
-Version: 1.4.7
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 1076
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.supportjailbreak.choicyvn_1.4.7_iphoneos-arm.deb
-Size: 258326
-MD5sum: 1d7f59185850b8da55136e4d74f36803
-SHA1: 003dbae94ac79a39b7f559b81d49ceba2a43f53c
-SHA256: 13a7936cace3a259a2f4821670f51f88512f12e54712f55e31df5d63636282a1
-SHA512: bc4231c94b5ce06498ef7a67b0186119314ec806f55997de788084b9bb45b4bee48a252fb1d49460c6b3a4d85d5a47b131c9a72cb3edfe467b73220655babda3
-Description: Tinh chỉnh chặn phát hiện Jailbreak
-Name: Choicy VH
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
 
 Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
@@ -22929,24 +22132,6 @@ Description: Tiện ích watchOS trên màn hình khóa của bạn
 Name: Complications Việt Hoá
 Author: Ben Giannis
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.supportjailbreak.copylogvietho
-Architecture: iphoneos-arm
-Version: 1.5.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 4596
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.supportjailbreak.copylogvietho_1.5.1_iphoneos-arm.deb
-Size: 2322
-MD5sum: ac699b1b432de205aaa47049bed9eb0e
-SHA1: 1b07766f24561abf86e612b2981aa80916f12b91
-SHA256: ea62d54e112a583cb75c66ceabb63b60abbdb87647941d675f2583bbb2e39c34
-SHA512: 02f52289dc95c80dfe1e198496ad59badee6d25d1652e3d008e52a95abbb642207a23795088f508991b7bd1fa3110fd91f43f4c755b672178607f3e6b1ea1e11
-Description: Gói tiếng việt dành cho Copylog!
-Name: CopyLog (Gói tiếng việt)
-Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm
@@ -24344,42 +23529,6 @@ Author: Traurige <hello@traurige.dev>
 
 Package: dev.midn1ght.copylog
 Architecture: iphoneos-arm
-Version: 1.5.3-1
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 4604
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/dev.midn1ght.copylog_1.5.3-1_iphoneos-arm.deb
-Size: 2124136
-MD5sum: cb37d076c25e3b9da1be1469b923e871
-SHA1: 0e34118c45d727d89e5f8da908577d66a23f1ba6
-SHA256: 3ba62bf58b950e6fa8db390f650e1c91957ade2ab70c31b482975a5cdb6159a1
-SHA512: f88ea7e43f9d136550fa5ee9ef1db82789e0f58a710c2fb9d783ec4094088f75fcaef843afb31ef96248cf20a3730523e723b313ca5c194dd8baa0b9006b5e8b
-Description: Trình quản lý dữ liệu sao chép & cắt cho iOS.
-Name: CopyLog Crack
-Author: TomT000
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: dev.midn1ght.copylog
-Architecture: iphoneos-arm
-Version: 1.5.3-2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 4604
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/dev.midn1ght.copylog_1.5.3-2_iphoneos-arm.deb
-Size: 2124262
-MD5sum: 4e6687dc35b700191943d130270aa7a4
-SHA1: 1334cdb23b6019f1864e05cc46a9000e2b328651
-SHA256: 5e0636bd1254def5894e59069d729140fc6f5005b27017095ae8ea82fe9446de
-SHA512: ac954d1a7927c9790cc2b175a5ab5bfba3d851e98ccd31c2dab4422d73b93af71cc594942e35f4dfcd76a9b0a329d7cf2e41ea430c46b5fac0db746e6d849c60
-Description: Trình quản lý dữ liệu sao chép & cắt cho iOS.
-Name: CopyLog Crack
-Author: TomT000
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: dev.midn1ght.copylog
-Architecture: iphoneos-arm
 Version: 1.5.4r
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
@@ -25765,84 +24914,6 @@ Author: ReJail
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm64
-Version: 2.14.3-1CRK
-Section: Tweaks
-Maintainer: Bvn Repository
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.3-1CRK_iphoneos-arm64.deb
-Size: 7345884
-MD5sum: 909cbd53eecaf6fac17277fcbdca009d
-SHA1: d5dbd334cf2a52a059f751da9ed72c9a752bdd5f
-SHA256: 00c15d44f6679c30ca510907949846f195a4be9181b0cd9a4e7429ff7f91e8b4
-SHA512: 58537e88db94ede6f9813447978192422a6e18094249769fad73e180fe154a12dc5d234a4be5f2d7ad68f78c439c912ddf6f888638fb41b98cb6c46bb354af0c
-Description: Tải xuống hình ảnh và video trên mạng xã hội.
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Name: DLEasy (Rootless)
-Author: AhmedBafkir
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm
-Version: 2.14.3K
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 15583
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.3K_iphoneos-arm.deb
-Size: 7416832
-MD5sum: c50675438adec1a8561ec058c3ae89b9
-SHA1: 1711c442cea40cecae2831df554c2ba99a3b7b7a
-SHA256: f1671112dbd43ea3dd17b578bc7561b9145a1c68315830856f11b41e86e8a738
-SHA512: 0ab1211c9f9b5c72745ee11f9a737ab2f14070729d59415d3b095819921b2061c08233d79a758635b9aa8a4b0a2f42359a08c0f2bff9cf929ad79a0af5040b3d
-Description: Tải hình ảnh và video từ mạng xã hội.
-Name: DLEasy CRK
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm
-Version: 2.14.4K
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Installed-Size: 15588
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.4K_iphoneos-arm.deb
-Size: 7416226
-MD5sum: 62463899875d5d6d365c6159f315acb2
-SHA1: f7ecdcbcc96615214b4212816e7eeb2edfc563d7
-SHA256: 12d3036977fd5645344be09682f4448784d7a9a87f54dce13b9ebf9df1bd575e
-SHA512: 06370d969e65877945d973a77497fa0be8e5783dd1221d265923af6c653e589bf45a7a2dce3a757d6ef9eb9cbb4d0a985715a368bf6bf49ee2dc1d093b594b43
-Description: Download/Share images & videos from social apps easily!
-Name: DLEasy CRK
-Author: AhmedBafkir <prooxy0@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm64
-Version: 2.14.4K
-Section: Tweaks
-Maintainer: Bvn Repository
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.4K_iphoneos-arm64.deb
-Size: 7344952
-MD5sum: 16673563acde5f29401e184b88abb899
-SHA1: ed00d723588f2d10b5cb65a3bffe35c0cd1e9382
-SHA256: f6633f5e1e138b736684da3813fc74c6acad56c0b52e67df207d59045da6aa40
-SHA512: cfd65ede7af6fe3c9d55d6a09732c8ceb5a29875c914641fc6d2a56293fa7805e77459c418eaa4768955be4b47d687be49fa59983926c0fbdd2154d62ed6642d
-Description: Tải xuống hình ảnh và video trên mạng xã hội.
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Name: DLEasy CRK(Rootless)
-Author: AhmedBafkir
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm
