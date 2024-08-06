@@ -212,26 +212,6 @@ dev: mostafa89
 
 Package: com.BIENVANNHAT.1one
 Architecture: iphoneos-arm
-Version: 1.0.3
-Section: Tweaks
-Maintainer: mostafa89
-Installed-Size: 3044
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.0), com.muirey03.libimagepicker
-Filename: ./debs/com.BIENVANNHAT.1one_1.0.3_iphoneos-arm.deb
-Size: 1229568
-MD5sum: c1be0e9540e0b936af4d1ed5c9407a73
-SHA1: 658c36524c0603e8a1a8b24752918b64c4ad590b
-SHA256: 828b787359be510c26e25b44660e45b3a09e589473f3698c25ee4c47c7163d6d
-SHA512: cd4310204592c04cbf13433682622b217baa9b821b627571f8a5208d5fcfc0d29478d26c77468e06076297b64d36ef95e159f6999ee3849f70fc831bc1be99fd
-Description: Your Device Your Way!
-Name: 1ONE Việt Hoá
-Author: mostafa89
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.1one
-Architecture: iphoneos-arm
 Version: 1.1.2R
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
@@ -249,28 +229,6 @@ Author: mostafa89
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.1one
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.2thanhdock
-Architecture: iphoneos-arm
-Version: 1.0-beta1
-Priority: optional
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.COM>
-Installed-Size: 100
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.BIENVANNHAT.2thanhdock_1.0-beta1_iphoneos-arm.deb
-Size: 10114
-MD5sum: 0af20fa186e48ca78358afca1d38f11a
-SHA1: 6f6db24dc398f5a01dcfbc0448034af3edd7d3fd
-SHA256: b44147015a81804b98214da952c16c7a0c8f83df5daed9cd554ebe8fd8097c95
-SHA512: 6a3e26ba6b60be6e5e66497dfed388f18aefa8226a17c7b4bbcc8325ca73d42ae442a1c8b970f7983c642ce49af977ff33a467be0cc667cb27f2b3b7f29cfd85
-Homepage: https://bvnsupport-jailbreak.github.io
-Description: Tạo 2 thanh dock ở màn hình chính cho bạn.Hỗ trợ ios 13-14.5
-Tag: purpose::extension, compatible::ios13, :ios14.5
-Name: 2 Thanh Dock
-Author: BIỆN VĂN NHẬT <BIENVANNHAT97@GMAIL.COM>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-dev: BVN
 
 Package: com.BIENVANNHAT.AE
 Architecture: iphoneos-arm
@@ -328,26 +286,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Acies/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Acies/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.acies
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 860
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.BIENVANNHAT.acies_1.0_iphoneos-arm.deb
-Size: 258800
-MD5sum: abedbef9627a043c76ab02199f2e7151
-SHA1: b7798aa4fdc400668a29078433985287f0d4a54c
-SHA256: d97611ae9381bd60a2bcbfe477b9baf7f7e9815848b837aaa7e5f5b83fdf31a6
-SHA512: 90c63e842fe16c114c8c2266627cc21e45825010e0348b13e9e2dd95132684cb472b51e6f3a6bef480789e1511322392650c6f88d9897638159f7d39dc1b094f
-Description: Một trình phát đa phương tiện tuyệt vời.
-Name: Acies Việt Hoá
-Author: Ginsu
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Acies/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Acies/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.adaptive
 Architecture: iphoneos-arm
 Version: 1.1
@@ -364,24 +302,6 @@ Description: Chủ đề Bàn phím thích ứng iOS cho Laetus.
 Name: Adaptive
 Author: @psprrom<rromero-mosso@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-
-Package: com.BIENVANNHAT.adgpro
-Architecture: iphoneos-arm
-Version: 0.0.1-3R
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 114
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.adgpro_0.0.1-3R_iphoneos-arm.deb
-Size: 5178
-MD5sum: 04b728c38802c1a5c436a4ace790f1c3
-SHA1: c9f703ea6a13b8ead650126ba1071fb3fbae929a
-SHA256: 84e43eb57c11711cf7e576e583bcb2b90cf96491daad65442f477d5dc58de737
-SHA512: 00b9d452797258f2216c882cfc7c4531dacde6dc28e9a3a1753544746f4610d91ce03e299cef6b833ea246310e11066117aff346414e271ecb434a220501fd54
-Description: AdGuard hack lên phiên bản Pro.Hỗ trợ ios 10-14.7
-Name: AdGuard Pro Hack
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: md.furman
 
 Package: com.BIENVANNHAT.adgpro
 Architecture: iphoneos-arm
