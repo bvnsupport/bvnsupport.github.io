@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Chủ đề Solstice Dark\n\n- 1350 Biểu tượng\n\n- 27 biểu tượng Alt\n\n- 9 biểu tượng Alt Tinh chỉnh iOS 18\n\n- Biểu tượng cài đặt\n\n- Hiệu ứng thư mục\n\n- Huy hiệu thông báo \n\nㅤ\n\n",
+"markdown":"GitHub Pro\n\n- Mở khoá tính năng Pro cho Ứng dụng GitHub \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,23 +21,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/solstice/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/GitHub/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/solstice/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/solstice/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/solstice/Screenshots/4.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/biolocker/Screenshots/6.png",
+"url":"https://bvnsupport.github.io/infodeb/GitHub/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -66,9 +54,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Rifai"
+"text":"Dell"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -77,12 +65,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"5/8/2024"
+"text":"6/8/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"26 MB"
+"text":"2 MB"
 },
 {
 "class":"DepictionTableTextView",
@@ -104,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0\n\n- Thêm biểu tượng mới"
+"markdown":"### Phiên bản 0.0.1\n\n- Thêm biểu tượng mới"
 },
 {
 "class":"DepictionLabelView",
