@@ -3292,6 +3292,259 @@ Name: Crack Apps
 Author: halem
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.hardrespring
+Architecture: iphoneos-arm
+Version: 0.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 270
+Depends: mobilesubstrate, firmware (>= 5.0), uikittools
+Filename: ./debs/com.BIENVANNHAT.hardrespring_0.0.1_iphoneos-arm.deb
+Size: 9938
+MD5sum: dd7e85cf50469a0df66751e9a94e6a5b
+SHA1: ceaf1de9569629021db7583e993c6d90cd3a529a
+SHA256: cd8c2a6c5c86b0d6f9e3367383975e3f9a51568e80157fc82e41fb8cf2d6b9eb
+SHA512: 7eb52bdb0599638d1c45cbf95ac4bc83bf80e6d8963fd76d88333cee01c8bae98d1dd84702fd5af905c3c609b4f76759511d7bed32185ea65412e35101ef6b72
+Description: Tweak này có tên là HardRespring của nhà phát triển LNSSPsd. Nó sẽ giải quyết được việc giúp thiết bị của bạn Respring lại máy khi bị đơ, treo máy hay đứng hình qua các phím cứng trên máy
+Tag: purpose::extension
+Name: HardRespring VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.hardrespring
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.hardrespring
+Author: Ruphane <lnsspsd@protonmail.com>
+dev: lns
+
+Package: com.BIENVANNHAT.hdtiktok
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 109
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.BIENVANNHAT.hdtiktok_0.0.1-1_iphoneos-arm.deb
+Size: 5698
+MD5sum: ef40c05b9be94686fa946fb6baef9f83
+SHA1: b58600df46853be18574f6f8f7e7860571af13b8
+SHA256: 155560242eef2f63c5211b77a020d5fe9bdc33ef360f1aebb61dcdcf949ce0e0
+SHA512: e04770a2ecc1132782f341a8ceb207e0cc0269fb2e46f3ce78c6e63c6bbfe9b91c874d6ffad7aa6431f7665ec6fbb839ff4cc0e13a04f8ad41e9ff2d10f3374c
+Description: Mở khóa tính năng Tải lên video chất lượng cao trên ứng dụng Tiktok
+Tag: purpose::extension
+Name: Upload Video HD TikTok
+Author: Mohammad Ghzayel <mohmad_agzail@hotmail.com>
+dev: BVn
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.heartlines
+Architecture: iphoneos-arm
+Version: 1.5.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.BIENVANNHAT.heartlines_1.5.3_iphoneos-arm.deb
+Size: 3879132
+MD5sum: fd877682eebf621e46bbc169b8e6edb9
+SHA1: 156e8beeadf5654aaf93315c978ac389332cf715
+SHA256: fc1150e3aa45290d7c60890c5afead3613bf875fc8c1dbcc47361a9924dfea65
+SHA512: 50a7e1705109a380f2ff3079c90c03aa7369fb59dfbaa491cf1d3b66d701fecc936ea3337a8ff79c55f67bdf2bc23adb359423811a422c7dffc8bb74945ecc67
+Description: I know there's trembling in your heartlines
+Name: Heartlines VH
+Author: Litten
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Heartlines/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Heartlines/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.2_iphoneos-arm64.deb
+Size: 72202
+MD5sum: c3068c6bcd3f547c39976de02f380b75
+SHA1: 8d4e753a616952d947295ea9ae8cae94fa743407
+SHA256: eeb16dcf1233e58588aa65a4c06fb9bf118784ce1c9b4af778cef40845ae2d0a
+SHA512: 5c3fb011e223e59aedd263c7c3a18240977c1f75183264d6406b08147603ac19e7b6fcf8064c2a50115089c39029fe2973f7530853491a6cc0861abea77b95ea
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+dev: ichitaso
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HideSerialNumber.json
+
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 416
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.3-1_iphoneos-arm64.deb
+Size: 67124
+MD5sum: 5786e5502a396820d0de8708ce8e827b
+SHA1: 3c906c6891e4d0b58e80fe7358a65e005b53a4ec
+SHA256: 103c4d5f32b039ea1575e9f9d6701365d8c865b8edfd82272eead76cbae6daca
+SHA512: 8914c04fec78b1714a9058396e9df43851fcb689496208eb11248123fa97365d52078ccea95fab00999cee1fd01efa4b0fe6c9c6d042a2e6e720bda5b535cab7
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+dev: ichitaso
+
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.3_iphoneos-arm64.deb
+Size: 72208
+MD5sum: bd7fd23d951f8c82efcfa76d828e9029
+SHA1: 465b848bd572b4b12dd5698c61f909f05ce8dee4
+SHA256: 32d7053eeabd570617b1533e774f914c9a9043bf2dcdbe482ab758b7825801fb
+SHA512: b14219ded5972ecf2dac1a5cc430cfe450af6ee8e8de66458bbd3fb92a1c9bef9aa82fc60ff2c53bd029fadbbe96205b4e6e39998b6ac76c192b863439453c6a
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+dev: ichitaso
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/hideseri.json
+
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4_iphoneos-arm64.deb
+Size: 95112
+MD5sum: 96c842c15acdef6b7d491e7f5de0b147
+SHA1: 014f6a59a60eec4054b8142f0635cce2b91b471b
+SHA256: 73e214d730c86fe92cfc219de87ceed9507edb7e3dc20f3eaa8ebf2fe99cc063
+SHA512: c41aa36107046750925942d87ff4c26217b587c4462f256abbdcb882c1d03125d57e785d2d4db6d01a4639f0fea0c9b1d0b271a314e0c83bcbd6c62f54781196
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+dev: ichitaso
+
+Package: com.BIENVANNHAT.hideserialnumber
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber_0.0.2_iphoneos-arm.deb
+Size: 71370
+MD5sum: 9e9af931624861812b4be058f8b36c9a
+SHA1: 58f0fe97fb281b4cc05a6b1cc203bcd7878110a5
+SHA256: 7942fda837eea39df93c0555858a9ea4b7daef876de664c35599855d040769d9
+SHA512: e674d1f22a1f77afc76e726001224440e7d9ecb4458e9a2c25c36311a79ef962ac3b82f4701b27dd31e39322fff822f36cf55b084b7c7fba59e678e56f924d81
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber
+dev: ichitaso
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+
+Package: com.BIENVANNHAT.hideserialnumber
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 408
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber_0.0.4_iphoneos-arm.deb
+Size: 100338
+MD5sum: 9a37992c2be31643a7b5b43172ab62fa
+SHA1: 87b77ad66e32bb060263de769f175b8cd178727c
+SHA256: 4526e75553da7e5c049e46410e69121dbe10081da9b0414e5d476fb03e579454
+SHA512: 6d2aa5c184cd4dc51e676684a53722a349e29c82e9c1a5f3f45ff4b7b47aa070e25282f61b184df5c38f27bc49b5161e03cce74ad30e8c6200c6037761755623
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: ichitaso
+
+Package: com.BIENVANNHAT.homebarsizer
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.homebarsizer_1.1.1_iphoneos-arm64.deb
+Size: 33706
+MD5sum: 7bc5aa730a03864bd75d7c2816647a0c
+SHA1: 66861f8877aed5ddf961c28d6c7af296cbaaaaf9
+SHA256: 7d86500bafb4399640af42a1385f444b46b01375204fd33d1dc4e1f571ff45b1
+SHA512: 05d56547cafa785dd135f91797607ee50907298bddc705944258cc528c6dcaf39bc97f491ea6b8a618344eb40eb0703cd12fc7284d98161bffa8567d4a5d6c32
+Description: Tuỳ chỉnh kích thước Thanh Home của bạn!
+Name: HomeBarSizer VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/HomeBarSizer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/HomeBarSizer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.homepluspro
+Architecture: iphoneos-arm
+Version: 2.0.0-beta1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1412
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: vn.kenhtao.homepluspro
+Filename: ./debs/com.BIENVANNHAT.homepluspro_2.0.0-beta1_iphoneos-arm.deb
+Size: 454370
+MD5sum: bdeaee80dfb92e538051b869697248b0
+SHA1: 848c0f6fcc0d98ea9c0e866bf16991782385761f
+SHA256: 34f43dd108841d9d6da91a2876da8fedc10aab459c6e4557d7e5ef178bcd6366
+SHA512: c05d23d5ae850053803163ad5758469ec4c7e1ff4f9e2579d14317b96b13c5ebc59ce756c5ef15009ca501715561577833e7c3f4b8ff245e581da353ce27f192
+Description: Điều khiển bố cục trên màn hình chính theo cách bạn muốn!HomePlus Pro là một tinh chỉnh mới hỗ trợ cho iOS 11 - 14 với các tính năng tương tự như Boxy hoặc Iconator . Hiện tại tinh chỉnh vẫn đang được nhà phát triển cập nhật liên tục để nó làm việc ổn định hơn .
+Name: HomePlusPro Việt Hoá
+Author: Kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.homepluspro
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Bien Van Nhat
+Installed-Size: 1412
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.homepluspro_2.0.1_iphoneos-arm.deb
+Size: 454402
+MD5sum: 2bd350bc48ba8db44006bcb53cb0af6f
+SHA1: ebf56beda40721b281331e7e1c807c16cdeab0cd
+SHA256: fbb70de51c1f59135614513bcc4fbf6b1ddd6af7e201e3fe187b852a5f0a634a
+SHA512: d7e098fba0118669a62cfd968bc7f4fff2d65f468f4f2d81bf3b5a973069c4b691820df5bba289a30a1aaa177cde7a0895289df21e3587665a0ebfa352811efc
+Description: Điều khiển bố cục trên màn hình chính theo cách bạn muốn!Điều khiển bố cục trên màn hình chính theo cách bạn muốn!HomePlus Pro là một tinh chỉnh mới hỗ trợ cho iOS 11 - 14 với các tính năng tương tự như Boxy hoặc Iconator . Hiện tại tinh chỉnh vẫn đang được nhà phát triển cập nhật liên tục để nó làm việc ổn định hơn .
+Name: HomePlus Pro VH
+Author: Kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Bienvannhat-jb.kernbypassVN
 Architecture: iphoneos-arm
 Version: 0.0.5
@@ -3660,6 +3913,70 @@ Tag: compatible_min::ios11.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Cylinder Reborn VH(Rootless)
+
+Package: com.bienvannhat.harpy-reloaded
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 11656
+Depends: firmware (>= 14.0.0), cy+cpu.arm64, arpoison, network-cmds
+Filename: ./debs/com.bienvannhat.harpy-reloaded_1.0.1_iphoneos-arm.deb
+Size: 9685916
+MD5sum: 3a58cbe424250f7a37b99d036110eafc
+SHA1: 5d60620a78016dd370f0528d0d743ee49a1be249
+SHA256: e9c81c6842b175e98d4fc17e72964590d095036a7cab318b6651b6a6f198e014
+SHA512: aad26fa4151d40b13d09d66eaca225e7f873c4247b36ba1c5d208801a10350406b72e1f56b285f6a9cc5f254c7b5882fb00ce39b11643cf60e1bba255ad6cfcb
+Homepage: https://bvnsupport-jailbreak.github.io
+Description: Trình quản lý kết nối mạng của bạn.
+Name: Harpy Reloaded VH
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Harpy/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Harpy/?p=info
+Author: MidnightChips <midnightchips@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bienvannhat.iamlazy
+Architecture: iphoneos-arm
+Version: 2.5.0
+Section: Utilities
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 509
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/com.bienvannhat.iamlazy_2.5.0_iphoneos-arm.deb
+Size: 201524
+MD5sum: bd1357c4abe09c5e12a170e963bb043a
+SHA1: a4349eed0d8d741096ca4b9ea766da4241addc0c
+SHA256: 626f8489181bd0f98f86dca452459eecd104b7b26137221d221b5e23debded23
+SHA512: 3d78fc8441f2053cba23c5b7a69090e60d8c3094f70fd7b53012a269c02de06165ed8227bc649583a7c3f7a41f2f6823947996e2aabed799379043821bd33009
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Name: IAmLazy VH
+Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bienvannhat.iamlazy
+Architecture: iphoneos-arm64
+Version: 2.5.0
+Section: Utilities
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 533
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/com.bienvannhat.iamlazy_2.5.0_iphoneos-arm64.deb
+Size: 201194
+MD5sum: 1d52174a4251316b0868c5265c7b7004
+SHA1: 0008bcccc7fce1f1b6251dc120cb1858fa2e8e7e
+SHA256: 51e0f63fcefc978335c2455821093ec100688aceac14c6bda63687a401d1c622
+SHA512: 6318d799c12dd35be89c0113c6911eee0a2d26143b6ef324f6da569f93487c5e0744dbc7ef2f4a1529a79001f61fd136da83a04d61397d8a4ee779339944d9ad
+Description: Dễ dàng sao lưu và khôi phục các Tweaks của bạn
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Name: IAmLazy VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/IAmLazy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/IAmLazy.json
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.bvn.cylinder-vh
 Architecture: iphoneos-arm64
