@@ -316,6 +316,23 @@ Name: Black orange pro
 Author: Khoảng lặng
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Christmas
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Themes
+Maintainer: Biện Văn Nhật
+Depends: com.bienvannhat.snoverlay
+Filename: ./debs/com.BIENVANNHAT.Christmas_0.1_iphoneos-arm.deb
+Size: 63420
+MD5sum: d56ecbcecec9acd8343d822dd1484dc0
+SHA1: 1261a8582c9fc7c94c0b3c989396b25f368348a9
+SHA256: 428a2c7721add9e512c888d7a36bcdc9db483a490ef6266e6fada9e66590d161
+SHA512: 2bd414bafc3189acb869bcea53cb5e10ea9fe81693e2db3703bb32e194a2d78ab7abda0eff7249c5d8c42af5435081f64dc9e2414a873737828101b174fdc87b
+Description: Gói AE Christmas
+Name: AE Christmas
+Author: unclear
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.a-font
 Architecture: iphoneos-arm
 Version: 1.10
@@ -1794,86 +1811,6 @@ Name: CC On & Off
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.chatbubbleslite
-Architecture: iphoneos-arm
-Version: 0.5-2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1000
-Depends: mobilesubstrate, firmware (>=12), com.BIENVANNHAT.chatbubblessms, com.BIENVANNHAT.chatbubblesmessenger, com.rpgfarm.libapappview
-Conflicts: com.rpgfarm.kakaoheadsplus
-Filename: ./debs/com.BIENVANNHAT.chatbubbleslite_0.5-2_iphoneos-arm.deb
-Size: 317098
-MD5sum: 19c83001f5571420b9ab4b60b8446fa3
-SHA1: b0824853694b4cea152f12f56af4e09e569acfdc
-SHA256: 2870bd93bad6b303adee48efc5f4027d2a94ad57c328789370e90058467061dd
-SHA512: facae103ab5a7f137bb15ac88cafbc81b7b8cfeb1ddd588bca1391afe767b54c1aa9f0b01864fb3321be31ff1b78643c8a2125a16d3313b6de9a0b749aede541
-Description: Hỗ trợ CHÁT BONG BÓNG của Android cho iOS.
-Name: ChatBubbles Lite VH
-Author: Baw Appie <pp121324@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/ChatBubbles/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/ChatBubbles/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.chatbubbleslite
-Architecture: iphoneos-arm
-Version: 0.5.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1000
-Depends: mobilesubstrate, firmware (>=12), com.rpgfarm.libapappview, com.muirey03.libmryipc, preferenceloader, com.BIENVANNHAT.chatbubblessms, com.BIENVANNHAT.chatbubblesmessenger
-Conflicts: com.rpgfarm.kakaoheadsplus
-Filename: ./debs/com.BIENVANNHAT.chatbubbleslite_0.5.1_iphoneos-arm.deb
-Size: 351518
-MD5sum: c08ef7710264f848207d28020074b216
-SHA1: 3b3575c0a8365abe8c6f5068b8e54ec8a55b1dc1
-SHA256: 16af369edd8a69eca95aadcd820bfd9846b4eedb4f42c28a4d14d78846d33bf4
-SHA512: d6db145559697596cd4dd568fdfa23453ebf5fecd21ffd491b9631712682afeb16518cfb9bfb5ee4a9859463d65f353d5c9146e89b98bd6e6a554a91f04ef5f1
-Description: Hỗ trợ CHÁT BONG BÓNG của Android cho iOS.
-Name: ChatBubbles Lite VH
-Author: Baw Appie <pp121324@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/ChatBubbles/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/ChatBubbles/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.chatbubblesmessenger
-Architecture: iphoneos-arm
-Version: 1.0.6
-Section: Addons
-Maintainer: Biện Văn Nhật
-Installed-Size: 136
-Depends: mobilesubstrate, com.BIENVANNHAT.chatbubbleslite
-Conflicts: com.rpgfarm.kakaoheadsplus
-Filename: ./debs/com.BIENVANNHAT.chatbubblesmessenger_1.0.6_iphoneos-arm.deb
-Size: 19832
-MD5sum: 59fbf27849dfabb0516002bb28a42286
-SHA1: a596598abf438d1e4d01d0d25e1796e570bc3274
-SHA256: 643a0d7d67e9e4eea6e74b30fc8c1a4027689a31c2ebd5102030be3242093231
-SHA512: 6619dac06ed4ac7ec67d4e775efc7079290b9bd2b6ec7701f8f18ac7a22716f5fe97b81afc4e45e8ffa0619f71f5f4b780d3fd223195480e5db5ab27421a0f5f
-Description: ChatBubbles hỗ trợ Messenger.
-Name: ChatBubbles Messenger Extension
-Author: Baw Appie <pp121324@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.chatbubblessms
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Addons
-Maintainer: Biện Văn Nhật
-Installed-Size: 136
-Depends: mobilesubstrate, com.BIENVANNHAT.chatbubbleslite
-Conflicts: com.rpgfarm.kakaoheadsplus
-Filename: ./debs/com.BIENVANNHAT.chatbubblessms_1.0.1_iphoneos-arm.deb
-Size: 19386
-MD5sum: 61d81723f0dc1d12de93ec0cb842c0f1
-SHA1: 6001bc36f21f05bc28604838221135429782a786
-SHA256: 8d1580c656189581af917d080b079a35beefeecfd9cf63b67f080241f5c8136b
-SHA512: 1b2076a37827f0da197ca08ba51b2cb2e975d7d965e63da6799615745f7bc0c4aaa637662b1823b6de26b38fd4d37077b222210ee3218501199f9a104cadfbf4
-Description: Hỗ trợ SMS/iMessage cho ChatBubbles Lite.
-Name: ChatBubbles SMS/iMessage Extension
-Author: Baw Appie <pp121324@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.check4round
 Architecture: iphoneos-arm
 Version: 0.2-beta
@@ -1890,6 +1827,83 @@ Description: Đặt mật khẩu cho thiết bị A11 Jailbreak bằng Checkra1n
 Name: check4round VH
 Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.check4round
+Architecture: iphoneos-arm
+Version: 0.3-beta
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15)
+Filename: ./debs/com.BIENVANNHAT.check4round_0.3-beta_iphoneos-arm.deb
+Size: 72234
+MD5sum: d488b6a4ee232349dd4214c3313c22dc
+SHA1: f9245d62bc056a62ca3aad4632c37fe78cf479a4
+SHA256: 7fec6e7cc10a5b3b6d0497176a0c5a4b8f2116d03bc8aba52878c3b3e7855575
+SHA512: 6372f067edc87849f10823474530421867c25c20b58562704ef6b19d9f34cbc5f986ea205ada1e8d6017b5ae87c9e6de98055a016d768761e1fc5fee3d58e182
+Description: Đặt mật khẩu cho thiết bị A11 Jailbreak bằng Checkra1n,sau khi cài xong bạn vào Tweaks cài đặt mật khẩu nhé.Lưu Ý các bác "Đặt khẩu thì làm chậm thôi nhé"bởi vì nó không có xác nhận 2 lần khi đặt Mật khẩu
+Name: check4round VH
+Author: Plat-Ykor <plat-ykor@libero.it>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.check4round
+Architecture: iphoneos-arm
+Version: 0.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.check4round_0.4_iphoneos-arm.deb
+Size: 19582
+MD5sum: 0b0107feb7a388d41b1da6c3f4045537
+SHA1: 16d5f649db9afc37dc21fc2cbf2c6b4a6aa5f3fd
+SHA256: 86ff224b5b0bf7620e093ebdaef151375cd993aa35e96184321a5d05f27aa7aa
+SHA512: 1a06b49f56825cede88fb0c69b087c34bfa8807947ba4e1088fa8cf88d5ef626477aac726291cff7ca0fe92cf87aa50d89cc0d57b32890f515cabaa52d0fcf0e
+Description: Đặt mật khẩu cho thiết bị A11 Jailbreak bằng Checkra1n
+Name: check4round VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Plat-Ykor
+
+Package: com.BIENVANNHAT.chromahomebarx
+Architecture: iphoneos-arm
+Version: 0.5
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 642
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.BIENVANNHAT.chromahomebarx_0.5_iphoneos-arm.deb
+Size: 3202992
+MD5sum: b5e43f0d67556c5a1af820b5c36e1457
+SHA1: 2cca79ab0472c6473f8cdc9b1ceb2eef5b6f2dc4
+SHA256: d11246f5f5f0b3c40ffe26499daec5953e7a9095c0cfd92796861d26e943c970
+SHA512: f83def3179f50945707afa8ccb17e209b6181a545cf034075435c9b4bc61bb242bc67996f9f0260cd0ae15d8b0ea02b6bce7b87674e539c6d5374d29f710167b
+Description:  ChromaHomeBarX chỉnh màu Thanh Home cho iPhone X, cũng hoạt động với LittleX.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: ChromaHomeBarX VH
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+dev: afnanahmad
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/ChromaHomeBarX/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/ChromaHomeBarX/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.colorbar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 320
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
+Filename: ./debs/com.BIENVANNHAT.colorbar_1.0_iphoneos-arm.deb
+Size: 18718
+MD5sum: e8df8b75550acfe6c7dbd39e3f0c00d6
+SHA1: 5fde60ed09ce5c17d0bef917160b70b0bb66a365
+SHA256: d5fec4801e86058b5d031c0d825adc316b6ed354dd289ecdb31f6ff85d801a85
+SHA512: d7aac102e6bfb89c0a27ade18f0a336cb6cbf69606c8e3879e0d01d1422ddbf954d32c128b8e7cc666419adf37b863ef654c94d9b99f63b071a8f88b63fd3f56
+Description: Color that HomeBar!
+Name: ColorBar VH
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/ColorBar/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ColorBar.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.colorbar
 Architecture: iphoneos-arm64
@@ -1911,6 +1925,103 @@ Depiction: http://support-jailbreak.github.io/infodeb/ColorBar/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ColorBar.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.control-center.ccvpn
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/com.BIENVANNHAT.control-center.ccvpn_1.0.5_iphoneos-arm.deb
+Size: 18842
+MD5sum: e3c33d8c0c2453fab9d8fb1822b813b4
+SHA1: 16bfea63b3492982d7224c2a0c51afa50fa4b78e
+SHA256: f16d122eac1b99f18bbce78313da1cc76cc4b2194c6e442d0b84e6f1d97754f6
+SHA512: ddef63f6a56d3126805013ee19c09fce10cfefd82e4547d6e20a18685a0b8b70548c66c3d41acc741c2ba2142e433b3364c65a20eb419a8435b595895a195f45
+Description: Mô-đun Trung tâm điều khiển để kết nối / ngắt kết nối VPN
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Name: VPN CC
+dev: kingpuffdaddi
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/VPN/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/VPN?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.coolccVN
+Architecture: iphoneos-arm
+Version: 4.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 328
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.BIENVANNHAT.coolccVN_4.0_iphoneos-arm.deb
+Size: 52360
+MD5sum: d8081acca26cf24a057874e0fb222253
+SHA1: 2ce6ec8c88a73002a45109c6f42d3dae26477242
+SHA256: d1a0ab96e3c3d683603b30beef7e3d604c496ae169d60c2593490f1ad8917cc2
+SHA512: bd8258040baf0efee600a987091abd690aeac9b081aeef6219228983e2d5dcb7d0beef797406f039ea6dcf21523c300885718f65201c0ad6b570e36e32fd9963
+Description: Làm cho ControlCenter trở nên đẹp đẽ
+Name: CoolCC Việt Hoá
+Author: 4nni3
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.coolcc
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.coolcc
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.copypasta
+Architecture: iphoneos-arm
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 640
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.BIENVANNHAT.libgcuniversal, com.spark.libsparkapplist
+Filename: ./debs/com.BIENVANNHAT.copypasta_1.3.4_iphoneos-arm.deb
+Size: 248058
+MD5sum: 37adc820853268e2f435c063774f8cfd
+SHA1: af5392e275c056aac2ea7327c9886cc29bac33b1
+SHA256: df1ef088090ba6cbcb4c4676d997d94d6c2058c5322829369075e6fe31667641
+SHA512: f7b5ef3a4299cb9cfa74ae97e124445a3f6f5a1fb2f4a75502cb0a614b817b934dd69d123276b6f4aeb188a5ac1251847ba35feff403936a926816bac4a47517
+Description: Trình quản lý dữ liệu sao chép hoặc cắt của bạn.Hỗ trợ ios 13-14.5
+Name: Copypasta Việt Hoá
+Author: Nepeta & Litten
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1212
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader, liblua5.4-0
+Filename: ./debs/com.BIENVANNHAT.cylinder_1.0.1_iphoneos-arm.deb
+Size: 233242
+MD5sum: 2f47d1f2c716cd9b81542e53a3a01f56
+SHA1: c5a95d0dead01125ad18813e6a90b9e8a6ff4134
+SHA256: 08f76fffa98e3a09bbeab0252528f9a55d2ad7b5fa7b432d872de51c355adcc7
+SHA512: aba34828ff9c6b77505da7413cec24f10468e7f93fea35a1ad3460f4e3fce79778c856333c9c154ac0fd9ce5389b7ab14cdae821910b2b6b572da249245bf3b2
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Name: Cylinder Reborn VH
+Author: Reed Weichler
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1384
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.BIENVANNHAT.cylinder_1.0.3_iphoneos-arm.deb
+Size: 374922
+MD5sum: 34b71285ae0d94fd2be1f577dc6be67e
+SHA1: c8aa5195a97b3f067869bf41861f93927b5adc10
+SHA256: 87e6ccd8dca9b2b65a7d133f9921e04533b9117d9b2c7a9f40cc18f9c3820bac
+SHA512: 8a7fc2954debc79d80ff551c1c36e57cc6789cfadc5de1503f0ba4f0b6e7377e14bdc894892efabe0599ac3c223d294461bc09a58ddba1d6286ab6b7e5ef500a
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Tag: compatible_min::ios11.0
+Name: Cylinder Reborn VH
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.cylinderremade
 Architecture: iphoneos-arm64
 Version: 0.0.3-beta
@@ -1929,6 +2040,196 @@ Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ 
 Name: Cylinder Remade (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ryan Nair
+
+Package: com.BIENVANNHAT.darkpapers
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>= 13.0), com.bienvannhat.wallpaperloader, com.BIENVANNHAT.darkpaperspack1, com.BIENVANNHAT.darkpaperspack2, com.BIENVANNHAT.darkpaperspack3, com.BIENVANNHAT.darkpaperspack4, com.BIENVANNHAT.darkpaperspack5, com.BIENVANNHAT.darkpaperspack6, com.BIENVANNHAT.darkpaperspack7, com.BIENVANNHAT.darkpaperspack8, com.BIENVANNHAT.darkpaperspack9, com.BIENVANNHAT.darkpaperspack10
+Filename: ./debs/com.BIENVANNHAT.darkpapers_1.0.1_iphoneos-arm.deb
+Size: 21027152
+MD5sum: 82f21e4df3cf51e7676dfc30c2409aed
+SHA1: 8db84735e91fd014cf42ab13fcf659f6d81b345a
+SHA256: 9ce47e88ef04f1a1f384018a283e8659e5461db2a4e06d65ac29dc98a2fe3e4b
+SHA512: 3e5dab19474df113c4fa3ff688f4eda179f8b57952f464a6b0b74326b849ee92e15c172bd98c896f96003d6b6982c9db5c500cd2f475656872268d6098ed69ee
+Description: Hình nền Ngày / Đêm theo cách của bạn trong chế độ tối của iOS 13&14. Đi kèm với hơn 50 hình nền Full HD và thân thiện với OLED hoạt động với tính năng nhận biết ngoại hình gốc. Không cần cài đặt, chỉ cần vào cài đặt và chọn từ phần hình nền trong ứng dụng cài đặt.
+Name: DarkPaprs VH
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/DarkPaprs/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/DarkPaprs?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: alex_png <alex.png.cc@gmail.com>
+
+Package: com.BIENVANNHAT.darkpaperspack10
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack10_1.0.0_iphoneos-arm.deb
+Size: 20029608
+MD5sum: 9af7afcd8676d6e0aea3bf39ae5363f7
+SHA1: c293cf45b0f67cf56acf29d18952bbd7dd1f9d68
+SHA256: 0a608a5d958d73af464f4a166a3508b4d988d7fb06c1d0ce23f242d9748097f9
+SHA512: fc23269cee3547b513ed11af9fd6d8975411575104af6fea0fe5232f84b6b2439496191fb9b98ee752c9a564faf9bab303453d17a6f31eb979d8f44a452187a6
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 10
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack1
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack1_1.0.0_iphoneos-arm.deb
+Size: 22005682
+MD5sum: 0eec319e495c8c873f0abe505593fb77
+SHA1: ae5b938885ed8253549407b78b112ef39eccde13
+SHA256: f53319fbf303dd40de3d3f22e513ad4e52cf87ca751b9ac7042ad6422a7f7327
+SHA512: d115d85f94ba59273f5d2a124f953edb83b91e0a317eb320d2b7d24128f3a5028141f5de1392f2686cfb100f1f0a83ddd646c048221a49892d3e4ddf222ae82d
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 1
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack2
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: Biện Văn Nhật
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack2_1.0.0_iphoneos-arm.deb
+Size: 21040008
+MD5sum: 27ecea2dc81dc830fe95a7a41a28502e
+SHA1: c5aaf6d6ac35bf669540363d8a0d02e9d62e9d1f
+SHA256: c3a7f60c8bfd3c77b98fc59920074654b183af24c173e7acf6061cf2de38ce92
+SHA512: 0dd49118fe7c12719e1d7061760809349cf187956ed4bcfeb327a7432dc3d27ff5c3f035f51c3da36f5aea035b4945eb656fd24de42b2b0e12e6d9f0ff6b855f
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 2
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack3
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack3_1.0.0_iphoneos-arm.deb
+Size: 22996132
+MD5sum: 5c980ac7b27bbba48a5409f99e4b64a6
+SHA1: 58c4542bfdb0373835a2f0addbb766dc000de0ac
+SHA256: 7c792de99a220737e9b0232a31a4f9f49f771591ff1b0013d596b8089d520bcf
+SHA512: 9ead02d2eb674b78c21586517396e3a9b81437c7449083b019049b960373f0525571287df8e88405b07f7fe3798c5104156e5dd46efede84a5fb2c7d5526edf9
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 3
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack4
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack4_1.0.0_iphoneos-arm.deb
+Size: 21458288
+MD5sum: 36fea8615e8b6e0ff9c054f2da3b5039
+SHA1: 0e5f992a69b6cdd7bc6e970744d0e37c27a2df77
+SHA256: aa17e2697baded4d4dca407dfd679fcb74d56ee3294ee9c797b94731d6f6367d
+SHA512: f48884bd735cea3c5cbe9dbfa9b400a6f239281b9946a7265a952389727d77c7e9df3db998d10f0fcfb3b55bbb4f7dc2a193eaaf6347b015ec70daa3d4243e0d
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 4
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack5
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack5_1.0.0_iphoneos-arm.deb
+Size: 21990980
+MD5sum: 8d1c5d0e30bc628bc96718722033d226
+SHA1: 96f136fc898ec6955e1894017cd4ebbce987a802
+SHA256: b3b7c1c4b14c3df8181da78659c2ebcba536d04e778ea7aaef5319eb3c4e8b67
+SHA512: 1e3e640149758b052f4c53313437ad897a48427daed8305743135d90b82a58d97f94398d1659f5f5e208b71129251d25f3d950c1118e17a7129759fe11d03270
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 5
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack6
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack6_1.0.0_iphoneos-arm.deb
+Size: 22426480
+MD5sum: 2cd2fc2825b0683c67167f1b8a421ded
+SHA1: 6158ed8e7f861119efa760b83c399cf5de77c0a1
+SHA256: a31d63db9bfedcafd9ee6e46cdc36641f910aa3b3ae964ab4d7dc09952a0f333
+SHA512: 91efcc9d2643247e94a11675b3a3e56fe3c677952e41e3d11fa99250bae75335e5a87da4761f0f0cf3e3fff80dd467455049ab6bdb49e4cacb15f2b368c5ad20
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 6
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack6/
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack7
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN  VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack7_1.0.0_iphoneos-arm.deb
+Size: 21000656
+MD5sum: e77c9ee7435d634841ae6e08fb3de83e
+SHA1: 6df6ec4c0b8d02423f3aaa1da9bff0434bd83e45
+SHA256: be872dc7d50d68b0f2a3f9d2c725b61a46ac52caf45669e716ce0a7cfacfb6be
+SHA512: 5f3d4adff561f16d1ab6227a9a5db5be621c47d8a8c32ba66d2556cf517504463d8c9c5af01c429e1bd4e79fe08f26932614b404b4233d97aa62b415418b6053
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 7
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack8
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack8_1.0.0_iphoneos-arm.deb
+Size: 19405628
+MD5sum: f00139db327072afeb3c58e8866bc6f0
+SHA1: f7551aa59dbf4b8bac671a93947c0a1117cd7648
+SHA256: 1240d6919efb796dadd55e0b39b7ea99b0cbd9a2d927681ce90069cd37570ced
+SHA512: 3f20e62b2195a4ba5bd8ed5a26dfca53640ab1595b5cf156a98953bb9bc8358f33c207ec904afd5cc03522e91a833d540e1e96a2e4ced508e82a047999443677
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 8
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.BIENVANNHAT.darkpaperspack9
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Wallpaper
+Maintainer: BIỆN VĂN NHẬT
+Depends: com.bienvannhat.wallpaperloader
+Filename: ./debs/com.BIENVANNHAT.darkpaperspack9_1.0.0_iphoneos-arm.deb
+Size: 19947512
+MD5sum: 8b3f857e98bfce44f694eb20b4f5d445
+SHA1: 2ac7c90056f7ee3a3ca9fd4a10c4171ce5488413
+SHA256: 2462f98c29c2d3d0c2e3629c6cd0acb181133a8cca5a7d3fac2a0c6d1c710f06
+SHA512: e684ec25d40e0736e44a730ccfa0b78250e7a1434427750e249705c5fe4c13b82e3aeb697eac9c0d09c454c862079acf16b70c99d651b851e40e8481f1a67d07
+Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
+Name: DarkPapers Pack 9
+Author: alex_png <alex.png.cc@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
 Package: com.BIENVANNHAT.dimentio
 Architecture: iphoneos-arm
