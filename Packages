@@ -7694,6 +7694,24 @@ Depiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.BVNsupport-ytbhd.ytuhd
+Architecture: iphoneos-arm
+Version: 0.0.3.6
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.BVNsupport-ytbhd.ytuhd_0.0.3.6_iphoneos-arm.deb
+Size: 6436
+MD5sum: 148b5f549b5aeba7bd58fd84a7f02630
+SHA1: 6aa455c9450fa11f7ecc287633fd0ad6f2e802c6
+SHA256: 0c57b63317c03b10394def87c55db647fa4974fc8c2c3471e9919d49ba55a46b
+SHA512: 262e3794e1573a9cfbab584692677135035c7a3a515625fdf1fde406c0870693082162115882413e05834d9ec36496550fac14884f77dbc18381a136b330c572
+Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.Hỗ trợ Ios 12 trở lên
+Name: YTUHD SW
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Bienvannhat-jb.kernbypassVN
 Architecture: iphoneos-arm
 Version: 0.0.5
@@ -7739,6 +7757,28 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bienvannhat.lottiestatusbar
+
+Package: com.Bvnsupport-Yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.10
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 17080
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.Bvnsupport-Yt.cercube_5.2.10_iphoneos-arm.deb
+Size: 5927580
+MD5sum: ad96f14e9ffcafc4cbfd12a6a0610363
+SHA1: 54452307def5decf3b1eeba4b82de70ed83f3f31
+SHA256: e49a5ee99bfb0a60e5be5d9ed6b2bdb8b4ecd85403e57715c2ac018b1039eea9
+SHA512: 396fae17700bf1003d2efaf8f938c3754ed9b6ad795f1765da31e170fe8aa6516defbf9e69c397b21c4ce991b74194dbeeb375240605ab907f5df47b9c5df05e
+Description: Download YouTube videos and more!
+Name: Cercube Cho  YouTube
+Author: Majd Alfhaily
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt.cercube
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bvnsupport-Yt.cercube
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.betterccxi
 Architecture: iphoneos-arm64
@@ -12495,4 +12535,636 @@ Author: Lillie
 Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-youtuberebon.youtuberebornviethoa
+Architecture: iphoneos-arm
+Version: 4.2.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 24892
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, com.repobvn.ytx, com.repobvn.uyou
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/com.bvnsupport-youtuberebon.youtuberebornviethoa_4.2.6_iphoneos-arm.deb
+Size: 12048908
+MD5sum: fae4cf568d97c57603e4e4c77f1d4fc5
+SHA1: f69a2750853163d4a5edd6f30900425ee0edca08
+SHA256: d993fd55932d4ff85a9c0b43747a7681e044a5f10ef57a78f90301285636169f
+SHA512: 42db925b2eb923c7355a7d520c3683f1bb4e5d8fc11c27b061db08826bf95f9f364c852f175e2cdc51ac6411f2b6475e28e45c46b904d6146b32968c0541ac7b
+Description: YouTube Customizer
+Name: YouTube Reborn VH
+Author: Lillie
+Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.25
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.2.25_iphoneos-arm.deb
+Size: 5460104
+MD5sum: 2d40af3fc170c72f6ab0775afb93edf5
+SHA1: cf6d99179b213803c2fcc79794eab66efe2db066
+SHA256: 632e84c2e6ff179d1fea92455108dabf21f4699aa7dcc3de49f3ae52012b50bf
+SHA512: 3bf3f82894da27942d2c6e6e9d98ef84ce66318eb1a03e4f6a9f4b69ea3fe284d1df5a068fd9a0b8e114f34fc401575dbab0831d2858fe4ff4df16eb6f289df1
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.26
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.2.26_iphoneos-arm.deb
+Size: 5461856
+MD5sum: fdde02a0d59aa282c0ab9a29100d985a
+SHA1: 66528b2cb613cfe63031598bc0f04c05418be162
+SHA256: de231719d0144397a7c2b8aea62011ea6a7f4f136fd15f9d93567d64c127802e
+SHA512: bd5058ba41d6e165883e824809314691f961ad397f2cc3b2522e0aa0ba1ea61a0dbf03ca9980f3c1a07a8afffb79b1e591de66944575e97fa40badb245fe94b0
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.27
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.2.27_iphoneos-arm.deb
+Size: 5461292
+MD5sum: 9a947629b0d2982b9cfd1ba0855452ad
+SHA1: 6c3b81140a742f5613831a51c8033e3060f92abf
+SHA256: a61b40a5cde754f023779f1ef5fafb1ec6f708dd33f981a69d1bb0752901c0fd
+SHA512: 80c31fa56206b3fb22c6a14cc5b6a9d9c9cabfe7783921252c98fe98c5c487e127380e534da0e71af4101f6aa38fb56d2c1b1a8496e7e7f4f44726457ada1bd2
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.2.28
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 18408
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.2.28_iphoneos-arm.deb
+Size: 6494490
+MD5sum: c9d3096aa8de692698083e99cea998f2
+SHA1: 9895317eba8ccca6bbbe1b8873a17a460a475a56
+SHA256: b0acbe52f71c9db68a50f7c6902a79ae6473c6624e7af4534e22120ef0a0556f
+SHA512: 89190f5b62a63848c6b119a0da516706e04ea3245d007a28b0b3bf52d52ab12328b794549a17c0cded68637c2fcee36a16ca4ebc870b6b150aebc5b96cf4884c
+Description: Bổ sung tính năng hữu ích cho Youtube!
+ Tính năng:
+ * Bồ sung tính năng hữu ích cho Youtube 
+ * Không có quảng cáo trong ứng dụng Youtube 
+ * Tải Video không giới hạn
+ * Phát lại nền
+ * Lưu ý,bạn cần đăng nhập & xác minh tài khoản Cercube để sử dụng các tính năng trên
+ * Hỗ trợ Ios 10->14.9
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.3.10R
+Priority: optional
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 14300
+Depends: firmware (>= 9.0), mobilesubstrate, ru.rejail.adblockplus
+Conflicts: ru.rj.c3rcub3, me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.3.10R_iphoneos-arm.deb
+Size: 4778776
+MD5sum: 9188c2f381add2242db96197ad5b8fd3
+SHA1: f0d8e74b7ec6046305b92a474da007a68f6df0f6
+SHA256: e322e02a329c66279c5321e2d58a1be8027aeadd08176e72da0862cab6eb86af
+SHA512: d5b1d5d4857096b0ae23cba857ccc8ba3957ebc13102a3d378366c3d960a105fcb3148180a93a4e7b15c342b64c4cc4fe662699df709e270178693b10ec82d21
+Description: Bổ sung tính năng hữu ích cho Youtube!
+Name: Cercube cho YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Cercube/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Cercube/?p=info
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.3.8R
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 14658
+Depends: firmware (>= 9.0), mobilesubstrate, ru.rejail.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, ru.rejail.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.3.8R_iphoneos-arm.deb
+Size: 5148516
+MD5sum: db473f9e12ac8bed42d6c16910c15e37
+SHA1: b3c6237c383844df735764b7cb2fcf4faa7c7c05
+SHA256: c6662d4ba08fa9e1fa42bca63ccf45a3b653fdf48aad3f20c3d0d21d43dff611
+SHA512: 2fd543673d077cae2c84bece3736b2a2613ab2a9589252aa85268e18a1c6f65b8a8e96fb8d4f57f8b0c91210e0d870adb131a34a5f5038ab165b01468fbe7ffe
+Description: Tải video lên YouTube và hơn thế nữa
+Name: Cercube for YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Cercube/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Cercube/?p=info
+
+Package: com.bvnsupport-yt.cercube
+Architecture: iphoneos-arm
+Version: 5.3.9R
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 14658
+Depends: firmware (>= 9.0), mobilesubstrate, ru.rejail.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, ru.rejail.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.bvnsupport-yt.cercube_5.3.9R_iphoneos-arm.deb
+Size: 5148578
+MD5sum: 1e7b9cb408df8de4c946f99c646454cb
+SHA1: fca5eb15f04576c270598fcf4200f2812917df6a
+SHA256: b31bc432495d3229543c8d0a56d0f693e22148c22daf58dc95d3e7dabda5c145
+SHA512: a5e77efcf1e86b39e47d63469e8287af48014e57edb879d2cc3f7940121d6f4cb6038885064829d361f9d0360a5518fe2ed932a70a2314b4a8960727b61b59fa
+Description: Tải video lên YouTube và hơn thế nữa
+Name: Cercube for YouTube
+Author: Majd Alfhaily
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Cercube/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Cercube/?p=info
+
+Package: com.bvnsupport-ytbhd.ytuhd
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.bvnsupport-ytbhd.ytuhd_1.2.2_iphoneos-arm.deb
+Size: 108240
+MD5sum: 5300ba2b9fe52a3232d1ac0ae277e303
+SHA1: bf45a1c9c69d8aa96e6ba86df8b8f77ef15e4bde
+SHA256: 302034369043f7701f65f1cb5ab6ea4fc7aaa634131bb4de2bdd2b272358b65c
+SHA512: 7394e1daa68bd300647b732a377235d7eed27ac1fccb70833b28b024243e4e9d344cbc765291e1b8f1072dca73913bc2ead76ca249c0f372bb78aae52d0ff57a
+Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng YouTube dành cho iOS.
+Name: YTUHD SW
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: PoomSmart
+
+Package: com.bvnsupport-ytbkill.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.5-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2736
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis,  com.supportjailbreak.cracktool4ios1214
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Filename: ./debs/com.bvnsupport-ytbkill.youtubekiller_3.2.5-1_iphoneos-arm.deb
+Size: 1096950
+MD5sum: 404302de14c6edb33332c44e0616ff50
+SHA1: 98640378a69db88876bb9e5ea13c5ba70e31f01c
+SHA256: 35042f2327e41ea28619f23b1dfbcd987562f475da83a6af2ab1251a5116fb5c
+SHA512: 77228f3fc446f55299db8579d60ed126ab46db0c7c098cca96cf0fd708afb1c7d418851728a14e132fa123f19081e7d6db6f47a0015264e896d0f33f3e9cabe4
+Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.6
+Name: YouTubeKiller Việt Hoá
+Author: Ikarwan
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport-ytbkill.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.5-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis, com.supportjailbreak.cracktool4ios1214
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Filename: ./debs/com.bvnsupport-ytbkill.youtubekiller_3.2.5-2_iphoneos-arm.deb
+Size: 986692
+MD5sum: 9ecc452466a6ec1c6b50e236479dfdbf
+SHA1: e95ee6c8e9956f68482aa50712c54806fc64ad7f
+SHA256: 1c1b7fe38c486bc6264d93bd81f088e101640452cc1c152a47c1e9b702363a41
+SHA512: 30ba2c4bdab084aa26b2ec398bc11955bdf23931ded3bd808f409754fbd95cd61722733ce4f556fa5d4a0a88dc03a83b6f0cfa49c053ac34eb47d37c5fada7bd
+Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios15.0
+Name: YouTubeKiller Việt Hoá
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport.RedWhite
+Architecture: iphoneos-arm64
+Version: 108
+Section: Theme Rootless
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.RedWhite_108_iphoneos-arm64 (1).deb
+Size: 5776978
+MD5sum: 2462cfa4d5fef5b263ca7b0261309d7d
+SHA1: bf903551881209d1572c9f29656df03537403336
+SHA256: 42005aecee0606148acc254c0c3f40f36a2e008358bfdf264ed440c438813439
+SHA512: 5a58b4fa872537ecf74bde2f8e19ad5ad0fc438c6c5785e43c19ae26207bcf388c64b5ba318d0db2436bb457af4bb0516706143d5f7f7622d9f60b312c6d7e2e
+Description: Chủ đề Red White dành cho bạn
+Name: Red White (Rootless)
+Author: Khoảng Lặng
+Depiction: http://support-jailbreak.github.io/infodeb/RedWhite/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/RedWhite.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvnsupport.filza
+Architecture: iphoneos-arm
+Version: 4.0.1-2
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bvnsupport.filza_4.0.1-2_iphoneos-arm.deb
+Size: 13940132
+MD5sum: e92fb1970fcc2efab2703e0195823ba1
+SHA1: b56eba7d10b5cfcacf7aeb9b6f1bb2c7c0f24bec
+SHA256: 56af6583e2679cbe2b84be62b86cd6d228b09d79f272ea9dcd45d2126b75b53f
+SHA512: 94f9970723299403d2890aefefadf4c4fbb77c88d9ca9e5c88c398309187e8876babb9b4908c7b0b3218d91832334e393fd0eb2f09d91b1ab171a990b31f70f4
+Description: Trình quản lý tệp cho iPhone, iPad, iPod Touch. Hỗ trợ iOS 7+
+Name: Filza File Manager VH
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+Author: TIGI Software
+
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.0
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.deb
+Size: 102988
+MD5sum: 98ae3f10dd7e886505c4fe379fa6fb69
+SHA1: e611d0c045319673731416304100c2e64e8be15b
+SHA256: 65901c3ee4938bfe885d53a0bda4a6ab3aed7e8d410ead6117184962a6ccf65e
+SHA512: 44b0d140278fa2a69e4487805c30d493f65b57c7c7a7554f123e263cfd1b7fc378e2e9ab1b7aad83ef806e4eab1d69eee216beb96b177ba6adc00bc6a7a8b958
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.2.1
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.icon_6.2.1_iphoneos-arm.deb
+Size: 8926648
+MD5sum: 489cdefe036ab4ca823c6a69c4923385
+SHA1: 01bc3748cf32b71ed082a710f61de664608fcc83
+SHA256: 69b21c7a689d3fae0e85265532e3a8fbb2714a152754b0b5446269393f81136b
+SHA512: 35bc06a896ba96c8f7e2cf566477d301435fd38c6bc4554bf07307a9c6885f1f79bb6c72079d9d0eb13bcc0277513f6915d4a03f3fbb08a09a5c5c894f5c83ee
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.2
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.icon_6.2_iphoneos-arm.deb
+Size: 233682
+MD5sum: 11dd68827045b3bc66f5a0a498a1db3c
+SHA1: e1baa02505af6d864869810ecc20615ae33ded89
+SHA256: a59a02bbc3429c51517730591b75dc926b27efe93a408bee575a245d0989fd2f
+SHA512: 99d6cc49c597727784137b3f30e7db125d4aadaef81456ab018a03d280011eece3e38acc2602f74f8973c05cc728b5b74b756ad45c9469cce4b0e0fb27837fba
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.3-2
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.icon_6.3-2_iphoneos-arm.deb
+Size: 332614
+MD5sum: 619ba764ca732cee579f3639502b47a4
+SHA1: 25e0a6085522f96ccd5053477160892e2695f2cc
+SHA256: 548eb15dba03b89c0a6ae7cf7c21a1a7e04792c391d81c3e0810845161891e68
+SHA512: 88599dbe7a2c9883ea54aeb244ab6d3cf648ca825b048455b389d1982ec463f63a785e06a79037a194e75627d03db1dfe3c45a698392fb5ff570c14246868ffe
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.bvnsupport.jailbreak.github.io.icon
+Architecture: iphoneos-arm
+Version: 6.3
+Essential: yes
+Section: System
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.bvnsupport.jailbreak.github.io.icon_6.3_iphoneos-arm.deb
+Size: 2260896
+MD5sum: acafc4c180936456b624653cfdd31c71
+SHA1: 5b1f811e7dee4ba87fe8e5ee956d4b8bc60b1ce1
+SHA256: 62a2325e38bb485c210c9a74f879b6f12470708bf308c216809389c008c78a47
+SHA512: ae3703d8566b8fb36218409b18f0903dd3e00172d47cfe6de72913fbe4fa40a0378cb56e9871242f6f38f4bc348f2614ec5ba6ce0813cf83fa47e3fefc43d5a3
+Description: Biểu tượng Cydia cho kho lưu trữ BVN
+Name: BVN-Icon Repo
+Author: Biện Văn Nhật
+Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
+Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.bvnsupport.tranzloVH
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: BIện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 2616
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
+Filename: ./debs/com.bvnsupport.tranzloVH_1.2.3_iphoneos-arm.deb
+Size: 832622
+MD5sum: 6030af1109c41effcc4702a89ab01665
+SHA1: ab83a3ccdb4e08b54bde93e3b62d8eab20639a87
+SHA256: e2d22e404dc741241cf62354d630d72706a9c551520726c74269735d8f6d46bc
+SHA512: 0661cbdf12ca5456e23929dd1990dd636b5009724298298876b67694d18dd55e32c1aa4f951c08f0b219daf445f928b88e8b94d500a7d930cb16840b2d34b8cb
+Description:    Tính Năng:
+  - Tranzlo là một bản dịch có thể giúp bạn trở thành một cuộc trò chuyện, dễ dàng khi trò chuyện với người nước ngoài!  Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào mà bạn muốn một cách dễ dàng mà không cần phải qua lại giữa Dịch ứng dụng hoặc nhấn bổ sung nút.
+    Tin nhắn đến: 
+  - Khả năng dịch nhanh tin nhắn bằng cách nhấn vào nút dịch bên cạnh bong bóng trò chuyện.  
+  - Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.  
+  - Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Dịch.  Lựa chọn văn bản: 
+  - Chỉ cần chọn văn bản mong muốn trên toàn hệ thống và danh sách các nút Dịch sẽ xuất hiện để dịch sang các ngôn ngữ yêu thích của bạn.  
+  - Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.  
+  - Khả năng thêm tối đa 10 nút dịch mỗi nút dịch sang các ngôn ngữ khác nhau.
+  - Chắc hẳn bạn nào cx đã trải Nghiệm Tweak Translomatic từ nguồn Packix ,Tweak này nó cũng có tính năng gần giống như vậy.
+  - Hỗ trợ từ ios 13 trở lên,mình sẽ Update Full Tiếng việt cho anh em vào bản sắp tới
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo Việt Hoá
+Support: https://www.facebook.com/SUPPORT.BVN.VN
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupport.tranzlovh
+Architecture: iphoneos-arm
+Version: 3.0.5
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 6420
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.bvnsupport.tranzlovh_3.0.5_iphoneos-arm.deb
+Size: 2868326
+MD5sum: 7ae6d2287c4d643de4307617bdcf3888
+SHA1: 3b81a1844e482bff8d0393cd824983f4dead5a90
+SHA256: 3800dbc1de20ab7c2f0c6c331c99be37983493870c85924fa829280dd8fba560
+SHA512: 55cb9e761418bea83aabc08cd562a0fc322120dd655581f69d12ad74d0f0d83424ad1e6a71bf51182ddc2352ba6113fb703f1276ec3b2661a26626a60ed22217
+Description: Dịch ngôn ngữ nhanh hơn.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo Việt Hoá
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupportjailbreak.dcsyhi.fuji
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 1660
+Depends: mobilesubstrate,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0),org.thebigboss.libcolorpicker
+Filename: ./debs/com.bvnsupportjailbreak.dcsyhi.fuji_1.0.1_iphoneos-arm.deb
+Size: 549084
+MD5sum: 010461d059809f28b8d9fa5fc41aab0d
+SHA1: 4176d4ea2e1bbc7abe9ea7d95db274a56386ae8f
+SHA256: d1d903cf9e004eb70f26adfca50a98c9bb61f953b6faed30701314c189d60205
+SHA512: 97001eb7cf83554a41f32d6b2d6ac6d99316982c3c1b11b5c6c4c56d9dc014270498617f8cce42554862f2555ccfdaf3baabf909823af59d37042fa8fb0a0966
+Description: 
+   Tính năng:
+ - Tinh chỉnh đa nhiệm,
+ - Nhấn và giữ menu để thay đổi kích thước,
+ - Xem Chế độ xem bằng một lần chạm vào menu
+Tag: compatible_min::ios13.0, compatible_max::ios14.2
+Name: Fuji Việt Hoá
+Support: https://m.facebook.com/SUPPORT.BVN.VN
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupportjailbreak.sakuraviethoa
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 596
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./debs/com.bvnsupportjailbreak.deb
+Size: 261052
+MD5sum: 3e35ab1b2d25c445130d16ab2225f0b4
+SHA1: dfc750be5308ecdd427fbdba3d967426a71d96e1
+SHA256: 5423ab967ab2e49030a7794fc0a4ab5efcd6ff864c0aac6b0c0b200f39ed8e21
+SHA512: c0868252918a4fad73e5df24122b4ebb933f29ebf6de51618eb236d3c65e8ef0372d49cf58236317f0d6ebf541b91c6587c664d3aa4c2814732a97b9b6285784
+Description: Tinh chỉnh đa nhiệm cho ios13 & 14.
+   Khả năng tương thích:
+ • ios13 ~ ios14.x
+ • arm64 & arm64e
+  Tính Năng:
+ • Bạn có thể thực hiện đa nhiệm bằng cách chạm một lần.  
+ • Nhấn và giữ biểu tượng để mở ứng dụng như bình thường.  
+ • Nó hỗ trợ các ứng dụng ngang.  
+ • Nó hỗ trợ bàn phím
+Name: Sakura Việt Hoá
+Author: sugiuta <sugi.uta_1203@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupportjailbreak.icleanerproVietNam
+Architecture: iphoneos-arm
+Version: 7.10.0
+Section: Utilities
+Maintainer: REPO CYDIA BVN
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bvnsupportjailbreak.icleanerproVietNam_7.10.0_iphoneos-arm.deb
+Size: 2156020
+MD5sum: 7c078d0430fbc203cae984b1e0ba6df8
+SHA1: 9a9d9ddce06f8ed2fd0dfc76ae79c3ccff060765
+SHA256: 8ad4689e61853d80cb3179e88409e66f43708d24838d589c2eee22d6a113bb11
+SHA512: d698f3e97c7a7c9fd14bde2e6a17f23dda60681806839ce0bbee09e747f09639f121f68446edd8e7a68307ed5c6770648d3f23c5a1744ef9161891b72fe0bd84
+Description: Trình dọn dẹp và tối ưu hóa hệ thống iOS tốt nhất.
+Name: iCleaner Pro VH
+Author: Ivano Bilenchi
+Depiction: http://support-jailbreak.github.io/infodeb/iCleaner/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/iCleaner/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bvnsupportjailbreak.icleanerproVietNam
+Architecture: iphoneos-arm
+Version: 7.9.1-beta1
+Section: Utilities
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bvnsupportjailbreak.icleanerproVietNam_7.9.1-beta1_iphoneos-arm.deb
+Size: 6756880
+MD5sum: d681d37aea2173bbde00c0a580db9620
+SHA1: 2deff02a56df5146abc59b254de5d4d25d8fc5ca
+SHA256: 3b4fa19e9e1440d4c8d8115b3d1679f7e50d30cd4c8e89895b81f6d7c88b6ff5
+SHA512: 2ba508d7e14fa395aa751e3d074f9d10890358364f9927d0b53951449e756579e3cd26c581d6858b1633fcda8b4ab8c229226f28a347569e4d952a29f0f42fd2
+Homepage: http://bvnsupport-jailbreak.github.io/
+Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
+Name: iCleaner Pro VN
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupportjailbreak.icleanerproVietNam
+Architecture: iphoneos-arm
+Version: 7.9.1
+Section: Utilities
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bvnsupportjailbreak.icleanerproVietNam_7.9.1_iphoneos-arm.deb
+Size: 6756722
+MD5sum: 57f64930d9d31d14f96b4c991539eb51
+SHA1: ceec1c51595dbfc77d9e65447668051e44c8fe0b
+SHA256: 4859bec5205ff9ac45ab1db8bb41f2c79a305abe0ed61bfacfff056cff51aba0
+SHA512: 79f0fe83d9d58f071f1b2c08265f3985329816f25ae62fc084d64eda221b3982f5145af7d9d4d30870108c4af5dd642331f925c0372f1d1b60e77d552755fea7
+Homepage: http://bvnsupport-jailbreak.github.io/
+Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
+Name: iCleaner Pro VN
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnsupportjailbreak.icleanerproVietNam
+Architecture: iphoneos-arm
+Version: 7.9.2
+Section: Utilities
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bvnsupportjailbreak.icleanerproVietNam_7.9.2_iphoneos-arm.deb
+Size: 6756436
+MD5sum: 070231db33369125b31f003453269980
+SHA1: 3a23dfecdd6c0ccd8312610ed3adf59940b46ad8
+SHA256: 7a177c31fec58087f697bde683ffe1082408e49e63c19060ea3e58939d5894ea
+SHA512: 66a6abcdcf62968b341880fd54453eaa4751e7353d008c7b31c0c3bfe9274ce7da408ebbd9a99235efc1a60abbd191c6c0de3d16a4673e4e2fe3ba96e35df10b
+Homepage: http://bvnsupport-jailbreak.github.io/
+Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
+Name: iCleaner Pro VN
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bvnsupportjailbreak.runroot
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: Biện Văn Nhật
+Installed-Size: 132
+Filename: ./debs/com.bvnsupportjailbreak.runroot_0.0.2_iphoneos-arm.deb
+Size: 9450
+MD5sum: 7e9f912c6103584855e4a11c6af71c25
+SHA1: 8abe9736b320a3f51bef65054c817d8c169971c9
+SHA256: 9829ca89584b803c0ad4949c6b9ddba4592b1ce3e987df19b5bad589eb0477f2
+SHA512: f37089fc361b152ff8fa06d33113dcd292a8dab1775d2284c7d483e1c4faa6b125b125a3c91fb5f14c4f0e7b70956347215f1793979aa72072ba7a7650938a90
+Description: Chạy lệnh dưới quyền root
+Tag: role::hacker
+Name: runroot
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: udevs
+
+Package: com.bvsupportjailbreak.fastlsviethoa
+Architecture: iphoneos-arm
+Version: 2.6.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 476
+Depends: mobilesubstrate, ws.hbang.common (>= 1.15.1)
+Filename: ./debs/com.bvsupportjailbreak.fastlsviethoa_2.6.3_iphoneos-arm.deb
+Size: 106092
+MD5sum: a1f6eaf7532fcbd5292b41411a9f926b
+SHA1: a825d33409e6309eb512237a441305bded2fb2e3
+SHA256: 638fd6231a5ca7088840fe98a865649793b6076b5e29af6f4d6b799b1a53c9a0
+SHA512: 79c23da6471fa86ee742cdc81e269a35592e284c34833232e415bbd130169c445a5f8ff24d8480ca2002057a428fdb9d23606f90280d636257c707e622635d3a
+Description: Thiết bị khóa nhanh và tiết kiệm pin 🔋
+Name: Fast-LS Việt Hoá
+Author: Plat-Ykor <plat-ykor@libero.it>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.cokepokes.libnotifications
+Architecture: iphoneos-arm64
+Version: 0.3-6-1+debug
+Priority: optional
+Section: Development
+Maintainer: BVN Repo
+Installed-Size: 376
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
+Size: 31186
+MD5sum: 9c1d12ef47fd48759c9db42b276f55a2
+SHA1: 58e8fe1db33a25d3d68aefd285ce51700c674653
+SHA256: 940ccf7817dc9c386f68749c037374c4fca6fc562ce157857982ee55a26e03e2
+SHA512: c321e952c05e5682d057d5c7496a67f60e22bb41b0b1baa725a122e69810f3c1bd15d0d9e056690dfb36aa5e85a6ba970d410445cc1f66f57dac20df0d8a010f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: libnotifications (Rootless)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+dev: cokepokes
 
