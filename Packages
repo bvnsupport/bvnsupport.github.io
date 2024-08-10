@@ -18498,25 +18498,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/NoFreeAppLimit/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/NoFreeAppLimit/?p=info
 
-Package: org.mr.bigsurcenter
-Architecture: iphoneos-arm
-Version: 1.2.2R
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
-Filename: ./debs/org.mr.bigsurcenter_1.2.2R_iphoneos-arm.deb
-Size: 939640
-MD5sum: 24c8442abdb10b7b0bb72a4539ea69e0
-SHA1: 5d0daef0865f9b5b93a85726d2d6440418b5bfec
-SHA256: 0b0574e435da2454c2eac50d7fc7e5e572fd984878a18c30afaf81ebcaed1251
-SHA512: ec35b71427d8906402e907d5a3f782c808ba5e38a996bb8f947fc680eb09eb8e6abe82f9cd89ce4e0d6782a733bea9f199e5d4920d66793d9d3e3eae920e0413
-Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc định bằng một trung tâm điều khiển nhẹ và trang nhã mới lấy cảm hứng từ trung tâm điều khiển mới trong MacOS Big Sur.
-Name: BigSurCenter VH
-Author: nicho1asdev <nicholasmusumeci@icloud.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/BigSurCenter/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/BigSurCenter/?p=info
-
 Package: org.mr.icleanerprorl
 Architecture: iphoneos-arm64
 Version: 7.10.1
@@ -18903,6 +18884,26 @@ Author: Jordan Koch
 
 Package: vn.bvn.bigsurcenter
 Architecture: iphoneos-arm64
+Version: 1.4.4K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/vn.bvn.bigsurcenter_1.4.4K_iphoneos-arm64.deb
+Size: 878980
+MD5sum: 9c69863b6fa34b44037f6d4aacfd7711
+SHA1: 663b70bc4fc78e9a54cd232b19a82f52679c0e9e
+SHA256: 613b0b0520e4ee7200e87d373a2aa70f1367c2fdeaad2434e95c5c0636fba769
+SHA512: 88edd3fcb8f506723f203a1656866a175f6aeb51ac7bc04af3a87a73a8a434a5f654009e206d3b0cfa93c6db268c9f62c447e8ea18f3a9497fedeccc92f4b4f5
+Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc định bằng một trung tâm mới nhẹ và trang nhã lấy cảm hứng từ trung tâm điều khiển trong MacOS Big Sur
+Name: BigSurCenter VH(Rootless)
+Author: nicho1asdev
+Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.bvn.bigsurcenter
+Architecture: iphoneos-arm64
 Version: 1.4.4R
 Section: Tweaks
 Maintainer: Bvn Repo
@@ -18920,6 +18921,26 @@ Author: nicho1asdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.bvn.bigsurcenter
+Architecture: iphoneos-arm
+Version: 1.4.4k
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/vn.bvn.bigsurcenter_1.4.4k_iphoneos-arm.deb
+Size: 878968
+MD5sum: 3ac8b84b8c83001ef338bb7a711c9377
+SHA1: 5c7b12b3bc32265d70b262980f8481f496d82a0e
+SHA256: f9fe9850eddcb54286073478a90b787051c31862ec13ed84c4ca6104fcece0e8
+SHA512: cb969efa5f4a49cb677f55d6d2608d0ab75fca155726bbd85fc1552e5f1c480f77a02cf881ae25131fc1606c4d6e8ef20c80a2a9788b756bf7b45e6038d93781
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
+Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
+Name: BigSurCenter VH
+Author: nicho1asdev
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: vn.bvn.disupdateapp
 Architecture: iphoneos-arm64
