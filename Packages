@@ -15183,6 +15183,27 @@ Name: LatestTranslate (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 138450
+MD5sum: 20f4008b3243f1cb3776f028939b8c9f
+SHA1: 54eb65138635096e5a2b9781e7145a265eff34c6
+SHA256: 1f3dbec40e2b91f97a4a6529970caf7bc1dd37b589dbba0bf50a3d350001dd4a
+SHA512: 531c28be71c1de6a22896acb4de6e22a768d86467d4d9bc3e7ac6d9d018847014bf4f5fef8c0f05edfdb224481042bf33d1a213d217163b179b5043ecb2eee92
+Description: Tùy chỉnh trang cài đặt ios
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.simplus.rootless
 Architecture: iphoneos-arm64
 Version: 1.15-beta-6
