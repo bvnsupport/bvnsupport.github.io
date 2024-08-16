@@ -11140,43 +11140,43 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.jade
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.2
 Section: Tweaks
-Maintainer: BVN
-Installed-Size: 1237
+Maintainer: BVN Repo
+Installed-Size: 1520
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.jade_1.0_iphoneos-arm.deb
-Size: 390110
-MD5sum: bba6632f14d6f33190352f8d9a5171fd
-SHA1: cfdbc385b818c268b99daef05803093f1d90297d
-SHA256: 6586dddf7691edf344f48da054b10933f2b7cd5b6029b1bba78edf06c7917624
-SHA512: d75d1fdb4f36e02a8dd444adad1f047d379f970026c56fd46f551ce3498aaabac4fd202ac3ca1f8b8fa6b137e0cc092cec52bdcc49ea864d9b012f98de813ea4
-Description: Tuỳ chỉnh trung tâm điều khiển.
-Name: Jade VH
-Author: Nightwind and thetimeloop
+Filename: ./debs/com.bvn.jade_1.0.2_iphoneos-arm.deb
+Size: 438412
+MD5sum: 1b0f9a2ed001e99c721cd10e4458186f
+SHA1: cdc4d555afc26c4b0689701ed8d2c6dc6d8b6000
+SHA256: 7d4539224287f326a04844079b847153a14be07d8be409022f8b71930888b8ff
+SHA512: de1e27eb1a952ba3753512359bedafe03bb5ac71d5b736217988158d36075b62680db369159dfa2661d0c98684ab96ca792b0d81c59c42171112d5dd90f54905
+Description: Your control center, brought anew.
 Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Jade VH
+Author: Nightwind and thetimeloop
 
 Package: com.bvn.jade
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0.2
 Section: Tweaks
-Maintainer: BVN
-Installed-Size: 1245
+Maintainer: BVN Repo
+Installed-Size: 1520
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.jade_1.0_iphoneos-arm64.deb
-Size: 390364
-MD5sum: fab95ae6b9f2677438b821b9fa987458
-SHA1: 24eecf7d8a60d7f0b4b77c9e33f4758c8b880997
-SHA256: d3f496cbc2246579a9ff7546297a88bfdb8fca9ae7009b1d0fa9b96c28ad9895
-SHA512: bd8af350c23fbc169c70a292c52d19df99725390e935c5aa711b3824e6a16cd73cad6d1bb82c54b9bc4ff66f3ff40581081e64087438adba2baae769fb5d7134
-Description: Tuỳ chỉnh trung tâm điều khiển.
-Name: Jade VH(Rootless)
-Author: Nightwind and thetimeloop
+Filename: ./debs/com.bvn.jade_1.0.2_iphoneos-arm64.deb
+Size: 440722
+MD5sum: 4981199e1fc7e1aff558e77f00b9a0af
+SHA1: 719026e3723f27961666515625925edf98aa4d4f
+SHA256: 24d7657c94afc5c17957074366b04dc5508f0e9ae6fde1c9823ca42d14b68e69
+SHA512: d744234f346395fb6e529f5ca37507047f4f13de678f41e1653eb151014eb1e2ae6341c145c573cefbf7d551e1b97b2d6906486f0665787e34dd0cd729904115
+Description: Your control center, brought anew.
 Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Jade VH (Rootless)
+Author: Nightwind and thetimeloop
 
 Package: com.bvn.kayoko
 Architecture: iphoneos-arm64
