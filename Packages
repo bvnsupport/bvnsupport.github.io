@@ -15375,17 +15375,37 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Velvet.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.vneidbypassjb
+Architecture: iphoneos-arm
+Version: 2.1.9
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=10.0)
+Filename: ./debs/com.repobvn.vneidbypassjb_2.1.9_iphoneos-arm.deb
+Size: 23381678
+MD5sum: 575671dff1c96ecf0c1a005cc24e8fed
+SHA1: 64d85c4d39bdb09ecdceca1dbdf6037a4298fc73
+SHA256: 6af920056a642c5c0dbac2911dfe1d80ddea45bcdce6f683c38fb328e370f3b5
+SHA512: c3cf334216b75107459896bb8ded530cfd8a7e5d31de52f081b19a703f7499d04737d43beef912b49987e7815d84479c6f414e1161a706d944aba75c0c8c52f4
+Description: Chặn Jailbreak Ứng dụng VNeID
+Name: Hidejb VNeID
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios10.0
+Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
+
+Package: com.repobvn.vneidbypassjb
 Architecture: iphoneos-arm64
-Version: 2.1.5
+Version: 2.1.9
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=15.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.5_iphoneos-arm64.deb
-Size: 23284444
-MD5sum: b4f61a42551134a6f4ccb94f21b83303
-SHA1: 2436452eaa0ea0c97f4246a15e721a3adab57bc6
-SHA256: 7ddbf2c0f0880395adfe53b0b0968656d48d5dec8fbeb1b11035cd010df40c01
-SHA512: 5db04205ee7ccec2482b3899daf7862c251b6e7a1d6eed7119207b8698376fe2b867877becc78d6a2fd7d79b0fc11619315b52873f6b09ed691d74c3a272001c
+Filename: ./debs/com.repobvn.vneidbypassjb_2.1.9_iphoneos-arm64.deb
+Size: 23284406
+MD5sum: 19c7db2e62f40f281d8f475b87422d98
+SHA1: e9341643f2961239ef903c566b3354df78ab40c5
+SHA256: 2129cde603406de2b6b59b4ee2347d68ac7b4b115e9c418b6fb60601b407f7c3
+SHA512: 3734dcaad7b537b15da6bdbb1ce019baa678699c4712970a3bf84b71b60e43ae1007642f10a08a20260c9c2b0633f3de9a353f9aecc469214b24dc8ae8bafa25
 Description: Chặn Jailbreak Ứng dụng VNeID
 Name: Hidejb VNeID
 Author: Biện Văn Nhật
