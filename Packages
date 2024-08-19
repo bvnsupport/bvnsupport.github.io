@@ -9629,6 +9629,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS-16-VN-p0s3id0n.j
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: p0s3id0n
 
+Package: com.bvn.LS16-Comforta
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS16-Comforta_1.0_iphoneos-arm64.deb
+Size: 13068
+MD5sum: 0c67207c4e64f18f5822a34d9dfed3f5
+SHA1: 5ac36e0f1134384965a6aa2a75dae98e31d84a03
+SHA256: 48eacbc94c267aff2d15cd4e1f9e01e12ef537b74fe90b0c8e19c24e832d9a2e
+SHA512: c8ad538e0399f046fe66bbe56cb908f4099566090f0074cc628be1c2d18369c981636e1fd8d5d790e75376bce2438d7e4354308eb2a0dc864b1f85f7a65422da
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS16-Comforta
+Depiction: http://bvnsupport.github.io/infodeb/Html/LS16-Comforta.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS16-Comforta.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Phuc Do
+
 Package: com.bvn.LS16-Kringle
 Architecture: iphoneos-arm64
 Version: 1.0
