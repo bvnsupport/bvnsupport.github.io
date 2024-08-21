@@ -12732,6 +12732,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm
+Version: 5.0b4
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 16028
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_5.0b4_iphoneos-arm.deb
+Size: 8003218
+MD5sum: 845d2b8d9e7e305b25586cdedea9f124
+SHA1: 2f541756e2a46987772af5b850d7893771cbe23a
+SHA256: 8ddb64808b6c8f288246d853dba94084a72717ed384281b01c93209e88849627
+SHA512: 442e0c3cfb608949cc09fc141daed6cf7ec0d42fdcb23ec53c2064f5ff5d842fec00063c2f96c23faf3631105ed6205a9c05267d07af6959252b9b5aadd0881c
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0b4
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_5.0b4_iphoneos-arm64.deb
+Size: 8003504
+MD5sum: c57ba625b7fbb47322c38aba4bbb403c
+SHA1: 9ef837dcc271d94ea5ebb6645a5a67076f3af2c7
+SHA256: 7564616a087778586ed760b564fbc44894aa2d972895f3594e53036ec705a4ef
+SHA512: 1afb1e37661209315696bbc4bb618ffb3f81fc6a5ad25885d734c3d109d1006b92af63f66509a5bacdd984d02269081f0e8b954b13d62e821eb03fcd798148c0
+Description: Bổ sung các tính năng hưu ích cho Youtube
+Name: YTLite VH(Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvnrepo.Coolwcat
 Architecture: iphoneos-arm
 Version: 1.7
@@ -15277,15 +15317,15 @@ Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 3268
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.repobvn.snowboard-rootless_1.6.4-Beta6-rootless_iphoneos-arm64.deb
-Size: 1428338
-MD5sum: 1979e3652ed1966874b4bba020b8972e
-SHA1: ddc78ea0d9d49b985d5a3557bda934ea067252bb
-SHA256: 24e1ca8de753dd5ae62c6a510abc4283b78b533ecaf039a4b4f8501274cf1098
-SHA512: adc25690ad5abf12595bcd5ebdac5c7aee18b752ac002c52b16767710f2071b167dce399be95f850c47aa79845c3b54e4f496909f2e11d15acefb086e8d91a25
+Size: 1428266
+MD5sum: 03c001467cdd36c068767fa893c321fa
+SHA1: 5d99242b4bbca7469693c6d7eb0627a6ae735718
+SHA256: 3bedfa0eb19db8869a2796698ebf109bb64e5db1db9b981ff1cacf036e5faa04
+SHA512: 3ceaf6446f5c6b433084e58ddf9997167390cf719a3ecc3a829bdb9667d62dd0ee9990cb593dc29337fb99e8da3bd4e54d9a3a518e1cbcb010bc354caacd83f6
 Description: Snowboard theming engine
 Name: SnowBoard VH(Rootless)
 Depiction: https://bvnsupport.github.io/depictions/SnowBoard.html
