@@ -1440,43 +1440,23 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/AudioRecorder/?p=info
 
 Package: com.BIENVANNHAT.autotouch
 Architecture: iphoneos-arm
-Version: 10.3
+Version: 10.4
 Priority: optional
-Section: Tweaks
+Section: Utilities
 Maintainer: Biện Văn Nhật
-Installed-Size: 107052
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9), com.BIENVANNHAT.libat
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, net.kenhtao.autotouch, net.kenhtao.autotouch.inputtext
-Filename: ./debs/com.BIENVANNHAT.autotouch_10.3_iphoneos-arm.deb
-Size: 47834562
-MD5sum: 0e488cd69d97fa32bc35554fa5b908ce
-SHA1: d8e8a1b573c03422ef7cc3031517996441852b18
-SHA256: 6a83c301daa48279aa3f2a4f3ab22f299b9c2aaca7696e855c914da7a42df6f5
-SHA512: 4305704346b6207fafdbe17973768f867f1bb15d1b4973336c571a14ac0fd0bf289e9f100c2422c1c3b8121c7b4a5666296f219d162741f77d0b7296e8150d26
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/com.BIENVANNHAT.autotouch_10.4_iphoneos-arm.deb
+Size: 44510330
+MD5sum: 1cdd2619efe30ca200edff19dab43be1
+SHA1: fb07bac759133a49631c473f346b94971aef8c03
+SHA256: 668e8bc721464aa921b3f1d9642686ac55d7577f8466d7f25d8cfc47e20ce72a
+SHA512: dca6744bc0f585748f41c38059a66dcd6a1697096d8fd21f6c05c9887cc1232ae0b74d98d96c1eab18df2e8cb2c926c9b0811c22451f959795f28a6243027024
 Description: AutoClick cho iOS.Sau khi cài đặt, bạn cần mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép và nhấn vào tải xuống giấy phép đế kích hoạt AutoTouch. Ghi lại, phát lại, mô phỏng chạm/nhấn trên mọi nơi của thiết bị, chạy tập lệnh Lua. Phiên bản hiện tại được hỗ trợ cho iOS 9 - 14
 Name: AutoTouch VH
 Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.autotouch
-Architecture: iphoneos-arm
-Version: 7.8.9
-Priority: optional
-Section: Hack Game
-Maintainer: Biện Văn Nhật
-Installed-Size: 2600
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debs/com.BIENVANNHAT.autotouch_7.8.9_iphoneos-arm.deb
-Size: 47057820
-MD5sum: fea5aeebc2f30c2b91ef7444cb9066cc
-SHA1: 88d11197dbdcc0451fbf2e0c5558d6c934b2cc37
-SHA256: 2d14aea5e3dd3a6376ef577b7f3804dfb3227f2cbad4f7400b4d7a0d36a04390
-SHA512: 82e4570b8e4c708422838aad91eaab4ad54f65cb866b2de7956f256a724598579e9414af8949e32fec1864ce258a3da77b50c30452b966a2ca9f74ab376b32f9
-Description: Autoclicker dành cho iOS hỗ trợ từ ios 8 tới 14.9
-Name: AutoTouch VH
-Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 
 Package: com.BIENVANNHAT.autotouchunlock
 Architecture: iphoneos-arm
@@ -10333,17 +10313,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm64
 Version: 1.1.8
-Section: Tweakd
+Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane, com.bvn.sugarcane
 Filename: ./debs/com.bvn.ccborder_1.1.8_iphoneos-arm64.deb
-Size: 53390
-MD5sum: cdcab872e52c9e2f20e97ebb4db5fdc9
-SHA1: 26d87bf024c911d2ad87dc88b7cfd86a38ef059c
-SHA256: fb025dd5d4b00eb96101c1b03b4da2a4c38eb5560a06862042dec62113e576c9
-SHA512: 43fdf70c5a7b7cc3b7f4008dc0139a51111a87ca22c3e9af81eff2c4570f32e266e08251633e17170df05ca29d967e4e6bd3d1616f47efbd51c7c58293313cc4
+Size: 53394
+MD5sum: 6bf52a96d795bad981258f6711405d42
+SHA1: 9547c4c319dd9b816bbb6546a8b90da404a8b342
+SHA256: f33082effcca5a73d13f4634966f1d594322db24a728f901b3d9685c74a26f9a
+SHA512: ce08e0f4af4b36c3e22e2507bf112dcc089ef13e6dd272e1425b3f3f0217178683829d9e2fc9e595317e06daece03e25ec9685732327b15b3a7ea3f3900d606e
 Description: Trung tâm điều khiển kiểu iOS18 có thể điều chỉnh và điều khiển hình dạng mô-đun 。
 Name: CCBorder16 VH(Rootless)
 Author: fiore & p2kdev & 妖刀
@@ -12690,6 +12670,46 @@ Name: XingTu Vip (Rootless)
 Author: Geku
 Depiction: http://bvnsupport.github.io/infodeb/Html/XingTu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/XingTu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm
+Version: 5.0b4
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 16028
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_5.0b4_iphoneos-arm.deb
+Size: 8003218
+MD5sum: 845d2b8d9e7e305b25586cdedea9f124
+SHA1: 2f541756e2a46987772af5b850d7893771cbe23a
+SHA256: 8ddb64808b6c8f288246d853dba94084a72717ed384281b01c93209e88849627
+SHA512: 442e0c3cfb608949cc09fc141daed6cf7ec0d42fdcb23ec53c2064f5ff5d842fec00063c2f96c23faf3631105ed6205a9c05267d07af6959252b9b5aadd0881c
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0b4
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_5.0b4_iphoneos-arm64.deb
+Size: 8003504
+MD5sum: c57ba625b7fbb47322c38aba4bbb403c
+SHA1: 9ef837dcc271d94ea5ebb6645a5a67076f3af2c7
+SHA256: 7564616a087778586ed760b564fbc44894aa2d972895f3594e53036ec705a4ef
+SHA512: 1afb1e37661209315696bbc4bb618ffb3f81fc6a5ad25885d734c3d109d1006b92af63f66509a5bacdd984d02269081f0e8b954b13d62e821eb03fcd798148c0
+Description: Bổ sung các tính năng hưu ích cho Youtube
+Name: YTLite VH(Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytlite
