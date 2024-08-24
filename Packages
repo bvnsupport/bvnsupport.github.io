@@ -3115,26 +3115,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.en
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.enchant
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.eneko
-Architecture: iphoneos-arm
-Version: 1.3R
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 680
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.BIENVANNHAT.eneko_1.3R_iphoneos-arm.deb
-Size: 289120
-MD5sum: 6a4c451a69462930402ab59182c286e0
-SHA1: 5dbddb04b0ad67eee5b3a9ca5dfd0fe4a44300bf
-SHA256: 7084dd4f8d8f46fd3b44010230e86fa3dda565fe013f59d2b6d82a1f800e4c58
-SHA512: 379987c365207a0185a58887f4b65bdb3b7afacf837abff1bce5ee7b4000028fbc71a1f36c47bd15262b1244a412781e80ed27f04360d47fcf0d1b5b9f1465b1
-Description: Đặt video làm hình nền của bạn
-Name: Chọn Video làm hình nền
-Author: Litten
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/eneko/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/eneko/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.eqe
 Architecture: iphoneos-arm
 Version: 2.2
@@ -7742,27 +7722,6 @@ Author: opa334
 
 Package: com.REPOBVN.enekoalt
 Architecture: iphoneos-arm64
-Version: 1.2-rootless
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 464
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3), com.bienvannhat.iconreporootless
-Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
-Filename: ./debs/com.REPOBVN.enekoalt_1.2-rootless_iphoneos-arm64.deb
-Size: 64022
-MD5sum: f1b3ffdc0c5b166d9c16268bf75f2649
-SHA1: 6957fa96b4854fa9f913ed923eb5ef733e90e071
-SHA256: bce16493d98738c46e241b66ec4a1a9544bbf4fd977e822275a3396cd7361e92
-SHA512: f4a565abbdb502e11cdad755e367b2593197499f4a61a8d37763fab86e69c496b6a5855d3095aad0fbc7a0565865ba89431f138ce609f30364e77f8d6b08f4c5
-Description: Hình nền video cho iOS. Tinh chỉnh ban đầu đã được sửa đổi để hỗ trợ rootless.
-Name: Eneko VH(Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/Eneko/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Eneko.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Traurige <hello@traurige.dev>
-
-Package: com.REPOBVN.enekoalt
-Architecture: iphoneos-arm64
 Version: 1.4.2
 Section: Tweaks
 Maintainer: Repo BVN
@@ -7783,24 +7742,24 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Traurige <hello@traurige.dev>
 
 Package: com.REPOBVN.enekoalt
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Version: 1.4
 Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 464
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
-Filename: ./debs/com.REPOBVN.enekoalt_1.4_iphoneos-arm64.deb
-Size: 49268
-MD5sum: 47dfaef129a9933d741b7edfe8486b70
-SHA1: 559846344b5acf650c37db3916ae451a0fe83109
-SHA256: a115bf0958508e119d1bbda685872765bcda8fb56e9eb1053f6678a63202a222
-SHA512: 358a01ed7b2192cf40df60a76d2e0f96f2d5342aab58e49263894e7ae5f9fcc09384bb01849d0430cca80c196b9254775bf3911f39fb78a461aaeafc2c029847
-Description: Hình nền video cho iOS. Tinh chỉnh ban đầu đã được sửa đổi để hỗ trợ rootless.
-Name: Eneko VH(Rootless)
+Maintainer: BVN Repo
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/com.REPOBVN.enekoalt_1.4_iphoneos-arm.deb
+Size: 52028
+MD5sum: eabed8e0a55792c6319f3a333b13a490
+SHA1: 22957835d07f5c43e4735146fd5937ab3cb76da7
+SHA256: a47c8eabd5a317f251995f0a9963e6eb55e7e2bb41256e949f6c69eecd984ffc
+SHA512: 1e0942c8b55004506b22dc2d2a44636a0bec227d2a78f618391556c1877b5deea6e0ce4c7ba7cfa6e574a1198d02af881b03001738bacec3b64d0abf80017b6b
+Description: Live wallpapers for iOS
+Name: Eneko VH
 Depiction: http://bvnsupport.github.io/infodeb/Eneko/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Eneko.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Traurige <hello@traurige.dev>
 
 Package: com.REPOBVN.killapps
@@ -19320,27 +19279,6 @@ Author: Litten,BvN
 Depiction: http://bvnsupport.github.io/infodeb/Html/AmongLock.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AmongLock.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: vn.bvnrepo.batterybuddy
-Architecture: iphoneos-arm64
-Version: 1.3.4
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 432
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: love.litten.batterybuddy
-Filename: ./debs/vn.bvnrepo.batterybuddy_1.3.4_iphoneos-arm64.deb
-Size: 57630
-MD5sum: 3b58da076d0ed902aa047849d844cd82
-SHA1: 57772e80cc840178324cc54e0af90950c071efb9
-SHA256: 85db93d3b7ee50227e7de83e0fce963badb83649069404f2a7d63858e19ea7dd
-SHA512: bfee610b40a7cd1a7865c7931d3f7a5243885c7104fcba5fca42c4f9725f854b4c29f2399047e9a03e3d54bb7a901d66eabcb881d4bc061a4bc02f99597800bb
-Description: Chỉ báo pin, nhìn dễ thương
-Depiction: http://bvnsupport.github.io/infodeb/Html/Buddy.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Buddy.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: BatteryBuddy VH(Rootless)
-Author: Traurige & neilsardesai <hello@traurige.dev>
 
 Package: vn.bvnrepo.batterybuddy
 Architecture: iphoneos-arm
