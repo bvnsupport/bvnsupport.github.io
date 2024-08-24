@@ -19342,6 +19342,48 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: BatteryBuddy VH(Rootless)
 Author: Traurige & neilsardesai <hello@traurige.dev>
 
+Package: vn.bvnrepo.batterybuddy
+Architecture: iphoneos-arm
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debs/vn.bvnrepo.batterybuddy_1.3.5_iphoneos-arm.deb
+Size: 61218
+MD5sum: 9e92eaa4ff8facecd34567d2ca51ba77
+SHA1: 2ecf62d847f302b0f764de92aecfd0fb6bcdaae0
+SHA256: e5ddd902f78014b37bdfaea1b5740cdb29d666b9903ec8f06d80e1220260a6d2
+SHA512: 1d48b66d499733012da98fd2ac055da39a27a605c365d1acb307016ea27b7c2727b0f5fd6f5bc87ecef53bf0d272333e3f0e3cc87b265cfd6a0b96baccaf8210
+Description: Chỉ báo pin, nhìn dễ thương
+Depiction: http://bvnsupport.github.io/infodeb/Html/Buddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Buddy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: BatteryBuddy VH
+Author: Traurige & neilsardesai <hello@traurige.dev>
+
+Package: vn.bvnrepo.batterybuddy
+Architecture: iphoneos-arm64
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debs/vn.bvnrepo.batterybuddy_1.3.5_iphoneos-arm64.deb
+Size: 57818
+MD5sum: 150504b1aed24dc4e2e21221e72bdb15
+SHA1: 608b9e0a77ee4e1c8aec96924dc9396630399673
+SHA256: 786899c8c7dbb54fa1b2b2e2620be80b079cabd68e3af44bc79c1700f941a2f9
+SHA512: 9163c5114d15ad286cec622d8a5f3ad700bae732fdef1dfaa0b0aa19047d70fc9ac461731170ef19d3ad05b2c85bde7b64edc6db6824a70a80f8e8d2f9dc637c
+Description: Chỉ báo pin, nhìn dễ thương
+Depiction: http://bvnsupport.github.io/infodeb/Html/Buddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Buddy.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: BatteryBuddy VH(Rootless)
+Author: Traurige & neilsardesai <hello@traurige.dev>
+
 Package: vn.bvnrepo.clockfonts
 Architecture: iphoneos-arm64
 Version: 1.3
