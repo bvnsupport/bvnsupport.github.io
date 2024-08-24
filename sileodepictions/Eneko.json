@@ -54,16 +54,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/1/2024"
+"text":"24/8/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.6.1"
+"text":"iOS 15.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2024 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.4\n\nHỗ trợ thêm Roothide"
+"markdown":"#### Phiên bản 1.4.2\n\nHỗ trợ thêm Carplay"
 },
 {
 "class":"DepictionLabelView",

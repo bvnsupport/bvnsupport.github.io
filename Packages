@@ -7763,6 +7763,27 @@ Author: Traurige <hello@traurige.dev>
 
 Package: com.REPOBVN.enekoalt
 Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
+Filename: ./debs/com.REPOBVN.enekoalt_1.4.2_iphoneos-arm64.deb
+Size: 49564
+MD5sum: 68b5ee7f5faea5972e624bb3830bb36d
+SHA1: e8b29b14b179c484db8eac9ec1a32eeaa40854e1
+SHA256: 27788337abfd11a24fe0d6a11f39ffe5f8f2f86def96a14f0c9c3db824a4ab55
+SHA512: 863eef9c5275b36629aafbca21c44370bb775509a0cc168f54971365e3f5f348bd0827bcfdd3d1a12efa6150025c91e078675577a31ffc2de6ed1ced4295fb7e
+Description: Hình nền video cho iOS. Tinh chỉnh ban đầu đã được sửa đổi để hỗ trợ rootless.
+Name: Eneko VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Eneko/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Eneko.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Traurige <hello@traurige.dev>
+
+Package: com.REPOBVN.enekoalt
+Architecture: iphoneos-arm64
 Version: 1.4
 Section: Tweaks
 Maintainer: Repo BVN
