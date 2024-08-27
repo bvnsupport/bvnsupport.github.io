@@ -14043,6 +14043,26 @@ Name: Phoenix (Rootless)
 Author: Nebbs
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
+Package: com.johnzaro.networkspeed13
+Architecture: iphoneos-arm64
+Version: 3.0.8k
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 880
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 12)
+Filename: ./debs/com.johnzaro.networkspeed13_3.0.8k_iphoneos-arm64.deb
+Size: 502946
+MD5sum: 0d1770b146149f043adc4ce30af0b4ac
+SHA1: 439f33a0c67711d2854ceaa6bb34d6150426f0c1
+SHA256: bdd561ee6bf62d8d3bb3da8846f0d4dff9ea62a7110421512fc30364a8c3ed9a
+SHA512: 9d90ec663c642f9f964d97c81283b787a31635dfa0b407bfe1a7f684e5336014251212bcb5c021630f042e77e3f6b44bc31de407c8e61cdb3d240f77f9be1bc6
+Description: Hiển thị tốc độ mạng
+Name: NetworkSpeed VH(Rootless)
+Author: Johnzaro & lclrc
+Depiction: http://bvnsupport.github.io/infodeb/Html/NetworkSpeed.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NetworkSpeed.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b
