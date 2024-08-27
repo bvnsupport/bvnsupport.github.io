@@ -14049,13 +14049,13 @@ Version: 3.0.8k
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, oldabi, ws.hbang.alderis, firmware (>= 12)
 Filename: ./debs/com.johnzaro.networkspeed13_3.0.8k_iphoneos-arm64.deb
-Size: 502946
-MD5sum: 0d1770b146149f043adc4ce30af0b4ac
-SHA1: 439f33a0c67711d2854ceaa6bb34d6150426f0c1
-SHA256: bdd561ee6bf62d8d3bb3da8846f0d4dff9ea62a7110421512fc30364a8c3ed9a
-SHA512: 9d90ec663c642f9f964d97c81283b787a31635dfa0b407bfe1a7f684e5336014251212bcb5c021630f042e77e3f6b44bc31de407c8e61cdb3d240f77f9be1bc6
+Size: 502966
+MD5sum: c9594a75b1ef259c392ff3e98872287e
+SHA1: cd3ee5d89237a2a21d52ed64efa66f2f106669b8
+SHA256: 2cd9cc0bcfaf1fd15ce9813bdd8e5bc540fe4e622bdd24b9275bc623707b23cd
+SHA512: 8eaf5ad94859b85b153e180cf7fe46d3fafc9b1c7cb6277ce7986c48707dc72d0e874c40ee80bd42c2cd6a4e19166f5a8146dfb46adb3c93046abb58616bdce6
 Description: Hiển thị tốc độ mạng
 Name: NetworkSpeed VH(Rootless)
 Author: Johnzaro & lclrc
