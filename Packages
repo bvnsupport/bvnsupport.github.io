@@ -7301,17 +7301,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.ytx
 Architecture: iphoneos-arm
-Version: 1.7.2
+Version: 1.7.3
 Section: Tweaks
-Maintainer: Bvn Repo
+Maintainer: PoomSmart
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.BIENVANNHAT.ytx_1.7.2_iphoneos-arm.deb
-Size: 5298
-MD5sum: 6c632495009fc6b6f2b3f0d4c85d4406
-SHA1: a39ec8ec2375d2f6119e3ef395f505e66ab6d3b1
-SHA256: ff5c58404360871dbd88ec61aaab91ea8dfd0ba985d433a9e4f6cf8371215d78
-SHA512: 6209868196660dc656f4013f8b4cc7697cdc177bd24a2e23997891e1716295f8fde16664494edb7d1def999865cc08b87daad9924d355d7c5a7e95f718e350fa
+Filename: ./debs/com.BIENVANNHAT.ytx_1.7.3_iphoneos-arm.deb
+Size: 5308
+MD5sum: 4cf9c89e941e6ee387571d4135b1eabb
+SHA1: 97098f77492060b83503aa982f0849b3b3913cf0
+SHA256: 3f36b1371caaa1993a4e5ae93d1dc935e5e8cd1e2fdb8022547bf63225e1adf0
+SHA512: d809a3fa1ea5bbdfce1d1abecc9dff26b3c0fedac95940e9d5a7c7f123b7e53b866d352c700dc58027dc9615f347d38763ae0e02ff24d8ddec38da1fcb872cbd
 Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
 Name: YouTube X VH
 Author: PoomSmart
@@ -14582,40 +14582,44 @@ Author: PoomSmart
 
 Package: com.ps.ytabgoodies
 Architecture: iphoneos-arm
-Version: 1.0.4
+Version: 1.0.5
 Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 72
+Maintainer: PoomSmart
+Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Conflicts: com.ps.youremembercaption, com.ps.ytnochecklocalnetwork, com.ps.ytsystemappearance, com.ps.youarethere
-Filename: ./debs/com.ps.ytabgoodies_1.0.4_iphoneos-arm.deb
-Size: 3258
-MD5sum: 2a935dc1cca85fa3dab6de4c6d9696d9
-SHA1: e22fbda44f1d9843a29ba1d43f547f52eb19bc82
-SHA256: 931cbe212bf21b94bc4a14bb4f0e8a0134dcd2ab37df0284442fbcfbeca295ef
-SHA512: 29d257bd67577f81b2d90dee8050034f486bfdd75e1d6e838c33c5a764884f196bd0cf205a9262eb4ca78873ff5ba66ebd910650c264151def2bfbbb7107d594
+Conflicts: com.ps.youremembercaption, com.ps.ytsystemappearance, com.ps.youarethere
+Filename: ./debs/com.ps.ytabgoodies_1.0.5_iphoneos-arm.deb
+Size: 3024
+MD5sum: f1ee75b1274d20fae061a3d98f986fbb
+SHA1: 565cd7ccb2ac17600a813ad676b7558ba2e4f8b1
+SHA256: fec4a9ae7353756f4eb1c12e965275228cf36f8aa5c49845b264fb09bab58fad
+SHA512: a18eeb0ce1ca8f935bfe49ab6d3a944fcea1c856c9844560ee30fa8273366e038109a57f382a4d723fee24362f7fea293be06a517df7b68ea7fd74cfc6c89266
 Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
 Name: YTABGoodies
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.ps.ytabgoodies
 Architecture: iphoneos-arm64
-Version: 1.0.4
+Version: 1.0.5
 Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 72
+Maintainer: PoomSmart
+Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Conflicts: com.ps.youremembercaption, com.ps.ytnochecklocalnetwork, com.ps.ytsystemappearance, com.ps.youarethere
-Filename: ./debs/com.ps.ytabgoodies_1.0.4_iphoneos-arm64.deb
-Size: 3312
-MD5sum: bca831ea71cd7c7cba0f0ed1a97f69c1
-SHA1: 5be9ce9bd32daa8e4536ba55124692e2d12ef2e3
-SHA256: 4f66b8b32c971b152f900b6b90a33c5e04f0aa70a49133b61a80915a4d001c19
-SHA512: 3eb9acfabe9642657e0d0d611b7a9525618f09b0fda042ecaa96ca32d062c26d0ba1bd13f70ff4d8c8e93c2ce6b7cdff30d8e99972d1d401e67d00b6fe95ed96
+Conflicts: com.ps.youremembercaption, com.ps.ytsystemappearance, com.ps.youarethere
+Filename: ./debs/com.ps.ytabgoodies_1.0.5_iphoneos-arm64.deb
+Size: 3122
+MD5sum: aa1fdc7968bd72a9f9151179b9227a3e
+SHA1: 04f179a1957c13e9c2736a522e99ac1c423778ba
+SHA256: 703cc1d0a361b33d5cde88d194a68e1036931b962e4a15742ce1f2dd67d717c0
+SHA512: 983b2146c8f0c860a2a6891bd088b17852acb14e89e8a9d740404235662c5c6dfafe14a8fdfe7ad50a1cb5173382f0159221fa230f85e9a2ea85a0b9baf8c08f
 Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
-Name: YTABGoodies (Rootless)
+Name: YTABGoodies
 Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reobvn.choicy
@@ -15406,17 +15410,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.ytx
 Architecture: iphoneos-arm64
-Version: 1.7.2
+Version: 1.7.3
 Section: Tweaks
-Maintainer: BVN
+Maintainer: PoomSmart
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.7.2_iphoneos-arm64.deb
-Size: 5388
-MD5sum: cd42e1218431c40130c4792dffd6fc30
-SHA1: 8f956a3f2b9b9950e45540ddaa93f02caf2d9896
-SHA256: aa327823820f59e57ffe1e7595257fb5309d58148e23b36ccfb7309d5eabadef
-SHA512: 4ba0f3b7370f5f9d3ad20db6c4025c31ebfe0c3b5400e2176adcd6dc50a04902970dcc9b01fd08f67ac5e3c63184ee846cfea08f06af5f08b7c7d4e4588b2bff
+Filename: ./debs/com.repobvn.ytx_1.7.3_iphoneos-arm64.deb
+Size: 5402
+MD5sum: d51dc6e07b71d23a4f87daf6db362598
+SHA1: b70a3c42ff43daa7e732b2119ea8618fc99502d0
+SHA256: a6f42c239eefc38f087c99ae5e5983acc3ff99910dc7461970ed691d81d6b217
+SHA512: 83bc5df0179caed71fdb423e8e05dc72dfe72e7ad8a45feddc3aab7638c4991739de896ff53fe5741d84d80db08efd156fe4868cb705c07e71ad990acf60f13b
 Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
 Name: YouTube X (Rootless)
 Author: PoomSmart
