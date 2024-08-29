@@ -11608,6 +11608,48 @@ Name: OneSettings (Gói TV)
 Author: BVN
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.passtext
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hitori.passtext
+Filename: ./debs/com.bvn.passtext_1.0.1_iphoneos-arm.deb
+Size: 144044
+MD5sum: c1dba3a97af55aeaa14e347a48ae49fb
+SHA1: 4b6714ee0d46e194506cf819f0a7f9a22d5ca76d
+SHA256: 8e457b760699d40f84b43f70a9c59efc71867a3d3129375f37b6de3bf26c2880
+SHA512: 90f24bbcc29862fe3388d84fbbe7ca51f29947530f71fa21051a0a1e2f5b78080cf5745ee40352b254863559c7148c8f1ee6c9565ede9bc652a218b95508aa15
+Description: Biến số mật mã của bạn thành từ có phong cách
+Author: Hitori <mikasa-san@outlook.jp>
+Name: PassText VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/PassText.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PassText.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.passtext
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hitori.passtext
+Filename: ./debs/com.bvn.passtext_1.0.1_iphoneos-arm64.deb
+Size: 143904
+MD5sum: 48e4a2695a517cd74774344b5713777c
+SHA1: b957f438f46513b26a370fa79756d7991bee2b8f
+SHA256: c8bb246a8456e522929b84cedf5a937e9fee2983ff39e66425e870bf9adee675
+SHA512: 370f54bf5abd154f3cda6caf041321c76bbf96bc99ee2390affd492f50c5d10b77454ae22a6131d46f46b29b43814260822d0d05c851e226e1e4fc35c8cc07a0
+Description: Turn Your Passcode Numbers into Words with Style
+Author: Hitori <mikasa-san@outlook.jp>
+Name: PassText VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PassText.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PassText.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.phutro
 Architecture: iphoneos-arm64
 Version: 2.5
