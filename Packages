@@ -10923,6 +10923,90 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
 
+Package: com.bvn.fonts.meloso100-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: firmware (>=14.0)
+Filename: ./debs/com.bvn.fonts.meloso100-rootless_1.0_iphoneos-arm64.deb
+Size: 30664218
+MD5sum: 97e8d005574312dd9ccaf1516ca6f8b0
+SHA1: 789d088995c1c047bbec37a64619666514c5b89d
+SHA256: 82bc78d8d65eadfac0cb0369cc0bd6528519d6ab1508ff54926ab3ca5c674ba1
+SHA512: 9bb6a47e5f75f16d3a33ce512e272133e63bca4f1c526b86e8a5366ecde3be2bc94c3bc373bbd7c41f0aa93dc29838456dd25d90ce548f03b87c77af69c3d1e5
+Homepage: https://alo.works/
+Description: Meloso là một phông chữ mang lại cảm giác vui tươi và tự nhiên, có nét vẽ tay quyến rũ riêng. Tỷ lệ 100%. Dành cho iOS 14-16
+Name: Meloso 100% (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meloso.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meloso.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Alexman <bbscydia@gmail.com>
+
+Package: com.bvn.fonts.meloso85-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: firmware (>=14.0)
+Filename: ./debs/com.bvn.fonts.meloso85-rootless_1.0_iphoneos-arm64.deb
+Size: 33131266
+MD5sum: fdf0c4f4a4f0f29df248978bc917f5b4
+SHA1: 575a81cbe7e786934938c42bf0f14b933fbb8bd1
+SHA256: 840c46431a7089213ee6a7606afd3693395184b50dfaaff901d832a908561eb2
+SHA512: a5edc80ddd0e4f8a31ca2c9e687106a0797f0eafd985c7a6dde8014033378dff2156b937e611207895cef845bfa4d2f5e86ab9cec15b6c58f68621d43a65f530
+Homepage: https://alo.works/
+Description: Meloso là một phông chữ mang lại cảm giác vui tươi và tự nhiên, có nét vẽ tay quyến rũ riêng. Tỷ lệ 85%. Dành cho iOS 14-16
+Name: Meloso 85% (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meloso.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meloso.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Alexman <bbscydia@gmail.com>
+
+Package: com.bvn.fonts.mikhak100-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: firmware (>=14.0)
+Filename: ./debs/com.bvn.fonts.mikhak100-rootless_1.0_iphoneos-arm64.deb
+Size: 27293562
+MD5sum: 67fe426ec9c2b4be86b5387818421ee2
+SHA1: 745ab7228e9de561e784a00fbb64ce3bbadf3af5
+SHA256: 6bff3b8d81f3412ce28b9bf70a1be42f9f147f33476eb436bf081b44c77440f2
+SHA512: 5501d938c17f4fd8c9ac79b5634807bb19d3859cdb0fadaa6d8c9d699b55691ad7904509e3f8a63273abd5704b4b5dfb1661af35e39d7680c18e4168e8d7ba7f
+Homepage: https://alo.works/
+Description: Simple monoline semi handwriting font. 100% scale. For iOS 14-16
+Name: Mikhak 100% (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Mikhak.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mikhak.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Alexman <bbscydia@gmail.com>
+
+Package: com.bvn.fonts.mikhak85-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: firmware (>=14.0)
+Filename: ./debs/com.bvn.fonts.mikhak85-rootless_1.0_iphoneos-arm64.deb
+Size: 28891532
+MD5sum: 723756f8a15180fd5a44d9733aac99f0
+SHA1: fa898e6dd19eff77a51a27491b0853ccc692ea84
+SHA256: 16529c3cd5c528bb9ee7b27b60793242b26a861f6fe031ba9678b099d25efa01
+SHA512: 562cfff223b1f7c50313681886a6a5da1b3a119f0c033095415f2528dac117b51377f5e3429d0aaa67ed9871cad12535b7aa23b431a1ae378700880af68204d9
+Homepage: https://alo.works/
+Description: Simple monoline semi handwriting font. 85% scale. For iOS 14-16
+Name: Mikhak 85% (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Mikhak.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mikhak.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Alexman <bbscydia@gmail.com>
+
 Package: com.bvn.fonturwgeo14
 Architecture: iphoneos-arm64
 Version: 1.1
