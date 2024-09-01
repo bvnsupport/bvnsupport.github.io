@@ -9668,6 +9668,42 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/YangJiii_Gwyneth23.
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: YangJiii
 
+Package: com.bvn.Qk
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: BVN REPO
+Filename: ./debs/com.bvn.Qk_1.0_iphoneos-arm.deb
+Size: 11140
+MD5sum: 08a44ea6408157bf0e601c5a78a947cc
+SHA1: 8c1b9997cbfd5a53faaca92de17b0e721e337bc7
+SHA256: 78bb668be351b2066aebebdcabb8d2aa8a405c66d03e9bdda568ce5452a32de1
+SHA512: 2ff1099721130a7f3d1f0070d30b8385f050d8ebab4b95b4f429dfa7492814c725f7dd9ebff844ec6b40f2982cdb6d9669c58c42b62f4939de9456dc9f5357bf
+Description: Gói Mask Quốc Khánh 2/9
+Name: Mask Quốc Khánh 2/9
+Author: Vũ Quang
+Depiction: http://bvnsupport.github.io/infodeb/Html/QK.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/QK.json
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.bvn.Qk
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Theme Rootless
+Maintainer: BVN REPO
+Filename: ./debs/com.bvn.Qk_1.0_iphoneos-arm64.deb
+Size: 11232
+MD5sum: c9022d054b1c15c511361f4419f4ce02
+SHA1: 579d1af1337054c64b271ed1b695821e7675641a
+SHA256: 752c6a1f78cffe6f47ecade9e6668ded4e0611c9bc9249a6de0891c7389ffce1
+SHA512: 2b615bdf0513fb9d9905bd95fa101b91bf677b5e32324760fb4c7f37ef195d2562a78867c870b6c39bcbcfff0f8b3e324fd6f31773037b493919c6707da4fc80
+Description: Gói Mask Quốc Khánh 2/9
+Name: Mask Quốc Khánh 2/9
+Author: Vũ Quang
+Depiction: http://bvnsupport.github.io/infodeb/Html/QK.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/QK.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64
 Version: 1.1-4
@@ -9747,6 +9783,24 @@ Description:  Vuốt sang trái để quay lại
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Swipe Left To Back
 Author: Mao
+
+Package: com.bvn.VQ2024
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: BVN REPO
+Filename: ./debs/com.bvn.VQ2024_1.0_iphoneos-arm.deb
+Size: 8250
+MD5sum: b9f30a11e88a1ed30a6531ab11b7c104
+SHA1: 8aef1fd2d98e0ad6431abd7df9d2f987557242b9
+SHA256: ad4943abb443f9b5d60a576628b857081020dfa9c9e331918cd59c2cf776bc3b
+SHA512: b8f80bc83bf81a15dbaafc7bbae28098cb69b0cb1c082c38d2f7dc0d99ab4ab499284d41c1d03bee15fd0d8284352b90b0fc258a2a323b4bb92cff3e24a59df3
+Description: Gói AE nổi cho Theme
+Name: Mask VQ2024 (Rootless)
+Author: Vũ Quang
+Depiction: http://bvnsupport.github.io/infodeb/Html/VQ2024.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VQ2024.json
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
 Package: com.bvn.VQ2024
 Architecture: iphoneos-arm64
