@@ -12897,18 +12897,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
-Version: 5.0
+Version: 5.0.1
 Section: Tweaks
-Maintainer: dvntm
+Maintainer: BVN Repo
 Installed-Size: 16048
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite_5.0_iphoneos-arm.deb
-Size: 8016914
-MD5sum: 8a076fc6d021dd2a8dc2778b3bfcfc6a
-SHA1: 72f651a8b8d0b1f98762d46f4120e855fba69504
-SHA256: 2cdcd09c1dd97af690cb25f6724929284fabf9c7eb4fe294788301adeae1a437
-SHA512: f0165f8597efe30b768b40b6df6a58b23e8cda6a72ba2ab8f99d7536f04a12565b01474c4be62eade987e964495eeec8cef1ced4f072af2c8eb0993b7719828e
-Description: Lightweight YouTube Enhancer
+Filename: ./debs/com.bvn.ytlite_5.0.1_iphoneos-arm.deb
+Size: 8022104
+MD5sum: 3ed5fa43b9839e98ecc71f2994dd9827
+SHA1: ebc9bd9c348662e0daa77b66b22480437d84cec0
+SHA256: ad84b0d7d10b7e2404b57ff882a96d5945df33bb6f6cfff0dda9926f4fb0b006
+SHA512: 293edabfd09bb70495912a33211246f2ae09386f6b38b69978f44f0cb1f5ef991130b70ba64ccbe21ab223d7f0a8dc5dd0cf62556bcd870a4d47ed25b398a2bd
+Description: Bổ sung các tính năng hữu ích cho Youtube
 Name: Youtube Plus VH
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
@@ -12917,18 +12917,18 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm64
-Version: 5.0
+Version: 5.0.1
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 16048
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite_5.0_iphoneos-arm64.deb
-Size: 8017040
-MD5sum: 3e840fb60cb5a5fcea60bc5871464c3a
-SHA1: 38f49058fc3404149dc7e746fed9e7c87cc6efd9
-SHA256: faaf42260e00e038a875c231708f24ee962fa76258da7b349a29cd73e0c6282a
-SHA512: b6f223ca102daae84ff4d510e68d675b971536948b6214992efcc0237f4efdac6d5e9e894744635eb54934b09bac417b14af835d2ca2e1af62047ffdbc620974
-Description: Lightweight YouTube Enhancer
+Filename: ./debs/com.bvn.ytlite_5.0.1_iphoneos-arm64.deb
+Size: 8022354
+MD5sum: 766e0bfd66bef1a62f94e898bd4d6f1a
+SHA1: 59670e1a6fac6a25dbc674315a44eedbd7027a02
+SHA256: 2df240f9cc19c8b3f3a7c9747298790f9e86f52e98f17f0dd0ad90f60b33167b
+SHA512: f7a7c6048ea4298163e58e94f42f4cc6739d9af5825f063d68dcc6741241cb8343e6be7db11c7792363c3b770293ef2da3f5c1bd63bc4049253e96e6c9cf9af7
+Description: Bổ sung các tính năng hữu ích cho Youtube
 Name: Youtube Plus (Rootless)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
