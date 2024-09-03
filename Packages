@@ -9790,13 +9790,13 @@ Version: 1.0
 Section: Themes
 Maintainer: BVN REPO
 Filename: ./debs/com.bvn.VQ2024_1.0_iphoneos-arm.deb
-Size: 8250
-MD5sum: b9f30a11e88a1ed30a6531ab11b7c104
-SHA1: 8aef1fd2d98e0ad6431abd7df9d2f987557242b9
-SHA256: ad4943abb443f9b5d60a576628b857081020dfa9c9e331918cd59c2cf776bc3b
-SHA512: b8f80bc83bf81a15dbaafc7bbae28098cb69b0cb1c082c38d2f7dc0d99ab4ab499284d41c1d03bee15fd0d8284352b90b0fc258a2a323b4bb92cff3e24a59df3
+Size: 8242
+MD5sum: 8af4f8bef1ce33ccf20ace913cd33d47
+SHA1: 432c8468d22699a8e474565b7a7a55c45060fb5c
+SHA256: 01140df1a64f0abe739d93eec2457efbd4b3dba1c03c01f59559ddfb7020dc05
+SHA512: 520f998f939a881e9eec7ab59bec5810fdc8cc3e99aeed85f9762b37ecaa1f36e1e2e5a4a3d5c5a8efc835d53dd5f413485f43280bb46a32c900a4444b8074d5
 Description: Gói AE nổi cho Theme
-Name: Mask VQ2024 (Rootless)
+Name: Mask VQ2024
 Author: Vũ Quang
 Depiction: http://bvnsupport.github.io/infodeb/Html/VQ2024.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VQ2024.json
@@ -12375,16 +12375,16 @@ Author: Sniper @DNS_Sys
 
 Package: com.bvn.solstice
 Architecture: iphoneos-arm
-Version: 2.7
+Version: 2.8
 Section: Themes
 Maintainer: BVN Repo
-Filename: ./debs/com.bvn.solstice_2.7_iphoneos-arm.deb
-Size: 38586616
-MD5sum: f6e4ea57cee4152f69be7d6cf7cd9f36
-SHA1: 560c06cabd335096dd4d4efc1451319683a81141
-SHA256: 98f495ab3db1001e9b34bd7f234b323dd31869bfdc97323703fa566f8a426fba
-SHA512: 096c4de4bcf1dc44323da724858086739fb34c71008e36f4d5aef1b9faf970fe6a869e3741a00a754cb3879e1dd998c09cffc15bc2900f3fa695fce12df93e73
-Description:  Solstice Theme 2100 icons
+Filename: ./debs/com.bvn.solstice_2.8_iphoneos-arm.deb
+Size: 40355082
+MD5sum: 71302c02da39cf71b1a0db42fbafa850
+SHA1: 148288ae30fbfa43c72c7d4e8d7df2efb395823f
+SHA256: 6f219680d0a3f02662ee1a444932f418b93f74c64ec7cc7bfabf7786eed178c7
+SHA512: a2ee40c1861c9ce780f169e360577dd28bcd346aedbc439fc32995bf25325ff41840d14a54ecfb9d6cf1af5b5afaddfb2a1b9352cc8594dbbc5085c8cca781b2
+Description:  Solstice Theme 2200 icons
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
@@ -12393,17 +12393,17 @@ Author: Rifai
 
 Package: com.bvn.solstice
 Architecture: iphoneos-arm64
-Version: 2.7
+Version: 2.8
 Section: Theme Rootless
 Maintainer: BVN Repo
 Installed-Size: 39667
-Filename: ./debs/com.bvn.solstice_2.7_iphoneos-arm64.deb
-Size: 38593022
-MD5sum: 92c35b34dcbd51f96c330a03245d020d
-SHA1: b65c0f075e6665122c81247bc22ea06009160ca4
-SHA256: 62878fb64fce41c0ded54fe7b919cd7b30a52fa2d846b2ef2aa2f62ce88c23d4
-SHA512: f14602be08ab96ac31680f3683657a8ef22a44f31b30f6aab15937dab5e1db7b209a5d67efe0e7dcc248c5d003f4e028939859fa47f01e3fca19cae8786bb21b
-Description: Solstice Theme 2000 icons
+Filename: ./debs/com.bvn.solstice_2.8_iphoneos-arm64.deb
+Size: 40361740
+MD5sum: 56e12a92cf4426cd27c5a4deb49e9453
+SHA1: fdaad8966fda487f65a96fd973b9db8f487a72f8
+SHA256: 13fd673c45e2388102bfb50ac1580edff1cc49bd0d313ee5945c54453108588b
+SHA512: 9b30408a26f74b65b26f884d2cee5cacfc29dcbf2a4cab32453d7832aa4644b079a8f08da28127bd4bd2e12d484b7ba96c870edea1650a376f16302f822aa4b5
+Description: Solstice Theme 2200 icons
 Author: Rifai <icons-requests@hotmail.com>
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 Name: Solstice (Rootless)
@@ -18377,10 +18377,10 @@ Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm
-Version: 3.7.4
+Version: 3.7.6K
 Section: System
-Maintainer: Repo BVN
-Installed-Size: 1432
+Maintainer: jjolano
+Installed-Size: 1428
 Provides: me.jjolano.shadow.beta
 Pre-Depends: dpkg
 Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
@@ -18388,25 +18388,25 @@ Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
-Filename: ./debs/me.jjolano.shadow_3.7.4_iphoneos-arm.deb
-Size: 270418
-MD5sum: c61d98ccaa59505c7132dc20d1de1e8f
-SHA1: 65209c3b1be6ff677fe4df8b568a2e66bf890db4
-SHA256: 0fd9a93c40c5723e6f35f03d0cf4849aa50a766b1ddd21d96529fd2f38ba8419
-SHA512: 4aec95e859e4e787ae593a81f3b1b34373a3c0c61b1cdcba5daf9d6096bc17689cc18a48cae3376d9ac9b52a4f6f132c698a2cf2168f7635577f6e6e3dae8733
-Description: Một tinh chỉnh bỏ qua phát hiện bẻ khóa hiện đại.
+Filename: ./debs/me.jjolano.shadow_3.7.6K_iphoneos-arm.deb
+Size: 273164
+MD5sum: 69d8d66528dc640931556c2f7eccc09a
+SHA1: 0d1ad2e2c74a8e7409cd411945820ef604530c93
+SHA256: ad9a45e5cc6e9bb51fb17789d8d412ab2430f71957ad6193d50fbb8754842c44
+SHA512: 09c0d9b777ec41ebb23a3462520be5a3b9720703de1eb6eee1563421a761ac413dc72c89797f1c6967cde2780cd65fd243981f78f303804ceacaab55e69f6173
+Description: A modern jailbreak detection bypass.
 Name: Shadow VH
-Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
+Depiction: http://bvnsupport.github.io/infodeb/Shadow/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Shadow.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: jjolano
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm64
-Version: 3.7.4
+Version: 3.7.6K
 Section: System
-Maintainer: Repo BVN
-Installed-Size: 1080
+Maintainer: jjolano
+Installed-Size: 1076
 Provides: me.jjolano.shadow.beta
 Pre-Depends: dpkg
 Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
@@ -18414,16 +18414,16 @@ Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
-Filename: ./debs/me.jjolano.shadow_3.7.4_iphoneos-arm64.deb
-Size: 171622
-MD5sum: 1e0a8cb7d50cd76443dd9f61494066c0
-SHA1: fb06a2c3401d64eee4b54a636f48049f6a7cf212
-SHA256: 4bf64e8ba340619866c7176074fbd7ece07c0d5924582f0cfe557e62dc328297
-SHA512: 04f003bf48a44411ee545926104ad3eb891f80c74d9f26ef58410b5d30afcb0b398669ff8796e57000e5bfdf727eb6bf927cef68187395a5801ee560ac1b790f
-Description: Một tinh chỉnh bỏ qua phát hiện bẻ khóa hiện đại.
+Filename: ./debs/me.jjolano.shadow_3.7.6K_iphoneos-arm64.deb
+Size: 172228
+MD5sum: 15e50f2b5bcdf5ab02a5a19daf95890a
+SHA1: 0b3701405babe50d8d094cbce547492819960e4e
+SHA256: 67e39b83101e6f8185a463e2a25f900712f82c987ff63094f08db7e39ca5700e
+SHA512: f97e67585d4724c9349e0614ad4b13768bda8592b565d93ea2d946b8fffaa4a30e34ac6e1aab9b7dae07bd0ca5b60dc3bade32558066c4c47d96e1201f968678
+Description: A modern jailbreak detection bypass.
 Name: Shadow VH(Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/Shadow/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shadow.json
+Depiction: http://bvnsupport.github.io/infodeb/Shadow/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Shadow.json
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: jjolano
 
