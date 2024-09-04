@@ -10308,6 +10308,46 @@ Name: CallBlocker VH(Rootless)
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.camscannerpatch
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.camscannerpatch_0.0.1_iphoneos-arm.deb
+Size: 124766
+MD5sum: 32f7605fb9041f8e2b7efc3ae476c1d7
+SHA1: bc0da63b1725352095494cd7c08e2fd7be57d161
+SHA256: 750a8fdc6f1d0819af31d8a8e24735e82935d95114bdeaf20256a52f20e0a099
+SHA512: 635de7523bebed97a2f13e0c84dcf6716a9e44c7bc2c89917806f2049ee403d423b855e18dffef6f8149433d05458f183e4b1764dbf52f7555ce82e75c45c2fa
+Description: Unlock CamScanner Premium
+Name: CamScanner Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/CamScanner.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CamScanner.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.camscannerpatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.camscannerpatch_0.0.1_iphoneos-arm64.deb
+Size: 125012
+MD5sum: d363fb275f1f1a8c6a904e7d7e15fd67
+SHA1: 1dfcb26430e61cc8f88e8191d11f43eda6b2d430
+SHA256: 6cf921f50a2bb460cd5cb182540f9f2772a531f65014cbf66101ef315a75b86e
+SHA512: 9ae69a8f27628ba3d771980bee2d7538d3cd894b283d22d035e13e050acfed5fb4bf2cf1ca7786067b1fbec13a0716482a0ddec7d1cefbc8c618e1f59abaddbc
+Description: Unlock CamScanner Premium
+Name: CamScanner Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/CamScanner.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CamScanner.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64
 Version: 1.1
