@@ -12433,16 +12433,16 @@ Author: Sniper @DNS_Sys
 
 Package: com.bvn.solstice
 Architecture: all
-Version: 2.9
+Version: 2.9.1
 Section: Themes
 Maintainer: BVN Repo
 Installed-Size: 39667
-Filename: ./debs/com.bvn.solstice_2.9_all.deb
-Size: 42103066
-MD5sum: 9d1320fe01f37b09a8b23fb8f0cc478e
-SHA1: 0b21a31616d4a4bde94d8388822989bcbd516b9c
-SHA256: 2e67d4330188abc7e45176b74cde30844cab8719dbd28655dc98f69b754d3db7
-SHA512: fece3149f3b7930f484ca60049d8294ad8d87c6fc4e5bc579123a96d570a96b363c87a4148da095092fbbda7c2418f5ff3365426941ccce7f71451613951590c
+Filename: ./debs/com.bvn.solstice_2.9.1_all.deb
+Size: 42106430
+MD5sum: a7073132371c02acc7cfacfa4204c24b
+SHA1: 418aea0dad4e60b3c6b780794a79cfa21801f056
+SHA256: 13d73fecd522575996a82f1d01ef7ea423d05a88f4fbca065a1e4b833f4842d8
+SHA512: 41967878216b4aa0281b9b96c00e685c3fdfe10fdfeb6a8c26ff3ba8d30acd6b91e093771d61077c96f49d98c8e7a1467c8f44e9f9b4dd3d5c7007b7d2afe997
 Description: Solstice Theme 2300 icons
 Author: Rifai <icons-requests@hotmail.com>
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
@@ -12974,6 +12974,27 @@ Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.zeppelinreborn
+Architecture: iphoneos-arm64
+Version: 1.0K
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 2772
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: ./debs/com.bvn.zeppelinreborn_1.0K_iphoneos-arm64.deb
+Size: 801906
+MD5sum: 3a13ad99cd87b52eb1df8e647f4c7c66
+SHA1: 65bb50ad66d7429788c01305e327c3b07b1f3e86
+SHA256: 3c076760454c2406914cef85d75eeec406f1d14c36eb46bfa19025dcd7408ea7
+SHA512: f7e39949f201011eb760416c43d8c2e3a52b53f92c5a6d7f02d0895ca5e8057133966f2af891232e20571b391bd1ce970607f419fd3db943e3c23bbbe75c7cd6
+Description: Adds an image or GIF next to the carrier text or time!
+Name: Zeppelin Reborn VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Zeppelin.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zeppelin.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Hitori <mikasa-san@outlook.jp>
 
 Package: com.bvnrepo.Coolwcat
 Architecture: iphoneos-arm
