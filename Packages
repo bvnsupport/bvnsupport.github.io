@@ -12393,6 +12393,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.snapper3
+Architecture: iphoneos-arm64
+Version: 1.0k
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
+Filename: ./debs/com.bvn.snapper3_1.0k_iphoneos-arm64.deb
+Size: 1136690
+MD5sum: 88f5175ff82c19e24a6c70842d05e022
+SHA1: 8bc873937994ecfc48c76e28069ab29e79a388b1
+SHA256: 44da216922ebe3ee25aceba58a32bbf617e9db91cabd7a0b5ec939989e06f363
+SHA512: 27fdb09d7150dc4bd0cc57276dcd4573a002fb8a30ca30f2f3aef052c7a57ef4ce9fe5f6be1f621572bf4c5b2b2c87aeca4896a472feb7dc388038177c9baff1
+Description: Snapper 3 is a toolbox for screenshots on iOS.
+Name: Snapper 3 VH(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Jonathan Winger-lang
+
 Package: com.bvn.sniper
 Architecture: iphoneos-arm64
 Version: 1.2
