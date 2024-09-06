@@ -72,7 +72,7 @@
 "title":"Nhà phát triển",
 "text":"dvntm"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.0.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.0.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -81,7 +81,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"2/9/2024"
+"text":"6/9/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -108,7 +108,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 5.0.1\n\n- Thêm tùy chọn hiển thị thông báo cho SponsorBlock\n\n- Thêm Lịch sử xem và Xem sau vào danh sách tab Khởi động\n\n- Cố gắng khắc phục sự cố thêm chủ đề\n\n- Cố gắng khắc phục sự cố bài đăng không xóa trong trình phát\n\n- Thêm tùy chọn tắt chế độ xung quanh\n\n- Thêm nhiều bài đăng cộng đồng để xóa "
+"markdown":"### Phiên bản 5.0.2\n\n- Đã thêm tùy chọn để luôn chọn phụ đề ngôn ngữ gốc\n\n- Đã khắc phục sự cố khiến tùy chọn "Ẩn thêm chủ đề" khiến trang chủ trống\n\n- Đã khắc phục sự cố khiến việc cuộn thủ công các video ngắn sẽ cuộn hai video cùng một lúc\n\n- Đã khắc phục sự cố sập khi chọn chất lượng video ưa thích của video ngắn\n\n- Đã khắc phục lỗi với chế độ xung quanh "
 },
 {
 "class":"DepictionLabelView",
