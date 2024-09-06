@@ -12997,6 +12997,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Hitori <mikasa-san@outlook.jp>
 
 Package: com.bvn.zeppelinreborn
+Architecture: iphoneos-arm
+Version: 1.1K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3156
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: ./debs/com.bvn.zeppelinreborn_1.1K_iphoneos-arm.deb
+Size: 1147694
+MD5sum: d310cc5cc71e3cdad7cef6a5e5d6c371
+SHA1: 8301e5f1d59984aad88fd26db2effc5bf3811566
+SHA256: b6cedbf1d799b29caa559741de67f2e6ec6c5ed773d3668aff43e169b072d1c3
+SHA512: 7ba25e5f88cf55685e0d55f90e3b39285aae6c44696d36fb54431cad5d04fdbe0b69848e26e4296f54eb9f1a0023b385ec9e5d1575f0a64a2dde882c101abcb3
+Description: Adds an image or GIF next to the carrier text or time!
+Name: Zeppelin Reborn VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/Zeppelin.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zeppelin.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Hitori <mikasa-san@outlook.jp>
+
+Package: com.bvn.zeppelinreborn
 Architecture: iphoneos-arm64
 Version: 1.1K
 Section: Tweaks
