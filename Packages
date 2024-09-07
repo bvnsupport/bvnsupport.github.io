@@ -12432,18 +12432,37 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Sniper @DNS_Sys
 
 Package: com.bvn.solstice
-Architecture: all
-Version: 2.9.1
+Architecture: iphoneos-arm
+Version: 2.9.2
 Section: Themes
 Maintainer: BVN Repo
 Installed-Size: 39667
-Filename: ./debs/com.bvn.solstice_2.9.1_all.deb
-Size: 42106430
-MD5sum: a7073132371c02acc7cfacfa4204c24b
-SHA1: 418aea0dad4e60b3c6b780794a79cfa21801f056
-SHA256: 13d73fecd522575996a82f1d01ef7ea423d05a88f4fbca065a1e4b833f4842d8
-SHA512: 41967878216b4aa0281b9b96c00e685c3fdfe10fdfeb6a8c26ff3ba8d30acd6b91e093771d61077c96f49d98c8e7a1467c8f44e9f9b4dd3d5c7007b7d2afe997
-Description: Solstice Theme 2300 icons
+Filename: ./debs/com.bvn.solstice_2.9.2_iphoneos-arm.deb
+Size: 43829728
+MD5sum: fce60b576ee1f710e1d9cc987781b22a
+SHA1: d07bff13ee27f595191a1f1f8df46126dd0acc66
+SHA256: f31c54929b046162a31bc7d92f2f19a5357c46fc08704671327efe19a2808bf1
+SHA512: 763f828283e06a9374bac82ee85e8c0b72ad8aec4fa305ed5c5e20b0c790f4718209614f351fdf860e1d501a8f9ea7d40ed7c6c1fcbdc207c89cbfbd33f3e4ef
+Description: Solstice Theme 2400 icons
+Author: Rifai <icons-requests@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Name: Solstice
+Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+
+Package: com.bvn.solstice
+Architecture: iphoneos-arm64
+Version: 2.9.2
+Section: Theme Rootless
+Maintainer: BVN Repo
+Installed-Size: 39667
+Filename: ./debs/com.bvn.solstice_2.9.2_iphoneos-arm64.deb
+Size: 43836444
+MD5sum: f45e350c3d20120eb53b9c5d14fa0e39
+SHA1: c38678b2ed44315ddba400791e014817094a9fb0
+SHA256: 662342f350a98746f61331863392384d400d229416cb9afd094258f74d9a31ae
+SHA512: 582602584c5657d00531eb621ac24bd761d4f1a95b2e4ad0545656521cf4dd87baa4a2f6f1e428c41d0b9b64fd3a22444564e951a22d96d27195b8e516c2298a
+Description: Solstice Theme 2400 icons
 Author: Rifai <icons-requests@hotmail.com>
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Name: Solstice
