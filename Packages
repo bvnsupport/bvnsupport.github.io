@@ -12095,46 +12095,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Remini Pro(Rootless)
 
 Package: com.bvn.reo
-Architecture: iphoneos-arm
-Version: 1.3.0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 1040
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 13.0)
-Filename: ./debs/com.bvn.reo_1.3.0_iphoneos-arm.deb
-Size: 546254
-MD5sum: 960c43c2683d6c58b5cc2fe7281c5816
-SHA1: 13ee31df9d071ffedb1920681d1c8d372956fb1f
-SHA256: e23dc5852101b82ac108bd98fe2d52354afbb83b5fa2b7c71a7449931917f3b4
-SHA512: 7e043ee3fda0e947b67c1a45eb966e65101c970bcb0ba62367303a86cc397c3fb76dc4867e70e40915c0ab880b400f1457578ec95ffc5f279b1e174b2a5839f5
-Description: Classic Music player for LS
-Name: Reo VH
-Author: Mystery
-Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.reo
-Architecture: iphoneos-arm64
-Version: 1.3.5
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 1040
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 2.0), firmware (>= 13.0), cy+cpu.arm64v8 | oldabi | oldabi-xina | oldabi-stub
-Filename: ./debs/com.bvn.reo_1.3.5_iphoneos-arm64.deb
-Size: 546470
-MD5sum: 2c25c8f98a15d9f438f5ba5420a972e2
-SHA1: d017a1acea97c8275afaf928fcb6c4d1d3f912b8
-SHA256: 37c38860312128689204741cbb1ad2a4700056d6af6e1da02400dc9a6170a3a0
-SHA512: 8c9f985b3f6b005f0bd0c4cbeeac729ecc93f97f6d1e228007ad53bbfb1c71b3a2b07937b864c40ba46dd493787a6ea241370553be0ddca4aef31ffa9fc3ef50
-Description: Classic Music player for LS
-Name: Reo VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Mystery
-
-Package: com.bvn.reo
 Architecture: iphoneos-arm64
 Version: 2.6.0
 Section: Tweaks
@@ -12153,26 +12113,6 @@ Author: Mystery
 Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.reo
-Architecture: iphoneos-arm64
-Version: 3.0.0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 2228
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 14.0)
-Filename: ./debs/com.bvn.reo_3.0.0_iphoneos-arm64.deb
-Size: 1538314
-MD5sum: 6fa699bda361417efed93c716c934a64
-SHA1: aecb528fb6e8ab2ea83fa8ac80463b8279fc8b86
-SHA256: 89c4299e09e80ecda0a1843db5839a69f360322f77dea50fbae09c7e9a3b15a2
-SHA512: bf0b48889172433a20ea03302d10af0a9641535dfaa016257417397c1b1fc0d31a4a475597f4cf82d9d1e0ebdb7dcbde4a46766180966777312b86e0e38aee00
-Description: Fancy Dancy player for LS
-Name: Reo VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Mystery
 
 Package: com.bvn.replaced
 Architecture: iphoneos-arm
@@ -15707,23 +15647,23 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.velvet2-rootless
 Architecture: iphoneos-arm64
-Version: 2.1.2
+Version: 2.1.2-3
 Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 596
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
-Filename: ./debs/com.repobvn.velvet2-rootless_2.1.2_iphoneos-arm64.deb
-Size: 158312
-MD5sum: e201ca7b87d2fb39d3697ed1bd76097d
-SHA1: 67d4b5e805da22ebd5f690bd1716b3cc2799ed62
-SHA256: 7340d9e72ef8f15aa861da40a97c6266484bebc93cc18aa700005b4e5659386c
-SHA512: 3c2d09ceaec01de5a592eb31fe18229b7dd84eafa55ad9a158412800c95f17a7e6683abe13025c80d8c6390d86f0baf86d2f25535ab300b7aa5d690c360eacdb
-Description: Tuỳ chỉnh thông báo của bạn.Hỗ trợ iOS 15-16.3
-Name: Velvet 2 VH (Rootless)
+Filename: ./debs/com.repobvn.velvet2-rootless_2.1.2-3_iphoneos-arm64.deb
+Size: 157008
+MD5sum: 4425a6db7e1f746ece311c8816ce30d0
+SHA1: 463e0cdaf7c53986b5906c78613def3c40f7b8ee
+SHA256: cbd5d73b4a2dda9c20cb1c60e9563be05ecbcefe419457e4d25779ad1d8ca5b6
+SHA512: 18aa58899d988984381e5c227e0f7be275ceba2da568edc1a08a118884cb593842101ea0017cb89958a031089d38415557f95045964ddd55f17480d8fdc2d187
+Description: Trải nghiệm thông báo có thể tùy chỉnh hoàn toàn
 Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://support-jailbreak.github.io/depictions/Velvet.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Velvet.json
+Name: Velvet 2 VH (Rootless)
+Depiction: https://bvnsupport.github.io/depictions/Velvet.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Velvet.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.vneidbypassjb
@@ -19334,26 +19274,6 @@ Author: zqbb
 Depiction: https://bvnsupport.github.io/depictions/BlockAppUpdate.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BlockAppUpdate.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: vn.bvn.misaki
-Architecture: iphoneos-arm64
-Version: 2.0.2
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/vn.bvn.misaki_2.0.2_iphoneos-arm64.deb
-Size: 337012
-MD5sum: db053b29e713c14e5c53f326b6c6937f
-SHA1: 5ac422f3062dc512ae117ef95cddb96c71a2f945
-SHA256: 05e939e92f7608a3cbcfd4741c866b1fe9dc0f68858eb19013e3d0a5995fdcbd
-SHA512: e2ed576a1e6e99efd97d9387b324549fff81ee676e8ee513da12b6bb0ee44dda5f5a4576ed85b1c9c0fa09ccc40adbb5e0241f09d3a55934bc1c9ef3a1fb9dc5
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Depiction: http://bvnsupport.github.io/infodeb/Html/misa.html
-SileoDepiction: https:// bvnsupport.github.io/sileodepictions/misaki.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Hitori
-Name: Misaki VH(Rootless)
-Field: 12345.67891.2345678
 
 Package: vn.bvn.networkmanager
 Architecture: iphoneos-arm64
