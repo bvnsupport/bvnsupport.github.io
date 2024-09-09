@@ -10889,6 +10889,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/epikpatch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/epikpatch.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.facelab
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 629
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.facelab_1.0_iphoneos-arm.deb
+Size: 332354
+MD5sum: 65f8da8b8b65ffd12cc8b7a2a913dd1a
+SHA1: 44ad7bc4648d3da4a4e6cd259e972ec524bf924f
+SHA256: dbc6b57a5da0878d78db218c75a55fa7a9136318751429e13c3c9676e207f5c0
+SHA512: 51b401a654cc070c47e7eaacbee04f532a9b276bffd22dcf71f9914389d53702f713df8c3d3cb7f63c7bc13469a2355e301264edf2b7015042070a38c0aedb44
+Description: FaceLab Premium by DPixel
+Author: DPixel
+Name: FaceLab Premium
+Depiction: http://bvnsupport.github.io/infodeb/Html/FaceLab.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FaceLab.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.facelab
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 629
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.facelab_1.0_iphoneos-arm64.deb
+Size: 329258
+MD5sum: 50e968e7f0f21f4f9b591ce4ae9ace27
+SHA1: b7bdcc8ce7e498c2a956b6e128551d736625475b
+SHA256: 175253d0b4640605748a738c211f7c0bb8b9c84a2f76968b44028e5d0901f22c
+SHA512: 39787c8adc955d6abce7ad1530e8b9f409815173f066abd7be1bb86dbe9cc9365f6da85f7e37631a15add6d576b1387fc944cc9d849527610debba3332f509b7
+Description:  FaceLab Premium By DPixel
+Author: DPixel
+Name: FaceLab Premium (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FaceLab.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FaceLab.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.fiona-rootless
 Architecture: iphoneos-arm64
 Version: 1.0.6R
