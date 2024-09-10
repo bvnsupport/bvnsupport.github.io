@@ -19532,20 +19532,20 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvnrepo.amonglock-rootless
 Architecture: iphoneos-arm64
-Version: 1.1.7
+Version: 1.1.7-1
 Section: Tweaks
 Maintainer: Bvn Repo
 Installed-Size: 24060
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), xyz.cypwn.xinam1ne
-Filename: ./debs/vn.bvnrepo.amonglock-rootless_1.1.7_iphoneos-arm64.deb
-Size: 11883428
-MD5sum: 250b14bf46e6f500bd648ad5792cc5df
-SHA1: 8099fa059dcfe97522811950558e914f539be351
-SHA256: d6aeadc954acd0540d0cab7d51a37825f418746d84cbda2d93e080534b2389d5
-SHA512: 1ef50c9a5bf1367db36577c6956a5535bb6311bed9849ac8e0b27781b6b7adf371f3c79e2b03efaf5743b90487c52c32229510654e8a53df37e8cf60f2ac1694
+Filename: ./debs/vn.bvnrepo.amonglock-rootless_1.1.7-1_iphoneos-arm64.deb
+Size: 11601568
+MD5sum: b7d9825fe6929961bc1f757fe54e5651
+SHA1: bd1c1b6f32c8eb68a316213530b03d458f3e64ce
+SHA256: 4ecadc0ff4eb0e7913d5df00e20fcaa6400de9dcd5b95f427d4588d9fc30bc15
+SHA512: 5fae3d918af9084fd969755b69f59b8dccf00bdcb188cc5aa935b5d76e7108c14223a0ca0a292fd3a61afaabdcc05abac4d1d72957f066194d7a0ea7ebfa8713
 Description:  Bảo mật thiết bị của bạn theo kiểu trò chơi Among Us
 Name: AmongLock VH(Rootless)
-Author: Litten,BvN
+Author: Litten
 Depiction: http://bvnsupport.github.io/infodeb/Html/AmongLock.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AmongLock.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
