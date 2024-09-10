@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"Litten"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.7" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.7-1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/1/2024"
+"text":"10/9/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -83,7 +83,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 15.9"
+"text":"iOS 15.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.7\n\n- Hỗ trợ Rootless Jailbreak."
+"markdown":"### Phiên bản 1.1.7-\n\n- Chỉnh sửa video khi nhập sai mật khẩu."
 },
 {
 "class":"DepictionLabelView",
