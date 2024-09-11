@@ -14265,6 +14265,27 @@ Taq: cydia::commercial, compatible_min::ios15.0
 
 Package: com.hitori.zeppelinreborn
 Architecture: iphoneos-arm64
+Version: 1.4.1K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 3120
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Replaces: com.bvn.zeppelinreborn
+Filename: ./debs/com.hitori.zeppelinreborn_1.4.1K_iphoneos-arm64.deb
+Size: 1672984
+MD5sum: e3fa20bf8d586268e82a46142c88de56
+SHA1: b027338f8a0398b383cbc0b31b50c4e05695c616
+SHA256: b04cfba9db9f8e008123e21fdbdfc347aa24b67facc094d990f88da2181753d8
+SHA512: bce5cf46ffb2984b28b5f93f62d94f1a2c6a78f51272953fd19f5362725666d9437af3578a6cbe7de535649db6438e88cc183a199167a75ba9bc17e8506473ea
+Description: Adds an image or GIF next to the carrier text or time!
+Name: Zeppelin Reborn VH(Rootless)
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Taq: cydia::commercial, compatible_min::ios15.0
+
+Package: com.hitori.zeppelinreborn
+Architecture: iphoneos-arm64
 Version: 1.4K
 Section: Tweaks
 Maintainer: BVN REPO
