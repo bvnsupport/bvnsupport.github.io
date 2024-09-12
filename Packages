@@ -12469,6 +12469,25 @@ Name: Solstice
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 
+Package: com.bvn.solstice
+Architecture: iphoneos-arm64
+Version: 2.9.3
+Section: Theme Rootless
+Maintainer: BVN Repo
+Installed-Size: 39667
+Filename: ./debs/com.bvn.solstice_2.9.3_iphoneos-arm64.deb
+Size: 45462708
+MD5sum: 00e23c65694cf98ab4c192cfdf1ff51a
+SHA1: b99bc831388656cbfaaba97f6145c0970588b3ce
+SHA256: 8581876d0d1989302b14c2ebea98389cfb4fb095f3efad8cb1853c33d8906526
+SHA512: 8e3544810e546d89a53398677ea25c69ad9019c20155d44a1b0f2f4740309bb2c70a2b7a9886cda15594e7bb864cf884509fc37ac32165916c225feb2cbb6260
+Description: Solstice Theme 2500 icons
+Author: Rifai <icons-requests@hotmail.com>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Name: Solstice
+Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -12995,25 +13014,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.zeppelinreborn
-Architecture: iphoneos-arm
-Version: 1.2K
+Architecture: iphoneos-arm64
+Version: 1.4.2k
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 3156
+Maintainer: BVN REPO
+Installed-Size: 3100
 Provides: com.alexzielenski.zeppelin
 Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
-Filename: ./debs/com.bvn.zeppelinreborn_1.2K_iphoneos-arm.deb
-Size: 1004710
-MD5sum: febeb4f30b32440873672a848f0a3e00
-SHA1: e3685a18458b9549fec504dd4ec4d8639d263a6e
-SHA256: bfc78562076f6ce24263ba100dd204c284b5a0216fbaab85a237b83e3fdcf082
-SHA512: 62bafcc4d0368902c478712054e62373689b9c6d0f609c2158cddde59601d1605eb522588729ba74122601ff580badc537e4ef820e3c90e4aa0b1efb181c1f5e
+Replaces: com.bvn.zeppelinreborn, com.hitori.zeppelinreborn
+Filename: ./debs/com.bvn.zeppelinreborn_1.4.2k_iphoneos-arm64.deb
+Size: 1668202
+MD5sum: a953a601cb3b6e82a58b1d7531a19779
+SHA1: c2f148a951495b9ec31338fec4f27f4b4f65663d
+SHA256: 697ad29936ce8e1ad822ce4062e44c1f8fd79d92d416f83293cd69a979bebfb1
+SHA512: 9c7f0d774cde899add2766f58db17dd65d466caba9fdf2b69cee0504a732fc0c2d957ab357ef12a6b181f55a8d62ad1b8501e894c58dfc858b028fad4beb61f7
 Description: Adds an image or GIF next to the carrier text or time!
-Name: Zeppelin Reborn VH
-Depiction: http://bvnsupport.github.io/infodeb/Html/Zeppelin.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zeppelin.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Zeppelin Reborn VH(Rootless)
 Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Taq: cydia::commercial, compatible_min::ios15.0
 
 Package: com.bvnrepo.Coolwcat
 Architecture: iphoneos-arm
@@ -14262,48 +14281,6 @@ Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
-
-Package: com.hitori.zeppelinreborn
-Architecture: iphoneos-arm64
-Version: 1.4.1K
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 3120
-Provides: com.alexzielenski.zeppelin
-Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
-Replaces: com.bvn.zeppelinreborn
-Filename: ./debs/com.hitori.zeppelinreborn_1.4.1K_iphoneos-arm64.deb
-Size: 1672984
-MD5sum: e3fa20bf8d586268e82a46142c88de56
-SHA1: b027338f8a0398b383cbc0b31b50c4e05695c616
-SHA256: b04cfba9db9f8e008123e21fdbdfc347aa24b67facc094d990f88da2181753d8
-SHA512: bce5cf46ffb2984b28b5f93f62d94f1a2c6a78f51272953fd19f5362725666d9437af3578a6cbe7de535649db6438e88cc183a199167a75ba9bc17e8506473ea
-Description: Adds an image or GIF next to the carrier text or time!
-Name: Zeppelin Reborn VH(Rootless)
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Taq: cydia::commercial, compatible_min::ios15.0
-
-Package: com.hitori.zeppelinreborn
-Architecture: iphoneos-arm64
-Version: 1.4K
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 3120
-Provides: com.alexzielenski.zeppelin
-Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
-Replaces: com.bvn.zeppelinreborn
-Filename: ./debs/com.hitori.zeppelinreborn_1.4K_iphoneos-arm64.deb
-Size: 1672970
-MD5sum: e48bedc5c824531a9f254f1de4220f90
-SHA1: 27d8bfe4b114f9194ad8c71cfeb2aa2baea28713
-SHA256: ea722fe3fe2f3e1f9e5b97530ec2a813b954edd561dd2e5058c29fb916700122
-SHA512: 05e14e3cfb5af96d6d862899741b8b8155caa8013961656259151e73b1effa5c2b55e4e90fc0744068742e414bda8b79e06e81b834dbc53673644e2402d3b142
-Description: Adds an image or GIF next to the carrier text or time!
-Name: Zeppelin Reborn VH(Rootless)
-Author: Hitori <mikasa-san@outlook.jp>
-Taq: cydia::commercial, compatible_min::ios15.0
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.iarrays.libiarrays.rootless
 Architecture: iphoneos-arm64
