@@ -12023,6 +12023,27 @@ Author: FoxfortMobile
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.recordpause
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.2_iphoneos-arm.deb
+Size: 17098
+MD5sum: 0a9a9349c9bdc849a5544489c39fae7c
+SHA1: 876d391799d997d19ae9bd156242da72621d983e
+SHA256: 1f0d212244c60c370264a2ac727e8ae52732345942c00282dcf60857a8aa6f35
+SHA512: 294c9cb7cc7fec317c899b61f8710738cc17ce925dc1fdaab0f8e0274b376a39763f7f794a483464620a9bfc3f431f5142f0e2107f89648500b5474eec4e43ac
+Description: Tạm dừng/tiếp tục quay video.
+Name: RecordPause VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
+Author: PoomSmart
+
+Package: com.bvn.recordpause
 Architecture: iphoneos-arm64
 Version: 2.0.2
 Section: Tweaks

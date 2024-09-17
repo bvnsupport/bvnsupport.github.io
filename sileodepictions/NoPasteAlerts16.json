@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"3DAppVersion\n\n- Giả mạo phiên bản ứng dụng của bạn\n\n- Tinh chỉnh này sẽ không thay đổi bất kỳ tệp nào liên quan đến ứng dụng của bạn\n\n- Cách sử dụng\n\n- Kích hoạt menu 3D bằng cách nhấn và giữ biểu tượng ứng dụng của bạn và chọn tùy chọn "Phiên bản ứng dụng để giả mạo". \n\nㅤ\n\n",
+"markdown":"NoPasteAlerts16\n\n- Loại bỏ xác nhận dán phiền toái được thêm vào trên iOS 16 \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,11 +21,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/NoPasteAlerts16/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -56,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"0xkuj"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.1.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -70,12 +66,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"54 KB"
+"text":"8 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 11.0 đến 16.x"
+"text":"iOS 16.0 đến 17"
 },
 {
 "class":"DepictionLabelView",
@@ -92,11 +88,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.1.0\n\n- Sữa lỗi trên iOS 12"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by Biện Văn Nhật",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
