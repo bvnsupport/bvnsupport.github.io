@@ -12040,6 +12040,24 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
 Author: FoxfortMobile
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.recordpause
+Architecture: iphoneos-arm64
+Version: 2.0.2
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.2_iphoneos-arm64.deb
+Size: 10064
+MD5sum: 37e16eb8196f89f267063598c157fd5a
+SHA1: 1dda29d61d68de52e0d921ca884e3dc1caf4b60e
+SHA256: 95dd1dedc0c2ebd2352ea830429beecb5e96f4389d2966b4639daac30dbb4d2b
+SHA512: 2e9af60ff2fa15147d6397287da8820551bb297ff8f38511c1da75da6459b5844332e7a7d27b57891fded36bfb88980224da7b6c42bb1189a9d6e4852e78780d
+Description: Tạm dừng/tiếp tục quay video.
+Name: RecordPause (Rootless)
+Author: PoomSmart
+
 Package: com.bvn.redblue
 Architecture: iphoneos-arm
 Version: 1.0.0
