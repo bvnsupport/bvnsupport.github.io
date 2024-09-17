@@ -9269,83 +9269,42 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.3dappversionspoofer
 Architecture: iphoneos-arm
-Version: 1.3.1
+Version: 2.1.0
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 428
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_2.1.0_iphoneos-arm.deb
+Size: 79746
+MD5sum: 34d2d00f67465e66f5644800e5a166be
+SHA1: 60b39888b61c1c42cc8e946b1e02eb54b74f74b4
+SHA256: 8f3456e551adaa25fcdb11c239cad46f0160a84f23df6f5e11406df0d8637ad6
+SHA512: 0c7ff7e557e7176079733c37a7de565422a5640e2b607aecaac694b6b85621a131615d484146a6d1247ab0c2451c15fb8c1217768a6b2f5efa752164a90415fe
+Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
+Name: 3DAppVersionSpoofer VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm64
+Version: 2.1.0
 Section: Tweaks
 Maintainer: BVN
 Installed-Size: 408
 Depends: com.opa334.altlist
-Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm.deb
-Size: 70482
-MD5sum: be9cd0ff8463a175657e1a8a19ea73b7
-SHA1: f4246fbf88475e9a8fc6e86f0815926382e3e9e3
-SHA256: 637de5a2a632fb99dfea536f76346b1c06dd86efd7440b91e42aab9b9ddab59e
-SHA512: 5cd1b8a61288da15f09e1d8aad461df2002de38692d8daee8b5b7f057b3c5facf4c815ec84364d156bc2ce9e97d985cba5cb68607a8f7b5430b84b18bcebd986
-Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
-Name: 3DAppVersionSpoofer VH
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.3dappversionspoofer
-Architecture: iphoneos-arm64
-Version: 1.3.1
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 424
-Depends: com.opa334.altlist
-Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm64.deb
-Size: 70672
-MD5sum: d1951aa3854f1e7cb232a6c9fc026fde
-SHA1: a3cdf4cb9433db7c7c25ee090a546c004f5ff0f2
-SHA256: e3faf3de2bfbb15480c46caf8e9635c6be93d4ac16e3d10e36386d910c0fba87
-SHA512: 5dcc9a7cdd16da9df5538f9f98763e4d385ca222844e46fad9cd4d19ceddc490231469084da1ef56c624977d19e4499749c19a90756c6f778942edd4a7e7b5e1
+Filename: ./debs/com.bvn.3dappversionspoofer_2.1.0_iphoneos-arm64.deb
+Size: 81904
+MD5sum: e98e88e521a4051f96684b5581f3783c
+SHA1: f95d4d1b6835cfecf1740758d13879cb8d1cd554
+SHA256: 64e58e467b64a8db1732452f10e735690b01f0c9392109fb6fe622250053ce42
+SHA512: 5a8e6a49eb45ab9b3ca25cd6020a4f80ce8732efa572fe1b900dd589f45873305bcc18344064bfaf26b77e478098b44971a52ea2682fb032a16f875499341ee2
 Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
 Name: 3DAppVersionSpoofer VH(Rootless)
-Author: 0xkuj
 Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.3dappversionspoofer
-Architecture: iphoneos-arm
-Version: 2.0.4
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 428
-Depends: com.opa334.altlist
-Filename: ./debs/com.bvn.3dappversionspoofer_2.0.4_iphoneos-arm.deb
-Size: 79236
-MD5sum: 4c2d214cc3b0b5527b5462939053f426
-SHA1: d6128ef470bcd01c5760e00965e4b53ee10e9dff
-SHA256: 8405e76a68b4fdcd9c375bf331547e70cd0c422bc6ce0f96f808df6896cedd4b
-SHA512: 9764096d2179afdb91ecfe6441fdd3054648070aa868332b0f549a228c90067454396dfdec2c644264486662a63bcf880298745686da3e853d69e58d782bbab2
-Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
-Name: 3DAppVersionSpoofer VH
 Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.3dappversionspoofer
-Architecture: iphoneos-arm64
-Version: 2.0.4
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 440
-Depends: com.opa334.altlist
-Filename: ./debs/com.bvn.3dappversionspoofer_2.0.4_iphoneos-arm64.deb
-Size: 78582
-MD5sum: 8e4ee14f4490c89b33f40989144216f2
-SHA1: e463bb4867615ddd25c5c8cdf062f45e71bbcdf7
-SHA256: d3d8b9fea187448613fc078b462f867931ac9d65accae431a1ef887361cc452b
-SHA512: 6bf5226c7f1c6c39a59026dfaaf0f10b3a418edefd69fd90371c65685a3169edd53331f798a71deb6ac3bac584fa5a14c489a6cc9d08ff55e1e4a1178e767cd4
-Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
-Name: 3DAppVersionSpoofer VH(Rootless)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.Alexana
 Architecture: iphoneos-arm64
@@ -11810,6 +11769,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
+
+Package: com.bvn.nopastealerts16
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.nopastealerts16_1.0.0_iphoneos-arm.deb
+Size: 6230
+MD5sum: 31a0c4697e1b8eeca920e2434efa35fc
+SHA1: 0ad7d75d6d33914936e1d7f8f6347b323f10da2a
+SHA256: 54f25310c76d8c5ebf7cb98305529ff1809c7f3f2adc2feacd43a9e3e873960f
+SHA512: 6724707fc2b5a54d6f66ac732d4c2f87fb56688bccaf3c96e4cc739f6cd9b92bedf3ba635d50876988c7fdca879bf950c9b19c6348315126bd217ad7297c5b69
+Description: Loại bỏ xác nhận dán phiền toái được thêm vào trên iOS 16 .Remove the annoying paste confirmation added on iOS 16
+Name: NoPasteAlerts16 VH
+Author: 0xkuj
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/NoPasteAlerts16.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPasteAlerts16.json
+
+Package: com.bvn.nopastealerts16
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.nopastealerts16_1.0.0_iphoneos-arm64.deb
+Size: 6318
+MD5sum: 53f4f1f496d57bdf97c9da5ce77ea736
+SHA1: 0b2a49d22b3cdf6b3261e988249da4ac13cb04a5
+SHA256: 53eee545e1da83d2eb2309ffa6c6df8da8de077043aaf668874688e1d38b0c4e
+SHA512: 0ee59e1af9f98f765aa8f326db9d02312801740452832fb028cba8e92106e1ba386728f18405b2a0092152a1c737f77bc5b8077a6f9341a7bb6163a42b945f2c
+Description: Loại bỏ xác nhận dán phiền toái được thêm vào trên iOS 16.Remove the annoying paste confirmation added on iOS 16
+Name: NoPasteAlerts16 (Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/NoPasteAlerts16.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPasteAlerts16.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.notrecording
 Architecture: iphoneos-arm
