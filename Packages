@@ -9383,6 +9383,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Christmas.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Christmas.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.EdgeSiri-Rootless
+Architecture: iphoneos-arm64
+Version: 3.1.1-9
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.EdgeSiri-Rootless_3.1.1-9_iphoneos-arm64.deb
+Size: 25660
+MD5sum: ab01b02de5b40048d3009e796374d836
+SHA1: 8a0b3e76ed1908be915e7e7a1d8e5ab2e8ef7dbf
+SHA256: b5b99c8eb74b5986477c0f4646b2d311ccf2a211fe75e3a24cff6947bc9e6e35
+SHA512: 27a7e2a5bc6e22a37478770cdce5098f0fc719fb734fa2d198ceb5f94c570a7b4cb07d5a8f9867da7ed559a66812a1a5195191234dcdf87f3d61f77bc76cbb19
+Description: Đây là một plugin khác bắt chước iOS18 và không có cài đặt. Có hiệu lực ngay sau khi cài đặt, nó sẽ hiển thị đường viền màu xung quanh màn hình khi Siri được kích hoạt. Viền này không chỉ tăng thêm sức hấp dẫn về mặt hình ảnh mà còn cung cấp phản hồi trực quan hơn khi sử dụng Siri.
+Name: Edge个Siri (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Edgeseri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Edgeseri.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: tangerine
+
 Package: com.bvn.Exodar
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -12552,43 +12572,43 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 5.1
+Version: 5.2
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2724
+Installed-Size: 2732
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify_5.1_iphoneos-arm.deb
-Size: 954918
-MD5sum: 0015d1d267f1d7bccc957b9c1c974387
-SHA1: fa8cb89c4c0b9ee5d6dd760c3677d610c8969694
-SHA256: 5f755fcfc30a9192307f2eabbfa25e89909870871bdc1dc9c25d4c355bfcb969
-SHA512: 2353b70391a1268c4b69fce455615d3b16119c95b67c7e10d59f7ad923d3361334270baf8fe295690ebb8c9c8d49e5d617ab75f23820d7bd861d778757a44968
+Filename: ./debs/com.bvn.spotify_5.2_iphoneos-arm.deb
+Size: 957474
+MD5sum: bacce8427b1dfe2a089493fb4b8a46c7
+SHA1: 83311db30a18fe3de04d7f59ceb36b01c928a2c9
+SHA256: bec1b19c2ff4e30503bba2e8d11e98e30dad49d82bc253dd587ff3350b12b9a5
+SHA512: 53108f1f2d4e778b1bdecca00f1c1614a5a47f5f2e654239974b1d8142378e48fa23e39de83bf87c064e7308b54b492be56cbc44397400774d88d2da27d160a8
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify VH
-Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Eevee
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 5.1
+Version: 5.2
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2724
+Installed-Size: 2732
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify_5.1_iphoneos-arm64.deb
-Size: 954820
-MD5sum: 3ec5467346cff57a8fba59477026d52d
-SHA1: f2ae9ded8966032719b9dee550a32bb23f6778c1
-SHA256: 791142713308b070d3eb2c502156e5c28c34a8217367d54269ee834fb820f1a3
-SHA512: ed9de9eecc937f840363e3d7fd697af5f8275f60a28f44f54cb21022bec5b85c62d78458d35b6332b683587261ee38a8f3eafe86c2467b926d5558275a7f3449
+Filename: ./debs/com.bvn.spotify_5.2_iphoneos-arm64.deb
+Size: 957384
+MD5sum: c0267461ccc7814246481c703d73846c
+SHA1: 98a2f3d75952afdd1c12f2281fe4859a2ba05f45
+SHA256: fb30b3ef8c3e677591d8cc99804e8fcc1406d2c998b74ee2c565adde77b9f3b5
+SHA512: 65ed58326c74c8d453133ac8a1ef17bc452f459f2f00d0ace2ff98b0625074864e2e73c533960fc9516fdd066f9dac5578858a1a4516b7343b13d16a97790b6e
 Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify VH(Rootless)
+Name: EeveeSpotify (Rootlesd)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
