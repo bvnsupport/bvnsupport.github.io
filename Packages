@@ -13095,6 +13095,44 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Coolwcat.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Coolwcat.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvnrepo.Custom-Black
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Filename: ./debs/com.bvnrepo.Custom-Black_1.0_iphoneos-arm64.deb
+Size: 360728
+MD5sum: 7a73913ddb5bb078c1baaf57b1dcd6eb
+SHA1: 4d72ddf61a8fcc264553b2513a9a5e552266a9bd
+SHA256: 9ec08cd36b17157f45b9c74615028363c1362c173ad022629ae4262861b3b933
+SHA512: 4deadb2fbfb2b32d2f1055ef3791e00de55629d5e77b07cdd8391e3b0466e764b0f4a8580a5879b84aaaf634d1faa0a74aa4787bacacd7acb791a25844f3337f
+Description: Chủ đề bàn phím cho Laetus
+Name: Custom-Black (Rootless)
+Author: RebOOt edit
+Depiction: http://bvnsupport.github.io/infodeb/Html/Black.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Black.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
+Package: com.bvnrepo.Custom-White
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Filename: ./debs/com.bvnrepo.Custom-White_1.0_iphoneos-arm64.deb
+Size: 360984
+MD5sum: 8c8dbf1191398972b2fc36df01d2c466
+SHA1: 5231a7ea00027f2fbaeb745684d608093440cdf7
+SHA256: 864fee35e3e56a219e2b0c85d8e269eece72d2d3555adf0ecfa46cfa0e5881c9
+SHA512: f347d932eb9067255862305e5a0fe4beb8bb57382321e7b8aec9d7c1dec712d7ee31be1013c57cb7af78c0e7e5f379b7dac46d9f8955dc6fcc27fcd78d3ad10e
+Description: Chủ đề bàn phím cho Laetus
+Name: Custom-White (Rootless)
+Author: RebOOt edit
+Depiction: http://bvnsupport.github.io/infodeb/Html/White.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/White.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvnrepo.Starfall
 Architecture: iphoneos-arm64
 Version: 0.1
