@@ -9083,17 +9083,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.ytmusicultimate
 Architecture: iphoneos-arm
-Version: 1.4.1
+Version: 2.2
 Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 528
+Maintainer: BVN Repo
+Installed-Size: 26420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bienvannhat.ytmusicultimate_1.4.1_iphoneos-arm.deb
-Size: 130566
-MD5sum: e8aaa2eedf28d4fdaaceeff8a9f5143d
-SHA1: a12232a09a1aafb46fa8d332c6834e80d7760cef
-SHA256: 6d4538391bee5f0ce10f29f94846587cde37a17ea3ac1dbcabe4b8b68ca6808d
-SHA512: 948ae75d920fe55deeb35cee633739a10ee41766f2ebbf3cd4b8714e019b80f772d40634661d25bfe1ada3092838724b5868b59bfa543df520f0192f201b1cf1
+Filename: ./debs/com.bienvannhat.ytmusicultimate_2.2_iphoneos-arm.deb
+Size: 12339860
+MD5sum: 6a30a4a125074ef9259aa96eb93c459b
+SHA1: 378c921b619870f43fee32b41d9bd52dad6a8ff1
+SHA256: d5c80f4e65ee4cf22924e6f9dfa37537a7520d5381303c2520a291f7bfe46703
+SHA512: 6af877032af30b120b6d37fcc8155098d68563b0c342f471d3e3f1d7176ee28b9e467e0cc3390ad33145c45ae1407015beaf04e8e815f3ca0acc727788f324a6
 Description: YouTube Music Premium
 Name: YTMusicUltimate VH
 Author: Ginsu
@@ -9103,23 +9103,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.ytmusicultimate
 Architecture: iphoneos-arm64
-Version: 1.4.1
+Version: 2.2
 Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 528
+Maintainer: BVN REPO
+Installed-Size: 26420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bienvannhat.ytmusicultimate_1.4.1_iphoneos-arm64.deb
-Size: 130652
-MD5sum: 36b3c10babec4282270283ddf1f09760
-SHA1: b05f904c3af336443062ca053b9a9f643de0f715
-SHA256: 0f70a68f1e16369b02f05e153cad97a3c7cf01bbf0b7d76a01c48639c8b1783b
-SHA512: d7e0285c108fd7a3273a88ec4f7beee3c3d14829a683ebae2ed507019ff293c109c4f0c40234d13764b0926c1f1285d42ffffe3ba84a4731516adcb6a5191b9e
+Filename: ./debs/com.bienvannhat.ytmusicultimate_2.2_iphoneos-arm64.deb
+Size: 12339798
+MD5sum: 7fddff932edc1bce039bc465a71be027
+SHA1: 3ddf259757dc864043dfc3a98bb7282227e137d2
+SHA256: 6a558d3439712c3176b01342dc773862e8844c92fddc83325b71e96a0905169f
+SHA512: 6673849d990d2249f49f79dfd8ef590d3a3b74101ca5c2f1d4793e2a222c2d1335bad6da3334d2de2579c6f2e6c60b90dd591a4bbcef66927177d7584ad6f37b
 Description: YouTube Music Premium
 Name: YTMusicUltimate VH(Rootless)
 Author: Ginsu
 Depiction: http://support-jailbreak.github.io/infodeb/YTMusicUltimate/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/YTMusicUltimate.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
