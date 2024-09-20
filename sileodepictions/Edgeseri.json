@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://bvnsupport.github.io/features/Eevee.png",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"EeveeSpotify\n\n- Tinh chỉnh Spotify Premium miễn phí giống Spotilife\n\n- Tinh chỉnh hiện có thể chặn các yêu cầu của Spotify để tải dữ liệu người dùng, giải tuần tự hóa dữ liệu đó và sửa đổi các tham số trong thời gian thực\n\n- Để kích hoạt chế độ Premium bạn cần vào cài đặt của EveeSpotify mục Patching Method và tích vào chế độ Dynamic\n\n- Tùy chọn Không kích hoạt Premium [dành cho người dùng có đăng ký Premium đang hoạt động]\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
+"markdown":"Edge个Siri\n\n- Đây là một Tweak khác bắt chước iOS18 và không có cài đặt. Có hiệu lực ngay sau khi cài đặt, nó sẽ hiển thị đường viền màu xung quanh màn hình khi Siri được kích hoạt. Viền này không chỉ tăng thêm sức hấp dẫn về mặt hình ảnh mà còn cung cấp phản hồi trực quan hơn khi sử dụng Siri. \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,19 +21,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/4.png",
+"url":"https://bvnsupport.github.io/infodeb/Edgeseri/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -62,9 +50,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Eevee"
+"text":"tangerine"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.1.1-9" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -78,12 +66,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"316 KB"
+"text":"8 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 16.x"
+"text":"iOS 15.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 5.2\n\n- Đã sửa lỗi màu lời bài hát gốc"
+"markdown":"### Phiên bản 3.1.1-9\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",
