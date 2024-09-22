@@ -10708,6 +10708,23 @@ Name: Cylinder Reborn VH(A9-A11)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ryan Nair
 
+Package: com.bvn.darl-rl
+Architecture: iphoneos-arm64
+Version: 2.6
+Section: Theme Rootless
+Filename: ./debs/com.bvn.darl-rl_2.6_iphoneos-arm64.deb
+Size: 75716132
+MD5sum: b3a539a6306f5d14aa8547134ca3b5e9
+SHA1: a50159a7bc94daf34dd664dbeaf562190e567870
+SHA256: 5ccbaac9330e5b121228d5ba26bcf9041749831224868ed85b38df9df77689d0
+SHA512: 35cdbd2b02a48ef43e525ee55b75205ee56f6e03be3e5642876f43600d905137d87baa2130e065c49b6b4bb3bc65842dcdfff13812c556fe90b975575fc362ff
+Description: Mojox Dark 3600+ icons
+Name: MojoX Dark (Rootless)
+Author: Rifai
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MojoX.json
+
 Package: com.bvn.wolf
 Architecture: iphoneos-arm64
 Version: 2.1-2
