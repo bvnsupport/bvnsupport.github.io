@@ -10134,6 +10134,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/BeautyPlus.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: BeautyPlus Vip(Rootless)
 
+Package: com.bvn.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 916
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bvn.bhtiktok++_1.1-1+debug_iphoneos-arm64.deb
+Size: 242336
+MD5sum: 17272e6eddf9739bd9e488687037c941
+SHA1: bef84e74cda3597e4430f8c4a7d4af532e82b39b
+SHA256: 2b4af95fc183c9c918dbff2d56e6bc561c08901656cabb6e27adeccbcaf70041
+SHA512: 26265fa0ee09f9b721e5251ae95dedcfe01821075d173e8d18b3bafc7e7220cfce896f0138953e1d5e635eda2614d13a5f581cfc695b7407ed8642684dfc1fa0
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++ (Rootless)
+Author: raul saeed
+Depiction: http://bvnsupport.github.io/infodeb/Html/BHTikTok++.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok++.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.bhtiktok++
+Architecture: iphoneos-arm
+Version: 1.1-2+debug
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 916
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bvn.bhtiktok++_1.1-2+debug_iphoneos-arm.deb
+Size: 242232
+MD5sum: 99769daa3089b882b76cc1c3c876b30e
+SHA1: 210fc9608f1f3e984bb31e610639d08d8ecba7ec
+SHA256: 0144de7cda5215114ea80b1a4c715ea7cdb10f2128da03e49f70ac0622ee0767
+SHA512: 025101e7fb6ae2b8e1a7fe08c8ed12fb8e95a9ba2bead012b1bd335247dcb16241309973a0150deae4360ff2883b518f67b763b60dd2102c7296ab73643ced25
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++ VH
+Author: raul saeed
+Depiction: http://bvnsupport.github.io/infodeb/Html/BHTikTok++.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok++.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.bhtiktok
 Architecture: iphoneos-arm
 Version: 2.3
