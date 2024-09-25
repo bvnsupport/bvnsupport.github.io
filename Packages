@@ -9267,6 +9267,53 @@ Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
 Name: 16Player (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.2dock
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.bvn.2dockx
+Filename: ./debs/com.bvn.2dock_1.0.0_iphoneos-arm64.deb
+Size: 9684
+MD5sum: 63953f7501b5957e7c360e0cb89e5803
+SHA1: d899ab7aaaf390aa8c5ceb77fa4650c934d06ca0
+SHA256: bd9ff8edf692bbf46fc41b5a9eb533bcdc93ccaee593b8955fdcc3c9470e0845
+SHA512: 1d7b77983973d915c7fe5886ddeb962d47b374e13a17d951aac13c493ac18d758b70533130abeecf8043560548d0c3f365f26ce89069818b0fa19eddac0e7ce3
+Description: Dock 2 hàng
+Tag: purpose::extension, compatible::ios15
+Name: 2Dock (iOS15+)
+Depiction: http://bvnsupport.github.io/infodeb/Html/2Dockk.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/2Dockk.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Minazuki <minazukidev@gmail.com>
+dev: minazuki
+
+Package: com.bvn.2dockx
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 116
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.bvn.2dockx_1.0_iphoneos-arm64.deb
+Size: 9666
+MD5sum: d5354aba93d97058b886b8867f47890f
+SHA1: 2710c7ec784e5ca3186d39a3ce0fba8170541c2b
+SHA256: 64e54e91061649a9e08d5510c663ad7844856ddfecefcfb852129df59e778ed9
+SHA512: 836abbf7aad02d4849c767285f6d113b42bf3fed29eef6ee8a8021fe5e610c81cf4c0a5eb0d84ae35f199d586fce1715bf785582213a8cce75f8fc51a5019b50
+Description: 2 Dock
+Tag: purpose::extension, compatible::ios15
+Name: 2Dock X Rootless(iOS15+)
+Author: Minazuki <minazukidev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/2Dock.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/2Dock.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+dev: minazuki
+
 Package: com.bvn.3dappversionspoofer
 Architecture: iphoneos-arm
 Version: 2.1.0
