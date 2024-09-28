@@ -10045,19 +10045,19 @@ Author: Max Patchs
 Package: com.bvn.ango
 Architecture: iphoneos-arm64
 Version: 5.0
-Section: Themes
+Section: Theme Rootless
 Maintainer: BVN REPO
 Filename: ./debs/com.bvn.ango_5.0_iphoneos-arm64.deb
-Size: 63179862
-MD5sum: 8100d49eb89dd70e09dc05782a5a5b0d
-SHA1: 4a194ef1208c393ad9c4e53de801f5932c3a1f09
-SHA256: fea2020212065c14173356aa1d73ec7d8a8edda0789301135d134cdfb5523a1e
-SHA512: 2e3e986cafcdaa2b74e013ac9cd0b4645f57ba68b9ad79d87dc6b2ffc27624fb51dcfa771a2ee602da96673625fb85e90c3a45ba5cef09609b02a8486328bc50
+Size: 63186212
+MD5sum: 428c4f2af5d81d3057d67f8f2e095216
+SHA1: c1a11aa4cb19b39e0011da913f3458c7a2c96893
+SHA256: 8e3ff491fbdeebc5c15196830e1901122bcf38dcd82ad32679081284b4e6004e
+SHA512: 365d954e9edc0b9438fc5bb15501fe68e11ec16acecd50a132735a4fe91c862f79959c25a45d04d7dec94afe903fc66813aa52b7ca0ab3f30d2767d10aee0eff
 Description: ango is made from mango
 Name: Ango Full Theme
 Depiction: http://bvnsupport.github.io/infodeb/Html/Ango.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ango.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Author: Max Patchs
 
 Package: com.bvn.appleturboboost
