@@ -14369,6 +14369,23 @@ Description: Be the god of your games!
 Name: iGameGod Rootless
 Author: iGameGod
 
+Package: com.gamegod.igg.rootless
+Architecture: iphoneos-arm64
+Version: 0.4.3
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 200736
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg.rootless_0.4.3_iphoneos-arm.deb
+Size: 37215782
+MD5sum: 289afd4ca7b9b8fbda914ee6a69c6239
+SHA1: c2c50fd2f2119f3a8c12165047e0066aabd98641
+SHA256: c2f832125c729ef39ca8bdffbf8e21414ed738f47b3b47f584f424a26f9af229
+SHA512: a2d8bf284af2d15eea3bf64459c1bdb76dcfdea4bac6c9202b0b666d3cae090f7948958321fd68eca67137ced5b44c63a13ae3e211111133288fa9e9564d3730
+Description: Be the god of your games!
+Name: iGameGod Rootless
+Author: iGameGod
+
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
 Version: 0.4.2.1
@@ -14382,6 +14399,23 @@ MD5sum: 6d0189ad23c8b66fb6358b8efe220305
 SHA1: 95dc9add7953950d35612f458c392ddfa1e50a99
 SHA256: 2c1b1c5f7f6dcebd9525ba43e36d7bef98fddae74ecf83943dae9b53fe2f84a4
 SHA512: d88deb13d08d40956ecf97adf67369dcd47ebeb2ef4175848e78efaa33801479e12954a3b4d6a14c3290e200f0c834014a814d11326563579395a66edbd96f17
+Description: Be the god of your games!
+Name: iGameGod
+Author: iGameGod
+
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
+Version: 0.4.3
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 200952
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg_0.4.3_iphoneos-arm.deb
+Size: 37252628
+MD5sum: 487fcbd4bf620a24effa0bdf281e56e1
+SHA1: d36c8ea069d45fc69d01aa31a0385fe71cf814b4
+SHA256: 6b021fb578a2527b08734e8b69a5fdebf70aa8ae5625aa7aeaab485d4fc68731
+SHA512: 56bb569f548ec3bab900288f4ffa8448f996995ebd7166ef5789be1a29c1d053c9c4e32fdcbf081ee30edd13fac85ba718c08aadd351151dfa5ade09b2d51290
 Description: Be the god of your games!
 Name: iGameGod
 Author: iGameGod
