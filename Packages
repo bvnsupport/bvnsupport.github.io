@@ -11892,26 +11892,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.nointerruptwhenplayingmusic
 Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/com.bvn.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64.deb
-Size: 8100
-MD5sum: dec7bd5caaa2342caf2765bee95db0f6
-SHA1: 25b08b86ad3ae7cc701c78afbbf2b4e3ea467241
-SHA256: 7a649f301930cb7b7e48f93fad0ae9ed3bb5f365e9b1350c3bb7cc188c4862d5
-SHA512: d5593382f80fbfbf4d8851476191023d092fe658c3e203036f74fa1eb6e4a4f597cdffd67abcea95a36de10df46929d32d126c26b7dea928456c5a956b6414be
-Description: Thông báo yên tĩnh khi nhạc đang phát.
-Name: NoInterruptWhenPlayingMusic
-Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Ginsu
-
-Package: com.bvn.nointerruptwhenplayingmusic
-Architecture: iphoneos-arm64
 Version: 1.0.2
 Section: Tweaks
 Maintainer: BVN Repo
@@ -12555,6 +12535,46 @@ Description: Hiển thị nơi bạn chạm vào màn hình
 Name: ShowTouch (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: LonestarX
+
+Package: com.bvn.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.silentnotifs_0.0.1_iphoneos-arm.deb
+Size: 5066
+MD5sum: 69ce5387489cbb0a08bb31314f3957cb
+SHA1: 2c5cee349f1814621e0eb4cfcd8748b4bf8c85d8
+SHA256: 82550765c3175a00c5bb1fe2ca11b006fc5700e4ac3dc481b23c72c42e433098
+SHA512: dd2bb2934b0b4de0fe9081a2e4e53d9e8be575768f5763a0661437cb80c87f1eba56c84058d00201a5b9e1ffb09fda411f5dbc651bf477f94f548fa00fcd5a27
+Description: Giữ thông báo im lặng trong khi phương tiện đang phát
+Name: SilentNotifs VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: dvntm
+
+Package: com.bvn.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.silentnotifs_0.0.1_iphoneos-arm64.deb
+Size: 5192
+MD5sum: a6896e7d84a6c9810ecb0ee0194fbf26
+SHA1: 92d2fa84b17d78c5f890d76db66a45a971be87de
+SHA256: f89df0625aa3dae9e9612ea4307df6520328a70f927b86fd6aa92c407482e79d
+SHA512: dbad1f79ecff891d8c484a34c5567f6473c155ae31bc10fef56fa6430b877c836576a67de907d68a0dbc778c94607437d95e63f2fd13c320a79514360e335d19
+Description: Giữ thông báo im lặng trong khi phương tiện đang phát
+Name: SilentNotifs (Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.snapeditpatch
 Architecture: iphoneos-arm
