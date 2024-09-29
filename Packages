@@ -12616,41 +12616,41 @@ Author: Sniper @DNS_Sys
 
 Package: com.bvn.solstice
 Architecture: iphoneos-arm
-Version: 2.9.6
-Section: Themes
+Version: 2.9.7
+Section: Theme Rootless
 Maintainer: BVN REPO
-Installed-Size: 53172
-Filename: ./debs/com.bvn.solstice_2.9.6_iphoneos-arm.deb
-Size: 50091390
-MD5sum: cd34da342f46fefa7dd2a5d9b0a82e7c
-SHA1: c87e2eeb952053c144d3bfa105188886a07d1290
-SHA256: b6ee6aa5ee988711012be8d7dd2d433980d17d0acc8675b2d514aca2d71b748a
-SHA512: 53cf98f0f059f286a16e52b1215629bce0d5602d014a11a5dc0d28794a4f20333a435901393b14603edbfb15dc7bb446eec4d40adc98b268bcbe12a438091642
-Description: Solstice Theme 2800 icons
+Installed-Size: 54583
+Filename: ./debs/com.bvn.solstice_2.9.7_iphoneos-arm.deb
+Size: 51451620
+MD5sum: 8e7ca0fb1a3f8926ce862ae6ec8a808c
+SHA1: c5f7ff7472399136c149273dfcd2351d19346907
+SHA256: 94fc07cdfa3c96529700bb1df1ec85ed959e94779a16ef7316d001a7440eaee1
+SHA512: 877d6a0a2397236bf3e2893a4ae3d8e5368c9a566d0d62e53cf05c0ef3eb6b4dffeb448a7de2887127ecc1cf1db99be0fbbac02c9c9c53bb8b67cac14f5afdb5
+Description: Solstice Theme 2900 icons
 Author: Rifai <icons-requests@hotmail.com>
-Name: Solstice
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Name: Solstice Themes
 
 Package: com.bvn.solstice
 Architecture: iphoneos-arm64
-Version: 2.9.6
+Version: 2.9.7
 Section: Theme Rootless
-Maintainer: BVN Repo
-Installed-Size: 39667
-Filename: ./debs/com.bvn.solstice_2.9.6_iphoneos-arm64.deb
-Size: 50098848
-MD5sum: 3a532424be68b6f901a91c4847ac45b1
-SHA1: 0e45e387dcb8aa9c4347e0cbbb7b34cee881694f
-SHA256: 7318b67e8571e0ade8debeb387aa331e1b2e63253f8663c93071f5eebf680ed2
-SHA512: ad94f05c1328e1fd03fcfb78fa9749d6673833eb067fcb70db1da094760bf729ffd2dd0481daeb1007cbd77c7158fe4dc6bd6b712780f5f33fa77f983629e2b1
-Description: Solstice Theme 2800 icons
+Maintainer: BVN REPO
+Installed-Size: 54583
+Filename: ./debs/com.bvn.solstice_2.9.7_iphoneos-arm64.deb
+Size: 51459606
+MD5sum: af6f24f96ee71feec8ccf99bf1efff38
+SHA1: 910037b552ef91f8e36c90b23c5e5499b8561c0e
+SHA256: 21969dd5cbb368887f89cd297df4fb07e55077226ac059f507ea81fa7301e097
+SHA512: 5df0c15e184455953d270a0642dfdcbc9aed0707cfe79768f370b3ebf80817c2043ecaa2dbb5ba05d219a5d2b11b57ebdfd0757f24660e0dd74b22692cfef2c6
+Description: Solstice Theme 2900 icons
 Author: Rifai <icons-requests@hotmail.com>
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-Name: Solstice
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Name: Solstice Themes
 
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
