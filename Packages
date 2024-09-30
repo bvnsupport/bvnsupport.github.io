@@ -12989,6 +12989,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.vcam
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vcam_1.0.2_iphoneos-arm64.deb
+Size: 79216
+MD5sum: 82b2b5f2e51cca1bdb643d599a8cd9eb
+SHA1: 97c818c3af0d9f1ea663fee47e6b00a4bfd06a94
+SHA256: 3d436a2f9d841504629ee41dc905f8659c937bd9048d288bb151eed66179d2f6
+SHA512: d3ff41a15f6bcfc2939c2ac5c271f53ca85710a7cffd2c1dbc5c61df0c972435c0a65ac4530f01cdaeb855fb28af9b584acfcb82f4c4dbab06fed9b122e513db
+Description: VCAM4iOS
+ - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
+Name: VCAM iOS (Rootless)
+Author: trizau
+Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.verxina
 Architecture: iphoneos-arm64
 Version: 1.2
