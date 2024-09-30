@@ -111,45 +111,24 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.vn.onesettings
 Architecture: iphoneos-arm
-Version: 2.1.1
+Version: 2.2
 Section: Tweaks
 Maintainer: BvN Repo
 Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
-Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm.deb
-Size: 372060
-MD5sum: 97127915f408d351070730cd0111a1d9
-SHA1: f1e4f44b55c7f16b1bfc3f3c7e1291fb4713e241
-SHA256: c0c74ae2ba6a01266ff35fa27bb509ff25d7847f6c7997c38f9101912cd1e1c5
-SHA512: f7fe6c7e0c63abf8e7020af81340101f3921004b9f679901be4d998f6783195d91f976337a3502bcb6c183b903aaeb9fc06b02aef4755fafe85415282f38e7e3
+Filename: ./debs/bvn.vn.onesettings_2.2_iphoneos-arm.deb
+Size: 331546
+MD5sum: d3d6f6cc5fd50338f1fc5b11761b4de4
+SHA1: d6ff6c6359d86dcb06c05b653612ccb1a403b7d1
+SHA256: 5f18684db2ecc07ac7a6670d4beb22db0c1530aa2a95ac442041bd598de116f6
+SHA512: 51dcb376cd33f15aad768bd73d5abda1f3d41d9ae821b27b50c7b5ad03860d3cb0fde21b0b26205f1f5aa12554e1706b96ce5b87a9ba713c2e6b3db5e46303e7
 Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
 Name: OneSettings VH
 Author: Nightwind
 Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: bvn.vn.onesettings
-Architecture: iphoneos-arm64
-Version: 2.1.1
-Section: Tweaks
-Maintainer: BvN Repo
-Installed-Size: 1117
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
-Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
-Filename: ./debs/bvn.vn.onesettings_2.1.1_iphoneos-arm64.deb
-Size: 347798
-MD5sum: c7b0ab3691fc1e4f9088d2cda98c0f3f
-SHA1: e43554a1cdbbac2e8ad85dc7dd3960c3fe97b878
-SHA256: 27b0371b265bfec5680f0bf41b3d641788cfb14595180b7197d98eb7f22fe77d
-SHA512: 0c20d341a608758fd2712ec44a9448337571325df9dc33cbd646d1f1e574812134c883813c96dc75215ec9b5d1649aa835a6e52917b3bab3ab0584ed00e8bc7a
-Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
-Name: OneSettings VH(Rootless)
-Author: Nightwind
-Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.vn.onesettings
 Architecture: iphoneos-arm64
