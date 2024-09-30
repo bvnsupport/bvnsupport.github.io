@@ -9854,17 +9854,17 @@ Author: Mao
 
 Package: com.bvn.VQ2024
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Section: Themes
 Maintainer: BVN REPO
-Filename: ./debs/com.bvn.VQ2024_1.0_iphoneos-arm.deb
-Size: 8242
-MD5sum: 8af4f8bef1ce33ccf20ace913cd33d47
-SHA1: 432c8468d22699a8e474565b7a7a55c45060fb5c
-SHA256: 01140df1a64f0abe739d93eec2457efbd4b3dba1c03c01f59559ddfb7020dc05
-SHA512: 520f998f939a881e9eec7ab59bec5810fdc8cc3e99aeed85f9762b37ecaa1f36e1e2e5a4a3d5c5a8efc835d53dd5f413485f43280bb46a32c900a4444b8074d5
+Filename: ./debs/com.bvn.VQ2024_1.0.1_iphoneos-arm.deb
+Size: 26844
+MD5sum: cb2839644affdbe48dfa2ef7de531927
+SHA1: 09570acdb5dde62f9bc0d26b79ab55e014268c00
+SHA256: 1929146155ca973a3e586f5a6745364edddfd766e81cac12f6447a12087b81dd
+SHA512: 67f1d5e62537d20a474f650d318e4b3e7a3e2f7363d8951b468782b7030c915441203a73dbb5b449c0c72535b8fda37dce5830a59be44c4d7e92082a081dd100
 Description: Gói AE nổi cho Theme
-Name: Mask VQ2024
+Name: Mask VQ2024 (Rootless)
 Author: Vũ Quang
 Depiction: http://bvnsupport.github.io/infodeb/Html/VQ2024.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VQ2024.json
@@ -9872,21 +9872,21 @@ Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
 Package: com.bvn.VQ2024
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0.1
 Section: Theme Rootless
 Maintainer: BVN REPO
-Filename: ./debs/com.bvn.VQ2024_1.0_iphoneos-arm64.deb
-Size: 8340
-MD5sum: 052a3c417a2fd29eddc2c8f1dd7b1353
-SHA1: 7586f6eef37772683cedf29a75eccbf726956172
-SHA256: 49d7e5e046c627bfd57744ec5bc7a3e06c7aa2cb43ca9dd62373c211e2a9e671
-SHA512: 0c98cbc8b8f971b5b502293938aeb9407a74e99d4e7b8f1df2f2db1adb08a9f40c92501f629225a18ec743a26a56d01ca99e5b6f717ec92c68f13bf2d31698c6
+Filename: ./debs/com.bvn.VQ2024_1.0.1_iphoneos-arm64.deb
+Size: 26936
+MD5sum: 67170494e110d438e0dd784a81f635c0
+SHA1: d9e717618cc3a23bede09880731800a36f6d18d2
+SHA256: bf6d4ea7e0e65398816639970c8e89f79944fbc0ddedce478cde9310fca570f7
+SHA512: c1bfca6aa635d2fc5480399dc991130e45395a9d7620bf45b74199f006c4fafaec8a1cfe3dd7f641623ce9a5335effd49cffda5281dfb1a7005dd6617986e3db
 Description: Gói AE nổi cho Theme
 Name: Mask VQ2024 (Rootless)
 Author: Vũ Quang
 Depiction: http://bvnsupport.github.io/infodeb/Html/VQ2024.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VQ2024.json
-Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
 Package: com.bvn.VisionOS
 Architecture: iphoneos-arm64
