@@ -12088,6 +12088,24 @@ Name: OneSettings (Gói TV)
 Author: BVN
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.onessetingsvh
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.onessetingsvh_1.0.2_iphoneos-arm64.deb
+Size: 6718
+MD5sum: 632413e70ab6b74c79fd923f27d2a609
+SHA1: fc67c2295b8b6222baed2d68456459c17f9e9107
+SHA256: e5d6465fdb7296c874d95480dff7926e556e4cce94ee20d9fb5ca26b33d361a4
+SHA512: 1ea6a38c83b210e942fb86f9655eafdf6e27f000edc9e8d3c144365132eed5e661a9fcdd30134109379b3b528e8d544c6f5cbbe3096f11e0520ab39ed6877ccd
+Description: Gói Tiếng Việt cho Tweaks OneSettings
+Name: OneSettings (Gói TV)
+Author: BVN
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.passtext
 Architecture: iphoneos-arm
 Version: 1.0.1
