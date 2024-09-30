@@ -160,17 +160,17 @@ Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
 Filename: ./debs/bvn.vn.onesettings_2.2_iphoneos-arm64.deb
-Size: 330294
-MD5sum: 7e2417a760b91c1ba867a732c679a4ad
-SHA1: f5cccc6029aff54bcf3a32f4581e646531db10f5
-SHA256: 26b85384353256d353bd73d6f2855fbf9b3f877b57bd9333977be487a38578e7
-SHA512: 873f7f2c0d61594f85c013c47144ccb3fcb16c274ef9fe0a4302a25d130d7a8cea78f707c4c9a79e4a214cfe99db49f769c1d1a506a7e8a0ec315ea9da788b3f
+Size: 330288
+MD5sum: 2439a6cbede47da82d87e0379210224b
+SHA1: 440a4ed774327649927b1b88909e72d3e9b9a6b4
+SHA256: 976e4ce561629cd7198750d1f1af9ee97c51b1377217da57460c47096e38bb52
+SHA512: 83c5f5e61eeaa35790dc5d4889278cf18c5c6db5321f78eb58922db2657b2a6cce3fcacedce1b645be013c8f713d9b32145542d7ae38bf9b4d97b34d3fad719a
 Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
 Name: OneSettings VH(Rootless)
 Author: Nightwind
 Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
