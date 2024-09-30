@@ -12598,37 +12598,37 @@ Author: LonestarX
 
 Package: com.bvn.silentnotifs
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 0.0.2
 Section: Tweaks
 Maintainer: BVN REPO
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.silentnotifs_0.0.1_iphoneos-arm.deb
-Size: 5066
-MD5sum: 69ce5387489cbb0a08bb31314f3957cb
-SHA1: 2c5cee349f1814621e0eb4cfcd8748b4bf8c85d8
-SHA256: 82550765c3175a00c5bb1fe2ca11b006fc5700e4ac3dc481b23c72c42e433098
-SHA512: dd2bb2934b0b4de0fe9081a2e4e53d9e8be575768f5763a0661437cb80c87f1eba56c84058d00201a5b9e1ffb09fda411f5dbc651bf477f94f548fa00fcd5a27
+Filename: ./debs/com.bvn.silentnotifs_0.0.2_iphoneos-arm.deb
+Size: 5372
+MD5sum: 40ce46cd2c73121635f3f5118ea81f09
+SHA1: c6cc17c1ca01b7d13f47c75cf2ab03f6e239fd02
+SHA256: fe5f30b9bfc44002d7bc40a52b7b05832a227d2a49fc27fde3925b9ac4c77266
+SHA512: 8c79d2bb4ad82ddeb2200925b079450cb2e610b33654267112e00a6bb03af2e4c9c3d109286f63864ccf9eb68b527260468de590380f8d721f07d26b3ceab504
 Description: Giữ thông báo im lặng trong khi phương tiện đang phát
-Name: SilentNotifs VH
+Name: SilentNotifs
+Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: dvntm
 
 Package: com.bvn.silentnotifs
 Architecture: iphoneos-arm64
-Version: 0.0.1
+Version: 0.0.2
 Section: Tweaks
-Maintainer: dvntm
+Maintainer: BVN REPO
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.silentnotifs_0.0.1_iphoneos-arm64.deb
-Size: 5192
-MD5sum: a6896e7d84a6c9810ecb0ee0194fbf26
-SHA1: 92d2fa84b17d78c5f890d76db66a45a971be87de
-SHA256: f89df0625aa3dae9e9612ea4307df6520328a70f927b86fd6aa92c407482e79d
-SHA512: dbad1f79ecff891d8c484a34c5567f6473c155ae31bc10fef56fa6430b877c836576a67de907d68a0dbc778c94607437d95e63f2fd13c320a79514360e335d19
+Filename: ./debs/com.bvn.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 5522
+MD5sum: 0376fb6f7cb3918a397c876088e7149e
+SHA1: 8b1653ebdbdb095e1c2f6cd4bbb5cc5c5c78386c
+SHA256: d8e219e196b152922adff226f9acb1be07165ac54322967cac3fbcd8f548df14
+SHA512: 54f278df66dc337f98ad42be2a2b6bd6904a5c366bb30011fb993f3e87a9dc5ffa0b8f3730dea3b00c86945eed5f1f9b3f889f623b51717b883746a4fac11719
 Description: Giữ thông báo im lặng trong khi phương tiện đang phát
 Name: SilentNotifs (Rootless)
 Author: dvntm
