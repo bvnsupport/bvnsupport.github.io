@@ -170,6 +170,48 @@ Name: CrossOverIPC (Rootless)
 Author: @CrazyMind90
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: cn.llld.playerbj
+Architecture: iphoneos-arm
+Version: 0.0.1K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: vn.bvn.playerbj
+Filename: ./debs/cn.llld.playerbj_0.0.1K_iphoneos-arm.deb
+Size: 5532
+MD5sum: 745eb02db95a61b847d9d9b919eb27e4
+SHA1: 3638567b1c480e29d5abe19e049356dea21f80ff
+SHA256: e0b0d3c5d5970e40db77e659e39de6912366bc0dc5f6ace05065471a87042251
+SHA512: 1f436fb2f8a3f8b5eb6b05b30c1aaa1ab99ea505e3f72cc7554ca225cfc8a83237075e5c55b7c40f3f8bfee2a84ab7e14076823c0e3ed744ebbf3aa10bc06fa1
+Description: Trong suốt trình phát nhạc
+Name: Hide player background
+Author: 来了老弟 h_h_x_t
+Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: cn.llld.playerbj
+Architecture: iphoneos-arm64
+Version: 0.0.1K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: vn.bvn.playerbj
+Filename: ./debs/cn.llld.playerbj_0.0.1K_iphoneos-arm64.deb
+Size: 5810
+MD5sum: c88aa0ea9955b494ad4edb48ee444843
+SHA1: 2e7c604631d1379ba5c60e34126bb4d96a3b453d
+SHA256: e9df4c874fba1b883bcfe96322efd19ee67a2e465af7ad8e5ff19bbec52fb334
+SHA512: 4bcd2344690a211f60c02f4e49a7506f3bdedfe9d308abd3a51a294a542074d5cadcb71c1eda7809c2c73258b3a25bd428e27ceabcde4a036bf18988a82208c1
+Description: Trong suốt trình phát nhạc
+Name: Hide player background
+Author: 来了老弟 h_h_x_t
+Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -19589,46 +19631,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
-
-Package: vn.bvn.playerbj
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/vn.bvn.playerbj_1.0_iphoneos-arm.deb
-Size: 5510
-MD5sum: fcbeeddeba202d03e940e2c7799bc9f9
-SHA1: 5e319cbb75100aa5cba5c90c7ff08281eb8911b6
-SHA256: b52ca73c5a4c1ef29ad0c14cbaaea4b932cc45066b1fc1fb3f4b8feb2da6e29e
-SHA512: 5f5e3d3c6ba7557c2b9fef49c3fcd84512a7e5e379ac14bd56aabe1aef55517374c5e7d689c33243bfa53aa4a0b59f70543e79c095748e82eab7f2634b0cae4e
-Description: Trong suốt trình phát nhạc
-Name: Hide player background
-Author: 来了老弟 h_h_x_t
-Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: vn.bvn.playerbj
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/vn.bvn.playerbj_1.0_iphoneos-arm64.deb
-Size: 5796
-MD5sum: 43c93b77411f4a8f39c62966aad24625
-SHA1: 912e915f6e2ccd78ef4a0c835f8f7b1c629a2c28
-SHA256: 9dacfe312a09bbaa74a20f2d73bbeb9e0f2ded0f91869888082ae4917d24a703
-SHA512: 06758f1bd9ef7b0db55f47732a5712920eb5bd9f0e0ccf5e4a73e3d17feb827149bf219329f4917cc54b8e1a51b43970ed87a1f6ddabaa62f389ffd81fc890f8
-Description: Trong suốt trình phát nhạc
-Name: Hide player background
-Author: 来了老弟 h_h_x_t
-Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: vn.bvn.resentment
 Architecture: iphoneos-arm64
