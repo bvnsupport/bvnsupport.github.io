@@ -12792,17 +12792,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 5.2
+Version: 5.3
 Section: Tweaks
-Maintainer: Eevee
-Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify_5.2_iphoneos-arm.deb
-Size: 957474
-MD5sum: bacce8427b1dfe2a089493fb4b8a46c7
-SHA1: 83311db30a18fe3de04d7f59ceb36b01c928a2c9
-SHA256: bec1b19c2ff4e30503bba2e8d11e98e30dad49d82bc253dd587ff3350b12b9a5
-SHA512: 53108f1f2d4e778b1bdecca00f1c1614a5a47f5f2e654239974b1d8142378e48fa23e39de83bf87c064e7308b54b492be56cbc44397400774d88d2da27d160a8
+Maintainer: BVN REPO
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify_5.3_iphoneos-arm.deb
+Size: 973250
+MD5sum: 9512f75eb025f26fb0627b1361633705
+SHA1: 867edbb3b87dd572ab2a8da0336acc02fec7fa79
+SHA256: a8a3fb2d2eff6fae1313290042a22436cae32e860838f96bc6fc981522d5381b
+SHA512: a32983e5f4c3388e54e19ab2523df53c3439a91a48ba3d4750d793685469352c220bc9c6d67a7ac09395533fded8948b02b2008b023e7c19c595c66d93b319ff
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify VH
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
@@ -12812,19 +12812,19 @@ Author: Eevee
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 5.2
+Version: 5.3
 Section: Tweaks
-Maintainer: Eevee
-Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify_5.2_iphoneos-arm64.deb
-Size: 957384
-MD5sum: c0267461ccc7814246481c703d73846c
-SHA1: 98a2f3d75952afdd1c12f2281fe4859a2ba05f45
-SHA256: fb30b3ef8c3e677591d8cc99804e8fcc1406d2c998b74ee2c565adde77b9f3b5
-SHA512: 65ed58326c74c8d453133ac8a1ef17bc452f459f2f00d0ace2ff98b0625074864e2e73c533960fc9516fdd066f9dac5578858a1a4516b7343b13d16a97790b6e
+Maintainer: BVN REPO
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify_5.3_iphoneos-arm64.deb
+Size: 972874
+MD5sum: a89d9924195e4b2bc755cfd37cc8fd99
+SHA1: 1437d9e4921ac78a7f12a710d6cf26ac55832821
+SHA256: 0016693338388aa879853952fdf95c412ea83a710026c7f4fd801f319168eb87
+SHA512: b5387e0c2c09485c575e06c3c817ff9c3031669b31a9fce35c679c5c6b416353004e28cf3e3cc19b90c8b3ffa97fbc90aafb5946ea3d58e3789d7eb81f741be5
 Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Rootlesd)
+Name: EeveeSpotify (Rootless)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
@@ -19219,6 +19219,42 @@ Tag: role::developer
 Name: SwiftProtobuf
 Author: eevee
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm
+Version: 1.28.1
+Section: System
+Maintainer: eevee
+Installed-Size: 10028
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.1_iphoneos-arm.deb
+Size: 3018968
+MD5sum: 68b9f5acff98fa38aa71fcb08689f358
+SHA1: 96cc6b6010454b5dfe038da64d16d17d4d1b3e76
+SHA256: 2aebabe0e91828b9f4cf13cb73a6f880bb54beffa38f6ec72be43897551178dc
+SHA512: f255015d38ce0a290cfdf3e8bb21e7edc904e58f8c29e0d2702720fdd9945888bb2698a378a70743be608eda5dc281032732c92473f5e5f4d2e5cb86e79884dc
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Author: eevee
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.28.1
+Section: System
+Maintainer: eevee
+Installed-Size: 10028
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.1_iphoneos-arm64.deb
+Size: 3019190
+MD5sum: 86374a13ed560ae62daefd68a17d433a
+SHA1: b9092ee3e54c5df756b8a8a70070c9be1cdab43b
+SHA256: 0a21e31b09b6c9c3e7b3f1991250917dd76a2a8533ba2d92cb332ec57616b27e
+SHA512: 52badb84b56b44a6e81ba3cbfb28449060f1a5b274ea9afb5db5218f4628691ed3089681a9fad26b081a746143280465c9fdf3515081edf2b41ef4f5c3e45bd7
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Author: eevee
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
 
 Package: plutil
 Architecture: iphoneos-arm
