@@ -9949,6 +9949,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wink.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Wink Vip
 
+Package: com.bvn.adguardPro
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.adguardPro_0.0.1_iphoneos-arm.deb
+Size: 2699498
+MD5sum: 4b9b00020d003ac18e194755a4322687
+SHA1: 4998a5f9b780fe89f61bd7f73273a8f1e2d83563
+SHA256: 8cff037fae4a3b0616eda6a3a130d2e294e9856661ef69332d7e13bdb621e8b1
+SHA512: 7581a4c1b176b7d6a924c52eeab369e34ead751752fc7a698fb955316dd9547f035e2d649932fc28bae9517ae6f08c1f8a122e9ad0e1072249001d897a15e8df
+Description: Unlock AdGuard Premium
+Name: AdGuard Pro
+Author: BVN REPO
+Depiction: http://bvnsupport.github.io/infodeb/Html/AdGuard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AdGuard.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.adguardPro
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.adguardPro_0.0.1_iphoneos-arm64.deb
+Size: 2699730
+MD5sum: 6c9694f8c0deda1bcf2e58743ccfcc98
+SHA1: 6417711017479075821f6f0060312d08f2e3ea78
+SHA256: f9078f2c1db96d61858767e65a1a52b165d80b6ffda6402c911a0fcd74eedef8
+SHA512: e47d5186cc2beac13055ace157f78e376a117619b579d113a239c09332db5d082a658804a85b16e3d2e1f46876bf58acf1dee54092083b81eeade86d9e577c03
+Description: Unlock AdGuard Premium
+Name: AdGuard Pro (Rootless)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/AdGuard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AdGuard.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.5
