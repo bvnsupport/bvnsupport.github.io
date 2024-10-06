@@ -19744,6 +19744,25 @@ Name: BigSurCenter VH
 Author: nicho1asdev
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: vn.bvn.colorfulwallpaperx
+Architecture: iphoneos-arm64
+Version: 4.5
+Section: Tweaks
+Maintainer: BVN REPO
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/vn.bvn.colorfulwallpaperx_4.5_iphoneos-arm64.deb
+Size: 2129840
+MD5sum: 145f3a8eb24c0a9e0dd61d9f11d02540
+SHA1: 602b1fd1a7ebc010091e167c6e1215aa472b0b8b
+SHA256: d4cb0c8aff7a33194db65972f74f9e3a813210138d68f0606e0c4c548e07d0e2
+SHA512: c8dda70232c67eea56f1cdcf7e978c74735c74311ca520dcdee2fdf04e51e0cfab4ab19612ae951599dedcc1c787eb1e86eb8fa7a0bff857ce4f2652a9e13d03
+Description: Hình nền động với hiệu ứng đầy màu sắc.
+Depiction: http://bvnsupport.github.io/infodeb/Html/ColorfulWallpaperX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ColorfulWallpaperX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: ColorfulWallpaperX VH(Rootless)
+Author: Lessica
+
 Package: vn.bvn.disupdateapp
 Architecture: iphoneos-arm64
 Version: 0.0.3-1
