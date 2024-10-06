@@ -212,26 +212,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64
-Version: 1.5.0K
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 744
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Replaces: com.bvn.safarix
-Filename: ./debs/com.0xkuj.safarix_1.5.0K_iphoneos-arm64.deb
-Size: 232524
-MD5sum: 2d2e03d336df8b5f5ff9edea2665c1c3
-SHA1: d3436e2cbb89675b7ae95c23712bd3b566df83b7
-SHA256: f1c3588e5fbc785556a1e5c6560b66f88d23a0ddfebd113f798f7ba5907fd91b
-SHA512: b5eb11b4be3c37ae3c0526300a5ddb972d018a09feac59286ac62ca07097a044d1cb1cb77cff6ea9a31f8028e6d3b236dcd903b9bddea931ae4c134b0b07e959
-Description: Thêm 1 số tiện ích cho Safari
- - Safari Essential Features
-Name: SafariX(Rootless)
-Author: 0xkuj
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -12555,6 +12535,26 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/SafariBlocker.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
+
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.5.1K
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 744
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.bvn.safarix, com.0xkuj.safarix
+Filename: ./debs/com.bvn.safarix.rl_1.5.1K_iphoneos-arm64.deb
+Size: 232520
+MD5sum: 723aa7025b5cf4ebbe676b27f6765cab
+SHA1: 553bd3350572895db320ddd6df2371127ae3bbff
+SHA256: 82c80e36cbe1727a643686360f6d1397435f45c705822596f63e8bfe47f172ed
+SHA512: 31301d2bd5c0acc2b4805da69bec850ef4db59f44614213e27ad262a294ba7c82a6683bdf3c9c609b554d5bd8d2102ace2b8c75e78b681aa5ae75af62813a4fe
+Description: Thêm 1 số tiện ích cho Safari
+ - Safari Essential Features
+Name: SafariX(Rootless)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.safarix
 Architecture: iphoneos-arm
