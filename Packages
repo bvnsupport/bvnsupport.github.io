@@ -12416,23 +12416,23 @@ Name: Remini Pro(Rootless)
 
 Package: com.bvn.removewidgetbg
 Architecture: iphoneos-arm64
-Version: 1.6
+Version: 1.7
 Section: Tweaks
 Maintainer: BVN REPO
-Installed-Size: 436
+Installed-Size: 384
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.bvn.removewidgetbg_1.6_iphoneos-arm64.deb
-Size: 45164
-MD5sum: d42d3f6f8d6bc6011c276ee8def5d05c
-SHA1: c34cb55200eb113d738b28d5419e06665bcef81f
-SHA256: 5a67cf709baac5041ae77608531412e41addb6717dbd25048e1ac3b4010de086
-SHA512: e092e825cc322dfb3e3ec02d6d3c8763b4de03e2fff83b6cd15e8a681f80474f09a6f2f3c1b693511827c25011ab21a07d0e204bf53df135593028657d5256e9
+Filename: ./debs/com.bvn.removewidgetbg_1.7_iphoneos-arm64.deb
+Size: 44840
+MD5sum: 0b104f8a98172550e5382db4a30ea5bb
+SHA1: 71751c09b58869edef4f455dc979f93f340a0086
+SHA256: 4370d269d1642db90f69289e5a2e7e21218fbfc7f4f5b5a19e2546f728aaacd6
+SHA512: 78beff7a2760da59b990b70342260f1f600f720f3ab1fca37ebda0954cf3f33a35f8a9c3f4f7d4b41608a053722cf0c73830a54d42670544d2058e7263e7ffe8
 Description: Xóa nền của các widget trên màn hình chính.
 Name: Remove Widget Background (Rootless)
-Author: Lessica <82flex@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/Widget.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Widget.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Lessica <82flex@gmail.com>
 
 Package: com.bvn.reo
 Architecture: iphoneos-arm64
