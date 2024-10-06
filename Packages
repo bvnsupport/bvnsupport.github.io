@@ -12416,17 +12416,17 @@ Name: Remini Pro(Rootless)
 
 Package: com.bvn.removewidgetbg
 Architecture: iphoneos-arm64
-Version: 1.7
+Version: 1.7K
 Section: Tweaks
 Maintainer: BVN REPO
 Installed-Size: 384
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.bvn.removewidgetbg_1.7_iphoneos-arm64.deb
-Size: 44840
-MD5sum: 0b104f8a98172550e5382db4a30ea5bb
-SHA1: 71751c09b58869edef4f455dc979f93f340a0086
-SHA256: 4370d269d1642db90f69289e5a2e7e21218fbfc7f4f5b5a19e2546f728aaacd6
-SHA512: 78beff7a2760da59b990b70342260f1f600f720f3ab1fca37ebda0954cf3f33a35f8a9c3f4f7d4b41608a053722cf0c73830a54d42670544d2058e7263e7ffe8
+Filename: ./debs/com.bvn.removewidgetbg_1.7K_iphoneos-arm64.deb
+Size: 44842
+MD5sum: 6f5f7bbd4db5adb2b0af103f7ce177f6
+SHA1: e7d3b11c45f5f76750381a30671b7dc8d641f888
+SHA256: 5ea7adddb3220570631d42cb2b7db08afa4e6c38820b09b0a9db38ef2ac2e76b
+SHA512: f768490820b279b5cea84d91394e5b448bdf3363d1d0c5c42886785cd6026e6c3198bac09f5942711992daede9de21e9dbd75b0d7596ab59bc42c4e11145a23c
 Description: Xóa nền của các widget trên màn hình chính.
 Name: Remove Widget Background (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Widget.html
@@ -12716,20 +12716,21 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.singlemutes
 Architecture: iphoneos-arm64
-Version: 1.3
+Version: 1.4
 Section: Tweaks
-Maintainer: BVN REPO
+Maintainer: 82Flex
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.82flex.singlemute
-Filename: ./debs/com.bvn.singlemutes_1.3_iphoneos-arm64.deb
-Size: 8856
-MD5sum: bf426a39cb9ee4a093bfc37b5f3ada96
-SHA1: e6a21b0b464bb98f8607cdf7299a3b140ba1b9e5
-SHA256: 163c8fca9fe7aecd5402b063534ee05ef01be24ab65194f57d82ddaaacdab1f0
-SHA512: 1f5124ecb5e94549cadda9c92bde59db276e204ca23aab8035ea742fa29083f183e668f6444369e43e6ea0b405c78041f0b9d0383a110773b57d111f39692e71
-Description: Hiển thị biểu tượng tắt tiếng trên thanh trạng thái của iOS.
-Name: Single Mute (Rootless)
+Filename: ./debs/com.bvn.singlemutes_1.4_iphoneos-arm64.deb
+Size: 33850
+MD5sum: 2bbd64751d43e4b6e9d862efae80b348
+SHA1: b3921b3fbe01824a07b5f32c7498f4ec7c612f24
+SHA256: 4c43eced4601106a800c6cdc8ed5694f234538238ced4d10a86652832a252d0a
+SHA512: f5347666d2429774c9caf08fe7fd8c8bf3519ea64aa3d4e4e528aef90032deb0edfc2a9bcf4a09c8bb0ee973dd02621c3d542e58cc08c62c8fb2a60f52642b78
+Description: Hiển một biểu tượng tắt tiếng trên thanh trạng thái của iOS.
+ * Just a single mute icon on the status bar of iOS.
+Name: Single Mute VH(Rootless)
 Author: 82Flex
 Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
@@ -19746,16 +19747,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: vn.bvn.colorfulwallpaperx
 Architecture: iphoneos-arm64
-Version: 4.5
+Version: 4.5-CRK
 Section: Tweaks
 Maintainer: BVN REPO
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/vn.bvn.colorfulwallpaperx_4.5_iphoneos-arm64.deb
-Size: 2129840
-MD5sum: 145f3a8eb24c0a9e0dd61d9f11d02540
-SHA1: 602b1fd1a7ebc010091e167c6e1215aa472b0b8b
-SHA256: d4cb0c8aff7a33194db65972f74f9e3a813210138d68f0606e0c4c548e07d0e2
-SHA512: c8dda70232c67eea56f1cdcf7e978c74735c74311ca520dcdee2fdf04e51e0cfab4ab19612ae951599dedcc1c787eb1e86eb8fa7a0bff857ce4f2652a9e13d03
+Filename: ./debs/vn.bvn.colorfulwallpaperx_4.5-CRK_iphoneos-arm64.deb
+Size: 2129844
+MD5sum: 1a37ca939a3c7967c2aa5fd8cbe610fd
+SHA1: 4eb6eca8bdd73116826154547257c9c650753acd
+SHA256: 49c7a902eab3f864219715714794e7943fc835e4bab364318a397f48e6a765dc
+SHA512: 0aa3587b3ab16f1057def8ef5907bf6b7ecf67c0543f94c8c988c7d7af8b0d167825809e329fccebf6417eaf571d8d887cdefa9ff9432faf0ebca53e5e8b4183
 Description: Hình nền động với hiệu ứng đầy màu sắc.
 Depiction: http://bvnsupport.github.io/infodeb/Html/ColorfulWallpaperX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ColorfulWallpaperX.json
