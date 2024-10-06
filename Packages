@@ -12714,6 +12714,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.singlemutes
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/com.bvn.singlemutes_1.3_iphoneos-arm64.deb
+Size: 8856
+MD5sum: bf426a39cb9ee4a093bfc37b5f3ada96
+SHA1: e6a21b0b464bb98f8607cdf7299a3b140ba1b9e5
+SHA256: 163c8fca9fe7aecd5402b063534ee05ef01be24ab65194f57d82ddaaacdab1f0
+SHA512: 1f5124ecb5e94549cadda9c92bde59db276e204ca23aab8035ea742fa29083f183e668f6444369e43e6ea0b405c78041f0b9d0383a110773b57d111f39692e71
+Description: Hiển thị biểu tượng tắt tiếng trên thanh trạng thái của iOS.
+Name: Single Mute (Rootless)
+Author: 82Flex
+Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.snapeditpatch
 Architecture: iphoneos-arm
 Version: 1.0
