@@ -12414,6 +12414,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remini.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Remini Pro(Rootless)
 
+Package: com.bvn.removewidgetbg
+Architecture: iphoneos-arm64
+Version: 1.7K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 384
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.removewidgetbg_1.7K_iphoneos-arm64.deb
+Size: 44844
+MD5sum: 2f456b444b77b3aacebf62ccba5dc247
+SHA1: 18d6a2235c6dfc44b575f2d43364d58565e168de
+SHA256: 6c7ca8c81c06da193511e847abd291cd52089435c5e3f6cb755d66bb39e0e96c
+SHA512: 78a9395285034a057cdb752adfe98a102e52052253fd9f753f18a50bde15fb535faca97390d81a56fa0e08bb6f4b5b3b084d2323e0fa342ac8ff75297cdc3f9c
+Description: Xóa nền của các widget trên màn hình chính.
+Name: Remove Widget Background (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Remove.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remove.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Lessica <82flex@gmail.com>
+
 Package: com.bvn.reo
 Architecture: iphoneos-arm64
 Version: 2.6.0
@@ -19726,6 +19746,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
 Name: BigSurCenter VH
 Author: nicho1asdev
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: vn.bvn.colorfulwallpaperx
+Architecture: iphoneos-arm64
+Version: 4.5-CRK
+Section: Tweaks
+Maintainer: BVN REPO
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/vn.bvn.colorfulwallpaperx_4.5-CRK_iphoneos-arm64.deb
+Size: 2129846
+MD5sum: f72d1282273593bad9e1436404d05aa5
+SHA1: a7ff838784d3feb21060b972ccaad2b8ab46b4c2
+SHA256: d9bea1099e172574098e8775436b53d5324af2904e9d96650783ce3b418572f8
+SHA512: 4b6aaabdd0c80e26e8daccbd3f2f8ad8ce1675e67a6afd2435479ab6e38ec7eef1340f425aecdaf30bb1ce12e28b0aecccdc4db53eb4f777d3a5ec43bcaedaec
+Description: Hình nền động với hiệu ứng đầy màu sắc.
+Depiction: http://bvnsupport.github.io/infodeb/Html/WallpaperX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WallpaperX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: ColorfulWallpaperX VH(Rootless)
+Author: Lessica
 
 Package: vn.bvn.disupdateapp
 Architecture: iphoneos-arm64

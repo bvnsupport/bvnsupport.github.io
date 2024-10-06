@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Remove Widget Background\n\n- Xóa nền của các widget trên màn hình chính \n\nㅤ\n\n",
+"markdown":"Remove Widget Background\n\n- Xóa nền của các widget trên màn hình chính. \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,11 +21,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/Widget/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/Remove/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/Widget/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/Remove/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -92,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.7\n\n- Tùy chọn "Buộc chế độ tối" hiện hỗ trợ iOS 15."
+"markdown":"### Phiên bản 1.7\n\n- Hỗ trợ chế độ tối cho iOS15"
 },
 {
 "class":"DepictionLabelView",
