@@ -13131,6 +13131,46 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Verxina VH(Rootless)
 Author: uz.ra
 
+Package: com.bvn.videoleappatch
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.videoleappatch_0.0.1_iphoneos-arm.deb
+Size: 2717364
+MD5sum: b75165b54c8c429db514fcabebc67325
+SHA1: 2a367829082d8c33949fba7d72cba07fcbd86142
+SHA256: dd0bf99b5d2cc74790256485b730ff2aec34ca1d375d33e33a4e0055b058bed6
+SHA512: 41c512582609adc2cc87efe35bb9482d6445a8a16e251d919d116d778fd8b2bb4ad413ee14c907ce67a0f65017e35be7ca1aa6a7f7d558111ca613c83beef429
+Description: Unlock Pro 1 Year
+Name: Videoleap Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Videoleap.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Videoleap.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.videoleappatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.videoleappatch_0.0.1_iphoneos-arm64.deb
+Size: 2717662
+MD5sum: f4bed7041de235188525406511c50392
+SHA1: efa070bf963861ce1e723e1f44630551a1ffa461
+SHA256: a9b282fbdceec6e1261477030359cf728229f6eacb4554fe287e0d40f844bbf4
+SHA512: 3b0d61eacca8f4098d4d7c33c9c872f8b66d1f5a038ac4694eb028bab21c6df97a742a837189ef5878118954c161410f1fdf22139cf0b50095244eb404c9c9e9
+Description: Unlock Pro 1 Year
+Name: Videoleap Pro(Rootless)
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Videoleap.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Videoleap.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.videosunmute
 Architecture: iphoneos-arm
 Version: 1.0
