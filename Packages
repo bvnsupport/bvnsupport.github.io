@@ -12538,18 +12538,18 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
 Package: com.bvn.safarix.rl
 Architecture: iphoneos-arm64
-Version: 1.5.2
+Version: 1.5.3K
 Section: Tweaks
 Maintainer: 0xkuj
 Installed-Size: 744
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Replaces: com.bvn.safarix, com.0xkuj.safarix
-Filename: ./debs/com.bvn.safarix.rl_1.5.2_iphoneos-arm64.deb
-Size: 323080
-MD5sum: b7c37b786ff473bee538a3c5138c4df0
-SHA1: da9c3d386d0c184a13d988c07c915f9083f23bb7
-SHA256: ade8e38cd90292fc4e1a15e9684126d92aa43f789d602944e8e56ab7465323aa
-SHA512: 345ab79e1608052318fb949e136b9dceeb74bf36ddcf72a7b7d10bc25539b871a7c8191f1c6c45725cb04c5a4df6292908d9cdb2fd2bc5bcb20260b0f4894dd5
+Filename: ./debs/com.bvn.safarix.rl_1.5.3K_iphoneos-arm64.deb
+Size: 319840
+MD5sum: b1339a755b01e7b5be83e3b216342518
+SHA1: 10a5befcad53b95a3ffb43e21dd5fe97e4063c72
+SHA256: bbe7719fff2ee27cb051b3cfecfa654cf8887840d2fb126157a997b0fb809b1c
+SHA512: 69223fcca8be1426e0a65595d411d9c95931ed9bd3f00560fdbc5f5596a643f3021629646b44f62b485ff0295c5451881b60f86f21b6a59dea7dbbc437c28780
 Description: Thêm 1 số tiện ích cho Safari
  - Safari Essential Features
 Name: SafariX
