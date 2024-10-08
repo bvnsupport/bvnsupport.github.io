@@ -11852,19 +11852,38 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
-Package: com.bvn.lynxrootless
+Package: com.bvn.lynx.English
 Architecture: iphoneos-arm64
-Version: 2.5.2-1
+Version: 2.5.3
 Section: Tweaks
 Maintainer: Bvn Repo
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Conflicts: xyz.cypwn.lynxtwo
-Filename: ./debs/com.bvn.lynxrootless_2.5.2-1_iphoneos-arm64.deb
-Size: 1487402
-MD5sum: 6abd26909a96710859ecd6cede9bddee
-SHA1: a19c6cb161d1a8112d5ca2af823efecaaadde5ae
-SHA256: 546c3863c79d2d1a508757c3548675dc303a49d43bd946f72f39c27abe868c26
-SHA512: 1837df75eddb483eb8dd6102862676635a3a05205ba4b16aaeb0222f399822fa33e90343b0452f8e300b6ab108c0dd2df83e1264dd822a5d8341e777cab91600
+Conflicts: com.bvn.lynxrootless
+Filename: ./debs/com.bvn.lynx.English_2.5.3_iphoneos-arm64.deb
+Size: 947794
+MD5sum: ec9dc5236b8bbe031dfceb0f668a2e71
+SHA1: e27aaefc8bb57ab08eae6c914de1106cb5f18781
+SHA256: fc0d2881473d50f2cd21b31931b10659af60ec82ff87fdda9b1603ddeecf7232
+SHA512: e004bd2c5cd19d4c3de1803c55362b1a16a0d70d3690e465fb4630cd7b307845097f5735942ac5fa78339b45eee34e61fe1eb25b8c5c0c57828c6e3893c8a382
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Lynx 2 English(Rootless)
+Author: MTAC
+
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
+Version: 2.5.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.5.3_iphoneos-arm64.deb
+Size: 950194
+MD5sum: b42b569869757fa23e265ccba49b6fb7
+SHA1: 254ced440baaf656e8bd913ac1b2a5a9d27db6c4
+SHA256: 93d6b36fdc339c85780abdcc5703f70e50919c26260e3449c87938b1e5ac54de
+SHA512: b6a91c598ecf34ff757228a49a0d3f33f5a3e4f7565ef3dc1571e092fefc5d7b6f0092e7463ab274dac90b3fef00e7c4c521b9d9c641d8a754c26a45e52d6b64
 Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
