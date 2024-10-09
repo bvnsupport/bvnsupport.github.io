@@ -9989,26 +9989,6 @@ Author: Dcsyhi
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.airpodscompanion
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 1060
-Depends: preferenceloader
-Filename: ./debs/com.bvn.airpodscompanion_1.1_iphoneos-arm64.deb
-Size: 511514
-MD5sum: 6f544c465a2047d6f73586adca42e156
-SHA1: e75693cd0376c20ef1534dbc1172e24e15d38be7
-SHA256: daba3bf29b5d757a339d08557299edfdb96b9f2a4a3a23d8b7ff05f1af51ea2b
-SHA512: 355f67563f6e9d2138f49e043e39a5b7c866cb0830baf7972298953debfe9a65ebcfe33d9b04334b9554a9da95d9d4f9a82bdbec69a1d35f17d9b5851662ecb9
-Description: Điều khiển Khử tiếng ồn nổi bên cạnh thanh trượt âm lượng
-Depiction: http://bvnsupport.github.io/infodeb/Html/AirpodsCompanion.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirpodsCompanion.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Ethan Whited
-Name: AirpodsCompanion VH(Rootless)
-
-Package: com.bvn.airpodscompanion
 Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
@@ -10030,22 +10010,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.airpodscompanion
 Architecture: iphoneos-arm64
-Version: 1.2
+Version: 1.5
 Section: Tweaks
-Maintainer: BVN
+Maintainer: BVN REPO
+Installed-Size: 10704
 Depends: preferenceloader
-Filename: ./debs/com.bvn.airpodscompanion_1.2_iphoneos-arm64.deb
-Size: 512416
-MD5sum: 2efe83a6fa892fc27f83d580a6357d72
-SHA1: 51d4ca7944af65f207f93e8f4605efec65114192
-SHA256: 291ca681b838ecce0f881a36ccac39eea4e5afb691b8b430ff855caefaf99c12
-SHA512: e99ca8835115b9cb144b75a78cf2e5f0f983da4d9451ec25d90667fe1ca6dc3294735f5ad960204132862b00f5d855b25389826e8a231c49d83d438dee07fee6
+Filename: ./debs/com.bvn.airpodscompanion_1.5_iphoneos-arm64.deb
+Size: 557498
+MD5sum: b594a7caf2b7d54afae8b7ba520a1ae4
+SHA1: bffef36cc1a0fe8e8f106314c0e532f5748be9a0
+SHA256: 387aa8c4f4836a7dc7f6cd228dbe9387859c547aae10e630482b7745ac895939
+SHA512: 2dcfea5ca5081a4afa381861b65e24c158134db4701d601da6f7688cba2da6bb75f8a88d4fd5399bcfe60c37cbd115ee05a991d37e61dbb06d6d63adca7cb4fd
 Description: Điều khiển Khử tiếng ồn nổi bên cạnh thanh trượt âm lượng
-Depiction: http://bvnsupport.github.io/infodeb/Html/AirpodsCompanion.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirpodsCompanion.json
 Name: AirpodsCompanion VH(Rootless)
 Author: Ethan Whited
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/AirpodsCompanion.html
+ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AirpodsCompanion.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.akara
 Architecture: iphoneos-arm64
@@ -19808,16 +19789,16 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: vn.bvn.colorfulwallpaperx
 Architecture: iphoneos-arm64
-Version: 4.5-CRK
+Version: 4.6-CRK
 Section: Tweaks
 Maintainer: BVN REPO
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/vn.bvn.colorfulwallpaperx_4.5-CRK_iphoneos-arm64.deb
-Size: 2129846
-MD5sum: f72d1282273593bad9e1436404d05aa5
-SHA1: a7ff838784d3feb21060b972ccaad2b8ab46b4c2
-SHA256: d9bea1099e172574098e8775436b53d5324af2904e9d96650783ce3b418572f8
-SHA512: 4b6aaabdd0c80e26e8daccbd3f2f8ad8ce1675e67a6afd2435479ab6e38ec7eef1340f425aecdaf30bb1ce12e28b0aecccdc4db53eb4f777d3a5ec43bcaedaec
+Filename: ./debs/vn.bvn.colorfulwallpaperx_4.6-CRK_iphoneos-arm64.deb
+Size: 2135822
+MD5sum: 757695b44a8698e0587f2a62722dc113
+SHA1: 750dc0fcb0e183ebe63b4b43582449701c6efcab
+SHA256: e6350b508fec97d56bca5ee98d66bf75c63cce3670e07f088fcefaf250771129
+SHA512: 06c6ec3ce1b8c166ef9f040f3251daee51160159d49ad574332a27c525d488a5949fd9eb61e253306945c89ee31a4a3a282973d38735be92fce08c52b117720f
 Description: Hình nền động với hiệu ứng đầy màu sắc.
 Depiction: http://bvnsupport.github.io/infodeb/Html/WallpaperX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/WallpaperX.json
@@ -19886,6 +19867,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+
+Package: vn.bvn.noredirects
+Architecture: iphoneos-arm64
+Version: 1.9
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 576
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/vn.bvn.noredirects_1.9_iphoneos-arm64.deb
+Size: 91000
+MD5sum: 3faae319d9980fdef708d8f53a6f0f1a
+SHA1: 12334c1e84901aef4b3e43e43fe2eeb54192936f
+SHA256: 8e6a45fe32510e4db7456919b8dfcddbec124a0dc9d123275898d5275ae175be
+SHA512: 4afc9cc246ced76e8540d3f0021ff2c63c6af65e17aa64e8e5ec31f421bb27a63248602150bf32d340c967783e1fed9272cd0380333260f09956ea1fa5af82dc
+Description: Ngăn các ứng dụng được chỉ định chuyển hướng đến App Store,Safari hoặc các ứng dụng khác.
+Name: NoRedirect (Rootless)
+Author: Lessica
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: vn.bvn.resentment
 Architecture: iphoneos-arm64
