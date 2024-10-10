@@ -11727,17 +11727,18 @@ Installed-Size: 64096
 Depends: ellekit, oldabi
 Replaces: com.zjx.jyios, com.zjx.jyiosab, com.zjx.ldys3youth, com.zjx.ldys3
 Filename: ./debs/com.bvn.ldys3_2.16.7_iphoneos-arm64.deb
-Size: 24603794
-MD5sum: ac403ba7d353938d1c0aceb0099f8982
-SHA1: 1bdcba7f4389714a58aa5ebbd9ed9efa91c29e89
-SHA256: 08ed76b5b893b50ef4be74779d43a541a9e8ad3f41ee0f825b2573382ab7e305
-SHA512: cba793d6f5fbaf09eaa2d092ab29417be8db47849e6d3a8b0d8c263c8a0ebe6be338e4ce05cd7f140828633a8a2176a41c0f6bbd9c23bc52c55f46f218d9ea2b
+Size: 24603816
+MD5sum: 7b51689c85fee84c0994f55986edc097
+SHA1: 2ee640bc017623baf08006ab5505ab061391ca9a
+SHA256: 9992e9fec28caff8ac9c9b1b23843e057311120edfad0817a737a8185edc39b8
+SHA512: bbd57093cc8268526e52b004bb27f6b12f0cbc5cf27fa0868d1f852e47dcff0509a1a69efe9bb910bf837ef3151848c4ffaabee48144d9c8ad6190a8f1043d11
 Description: Gamwing2 - Dễ sử dụng, chức năng mạnh mẽ, tận hưởng cảm giác mượt mà
 Tag: role::developer
 Name: Gamwing2 (Rootless)
 Author: Shenzhen Jiaying Co., Ltd.
 Depiction: http://bvnsupport.github.io/infodeb/Html/Gamwing2.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gamwing2.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
 
 Package: com.bvn.limneo
 Architecture: iphoneos-arm
