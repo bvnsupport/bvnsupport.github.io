@@ -11696,6 +11696,49 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.bvn.ldys3.rootfull
+Architecture: iphoneos-arm
+Version: 2.16.7
+Section: Utilities
+Maintainer: BVN REPO
+Installed-Size: 70808
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.zjx.jyios, com.zjx.jyiosab, com.zjx.ldys3youth
+Filename: ./debs/com.bvn.ldys3.rootfull_2.16.7_iphoneos-arm.deb
+Size: 29713990
+MD5sum: 1a7e837c08411716ee6e7faf340c22f2
+SHA1: 757ae5e2fb4c357bfe2a24015540f7d512e85fde
+SHA256: 3d92eabcf62925734cd093f3771e00810bd4b2c4679a8fe5ffbe110857ad32bc
+SHA512: 39ccc281d06162dd8300dcd2f8bd070b3a1e19315b04900ff64b8ddbd8e378f7aa44cb805321de42df2a888d38ca45528c61419ede1397efc3ce2664cdcc6ae8
+Description: Gamwing2 - Dễ sử dụng, chức năng mạnh mẽ, tận hưởng cảm giác mượt mà
+Tag: role::developer
+Name: Gamwing2 VN
+Author: Shenzhen Jiaying Co., Ltd.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Gamwing2.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gamwing2.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bvn.ldys3
+Architecture: iphoneos-arm64
+Version: 2.16.7
+Section: Utilities
+Maintainer: BVN REPO
+Installed-Size: 64096
+Depends: ellekit, oldabi
+Replaces: com.zjx.jyios, com.zjx.jyiosab, com.zjx.ldys3youth, com.zjx.ldys3
+Filename: ./debs/com.bvn.ldys3_2.16.7_iphoneos-arm64.deb
+Size: 24603794
+MD5sum: ac403ba7d353938d1c0aceb0099f8982
+SHA1: 1bdcba7f4389714a58aa5ebbd9ed9efa91c29e89
+SHA256: 08ed76b5b893b50ef4be74779d43a541a9e8ad3f41ee0f825b2573382ab7e305
+SHA512: cba793d6f5fbaf09eaa2d092ab29417be8db47849e6d3a8b0d8c263c8a0ebe6be338e4ce05cd7f140828633a8a2176a41c0f6bbd9c23bc52c55f46f218d9ea2b
+Description: Gamwing2 - Dễ sử dụng, chức năng mạnh mẽ, tận hưởng cảm giác mượt mà
+Tag: role::developer
+Name: Gamwing2 (Rootless)
+Author: Shenzhen Jiaying Co., Ltd.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Gamwing2.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gamwing2.json
+
 Package: com.bvn.limneo
 Architecture: iphoneos-arm
 Version: 3.1-1
