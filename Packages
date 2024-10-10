@@ -12736,6 +12736,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.sms
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: spammer
+Depends: firmware (>=13.4)
+Filename: ./debs/com.bvn.sms_1.0.0_iphoneos-arm.deb
+Size: 2632780
+MD5sum: 5ded1cd83d94fa5ff4ba993e42ff340d
+SHA1: 7e932d439808acc94342847088946f21edbbf89f
+SHA256: a8db4fc8cb996ce01ca0833a2bec225c7966605d963eded9fc40e8983d1536f5
+SHA512: 968f4df4155c9febcdd3823ddb6cb3988bfff804efddd703c0148bc5955425a70aded4f191ec5a147f5cd93d0a0a103885588179ba79c7ad58a80e6e6cb35bcc
+Description: Spam SMS
+Name: SMS Spammer
+Depiction: http://bvnsupport.github.io/infodeb/Html/SMS.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SMS.json
+Author: spammer
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios13.4
+
 Package: com.bvn.snapeditpatch
 Architecture: iphoneos-arm
 Version: 1.0
@@ -12892,41 +12912,39 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 5.4
+Version: 5.5
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2788
+Installed-Size: 2924
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Replaces: com.eevee.spotify
-Filename: ./debs/com.bvn.spotify_5.4_iphoneos-arm.deb
-Size: 973244
-MD5sum: 6d7d78befe3e51de1196c5089a76dfd6
-SHA1: 347bb6c84968c52439cd2eba1067aff206fab508
-SHA256: ee79337f009fddc9a1d6c92032c2961004d24a32559b3afcd502c95ed723d0ae
-SHA512: ff2a229fc1cc8e0757d85964e4b1bfcf0848681a45f5a4a4871a02a9cfd88e41474f4ee7e5057745724301689ae3fa9dc680cafb455c54ff6568ee6f8624d78f
+Filename: ./debs/com.bvn.spotify_5.5_iphoneos-arm.deb
+Size: 1013272
+MD5sum: 34eda4f7b9c71ef187537fe32cd56700
+SHA1: 138dd80a4e08fe04b2cfe2c43fd05f087bfe3e2e
+SHA256: 7d3553ccee3ee5dfeec96b1bfcfd7104ea4018501892356d03d3d872ce5cbb8e
+SHA512: 1bdb5c8f179ead36c66ff1dc46f1b3be024193ab8b09739d7403d80f661fd631233bcf57626bad349fc316b1d2b7b986a50d62fd3d848558c4f8f00f29553322
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify VH
-Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Eevee
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 5.4
+Version: 5.5
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2788
+Installed-Size: 2924
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Replaces: com.eevee.spotify
-Filename: ./debs/com.bvn.spotify_5.4_iphoneos-arm64.deb
-Size: 972872
-MD5sum: d4f94338c4689aff56e5c68f54c3f1d3
-SHA1: dc54ef13114d206524286d8373fdaf8bdf54f6a5
-SHA256: 2c969e28a723634ee9044a74e1c7d283135962383123d5ae565cf45b6f0f0e0b
-SHA512: 3e6fcebd2400e3a55636fe98417566958a431b88964ae010a9306df864783f8688b62bc9d0e9e84c9823add94eacaee414728c6c6fa932814fe97026ec588446
+Filename: ./debs/com.bvn.spotify_5.5_iphoneos-arm64.deb
+Size: 1013232
+MD5sum: 4ed554f67942b3223066e61bedd38a17
+SHA1: c3dfd869278cc1b6ffc1330198f1d57bd3190bd2
+SHA256: 292c6715844bdeef133b2cee2ce345361e2fd098b9f1cba344894a0b4392ed32
+SHA512: 7fc1c67db43ea8e62f1903e34a5f98d0e0a83e26b8e6a7ef51a3cc58b358f6734c05cfdf5dc110d78a965f4c141748d2d3a302aee435f6abed26a970a325c9cd
 Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Rootless)
+Name: EeveeSpotify VH(Rootless)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
