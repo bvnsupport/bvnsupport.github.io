@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"opa334"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.15-2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.16K" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"23/6/2024"
+"text":"10/10/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -83,7 +83,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 11.0 đến 17.x"
+"text":"iOS 11.0 đến 18.0.1"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.3.15\n\n- Sửa lỗi xoá vùng chứa không hoạt động.V.V"
+"markdown":"### Phiên bản 1.3.16K\n\n- Thêm hỗ trợ cho iOS 18\n\n- Sửa lỗi hỗ trợ thông báo không hoạt động trên iOS >=17\n\n- Sửa lỗi tùy chọn "Luôn hỏi khi khởi chạy ứng dụng" không đang hoạt động trên iOS >=17\n\n- Tự động tạo lại tùy chọn plist nếu không thể tải do lỗi"
 },
 {
 "class":"DepictionLabelView",
