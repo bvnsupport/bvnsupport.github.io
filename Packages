@@ -151,6 +151,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: byg.iosios.net.caise.siri
+Architecture: iphoneos-arm64
+Version: 3.1.1-9K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 204
+Depends: mobilesubstrate
+Replaces:  com.bvn.EdgeSiri-Rootless, com.bvn.EdgeSiri-r2
+Filename: ./debs/byg.iosios.net.caise.siri_3.1.1-9K_iphoneos-arm64.deb
+Size: 25714
+MD5sum: f79cfce3af04ce8c959d7b28e3a19c21
+SHA1: c45f6f802b747bfd5ba3a1fe426bc8cbec64567d
+SHA256: 5af78bb787c97477638986fbb6fac0ab127e0e7886d56d7a1f08c2bc1e451871
+SHA512: 377412198f83d897d055b1c8951f13248f05053f6fd2f398152fdf9fe614fa721afe84fcc79e8c830a9074719cbb8ebf4090520d5baad7388e5ce201817c95e3
+Description: Đây là một Tweak khác bắt chước iOS18 và không có cài đặt. Có hiệu lực ngay sau khi cài đặt, nó sẽ hiển thị đường viền màu xung quanh màn hình khi Siri được kích hoạt. Viền này không chỉ tăng thêm sức hấp dẫn về mặt hình ảnh mà còn cung cấp phản hồi trực quan hơn khi sử dụng Siri.
+Name: Edge个Siri (Rootless)
+Author: tangerine
+Sponsor: 搬运工
+Depiction: http://bvnsupport.github.io/infodeb/Html/Edgeseri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Edgeseri.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
 Version: 1.1-1+debug
@@ -9493,26 +9515,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Christmas.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Christmas.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
-Package: com.bvn.EdgeSiri-Rootless
-Architecture: iphoneos-arm64
-Version: 3.1.1-9
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.EdgeSiri-Rootless_3.1.1-9_iphoneos-arm64.deb
-Size: 25660
-MD5sum: ab01b02de5b40048d3009e796374d836
-SHA1: 8a0b3e76ed1908be915e7e7a1d8e5ab2e8ef7dbf
-SHA256: b5b99c8eb74b5986477c0f4646b2d311ccf2a211fe75e3a24cff6947bc9e6e35
-SHA512: 27a7e2a5bc6e22a37478770cdce5098f0fc719fb734fa2d198ceb5f94c570a7b4cb07d5a8f9867da7ed559a66812a1a5195191234dcdf87f3d61f77bc76cbb19
-Description: Đây là một plugin khác bắt chước iOS18 và không có cài đặt. Có hiệu lực ngay sau khi cài đặt, nó sẽ hiển thị đường viền màu xung quanh màn hình khi Siri được kích hoạt. Viền này không chỉ tăng thêm sức hấp dẫn về mặt hình ảnh mà còn cung cấp phản hồi trực quan hơn khi sử dụng Siri.
-Name: Edge个Siri (Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Edgeseri.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Edgeseri.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: tangerine
-
 Package: com.bvn.Exodar
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -12623,22 +12625,22 @@ Author: 0xkuj
 
 Package: com.bvn.safarix.rl
 Architecture: iphoneos-arm64
-Version: 1.6.1
+Version: 1.7.2
 Section: Tweaks
-Maintainer: 0xkuj
+Maintainer: BVN REPO
 Installed-Size: 748
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.6.1_iphoneos-arm64.deb
-Size: 321852
-MD5sum: 36ee7aa13b5c0223a82be278531f5ce6
-SHA1: 200eb02408d3996cb9045ad922e3e521d3d28497
-SHA256: 33803bd50e8b0406e0378087dbf7c3fb620fce5414a8a6aee2676b135c4d4ec1
-SHA512: b80999e6b5fc45cb6b54e829492d4a2db3e177ef628267d05733efa5336645ddc9fef6dbf61fbf4da1be0e696a37172d22c7d59b5ec87dad371d9ab1a126b2e4
+Filename: ./debs/com.bvn.safarix.rl_1.7.2_iphoneos-arm64.deb
+Size: 324462
+MD5sum: 2d357e979848d7432fe40d99811a5833
+SHA1: d82805fd389d2820bd0951f4a588de047390b25a
+SHA256: 8a167e922f8f1563fdc2d45dfae5608fbdbca6f95b14788cffb692e527779fe0
+SHA512: a721b3b15cf87f0ea528f44f80991f3d2876e99f15839dec9311ffc2b1e6c2b6db3bdf30d9fa57d870b0d070c5ab89f90dc6fd504ac79e161ecdb7a9fb91c6bd
 Description: Thêm 1 số tiện ích cho Safari
  - Safari Essential Features
 Name: SafariX (Rootless)
-Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: 0xkuj
 
 Package: com.bvn.safarix
 Architecture: iphoneos-arm
