@@ -12151,6 +12151,46 @@ Name: NtSpeed (Rootless)
 Author: Julioverne
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.oledkeyboard
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.oledkeyboard_0.0.1_iphoneos-arm.deb
+Size: 6286
+MD5sum: e535d8187dada9a5b63de1e7725ea713
+SHA1: 99a20219e7a068b617c576250cbbf422470ee300
+SHA256: d16d2f9c712628a2f97266b9839dee72dce51f4f1e076b2f2ee6f5e15226152b
+SHA512: 15f2941e2ff5ac1cb661cbc866f9121416687742dc003a5a2983c66169c7692dd28dd23bf4d8126049266bce57baad85d4e84d8d5851a51ade1b6099c351c79e
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/OledKeyboard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OledKeyboard.json
+Author: dvntm
+
+Package: com.bvn.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.oledkeyboard_0.0.1_iphoneos-arm64.deb
+Size: 6428
+MD5sum: 569f50aa1ce9788020f0f757c12dce90
+SHA1: 7364711dc92453ef6b95c0839c0b886582a0d23c
+SHA256: d5d6d71100ec9bc5746a9399a7b848cf7f2d68d7123c644bcaa249ddcf50b81f
+SHA512: 50fcefab84817aa86600f98c5dc1ad8e098985a9be5617c66b0e461d0d8d9b41f4d10a0b0b847c9ced6b581f7c048c512f00390b428f6ff1043f2c7e09597a89
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/OledKeyboard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OledKeyboard.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: dvntm
+
 Package: com.bvn.onessetingsvh
 Architecture: iphoneos-arm64
 Version: 1.0.1-1
