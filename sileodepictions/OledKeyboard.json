@@ -21,7 +21,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/SMS/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/OledKeyboard/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/OledKeyboard/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -37,6 +41,8 @@
 },
 {
 "markdown":"[**Mua cho tôi 1 ly Cafe**](https://support-jailbreak.github.io/infodeb/DONATE/) - 24/7\n\nㅤ\n\n",
+},
+{
 "markdown":"[**Telegram Group**](https://t.me/repobvn) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
@@ -67,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"23 KN"
+"text":"6 KB"
 },
 {
 "class":"DepictionTableTextView",
