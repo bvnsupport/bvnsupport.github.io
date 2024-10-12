@@ -10896,38 +10896,38 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ryan Nair
 
 Package: com.bvn.darl-rl
-Architecture: iphoneos-arm64
-Version: 2.7
+Architecture: iphoneos-arm
+Version: 2.8
 Section: Theme Rootless
-Filename: ./debs/com.bvn.darl-rl_2.7_iphoneos-arm64.deb
-Size: 77318048
-MD5sum: 3a54c9b75368a55f624d6a65d31cf311
-SHA1: 3ab3a9573a19892a19fd185164ae6da2199a736b
-SHA256: dc7230145f49a9187d5e7d759814c2709cba94e9b879aad7f5b0bd5db3abedcd
-SHA512: db9e75ef0e4ef6faad1b118aee72407c7492f5f68fc155f911282fa2d0a19e36cc965817dfab86d8867ca40b43482f4ae652e0b980ca197cc9009079dd2bf0f5
+Filename: ./debs/com.bvn.darl-rl_2.8_iphoneos-arm.deb
+Size: 78851646
+MD5sum: efb4c453f6707ad47fe0a68e8838327d
+SHA1: ab8d0ba0a06deca96416162673a2a8a72c889286
+SHA256: cd71480068f5b094b31821396c02c29af2833c4b6216674a9409af87ba1cee82
+SHA512: 59e0169acbb48839bb8685a5f44163e27dacd7884d789c7caa13b4eeb7762b4351349694ffc79aa22997743de3ecbf00154846aea05065b46809e2296efdc7d8
 Description: Mojox Dark 3500+ icons
-Name: MojoX Dark
+Name: MojoX Dark Themes
+Author: Rifai
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MojoX.json
+
+Package: com.bvn.darl-rl
+Architecture: iphoneos-arm64
+Version: 2.8
+Section: Theme Rootless
+Filename: ./debs/com.bvn.darl-rl_2.8_iphoneos-arm64.deb
+Size: 78849288
+MD5sum: a9a22cb3e8c73e4e9ffd0e18b9b4c1be
+SHA1: edd68d95ed9faf821acda22733582af03c6ee1d5
+SHA256: a4f6a192e297c7da536ca0ad4260e144211e5d738dac90d00a5f95380d83fb96
+SHA512: 024a8d1c2608994b3f6866140848cf6cd52378cd767e8d6e7cd0b7efed387abbd5453ca240dcf0c382026d081fc0112171eea22c8fc5ec179c8d0c151f7fa458
+Description: Mojox Dark 3500+ icons
+Name: MojoX Dark Themes
 Author: Rifai
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/MojoX.json
-
-Package: com.bvn.darl-vn
-Architecture: iphoneos-arm
-Version: 2.7
-Section: Theme Rootless
-Filename: ./debs/com.bvn.darl-vn_2.7_iphoneos-arm.deb
-Size: 77299562
-MD5sum: 27628170b232304fa4d145b25ee0e3ba
-SHA1: 225b737ff713d05c94a9354881ddb83f8dac8b66
-SHA256: efca2e4ae68d561f022d9ec1db59fdc95bd2e09f24e73a4136505e2560f79482
-SHA512: 86f0ec412c627e12e0ace007375289dd26ce44ba17e466c5fb2679aa4e6f1737d251d09fee2a7bb2fabdef3ce126aa88116f8b6df2af9a6765be4fff231dd194
-Description: Mojox Dark 3500+ icons
-Name: MojoX Dark
-Author: Rifai
-Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/MojoX.json
-Icon: file:///Applications/Cydia.app/Sections/chidee1.png
 
 Package: com.bvn.wolf
 Architecture: iphoneos-arm64
@@ -12620,6 +12620,25 @@ Name: SafariX (Rootless)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.rl_1.8.1_iphoneos-arm64.deb
+Size: 337722
+MD5sum: 668656bb963e6bb079a90658900a9013
+SHA1: 7fa9cb0d2c53e7d29618e7ee7b57bf383b9ea481
+SHA256: 9dfc23a1d749edb45f329f38cd9d306b57f9aa7a0bc9faad4c7805f65c83a639
+SHA512: a0edd42ae55cb55017c83eca95de1ffc949a2612210edc86c64d8c454f23310b9358c6ec79f2bdf6199264843fd929cf42c3cbabec676a61330090f0d24acf3f
+Description: Thêm 1 số tiện ích cho Safari
+ - Safari Essential Features
+Name: SafariX (Rootless)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.safarix
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -13677,27 +13696,6 @@ Description: Gói Tiếng Việt cho Tinh chỉnh Copy Log
 Name: Copylog Gói TV (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Biện Văn Nhật
-
-Package: com.bvnrepo.crane
-Architecture: iphoneos-arm
-Version: 1.3.14-6
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 3392
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/com.bvnrepo.crane_1.3.14-6_iphoneos-arm.deb
-Size: 1142266
-MD5sum: a568ed861e310c1c6ad1852f1f42467a
-SHA1: 3494215771a9b5e23cccdd03e4e5067d33eabac5
-SHA256: a9fe0408a1ea2bbb32d0da5b58acf3a48ec14219386bdbc9a4e3076516abc768
-SHA512: 5bf18f1cdabb87c5de132c5b3221ef147df592dd32b6acbe66539971913ba186831470d7f13ab371126b7ef71ab07be5e7ca83cd17ee68a06c1d0effe96bfd75
-Description: Multiple containers for your applications!
-Name: Crane VH
-Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: opa334
 
 Package: com.bvnrepo.crane
 Architecture: iphoneos-arm
