@@ -7876,16 +7876,16 @@ Version: 15.17-2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 1488
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 14), mobilesubstrate, preferenceloader, applist
 Conflicts: com.c1d3r.pulloverpro
 Filename: ./debs/com.REPOCYDIABVN.PullOverPro15_15.17-2_iphoneos-arm.deb
-Size: 495518
-MD5sum: c334a0394b8e15422ab8971a122ff6c8
-SHA1: a6f3934c242bc792443592beebf23b002a4363a9
-SHA256: 0304396b11a905f93f1bfc54a3a56fe679c9c8dbdd85ffe6b196ac3a4bf82d60
-SHA512: 56d0a55bca535dacd95ce0b60e8b9a36ce278f6d8f0f7baf94fa3dc6bf3ac59bcf700676f479545a5350a15f83658dd7cb5b1d000dba759920e714cfda0f7469
+Size: 495524
+MD5sum: c5fa50ee2c32bca97aced38cd14642be
+SHA1: 2eebd78d2bd5f88f4f8fcf0abbbf151847417a89
+SHA256: 380979d589829f6e1875bce11b2ded47e4402790d754cc3ac8b39da1efbe34d6
+SHA512: a307e5d6058a7d1871a835799c643733402be7e871f28e34e1ca2cc7b7e75981bbe0ab43be31de15729baa639edeece1e9520fb03d4c00aad938b5c8b6658db2
 Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS16
-Name: PullOver Pro VH(iOS11/15)
+Name: PullOver Pro VH(iOS14/15)
 Author: c1d3r
 Depiction: https://bvnsupport.github.io/depictions/PullOver.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
