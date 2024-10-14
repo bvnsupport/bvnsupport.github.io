@@ -9423,11 +9423,11 @@ Maintainer: BVN Repo
 Depends: firmware (>= 5.0)
 Replaces: chaoge.ChargeLimiter
 Filename: ./debs/com.bvn.ChargeLimiter_1.7_iphoneos-arm64.deb
-Size: 2457528
-MD5sum: 111863d53ef08e439a48304bbdcef355
-SHA1: 89c8a8c7c4ff43f6919a83f0d7771d0e2b8b25ab
-SHA256: 2a92ee0cb114a2ce1b8fd627fc8516c77d1058154e62cbc45c03b21ad5dd41ed
-SHA512: b528ac93a723573e4d5e554be6c849ba2992d784134e9d5d8d677e0f2ec821651d0c96f0b68673327524408093bd7cced143331dca535d8fd72c9bf819a2df52
+Size: 2457530
+MD5sum: ece303f6e18da09b9794720442376f61
+SHA1: ad3acf3839613f75a71affbe58334c9096cfa331
+SHA256: e445e768d2fc70e992d148d2426d9d7f357cf633c415de2105c697ee5630fc42
+SHA512: 9976cfedbcf5ddab9d6d3e20d8a2eda59093b645e70a05e3c40df13ddd93e19165aa496e7549fb5570acccaff95363954214063e2ef7bfa7b5116fa9a7cc5404
 Description: ChargeLimiter
 Name: ChargeLimiter VH(Rootless)
 Depiction: https://bvnsupport.github.io/depictions/ChargeLimiter.html
