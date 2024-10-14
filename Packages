@@ -394,24 +394,6 @@ Depiction: http://support-jailbreak.github.io/infodeb/Font7/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Font7/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.FACEBOOKADS
-Architecture: iphoneos-arm
-Version: 1.2.3
-Section: Tweaks
-Maintainer: BIENVANNHAT <BIENVANNHAT97@GMAIL.COM>
-Installed-Size: 820
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.BIENVANNHAT.libjcx (>= 1.1.0)
-Filename: ./debs/com.BIENVANNHAT.FACEBOOKADS_1.2.3_iphoneos-arm.deb
-Size: 554718
-MD5sum: 3ce11cdccd55d305654b0856a6e89a86
-SHA1: 01d89618522c8b421e62cce30997ae231d123889
-SHA256: 5e0863553912676a9bee35824e88f1834a08b2215b1a226221302ea1b8a25b35
-SHA512: e0be8d95ba655cf19c95f834a0d82415d3722d8c5d500a607bb0610025417ebd9aa2033818504700b14f7fad16878ab863977e03ef0bc3979b0260a427c1149d
-Description: Xoá tất cả các quảng cáo trên Facebook
-Name: FB NoAds
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: JacobCXDev <jacobcxdev@gmail.com>
-
 Package: com.BIENVANNHAT.FlyJB
 Architecture: iphoneos-arm
 Version: 1.2.6R
@@ -3220,27 +3202,6 @@ Description: Tinh chỉnh mã nguồn mở miễn phí cho Facebook
 Name: Facebook No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
-
-Package: com.BIENVANNHAT.facebooknoads
-Architecture: iphoneos-arm64
-Version: 1.4.3-2
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 168
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15.0), emt.paisseon.xinamine
-Conflicts: com.p2kdev.facebooknoads
-Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.4.3-2_iphoneos-arm64.deb
-Size: 277364
-MD5sum: c254719b43b73dc708a4d32c156eb418
-SHA1: 1372a9ec7dbedaaeb961e47619c8cad60dc6725d
-SHA256: 415d91e4ea1de9d671cca0d96d8c25ba0d76eea82c9be03df802dc76a858c5fd
-SHA512: 62df1abc9e0a088af1f5eeac65afa97519562bd25fc9e82755667859ecbb53eebc5e8db74c797475b6ca122cfd3cc6332c66287e972a4c3f545d0e4f84da2c33
-Description: No Ads in the Facebook App!
-Name: Facebook No Ads (Rootless)
-Author: Haoict
-Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facespro
 Architecture: iphoneos-arm
@@ -11088,6 +11049,48 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/epikpatch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/epikpatch.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 172
+Depends: mobilesubstrate
+Replaces: com.p2kdev.facebooknoads, com.BIENVANNHAT.facebooknoads
+Filename: ./debs/com.bvn.facebooknoads_1.3_iphoneos-arm.deb
+Size: 8124
+MD5sum: bf4983cb113e5db07456f90458b62820
+SHA1: 252d764ac9ae2abca3ba043424db5db62fd9fcea
+SHA256: 6b5117458ff4e6e81fad6fc9993f94b71f1222a2ec57aaa5ccb1d59045a1b23b
+SHA512: 4f8cb1aeca3f7576603eb6a1d8ac6964e28a6c478a5b3a7abe8e87f8dc2e08f778c8f4a1546799c5585597f6e884c43e5bf50181dfebb12d2807dfff8cdc8d62
+Description: No Ads in the Facebook App!
+Name: FacebookNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+
+Package: com.bvn.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 172
+Depends: mobilesubstrate
+Conflicts: com.bienvannhat.facebooknoads, com.p2kdev.facebooknoads
+Filename: ./debs/com.bvn.facebooknoads_1.3_iphoneos-arm64.deb
+Size: 8480
+MD5sum: 119df3762dd6f5f6abaeb57d4616769b
+SHA1: b6447eb4160c7eef092d35d4ee0aa69d056e367f
+SHA256: 24dfbfadac5aee2f1f399a3b62a924952e7c3d83f20ebdc3d2053a2b7797f396
+SHA512: f7d7499973b607a2780a638895e985dbe2ad7fd880946f8c9efd406710ecbeff2ca8a9307812f0c3be2ccc94e2e90fdc53eabea7d7c8af95fe95aa13b6c575bd
+Description: Không có quảng cáo trong ứng dụng Facebook!
+Name: FacebookNoAds (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: P2KDev <p2kdev@gmail.com>
 
 Package: com.bvn.facelab
 Architecture: iphoneos-arm
