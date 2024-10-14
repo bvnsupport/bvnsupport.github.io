@@ -9416,23 +9416,23 @@ Author: Nyxz
 
 Package: com.bvn.ChargeLimiter
 Architecture: iphoneos-arm64
-Version: 1.6
+Version: 1.7
 Priority: optional
 Section: Tweaks
-Maintainer: BVN
+Maintainer: BVN Repo
 Depends: firmware (>= 5.0)
-Conflicts: chaoge.ChargeLimiter
-Filename: ./debs/com.bvn.ChargeLimiter_1.6_iphoneos-arm64.deb
-Size: 2415288
-MD5sum: 823deab3363384f5c98c70effe136e39
-SHA1: 49a066afa8152a7c60d288a81bfd5d899e1359d3
-SHA256: 60ee32f8e04c08838459373e6b8e078a6e5d479e2ae9ce49c02560da5faa4dec
-SHA512: 92b9323f4e19a92f5f184151cae8c8d157c387652286e7aac42b8a257e7d44b1259569be530667eb774c2c599f7d7906786dd7c6e88ea19672d9ab8b6a055e45
+Replaces: chaoge.ChargeLimiter
+Filename: ./debs/com.bvn.ChargeLimiter_1.7_iphoneos-arm64.deb
+Size: 2457528
+MD5sum: 111863d53ef08e439a48304bbdcef355
+SHA1: 89c8a8c7c4ff43f6919a83f0d7771d0e2b8b25ab
+SHA256: 2a92ee0cb114a2ce1b8fd627fc8516c77d1058154e62cbc45c03b21ad5dd41ed
+SHA512: b528ac93a723573e4d5e554be6c849ba2992d784134e9d5d8d677e0f2ec821651d0c96f0b68673327524408093bd7cced143331dca535d8fd72c9bf819a2df52
 Description: ChargeLimiter
 Name: ChargeLimiter VH(Rootless)
 Depiction: https://bvnsupport.github.io/depictions/ChargeLimiter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChargeLimiter.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: chaoge
 
 Package: com.bvn.Christmas
