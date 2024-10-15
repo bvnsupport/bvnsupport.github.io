@@ -7710,18 +7710,18 @@ Author: opa334
 
 Package: com.REPOBVN.crane-rootless
 Architecture: iphoneos-arm64
-Version: 1.3.16K
+Version: 1.3.16-2K
 Section: Tweaks
-Maintainer: opa334
+Maintainer: Bvn repo
 Installed-Size: 3212
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/com.REPOBVN.crane-rootless_1.3.16K_iphoneos-arm64.deb
-Size: 946478
-MD5sum: 00426804fb2e907fe92956917fa88356
-SHA1: 3e39d073be34725c326f80ad86a09da541835755
-SHA256: c6f8e6b3d2e35528831c5454394fa9274beec14a13f369a6fb5f58b999cd6b8d
-SHA512: de6e5bf44a58a2be4c8d59e567121c8e8e0f90d3a6fbb69b922694e790e9f7d09ac8fb70daf70ccf20cbb1a4dd6992dde28b048da20a0101370924ed35e4962d
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.16-2K_iphoneos-arm64.deb
+Size: 946462
+MD5sum: 51929d7b1382feff2d2613a3633d74c5
+SHA1: 96adbff7e26a7695e3c833cf8d67d96615f6176a
+SHA256: fce6d177637606cc6fb78880dc58d3f30523706bc4e035b2f82a83a4de856bd8
+SHA512: 077bb50963f9e13f6b5ce22535e61ebdece6d5a524b000ca5c6214d3ab1534c03e6a4c148f9971d5ab50617d342d833772de86ff15ebf07deecbecf544d66f4b
 Description: Multiple containers for your applications!
 Name: Crane VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
