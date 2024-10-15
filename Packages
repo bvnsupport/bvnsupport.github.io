@@ -10244,39 +10244,39 @@ Name: BeautyPlus Vip(Rootless)
 
 Package: com.bvn.bhtiktok++
 Architecture: iphoneos-arm64
-Version: 1.3.0-43+debug
+Version: 1.5-4+debug
 Section: Tweaks
-Maintainer: raul saeed
-Installed-Size: 916
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bvn.bhtiktok++_1.3.0-43+debug_iphoneos-arm64.deb
-Size: 248212
-MD5sum: 8d80e037005af3a8f7c09a404444fb8e
-SHA1: cafec9ea472f8c9ab1e9a4b06476f96ba640e760
-SHA256: cb73d2dfb6fc29114a70459dac8d5b6da0ebed4bb7d90d418ea9aebc411429e9
-SHA512: e6a6e153f6b03d4b00639c03880129c19bf515e3f5b0bf6a64d7fb6789949b6fb158d0d869f140e1159db0a846d113650706f7715cb9490110474ae4f4bb3ed7
+Maintainer: bvn repo
+Installed-Size: 996
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok++_1.5-4+debug_iphoneos-arm64.deb
+Size: 266824
+MD5sum: 143c3b5088318861e5bccead59a4bcb3
+SHA1: 666d04877bb03e5e9f8cf09646f658593a6cef75
+SHA256: 2d717acaae4fccdc34b32cb7ec8398c03e6969fbb7ee1a19a8f748ad28cc5077
+SHA512: 4ad822c8c10a3fdb0716dcec081452342a0242c96153db9d689dbd34bebe88fd33066270504ccca5e2c0280a777eca945f8f2eb61c6847795cc52f12d03aaedf
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++ (Rootless)
-Author: raul saeed
 Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: raul saeed
 
 Package: com.bvn.bhtiktok++
 Architecture: iphoneos-arm
-Version: 1.3.0-44+debug
+Version: 1.5-5+debug
 Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 916
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bvn.bhtiktok++_1.3.0-44+debug_iphoneos-arm.deb
-Size: 248114
-MD5sum: f481ff6d243340036a999a5b1e34c4e5
-SHA1: c43fd231ffb26ee69fa3f32fef54b2efd94de1cb
-SHA256: c0f20a322b235907f445537c7122d1f8a0cd0b6f1c0db0cbc72353653d4f9349
-SHA512: a5eaf564df8e0f36f7833f34200282a095719586ecd2c7433e2324e90b2b877430256d314b329c17abc81cca0b02ee044ab0dee3133bdafaa4fb16578b5ee6f5
+Maintainer: bvn repo
+Installed-Size: 996
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok++_1.5-5+debug_iphoneos-arm.deb
+Size: 266720
+MD5sum: b126cffa2259c769bc60536b820ecedd
+SHA1: c69c1f67b96031289391e1e15ecb33188405db73
+SHA256: 772b143c0ac34448702fc40092b358df44138cf37cdac44dff27306a813d312c
+SHA512: 301b5ac835a462c772b7714f5e8e38f0e092b8064ae1d3368b4eaf09f08abe4139b690773bb1ee655f80417dcd7aa9faf7e2e832ea8498e6a546ce26c668e8af
 Description: An awesome tweak for TikTok!
-Name: BHTikTok++ Vh
+Name: BHTikTok++ VH
 Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
