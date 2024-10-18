@@ -10858,16 +10858,16 @@ Author: Ryan Nair
 
 Package: com.bvn.darl-rl
 Architecture: iphoneos-arm
-Version: 2.8
-Section: Theme Rootless
-Filename: ./debs/com.bvn.darl-rl_2.8_iphoneos-arm.deb
-Size: 78851646
-MD5sum: efb4c453f6707ad47fe0a68e8838327d
-SHA1: ab8d0ba0a06deca96416162673a2a8a72c889286
-SHA256: cd71480068f5b094b31821396c02c29af2833c4b6216674a9409af87ba1cee82
-SHA512: 59e0169acbb48839bb8685a5f44163e27dacd7884d789c7caa13b4eeb7762b4351349694ffc79aa22997743de3ecbf00154846aea05065b46809e2296efdc7d8
-Description: Mojox Dark 3500+ icons
-Name: MojoX Dark Themes
+Version: 2.9
+Section: Themes
+Filename: ./debs/com.bvn.darl-rl_2.9_iphoneos-arm.deb
+Size: 79536520
+MD5sum: 790d61defac146576b057d49842e102b
+SHA1: 5e9e16eb9622f9ce11933e8fc188235424becc16
+SHA256: 4998198205e441f0a65ef6dcbb74664279e540e01f7f743311d38c72338fc7be
+SHA512: bc9acb0af4609698fca32a69309a7be937c46a41dbef6aea797d46b9f2d87a9154b3adbf2deee1e75990c7279f86e3c2e022ae65bc66605774880c6f9e25e39d
+Description: Mojox Dark 4000 icons
+Name: MojoX Dark Theme
 Author: Rifai
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
@@ -10875,16 +10875,16 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/MojoX.json
 
 Package: com.bvn.darl-rl
 Architecture: iphoneos-arm64
-Version: 2.8
+Version: 2.9
 Section: Theme Rootless
-Filename: ./debs/com.bvn.darl-rl_2.8_iphoneos-arm64.deb
-Size: 78849288
-MD5sum: a9a22cb3e8c73e4e9ffd0e18b9b4c1be
-SHA1: edd68d95ed9faf821acda22733582af03c6ee1d5
-SHA256: a4f6a192e297c7da536ca0ad4260e144211e5d738dac90d00a5f95380d83fb96
-SHA512: 024a8d1c2608994b3f6866140848cf6cd52378cd767e8d6e7cd0b7efed387abbd5453ca240dcf0c382026d081fc0112171eea22c8fc5ec179c8d0c151f7fa458
-Description: Mojox Dark 3500+ icons
-Name: MojoX Dark Themes
+Filename: ./debs/com.bvn.darl-rl_2.9_iphoneos-arm64.deb
+Size: 79561070
+MD5sum: 5788fe32c867daacdcf9d85d900927e8
+SHA1: d6a8199936b6a3eeb9f623edf077085e621668e8
+SHA256: a6a3d870660193aac9f2de8172dd5a8b16757b400b5ffd0ae4f31d5732b7214f
+SHA512: 9902da9cc314530050a7b290b6a045fa03fd79b9bece94bed41f6fa4d9d36374e5924d386da6f627273c69f67ed761d1baeaff27490c99cc0ae35a0caf0350ad
+Description: Mojox Dark 4000 icons
+Name: MojoX Dark Theme
 Author: Rifai
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
