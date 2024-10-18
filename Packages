@@ -10988,6 +10988,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-6
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.bvn.dumpdecrypter_1.4-6_iphoneos-arm64.deb
+Size: 449210
+MD5sum: e3aecaa2d646e495b63cb14da9645013
+SHA1: ddda6058787e7504c2b77422e493f47346d16c07
+SHA256: 1a41da364109b575cc34731e2bffd004f0e2d061fe2dadecfdce71c14ce1848f
+SHA512: c524dad8a29e60024bd8faa06d06222043b7b150515afc1968abf777a4e1d39b7e89fca817ad99451fe286b4123a55de39424bdca1e42e6848a8cd316c2992f7
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter (Rootless)
+Author: Netskao
+Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
