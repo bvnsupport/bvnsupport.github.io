@@ -10990,17 +10990,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.dumpdecrypter
 Architecture: iphoneos-arm64
-Version: 1.4-6
-Section: Tweaks
+Version: 1.4-8
+Section: Netskao-Tweaks
 Maintainer: bvn repo
-Installed-Size: 848
+Installed-Size: 896
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.bvn.dumpdecrypter_1.4-6_iphoneos-arm64.deb
-Size: 449210
-MD5sum: e3aecaa2d646e495b63cb14da9645013
-SHA1: ddda6058787e7504c2b77422e493f47346d16c07
-SHA256: 1a41da364109b575cc34731e2bffd004f0e2d061fe2dadecfdce71c14ce1848f
-SHA512: c524dad8a29e60024bd8faa06d06222043b7b150515afc1968abf777a4e1d39b7e89fca817ad99451fe286b4123a55de39424bdca1e42e6848a8cd316c2992f7
+Filename: ./debs/com.bvn.dumpdecrypter_1.4-8_iphoneos-arm64.deb
+Size: 481728
+MD5sum: 6a40e67ed97b8441436f3db612a25860
+SHA1: 5b376c3480a0bb959eba522b30bab8367ab4108e
+SHA256: 1799f2bb0200bf7dbb44bb3aef46a5239e866335c2c40abee01c7280a00c7bd0
+SHA512: 0a508907dee663730c81b5729ee120b822546050dd6d6ee8a667c874a0a41f9d6c85d258add3e94de0cef403491c0a530587fc2390695eabfa7a35e517a2411e
 Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter (Rootless)
 Author: Netskao
@@ -15559,6 +15559,26 @@ Description: Make mDNSResponder care more about /etc/hosts
 Name: LetMeBlock
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Filename: ./debs/com.ps.letmeblock_1.2.1_iphoneos-arm64.deb
+Size: 8316
+MD5sum: 74e8d96a72a380b89a0cb522e6112c53
+SHA1: 67c9a15cdec959bcf916b372491390e1df44c657
+SHA256: a8f8c43393528bedfab6ce53fbcbd7c520e1aa695de60e9a30c1fb9798c04edf
+SHA512: bb9c9281989893535661dfe5f6b4af86c721d684eedfd3d546ea9fac6a1ed8e33a9997ef6c1d819f160da181c1d3ad7dc7df43b189640c903480f913d0a43115
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.ps.ytabgoodies
 Architecture: iphoneos-arm
