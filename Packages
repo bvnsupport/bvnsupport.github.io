@@ -7831,6 +7831,25 @@ Depiction: http://bvnsupport.github.io/infodeb/SneakyCam/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SneakyCam.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.REPOBVN.sneakycam-rootless
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Filename: ./debs/com.REPOBVN.sneakycam-rootless_2.0.8_iphoneos-arm64.deb
+Size: 144752
+MD5sum: 1154d435cc0ab64a3dabe5eb1b4b31d9
+SHA1: 9f0f7278fefcdda9427d87119a8a475e10f8fdbf
+SHA256: 1736c52f524874e8e41d6bfbea3c51d4a10565646496dc0008eab2b116e1f49e
+SHA512: 5a1c4bd382b5d68f575f0502a8aa6cc7343e1082b58266406f235e546f32025ef3f1e8a5710b0e0aba960027af7c0ccb6544456f44d2dbc4a070d482b6bc4336
+Description: Chụp ảnh hoặc quay video một cách kín đáo từ mọi nơi, ngay cả khi màn hình tắt.
+Depiction: http://bvnsupport.github.io/infodeb/SneakyCam/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SneakyCam.json
+Name: SneakyCam VH(Rootless)
+Author: Spark
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.PullOverPro15
 Architecture: iphoneos-arm
 Version: 15.17-2
