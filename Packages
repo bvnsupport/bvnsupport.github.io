@@ -15781,6 +15781,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Fouad Raheb
 
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Netskao-Tweaks
+Maintainer: bvn repo
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.3_iphoneos-arm64.deb
+Size: 6491094
+MD5sum: 41c34e11c6193881b1efed9d88c851d1
+SHA1: 1c79b139ed269fa1eef2501192697d3993e5adb6
+SHA256: c4d305c655f0e24ebb975162504b4c98ca1306c2fd3804b4b9405ac92c82989e
+SHA512: 5df9988bf870ce9c5e9b8a8a2cbdc86295264c05f6c8bb704b22c10114502cd39bc4625a099c04903e5888d4e951bf1a2a17b109f6d89220a976d909ee6638ef
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData (Rootless)
+Author: Fouad Raheb
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.repobvn.Bauhaus-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
