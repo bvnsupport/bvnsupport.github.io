@@ -11514,6 +11514,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/GitHub.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/GitHub.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.griddy
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.griddy_1.0_iphoneos-arm64.deb
+Size: 29574
+MD5sum: 11d84f5e3d1bf6c7c980d3a5aea7c49f
+SHA1: f0d1533833ae6298ed9b26965487801611327a55
+SHA256: c49c4292e8dd8d72f4be5e9be0f533f524289f1221a0a4fe51f97ca5a302a500
+SHA512: 20e3a70ad39eeb4a9e68f6c18a1196871169fa5366ba06b6d7b5d2a43eeaddffdc3cb99680d7ac1e83d83084007709f04ffea2afcd01e404e13481f5c2bc033d
+Description: Make your icons hit the griddy
+Name: Griddy VH (Rootless)
+Author: mikifp
+Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.hidestatusbaritemsx
 Architecture: iphoneos-arm64
 Version: 1.0
