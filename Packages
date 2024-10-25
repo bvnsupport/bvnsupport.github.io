@@ -11516,19 +11516,19 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.griddy
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0.3
 Section: Tweaks
 Maintainer: bvn repo
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.griddy_1.0_iphoneos-arm64.deb
-Size: 29574
-MD5sum: 11d84f5e3d1bf6c7c980d3a5aea7c49f
-SHA1: f0d1533833ae6298ed9b26965487801611327a55
-SHA256: c49c4292e8dd8d72f4be5e9be0f533f524289f1221a0a4fe51f97ca5a302a500
-SHA512: 20e3a70ad39eeb4a9e68f6c18a1196871169fa5366ba06b6d7b5d2a43eeaddffdc3cb99680d7ac1e83d83084007709f04ffea2afcd01e404e13481f5c2bc033d
+Filename: ./debs/com.bvn.griddy_1.0.3_iphoneos-arm64.deb
+Size: 31994
+MD5sum: 0ab6d4ccc99f34f9be6b858d66832918
+SHA1: 394086ef06c33a0189f6bfe11905fbc8b91fdb16
+SHA256: 746a562df8a7940104951cd731d46b705587ed4b498fd37da5d37fddae2a2510
+SHA512: aab33813871f17c80b843f07ceceb617a786ba34245c768490bbdaf086fac43b962d6ac8c6ddadf996a2bd4d558fdfa1efe257317e49392beb47c3218a4d6574
 Description: Make your icons hit the griddy
-Name: Griddy VH (Rootless)
+Name: Griddy (Rootless)
 Author: mikifp
 Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
@@ -13072,39 +13072,39 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 5.6
+Version: 5.7
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2944
+Installed-Size: 2952
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: ./debs/com.bvn.spotify_5.6_iphoneos-arm.deb
-Size: 1020344
-MD5sum: 8049da7bfbed7cb70a4457ea3bd4545d
-SHA1: dfbb3bb86d9cddd590d5497eaf33b457d87260a8
-SHA256: f6f8405999b0bf24292adb73534f9bb87c909a1fe692c20de9526a8e1d203527
-SHA512: 8fca4e07720c39f20fef4a82959aac876e49916fe3cd65d02d52d49012705399b186d294b8c522e1be9e05e76ef7163907fe95e5da3ab099e45079d6ad3a388d
+Filename: ./debs/com.bvn.spotify_5.7_iphoneos-arm.deb
+Size: 1019740
+MD5sum: fff1efe4f8d1d75d1f60bd60ac3234db
+SHA1: af3ed2963ec5ae750c4a3290f5f84620aedd3ad1
+SHA256: 5f2cf6ccd9e734283faffcc9eb94d0f8cf669ab9d9bfe3822f3fd7572466b520
+SHA512: 5f8df93fb61b225b2eddce612c8e4a9dad6f6d4a36f7ed43bd46b0fed3389a5a3b089b650396c0bfdb7572e4ea4dcbe096433604b0a71b900ca7044d63124f4a
 Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Rootless)
-Author: Eevee
+Name: EeveeSpotify VH
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Eevee
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 5.6
+Version: 5.7
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 2944
+Maintainer: Eevee
+Installed-Size: 2952
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: ./debs/com.bvn.spotify_5.6_iphoneos-arm64.deb
-Size: 1020112
-MD5sum: 4232481da68940255600cbc38de9a381
-SHA1: 9e385468d26a12bdce946915362ffe2efee75c45
-SHA256: dc4bce08fbfc1869bad15fe10ecb8c1b4bfe9d114ae625ffaece3867684cd054
-SHA512: 245963c038fd3ff9863eab1f2ef886e89f3544985388ac25c16848827d2e2782ed7d7e58e3c9f9dc534c6db3d641660bd99d399e14a09f95201d345683608837
+Filename: ./debs/com.bvn.spotify_5.7_iphoneos-arm64.deb
+Size: 1019510
+MD5sum: 0b1780ec6a9bca52e72de4bfd4c743e1
+SHA1: 30b6f05d1789b493d9ee23cb883ed953e762d77c
+SHA256: 1f0b55844067d5eb2613bc1d6a9a70d517dc78463e19c35199be3ac91d552134
+SHA512: 5ff197764dc8e83c8e47c69fdaf3694c20742835c1b18f82f8dd379c9bab5fff7a765ce9143b8dc4b61b86da1e1edab93cd30c9dfd24e75cfa68ffd54005f370
 Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify VH
+Name: EeveeSpotify (Rootless)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
