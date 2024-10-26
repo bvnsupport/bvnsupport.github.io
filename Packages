@@ -11515,6 +11515,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/GitHub.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.griddy
+Architecture: iphoneos-arm
+Version: 1.0.3K
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.bvn.griddy_1.0.3K_iphoneos-arm.deb
+Size: 31962
+MD5sum: 37d58a1a3d03b219fd4f784d645ed57f
+SHA1: ab8ea768f05c455009c0d7a8d490732dd327b148
+SHA256: 759600d28308e044bcc4cd7317161367137a8884f12e5c5a7806507d7529628a
+SHA512: 1653ead247e2c864dce8fd07510d910982ca41e1d466831c3d88089b12d4885911ab3465f4855bc46378608446dff009c5030eebf941ca1649382d77d2e7d5c4
+Description: Make your icons hit the griddy
+Name: Griddy VH
+Author: mikifp
+Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.griddy
 Architecture: iphoneos-arm64
 Version: 1.0.3
 Section: Tweaks
