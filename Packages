@@ -11716,6 +11716,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Jade VH (Rootless)
 Author: Nightwind and thetimeloop
 
+Package: com.bvn.jade
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1509
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jade_1.0.3_iphoneos-arm64.deb
+Size: 430848
+MD5sum: 2f1a6691dddcd638318904092bf23e69
+SHA1: c796c5690302758442cc0eb0d2e853652dc7f583
+SHA256: b687b6cb11718dd58c9ceacbd56fc1b32e6ffc611c84f273fcdde681e7621f4b
+SHA512: 97adaf2e549379c43f781eac9d72850a2a50e7024503b7e50e85d6d4dc95cef3889344862404691fa5c8499e7108b3ce05911bd01f5d98282a9f737c59bd78fc
+Description: Your control center, brought anew
+Name: Jade VH (Rootless)
+Author: Nightwind and thetimeloop
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.kayoko
 Architecture: iphoneos-arm64
 Version: 2.5
@@ -12419,6 +12439,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Name: PlampyCC VH(Rootless)
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.popoutbuttons
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.bvn.popoutbuttons_1.0.0_iphoneos-arm64.deb
+Size: 81956
+MD5sum: 17c73b18f63d725c5fa50e65bcc5e7fe
+SHA1: 4b458b69ef2d48bc2d1dbbebacfd9433db6d8f1a
+SHA256: 9b44e70c9d84e3fc86c4b7d5aff65b5306b32589bbf33c017cb443151fc023c7
+SHA512: 76d75028bee6bad1336bcfa0a7a8ef957bc12952cd66daacd96f3e72f82765b662178916bbf6a4148483d7281d1cfd0ee45926d4b4b6798d0174d2537f8022c3
+Description: PopOutButtons mang các nút bật lên của iOS 18 lên iOS 13-17
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: PopOutButtons VH(Rootless)
 
 Package: com.bvn.portraitxi
 Architecture: iphoneos-arm
