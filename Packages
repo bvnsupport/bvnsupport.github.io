@@ -12441,6 +12441,27 @@ Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.popoutbuttons
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.bvn.popoutbuttons_1.0.0_iphoneos-arm.deb
+Size: 82132
+MD5sum: c25846c82706d681c4e4bb6e97a2ab0e
+SHA1: 8eefc48f503dcee787e05eee698cb4c94776686b
+SHA256: 275e83e741dbb1c6e95f3935ae7868134dc029afd606e7c911cd3f794cd8006e
+SHA512: 0b419359e85648251b5ac885ae8eb2e75d5577348483d261f34d6ec3ae81b0d13ef9119dca0edceca876a7cac07ebb99389cc632e240894ff840bafacd515c90
+Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Tag: compatible_min::ios13.0
+Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Name: PopOutButtons VH
+
+Package: com.bvn.popoutbuttons
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
