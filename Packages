@@ -5501,6 +5501,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.picsart-rootless
 Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.picsart-rootless_1.0.1_iphoneos-arm64.deb
+Size: 127318
+MD5sum: 1055efbba486cf0c41fc8ce1361736e9
+SHA1: 57d713a8dbdb8156474388f0e35753173db18b30
+SHA256: f687c43248b714bf2dc488c6536ecbf53ce4ca25caceeaa8f454b945c919ddee
+SHA512: 5361488925f842033969c22dbf5f1bd28397ccdf4ed588da3eee4d523db60c8783a017d3ee3cb653643f08ccfcb3552af24e37f433ecce0b82e648bed9789bf1
+Description: Unlock Picsart Gold Annual
+Name: PicsArt® Gold (Rootless)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.picsart-rootless
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
@@ -8961,6 +8981,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Tags: compatible_min::ios13.0, compatible_max::ios16.2
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
+
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.bienvannhat.picsart_1.0.1_iphoneos-arm.deb
+Size: 127100
+MD5sum: f5ec9d91694e9390cfeef5f0af71e28d
+SHA1: 095ff92cdfc17eedd8a1e8c4fde4975e3f318e8e
+SHA256: b17e18e8c6dba4594db6f60320c15e321519a3ff7f2be1970d32af93e320669a
+SHA512: 59fca32172bdde4d5d756522b1adab427a907c75e697d36ce022565948b162da7701f4ace9c4c005c0230f7d5ba5171ad601898dcbadda1261e9fa517518f1de
+Description: Unlock Picsart Gold Annual
+Name: PicsArt® Gold
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.picsart
 Architecture: iphoneos-arm
