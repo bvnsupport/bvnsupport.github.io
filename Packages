@@ -11820,22 +11820,23 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.kayoko
 Architecture: iphoneos-arm64
-Version: 2.5
+Version: 2.6
 Section: Tweaks
 Maintainer: BVN Repo
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.bvn.kayoko_2.5_iphoneos-arm64.deb
-Size: 224916
-MD5sum: 495d4828e2b30b153184e7e3dedc328b
-SHA1: 619d20202fed17589530b40d8edc56761845cce7
-SHA256: 6172b10ef2c2abc14d4ae26f8de9ce831f4b172d70d77862faaa66d9420653f4
-SHA512: 5d0fd38fbd40addae2f5b3a82e5f9012f599affc38db19c7c8b15597852fd87da05ca8d7f1aed99fa3efe14b327faf7cfba6a03a6a62f30c9af373a105845015
-Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất thân thiện với người dùng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine 82flex đã hỗ trợ cố định cho iOS 16, vui lòng đợi bản cập nhật để giải quyết mọi vấn đề!
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: ./debs/com.bvn.kayoko_2.6_iphoneos-arm64.deb
+Size: 226872
+MD5sum: 7124ba78c971ccb6222c787d33446a40
+SHA1: bf3d62f224a25906313781a55564d4b27876af2b
+SHA256: 6dca37ccbf87afb5ea5502cef58290b7dea4c851a4f5a0b0b2fdc6949aacf16f
+SHA512: be609a8e898e9f3cdef7673fe5a3a7325729fef6264047a26e706c9ed9e229c3b5a0a799756a4131d8703068b02116142ba5f61270da244621b72d7b38a9998e
+Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí!。
+Name: Kayoko VH(Rootless)
+Author: Alexandra Aurora Göttlicher
 Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Name: Kayoko VH(Rootless)
-Author: Traurige
 
 Package: com.bvn.kinemasterpatch
 Architecture: iphoneos-arm
