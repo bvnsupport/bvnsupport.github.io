@@ -10695,23 +10695,24 @@ Author: CoolStar
 
 Package: com.bvn.classicfolders3
 Architecture: iphoneos-arm64
-Version: 3.0.2
+Version: 3.0.5.7
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 4496
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.classicfolders3_3.0.2_iphoneos-arm64.deb
-Size: 3706336
-MD5sum: 174f8063d84d67ed0a5f528241be467b
-SHA1: dec2752ab7aecfea7af5572196e8c2bf83504450
-SHA256: ac45be2c63b8d782a1882aeac46e7ae5d0248138a1dd14d02522f7160ece6dee
-SHA512: 2de984e305794c4d84d5228cbe27b980d2eea7bb8364a0cb0a5657ec5e7431c69706b7f30ebf12c0d34f02c2eeab90893d062a406f14087b5df094c0fd3cccc3
-Description: An awesome MobileSubstrate tweak!
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4360
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/com.bvn.classicfolders3_3.0.5.7_iphoneos-arm64.deb
+Size: 3669690
+MD5sum: e3b6bb8cdd8ca6bbee5ebe404af3a94b
+SHA1: c689204ca53d76414baae96e655895af478aaca3
+SHA256: 5fd461ac08f2c2173b6a65f9f42deac4f61280164066fdea7a2adbcd8ff04c20
+SHA512: f93e6a4f9f8c2bd4934098071ec63ddfb4405da0396c03781a80acd54309ca3eb57c0806add8c9a5fcdeb91b1e8979d6daacd093619ef7cad20f5b80167226d7
+Description: Thư mục cổ điển 3 của CoolStar, Daodao dựa trên phiên bản Lizynz được tối ưu hóa nguồn mở (hỗ trợ iOS15+) và rất dễ tùy chỉnh.
 Name: ClassicFolders 3 VH(Rootless)
+Author: CoolStar & Lizynz
 Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: CoolStar
 
 Package: com.bvn.colorbadges
 Architecture: iphoneos-arm64
@@ -11593,6 +11594,27 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/GitHub.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/GitHub.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.3.5
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./debs/com.bvn.griddy_1.0.3.5_iphoneos-arm64.deb
+Size: 34988
+MD5sum: c3fbeddc732d55589d89134bfb4bfc55
+SHA1: 67c7cce2620b1bb44190e40b0c3c68c25fd9fcb4
+SHA256: 75aa804177b501d1b4760865000d218e50a8cdd25a3b5b5210908865671caa78
+SHA512: 15d672d1ae98403b836df6e5635a11e8eab38da5d1b3f5ccb975692413c8bdd93ec68106c6e73bc8f643ee7ed83f05382493094df641fc862c0ee92756b9fd8f
+Description: Hãy để các biểu tượng của bạn được đặt tự do trên màn hình chính! Được biên dịch dựa trên nguồn mở, được hợp nhất vào bản sửa lỗi plug-in Hello Folder và PrimalFolder2.
+Name: Griddy VH(Rootless)
+Author: mikifp
+Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.griddy
 Architecture: iphoneos-arm
