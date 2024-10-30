@@ -11838,6 +11838,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.kayoko
+Architecture: iphoneos-arm64
+Version: 2.7
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: ./debs/com.bvn.kayoko_2.7_iphoneos-arm64.deb
+Size: 219982
+MD5sum: f6374c1adea36fd6f8acad96049cf3fe
+SHA1: e10d998019ac813e9da652c385271f3f0b15a678
+SHA256: 4fbdc6b4fec51bc5ec72adcfb91aacbc456b9d89008cb3a7f1680e14af3f2e45
+SHA512: 18710109b4a9ed0e246bd3d9e58f37a460f5c6547b93501e40bfe69df641ac0d975dc327dfb3d67815fc524b55f616a0640096bc935b0184aba86c39845f900b
+Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí!。
+Name: Kayoko VH(Rootless)
+Author: Alexandra Aurora Göttlicher
+Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.kinemasterpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
