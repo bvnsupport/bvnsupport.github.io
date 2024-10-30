@@ -15985,23 +15985,23 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm
-Version: 1.4.2
+Version: 1.4.4
 Section: Tweaks
-Maintainer: BvN
-Installed-Size: 3772
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.repo.appdata-rootless_1.4.2_iphoneos-arm.deb
-Size: 1250104
-MD5sum: 5494b56bf6250e33f7610b0374c27261
-SHA1: 4a2b05a15556d07567cf4f4de47832d7aaf0fd9f
-SHA256: 4ad37847c1b9ff0967cf59ac80862507b09751c1b78a5ab7f59d2fd511a4f202
-SHA512: 517f9672d9ffb1915b65cfd5ececbe2c8eb86fb58d5022f2457ad699a8d64b40b98632fd7fa8aa4c5066a35b77fcb3ed5ad05711036bbf33b05f1076b78cffd6
-Description: Vuốt lên hoặc xuống biểu tượng trên màn hình hoặc nhấn và giữ lựa chọn menu ở chế độ 3D để hiển thị công cụ phím tắt dữ liệu ứng dụng biểu tượng Phiên bản này đã được quản trị trang web bản địa hóa và sửa đổi hoàn toàn. Sửa đổi và tối ưu hóa: Thêm phiên bản đơn giản của ứng dụng bị hạ cấp, thêm tùy chọn vuốt xuống để gọi nó ra, thêm tùy chọn xem trạng thái mã hóa của ứng dụng, thêm tùy chọn bảng để loại bỏ đường phân chia bảng, thêm một đoạn dài nhấn vào biểu tượng bảng điều khiển để bắt đầu ở chế độ an toàn, sửa đổi ứng dụng gỡ cài đặt ban đầu thành gỡ cài đặt thực. Không có dữ liệu được giữ lại, phiên bản gốc được sửa đổi để không làm mới tổng hiển thị dữ liệu một cách đồng bộ sau khi xóa bộ nhớ cache, trang thông tin thêm của phiên bản gốc dài- Vấn đề lỗi sao chép thông tin nhấn đã được khắc phục, dữ liệu đặt lại ban đầu được sửa đổi để bao gồm dữ liệu thư mục trong nhóm chương trình đặt lại, phiên bản gốc được đặt lại. Kích thước dữ liệu của cột dữ liệu đặt lại được hiển thị để bao gồm dữ liệu thư mục trong nhóm chương trình. Sau khi sửa đổi dữ liệu đặt lại ban đầu, hiển thị dữ liệu bộ đệm và hiển thị số quyền không được làm mới đồng bộ. Không thể sử dụng phiên bản gốc đã sửa đổi để đặt lại khi gọi một ứng dụng được tải xuống từ Dữ liệu/Quyền đặt lại/Gỡ cài đặt ứng dụng (chỉ. bị vô hiệu hóa trên ứng dụng hệ thống sau khi sửa đổi)
+Maintainer: Bvn repo
+Installed-Size: 13548
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.4_iphoneos-arm.deb
+Size: 7093138
+MD5sum: e38a0c40c1f61085e7b4c885a19e112f
+SHA1: e3d6c17a3cea6e761a32fdb7b1f29f4976d605af
+SHA256: 6ee06debd991bc184a43d877904fc1bf793ce47145f28b2407a62d93a17a64eb
+SHA512: f52a5ce74d47cd5d6df11dbeb9945cac11797f1efd2e77ae7680bf0cdd717319e40cc5fa857857d27911139a5a5e35c10e0e45e68cafc858de8df8be07016fc1
+Description: Xem và quản lý dữ liệu ứng dụng từ Màn hình chính của bạn
 Name: AppData VH
+Author: Fouad Raheb
 Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Fouad Raheb
 
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm64
