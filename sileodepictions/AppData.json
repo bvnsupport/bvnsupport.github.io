@@ -56,7 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Fouad Rahed"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/7/2024"
+"text":"30/10/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -79,7 +79,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by Biện Văn Nhật",
+"text":"Copyright © 1024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -92,11 +92,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4.2\n\n- Fix API"
+"markdown":"### Phiên bản 1.4.4\n\n- Cho phép các ứng dụng được cài đặt trên TrollStore thiết lập lại dữ liệu và quyền"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by Biện Văn Nhật",
+"text":"Copyright © 2024 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
