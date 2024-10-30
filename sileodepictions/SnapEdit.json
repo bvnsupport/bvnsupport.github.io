@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"SnapEdit Pro\n\n- Mở khoá tính năng Pro cho ứng dụng chỉnh sửa ảnh SnapEdit \n\nㅤ\n\n",
+"markdown":"SnapEdit Pro\n\n- Mở khoá tính năng Pro cho ứng dụng SnapEdit \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -33,10 +33,10 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi"
+"title":"Link Ứng dụng"
 },
 {
-"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"markdown":"[**Tải xuống**](https://apps.apple.com/vn/app/snapedit-ch%E1%BB%89nh-s%E1%BB%ADa-%E1%BA%A3nh-ai/id1611282499?l=vi) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -45,14 +45,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Thông tin tinh chỉnh"
+"title":"Thông tin "
 },
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"abc"
+"text":"Dell"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +61,17 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"16/7/2024"
+"text":"30/10/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"15 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.5.1"
+"text":"iOS 14.0 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
@@ -83,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành."
+"markdown":"### Phiên bản 0.0.1\n\n- Hỗ trợ Rootless jailbreak"
 },
 {
 "class":"DepictionLabelView",
