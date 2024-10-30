@@ -13142,23 +13142,43 @@ Tags: compatible_min::ios13.4
 
 Package: com.bvn.snapeditpatch
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 0.0.1
 Section: Tweaks
 Maintainer: BVN Repo
-Installed-Size: 264
+Installed-Size: 3016
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.snapeditpatch_1.0_iphoneos-arm.deb
-Size: 120934
-MD5sum: adf0902c172d646017bddaeb59e04619
-SHA1: 84c2cc850ca17f6566827fa37148ca86f8bfa8ca
-SHA256: 0763e908766475ee2b392be9100f4486454b7fa6da825c49670883f79bab2509
-SHA512: 70194391a02e6352c0bd34b0c4297905d4760de2ff7d042a04de8bc01d2b2ec3ed54cfef4157158671bf683bf94f5e6b0a9d36096ce0477a75673ae9e8d33339
-Description: Unlock SnapEdit PRO
-Name: SnapEdit PRO
-Author: abc
+Filename: ./debs/com.bvn.snapeditpatch_0.0.1_iphoneos-arm.deb
+Size: 2716006
+MD5sum: 1e24052c5222ff9ea1189469493beea9
+SHA1: 0ea761f520504c76c31f678a9d6649fda7299fd4
+SHA256: ae92ef99b606cff78307f7e889e74c8618aa474d3c7edc6c34f6a196f7b9351f
+SHA512: 617aae5fb2609bf8c422c9b953b10f59d1cdcd9f3ba946bf19c1efa7a1a6c0ec2bbccbae540d402d5a2d695772d22e5e7a4601bcc072275bf6060372b4c12f82
+Description: Unlock Lifetime
+Name: SnapEdit Pro
+Author: Dell <tranthikimchi2601@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.snapeditpatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.snapeditpatch_0.0.1_iphoneos-arm64.deb
+Size: 140130
+MD5sum: 6a2ccc47225a78575fe4e6db0f6ef098
+SHA1: cf1f59fc072582fa79e25e63582930c9a846c740
+SHA256: 70b74432bbb39995080b342f9622bf36dcd1368a895ffc37d73d955f251d9655
+SHA512: 40d4e2ef81b8d5867a3e31ae9306676eeaa3b8bf8967b6d5eab729eddff633a1d52857aca5e440617bfdff5b4ec8d321ad787ac67cc1109cfbba3bd5eb286844
+Description: Unlock Lifetime
+Name: SnapEdit Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.snapper3
 Architecture: iphoneos-arm64
