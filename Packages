@@ -12565,44 +12565,45 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.popoutbuttons
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 472
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 473
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Filename: ./debs/com.bvn.popoutbuttons_1.0.0_iphoneos-arm.deb
-Size: 82132
-MD5sum: c25846c82706d681c4e4bb6e97a2ab0e
-SHA1: 8eefc48f503dcee787e05eee698cb4c94776686b
-SHA256: 275e83e741dbb1c6e95f3935ae7868134dc029afd606e7c911cd3f794cd8006e
-SHA512: 0b419359e85648251b5ac885ae8eb2e75d5577348483d261f34d6ec3ae81b0d13ef9119dca0edceca876a7cac07ebb99389cc632e240894ff840bafacd515c90
-Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Filename: ./debs/com.bvn.popoutbuttons_1.0.1_iphoneos-arm.deb
+Size: 87422
+MD5sum: 5133b528a9f652af0c797ab391851811
+SHA1: 05b86c43d739dc4e028ddbd29a82a90d0681a56c
+SHA256: 3b46994abe455844f8887b0ae99002f161733c6db1609aa35be2f0e8f0f6f5ff
+SHA512: 6608fa7fb568e1b18b6f7aaf9e5016595a8c260df153f45be1d83034051dfba0123618f51a558fc03d665a4520ffd560c791632bc9b7840180dc4dd8b1b7e071
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
 Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: PopOutButtons VH
 
 Package: com.bvn.popoutbuttons
 Architecture: iphoneos-arm64
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
-Maintainer: Bvn repo
-Installed-Size: 480
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 481
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Filename: ./debs/com.bvn.popoutbuttons_1.0.0_iphoneos-arm64.deb
-Size: 81956
-MD5sum: 17c73b18f63d725c5fa50e65bcc5e7fe
-SHA1: 4b458b69ef2d48bc2d1dbbebacfd9433db6d8f1a
-SHA256: 9b44e70c9d84e3fc86c4b7d5aff65b5306b32589bbf33c017cb443151fc023c7
-SHA512: 76d75028bee6bad1336bcfa0a7a8ef957bc12952cd66daacd96f3e72f82765b662178916bbf6a4148483d7281d1cfd0ee45926d4b4b6798d0174d2537f8022c3
-Description: PopOutButtons mang các nút bật lên của iOS 18 lên iOS 13-17
+Filename: ./debs/com.bvn.popoutbuttons_1.0.1_iphoneos-arm64.deb
+Size: 87332
+MD5sum: 4ac16dc038fd144ee315cc34682d632a
+SHA1: c37b1459408021e7d098a18541ae673f0754152e
+SHA256: 18147012cb5d2ac1f1e5a6755d54f83e8cbcb03a612a93179dd5c90993c01821
+SHA512: ca6a0e67afb4ebcf5e85d794645c61934ded9ce9142e68b43e778f5ba7c7eb9165ad7c9236a4df2115918acbff55c37b99074343c8afccf90c46680b37eaf06f
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
 Author: tesla_man <computerman939+POBsupport@gmail.com>
+Name: PopOutButtons VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Name: PopOutButtons VH(Rootless)
 
 Package: com.bvn.portraitxi
 Architecture: iphoneos-arm
