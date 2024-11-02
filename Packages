@@ -10734,6 +10734,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.cmm
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN repo
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.cmm_1.0.1_iphoneos-arm64.deb
+Size: 59820
+MD5sum: e46b063ba28fb1a71dba7e8204c2e433
+SHA1: 5e0829a8a4d9ead66b1221ee677fbbb93c14ccc3
+SHA256: 1d8e2118c4370a2594453769c165888245dfcabb5dd726fcadb0a9b38c5bc46f
+SHA512: 616935e3491fbb5bb5073a58f27f3bbe23584404fc288edf7f6bf8f8fd08cf59a3bb521020e78ab154091c2d55e60bc97671d52e16c03ff775bcc472702fbe51
+Description: Trình cải tiến cho ứng dụng Điện thoại hệ thống
+Name: CallMeMaybe VH(Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/CallMeMaybe.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallMeMaybe.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.colorbadges
 Architecture: iphoneos-arm64
 Version: 1.5.0
