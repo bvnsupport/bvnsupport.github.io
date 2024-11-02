@@ -6949,6 +6949,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Truecaller.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.truecallergold
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 7288
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.2-1_iphoneos-arm64.deb
+Size: 2289346
+MD5sum: 268e68b4721ada4c66aff1136724d83f
+SHA1: 6b92e0375fb1f29ec3d29b33798422b35d4a331b
+SHA256: 00d2ae56630341581c119a77fdc2e184436a688d08a46595eb50ec458367ddc3
+SHA512: 84b13d67b2c2385377910cf918336208838b668f75d8d93854e9a4739f60539f81b4b708aadf7b0a1ee95bce57ea16568767b1f36bfec6bf7d1b1e87ef0a0664
+Description: Unlock Premium Gold
+Name: Truecaller Gold
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Truecaller/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Truecaller.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.truecallergold
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
