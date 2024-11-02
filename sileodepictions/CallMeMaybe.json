@@ -1,0 +1,113 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"CallMeMaybe VH\n\n- Trình cải tiến cho ứng dụng Điện thoại\n\n- Xác nhận cuộc gần đây\n\n- Xác nhận cuộc gọi liên hệ yêu thích\n\n- Ẩn các mục như:\n\n- Ẩn mục yêu thích\n\n- Ẩn mục gần đây\n\n- Ẩn mục danh bạ\n\n- Ẩn mục phím\n\n- Ẩn mục thư thoại \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/CallMeMaybe/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CallMeMaybe/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CallMeMaybe/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ tôi"
+},
+{
+"markdown":"[**Mua cho tôi 1 ly Cafe**](https://support-jailbreak.github.io/infodeb/DONATE/) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"dvntm"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"2/11/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"212 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 18.0.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.1\n\n- Lần đầu phát hành"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
