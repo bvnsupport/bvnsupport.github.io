@@ -10735,6 +10735,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.cmm
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN repo
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.cmm_1.0.1_iphoneos-arm.deb
+Size: 59844
+MD5sum: df204b1cd673cb8a26fc839445686923
+SHA1: 904df5ea0b59759fe2365e9918ad922824cbeb30
+SHA256: 3053f13380e3eaa2bf814fbd97391485fc31fe0e42cfc34446e748124878c781
+SHA512: c23fdd69f00ee5188cd4290a85d0005092adf7fb5aa27bbf18212a156e94a76955011fd6984991d55496d258e78d10085325292b7210eb8f09f569148cf4c680
+Description: Trình cải tiến cho ứng dụng Điện thoại hệ thống
+Name: CallMeMaybe VH
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/CallMeMaybe.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallMeMaybe.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.cmm
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
