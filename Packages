@@ -15426,6 +15426,28 @@ Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 4.0~release
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.matchstic.xenhtml_4.0~release_iphoneos-arm.deb
+Size: 3721168
+MD5sum: 30ccda736e0ae2faefe001f097e5b76f
+SHA1: b41094b8bafec8b886e929f07e5dd2b468b2aba5
+SHA256: bf7593ba9ee25f710a34b7a899815488ac6ad8df05808315edec04668e61e742
+SHA512: 88dafe88b1fe2dce4f30d16ccee1c3e6c77b78c9cf08db007babba9f80e7765f5b888d70ec99fc33580911a04c0b8eed3ff1646187e3f9ee4f95d37c00b8877f
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Name: Xen HTML VH
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
+SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.miro.fbfreeze
 Architecture: iphoneos-arm64
 Version: 2.1
