@@ -2068,33 +2068,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.calllogpro
 Architecture: iphoneos-arm
-Version: 14.1
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 6530
-Depends: mobilesubstrate, com.BIENVANNHAT.libiarrays (>= 1.0.13), com.rpetrich.rocketbootstrap
-Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81
-Filename: ./debs/com.BIENVANNHAT.calllogpro_14.1_iphoneos-arm.deb
-Size: 5965226
-MD5sum: afd11492d772ed159feb8b95b8b16994
-SHA1: 735277de44bd9d24a88f31e27c77f74ca31201a4
-SHA256: 97213b6c2706c3f11709590dcb978c42ffec080a1739eafe1853e03051be0c8c
-SHA512: 2f64329c56d8311687d976958766cb721e38a2ba1ff0d947b9f8141cfd0e4327055d4e467122b2f8822c2408aa862059e7c1d6432afc0bb5f5a40c870304b3df
-Description: Lưu lại nhật ký cuộc gọi của bạn trong 30 ngày qua.
- Tính năng:
- * Lưu lại nhật ký cuộc gọi của bạn trong 30 ngày qua 
- * Sau khi cài đặt , bạn chỉ cần mở CallLog Pro từ màn hình chính và chọn Kích hoạt để kích hoạt 
- * Mặc định Apple sẽ chỉ lưu lại nhật ký cuộc gọi của bạn trong một giới hạn và nó sẽ đè các số liên hệ mới lên 
- * CallLogPro có thể lưu lại nhật ký cuộc gọi của bạn trong vòng 30 ngày 
- * Nó tách biệt với ứng dụng điện thoại mặc định bằng một ứng dụng có tên CallLogPro trên màn hình chính của bạn 
- * Còn nhiều hơn nữa mà bạn có thể tự khám phá .
- * Hỗ trợ Ios 8 tới Ios 14.9
-Name: CallLogPro (iOS 8 - 14)VH
-Author: IArrays
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.calllogpro
-Architecture: iphoneos-arm
 Version: 15.0-beta-2
 Section: Utilities
 Maintainer: BVN
@@ -2113,6 +2086,30 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallLogPro.json
 Name: CallLogPro VH(iOS 8-16)
 Author: IArrays
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.calllogpro
+Architecture: iphoneos-arm
+Version: 15.0-beta-5
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 8580
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, com.iarrays.libiarrays (>= 1.0.16), com.bvn.iarays.die
+Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81
+Filename: ./debs/com.BIENVANNHAT.calllogpro_15.0-beta-5_iphoneos-arm.deb
+Size: 3659312
+MD5sum: ceb4824a9d64b27b347f2da53be3c9f1
+SHA1: e79d7335420e7b5db315ec11340ae5b2c94d79e0
+SHA256: c1bb57755268fb89b76ad3dafd8fa97c87cbfdb85f9a8071dbd0eeaf8c216442
+SHA512: 12cd00d4d2556af58737093ed092b6a93a76dc978b803cbb1a20be844d2bd9bd4abe65e8733c9681d0a31028fc890e040ce56374a41caec63cea2a679a693d6b
+Homepage: https://iarrays.com/
+Description: Hiện đã hỗ trợ iOS 16.x và Xina A15. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi hoặc tất cả. Tính năng này hoạt động trên tất cả các phiên bản iOS bắt đầu từ 8.0.
+Name: CallLogPro VH(iOS16/8)
+Depiction: http://bvnsupport.github.io/infodeb/CallLogPro/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallLogPro.json
+Author: IArrays <contact@iarrays.com>
+Sponsor: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 
 Package: com.BIENVANNHAT.cameramobile
 Architecture: iphoneos-arm
@@ -6255,6 +6252,28 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.simplus
+Architecture: iphoneos-arm
+Version: 1.15-beta-6
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 1164
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>=1.0.15), com.opa334.ccsupport, cy+model.iphone (>= 11.2), com.rpetrich.rocketbootstrap, com.bvn.iarays.die
+Filename: ./debs/com.BIENVANNHAT.simplus_1.15-beta-6_iphoneos-arm.deb
+Size: 733198
+MD5sum: cd883cfbb0ed76c0b3f945f364ecc6fd
+SHA1: ef357aabfacc77022871fb13097c5c1b7d5767b5
+SHA256: e87cfccaa7a9b9410f8666fc0f07a6ddde621e7ad7fc9a8aae679a0990db0095
+SHA512: 79dca04145047dfa998219635cdefc35468bd8ccfc116f904b766fa71434f217d4ad5f6994fea17ff4ca356b10e91b3ce2409ffd88ca0fe848a124fe3252cc76
+Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH
+Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
 Package: com.BIENVANNHAT.sixls
 Architecture: iphoneos-arm
 Version: 1.1
@@ -8962,24 +8981,6 @@ Name: LatestTranslate VH
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bienvannhat.libiarrays
-Architecture: iphoneos-arm
-Version: 1.0.16-beta-1k
-Section: Development
-Maintainer: BVN repo
-Depends: ldid, firmware(>= 9.0)
-Conflicts: com.iarrays.libiarrays
-Filename: ./debs/com.bienvannhat.libiarrays_1.0.16-beta-1k_iphoneos-arm.deb
-Size: 431798
-MD5sum: 37b1e44c60e9eef3b9d5c9b68e31d862
-SHA1: 0d90f5f5693012fa2c33cc01b6f1a4b0c5c2af92
-SHA256: eb8c80fab038182b018dcc8388b6a4d14343ddbe24d5be726a4bdf77e8be6848
-SHA512: 9aeb47664fc8beed5c2e33e271876c88831d4146c3c98bbe7fe8dc589e1db87b4470886382eb6657c7972ba5ed942c769c0d65ea3d02cf157b13f2e14b0d0363
-Description: Should be used only for certain iArrays packages. This is a closed library and no support is provided for this package.
-Author: IArrays
-Name: libiarrays
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-
 Package: com.bienvannhat.macpass
 Architecture: iphoneos-arm
 Version: 1.3
@@ -10478,6 +10479,30 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.biolocker
+Architecture: iphoneos-arm
+Version: 1.15.0-beta-5
+Section: Utilities
+Maintainer: bvn repo
+Installed-Size: 3084
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>=1.0.15), com.bvn.iarays.die
+Conflicts: com.rpetrich.biolockdown, net.limneos.bioprotect
+Filename: ./debs/com.bvn.biolocker_1.15.0-beta-5_iphoneos-arm.deb
+Size: 1189488
+MD5sum: 2c657092533ba4f8905574444c86c28a
+SHA1: 900efdfd2c9ed53c016c3f0e46bd8cfacba90df2
+SHA256: 05ade35eb3e6de6abc2990202559abef8af8292c183ce1ca1a6318341993c631
+SHA512: aa8c16d4796870d91edf82d23e96101b862a0c823e31deff48ac47edb44743f8319311dfb70b150544966afc6a632897c3d39fec18c02026f7ff3988c86fdfb0
+Homepage: http://iarrays.com/
+Description: Bảo vệ ứng dụng của bạn bằng Face ID hoặc Touch ID hoặc mật mã tùy chỉnh.
+Name: Bio Locker VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/biolocker.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/biolocker.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
 Package: com.bvn.bloom
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -10838,6 +10863,29 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.copic2
+Architecture: iphoneos-arm
+Version: 1.15.0-beta-5
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 3384
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.iarrays.libiarrays (>= 1.0.16), com.bvn.iarays.die
+Conflicts: com.iarrays.copic10, com.iarrays.copic
+Filename: ./debs/com.bvn.copic2_1.15.0-beta-5_iphoneos-arm.deb
+Size: 1043578
+MD5sum: 32a40ebd1f17c8b168ddcabb11f0e732
+SHA1: fb8306e44a9fe25d33abef9090c22bbe7d289b12
+SHA256: 67c70de229d045b4861df315977e236df0ad86421e3e5dc6b87d9888675f1639
+SHA512: 8af4d3c040a74c5c9383efb11312c32a01e3b906b812495eaf4b43ce5a2e5155096430a6a30fdd199c6d4aa0aeb40862bcb13b9d4bcfc5e628fa3f9dd7f221f8
+Description: Copic 2 mới được thiết kế lại, tối ưu hóa và xây dựng lại hoàn toàn từ đầu. Giờ đây mang đến khả năng hiển thị ảnh Liên hệ ở mọi nơi trên iPhone của bạn. Tích hợp liền mạch với các ứng dụng Danh bạ, FaceTime, Thư, Tin nhắn và Điện thoại có sẵn. Nó tích hợp với màn hình khóa và Trung tâm thông báo, đồng thời hiển thị hình ảnh liên lạc cho các cuộc gọi nhỡ và tin nhắn. Mang lại khả năng bật hoặc tắt chữ lồng hoặc hiển thị hình ảnh tròn hoặc hình chữ nhật và nhiều tính năng khác.
+Name: Copic 2 VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/Copic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Copic.json
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+
 Package: com.bvn.copylogfix16
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -11088,6 +11136,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Contact.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.bvn.deletecontact10
+Architecture: iphoneos-arm
+Version: 1.15-beta-1
+Section: Utilities
+Maintainer: bvn repo
+Installed-Size: 768
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>=1.0.16), com.bvn.iarays.die
+Filename: ./debs/com.bvn.deletecontact10_1.15-beta-1_iphoneos-arm.deb
+Size: 245972
+MD5sum: aeed368c46a9e2672b8df912a046f790
+SHA1: a5542ae4b202a123cd8f94fdbf3bda09e568b3d1
+SHA256: 8d3fd2b6d9759387edcba51571c42a30d999f210c297172c068b648fbe3f0259
+SHA512: 049698bdba7c9a1201e8f1a63defb1086da408b4bdd8366060b63ecd412e748105711693487a17bf8b8e499cb5596580921534224b920cd3dca4829ae32a9268
+Description: Hiện hỗ trợ iOS 14! Xóa Liên hệ cho phép xóa danh bạ khỏi sổ địa chỉ của bạn. Tinh chỉnh nhỏ này thêm biểu tượng thùng rác vào màn hình danh bạ của ứng dụng Danh bạ và Điện thoại di động. Và nó cũng cho phép xóa nhóm danh bạ và hoạt động với tất cả các thiết bị của bạn.
+Name: Delete Contact VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/Contact.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Contact.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 
 Package: com.bvn.disablescreentime
 Architecture: iphoneos-arm64
@@ -11797,6 +11867,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Hikari.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Crakage: com.hitori.hikari
 Author: Hitori
+
+Package: com.bvn.iarays.die
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 3384
+Depends: mobilesubstrate, preferenceloader
+Conflicts: vn.bvn.iarrays-crack, org.mr.libiarraysrl
+Filename: ./debs/com.bvn.iarays.die_1.0.0_iphoneos-arm.deb
+Size: 7482
+MD5sum: ba62328a3ec9ff32865c1397b0105d17
+SHA1: 7bdeafb0b976fac7f101027a439cdb2c3b64671a
+SHA256: b5f1593dffd620745023e992a6c6afd8e0b5fd6bc12b5da4f04c5546bebc6d71
+SHA512: 34d9a4f01f82de87cc4ca96b7fbe45f47bf39b7256ead3e200080ced8e3cd0708b18a040d9314391f23f77ba8d26a803760b524e8f6e0b2f476e5b490c1c1fcf
+Description: Kích hoạt tất cả các chỉnh sửa từ iArrays Repo
+ - Activate all tweaks from iArrays Repo
+Name: iArrays Crack All
+Author: Artem Kasper
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.iarrays-crack
 Architecture: iphoneos-arm64
@@ -13801,6 +13891,26 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.whoozit
+Architecture: iphoneos-arm
+Version: 2.15.0-beta-10
+Section: Utilities
+Maintainer: Bvn repo
+Installed-Size: 4632
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.iarrays.libiarrays (>= 1.0.16), com.bvn.iarays.die
+Filename: ./debs/com.bvn.whoozit_2.15.0-beta-10_iphoneos-arm.deb
+Size: 1624664
+MD5sum: 81c53ced827467702ebfba491cbfda3e
+SHA1: 7096184b70070961af20805cb11a745103369caa
+SHA256: 9e37544810e8f6a2fd2d3fa5ff6e9f089760d903a2740b4cb6fcf938270838fa
+SHA512: cf0b418a86a118a9f7b3b081469ce5867d92b8408ab86e0dd9b9d8a2f1ea6f91de5987ee2a3d0bca505f842915a9a19cd58671eaaaff55695bb91cfd7646b734
+Description: Không biết ai đang gọi cho bạn và không biết bạn đã bỏ lỡ ai? Đừng lo lắng, giờ đây giải pháp ID người gọi hoàn hảo này sẽ giúp cuộc sống của bạn trở nên đơn giản hơn. Chỉ cần cài đặt cái này và TrueCaller hoặc NumBuster! hoặc ShowCaller trên thiết bị của bạn và bắt đầu tìm kiếm cuộc gọi từ các ứng dụng xếp chồng như Điện thoại, Tin nhắn & Trung tâm thông báo và thậm chí từ CallLogPro.
+Name: WhoozItPro VH
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
 Package: com.bvn.xingtu
 Architecture: iphoneos-arm
 Version: 1.0
@@ -15284,6 +15394,27 @@ Name: libiarrays (Rootless)
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: com.iarrays.libiarrays
+Architecture: iphoneos-arm
+Version: 1.0.16-beta-11
+Section: Development
+Maintainer: BVN
+Installed-Size: 800
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1,  com.bienvannhat.libiarrays
+Replaces: com.bienvannhat.libiarrays
+Filename: ./debs/com.iarrays.libiarrays_1.0.16-beta-11_iphoneos-arm.deb
+Size: 292456
+MD5sum: 27aefef406b9ea7682c3ad15778153b6
+SHA1: 9087d7625b37523e9d37dbbdc9a090d722f835cd
+SHA256: 270d9758200de1d431ee8518dcc1308169b2892c3bce51d14396ec7cd0fb153f
+SHA512: 952006074a839efd5197bcd2021d1ddec5e200f1d39e0569e68613e7f25001e4e8734c2fc391f08f692d77cfba46ab788f2526be7a99f96cd3457a897d635686
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
