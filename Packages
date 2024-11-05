@@ -9166,17 +9166,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.ytmusicultimate
 Architecture: iphoneos-arm
-Version: 2.2
+Version: 2.3
 Section: Tweaks
 Maintainer: BVN Repo
-Installed-Size: 26420
+Installed-Size: 19212
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bienvannhat.ytmusicultimate_2.2_iphoneos-arm.deb
-Size: 12339852
-MD5sum: 81f73e3d2ec3e17f233625550317a538
-SHA1: 62eaee2eef9bcf995ee0598d66694e3bc4645122
-SHA256: 4d604dbe414b548409f745b059eb8a0e44ab96d53464b7abb0eb6496855c005a
-SHA512: 5514226f6e50b2c4e5d045a5d94ad10501348d8fab547c0dcce0849454b5c3a77af612fbc2654de5bf8470d8dfa27a4ae51bac9499dfa5e403fee7f1d67dbf79
+Filename: ./debs/com.bienvannhat.ytmusicultimate_2.3_iphoneos-arm.deb
+Size: 9099944
+MD5sum: 604b6f987dbd5b3c4825e204513cd3c7
+SHA1: 7e768fe87d24882d538abac586b52b6018ec27a5
+SHA256: f10c7342b7b84400627ec360362e31ba0a850be0c6762c5c3988550be883f619
+SHA512: b3a0a4e69095eb82b69e64681097b99d71e09a931631bb8e8b2a08ff8c821fe46b6626e467b301c59eebc680f0338b53ee5920055cd023ddfef459eaf73ab722
 Description: YouTube Music Premium
 Name: YTMusicUltimate VH
 Author: Ginsu
@@ -9186,19 +9186,19 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.ytmusicultimate
 Architecture: iphoneos-arm64
-Version: 2.2
+Version: 2.3
 Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 26420
+Maintainer: Ginsu
+Installed-Size: 19212
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bienvannhat.ytmusicultimate_2.2_iphoneos-arm64.deb
-Size: 12339770
-MD5sum: ccfbca6a22a459f3b882d4f3a0b799ac
-SHA1: 88374239f2c37967f6f25305ae25ba8f69368077
-SHA256: 09af83f867b253fd72ba3bccf17eaa620179445d75f4c2bac20d234f306836ed
-SHA512: b2861fd3af6d173e9d7012f5b9445462ac310a55416256632cdfc83003634bcc5087d09bf3fa9ecffbd83ed93d859eb4da59aaf6d6d30f6fc2722f445e0f7e5c
+Filename: ./debs/com.bienvannhat.ytmusicultimate_2.3_iphoneos-arm64.deb
+Size: 9100300
+MD5sum: a89e1c1d6e3927b80b01ec831515748c
+SHA1: 55250379743069aceab618060b18eca5a1e8200e
+SHA256: b7acb53ab3ad1971179e5df702cb281cea0630abbcbbeb094d4825d31860bc92
+SHA512: fd2afd4ce0ec6d9ae62aff52ab41959a273c516c1362684b31bba6d5583c2cf77b2a8b27d44941f0a821f467c990e37412300a6fbd70360ae3b5999c0f72e175
 Description: YouTube Music Premium
-Name: YTMusicUltimate VH(Rootless)
+Name: YTMusicUltimate (Rootless)
 Author: Ginsu
 Depiction: http://bvnsupport.github.io/infodeb/YTMusicUltimate/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTMusicUltimate.json
@@ -13955,19 +13955,19 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
-Version: 4.0.1
+Version: 5.1b2
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 15596
+Maintainer: bvn repo
+Installed-Size: 16192
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite_4.0.1_iphoneos-arm.deb
-Size: 7702636
-MD5sum: 14a50c7d111821f979fdc9313b11798c
-SHA1: 5c617d9455f81e5d2b18d889e4468c925931f0b0
-SHA256: f15fcab9b93ec1700a5fb7cdab5d5a2b060ea33e628ffc6516a35c673fb7a9e7
-SHA512: cd4bfb058f424407561023a0b175ea8e06353a2d2abb1f6ee52cd2a4565855277aa07d4a4e12121a340e43d360a1e87b191affc30e29e10ba643b7cc10a1c266
-Description: Bổ sung các tính năng hữu ích cho Youtube
-Name: YTLite VH
+Filename: ./debs/com.bvn.ytlite_5.1b2_iphoneos-arm.deb
+Size: 8074650
+MD5sum: 7ca50583e40b5e5ce1d285333b1ba1eb
+SHA1: c2b4c7881c3ed7ab59fd4fa86ecc888e772d92db
+SHA256: 443b7b8430caa3373b509229bcd40b01a49c427626de7c0f5b5fd9165d8b3a89
+SHA512: e77d5f5e67e6a8bbfde79a51bb370ddc6297bf566275a010539db8a6d9ad3bab04ee610327eebf8cea85a28d18edf384118e84668b6319cb92603adfc9a82f41
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
@@ -13975,63 +13975,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm64
-Version: 4.0.1
+Version: 5.1b2
 Section: Tweaks
 Maintainer: Bvn repo
-Installed-Size: 15596
+Installed-Size: 16192
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite_4.0.1_iphoneos-arm64.deb
-Size: 7702450
-MD5sum: 32baf2879d86c055ec0d3be9f48ef8e0
-SHA1: a77eea7d568a776e0e7189dbba58adafbe5d1164
-SHA256: 1a118797ebcf502d567799617f5d1b27b7d5846a6f33fd64088141bb57a3709d
-SHA512: 1deb0c76113884f417c82c81c19d157ad138906c97d20a526e9561a22ec984d4582108b36060e5d30a83ff52dd50e7e4f258bfbda2718b9fbf1b6f02a8840bfd
-Description: Bổ sung các tính năng hưu ích cho Youtube
-Name: YTLite VH(Rootless)
+Filename: ./debs/com.bvn.ytlite_5.1b2_iphoneos-arm64.deb
+Size: 8074864
+MD5sum: 05ef5793666355fd55c5049d30432c10
+SHA1: b93c0e563190fafc14bc9b2edb30790f108124b2
+SHA256: 5726894457c9b1c580d28dc9a943e74886e2879e14d8474d96b8de58fcab8b7b
+SHA512: 032f81a31d241261e67179106d3c40297127c13130f9dbdd4410588b7d890f8b0b9f791aadbc39248583a7ccc4e9e3de1f9f0ce2d4d26fb0c8b5b78e3931da8d
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus (Rootless)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.ytlite
-Architecture: iphoneos-arm
-Version: 5.0.2
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 16140
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite_5.0.2_iphoneos-arm.deb
-Size: 8038444
-MD5sum: 43cf9183339339966e80a08e03bbbdbf
-SHA1: a7896287d60e6a6f49bb82f42118750b22a2bf21
-SHA256: 8fb6a7f40be2148e1c2dd3039a0ae08038c648a96f00e2091b29b8399762ee05
-SHA512: 5301b3551ba5892004146f11320b046028c4d5e008d7dd2bfd38ce9eb3149475b10feea045828a02d39f11e2dc52e2e3b8cb223be19f61664a7770a29d29a9a8
-Description: Bổ sung các tính năng hữu ích cho Youtube
-Name: Youtube Plus VH
-Author: dvntm
-Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.ytlite
-Architecture: iphoneos-arm64
-Version: 5.0.2
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 16140
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite_5.0.2_iphoneos-arm64.deb
-Size: 8039032
-MD5sum: 0c8053241d4b35b8751544356b6a15ef
-SHA1: 773f978ac23f0ace4dd1ea8a222dde910f7e392e
-SHA256: 71b5a4799f8a402b811a13e6fde517ef8426ffd4628b1f20a0ea3c6f8cfcab4d
-SHA512: 2ad53e283449db2bad794c588d1dc8c38408ea4db172215b2481f240f7f61649d9e8a1cc706e9e2ed430bb08db2f3a58341d6eb658cf23a33ed9fdff26e030ce
-Description: Bổ sung các tính năng hữu ích cho Youtube
-Name: Youtube Plus VH(Rootless)
-Author: dvntm
-Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.zeppelinreborn
 Architecture: iphoneos-arm64
