@@ -54,12 +54,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"15/1/2024"
+"text":"6/11/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 16.4"
+"text":"iOS 10.0 đến 16.x"
 },
 {
 "class":"DepictionLabelView",
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.6.4-beta4\n\nKhắc phục sự cố chọn biểu tượng alt trên phiên bản iOS 16 mới hơn với Floating Dock"
+"markdown":"#### Phiên bản 1.5.37-Beta4-rootless\n\nKhắc phục sự cố chọn biểu tượng alt trên phiên bản iOS 16 mới hơn với Floating Dock"
 },
 {
 "class":"DepictionLabelView",
