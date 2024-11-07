@@ -11908,6 +11908,46 @@ Name: iArrays Crack(Rootless)
 Author: Artem Kasper
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.immortalizer
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.bvn.immortalizer_1.0.0_iphoneos-arm.deb
+Size: 45298
+MD5sum: 3180993e7a4c161d144614dd267546ee
+SHA1: b5a76d135e941598067bc56556a74a2a0456a1d6
+SHA256: 4d401fbd51bab39b469d5c538c4734efbe9b76a25f69be92ab64553fca53c6af
+SHA512: 351bc3f6c645352655cd2705fb64dcaba0f5ee1633839172aacd54521c39da59511a38347f153b4e53a44e96422587db4c2375e223c13e3714fcc032b15c42a0
+Description: Foreground your tweaks even if they are in the background!
+Name: Immortalizer VH
+Author: sergy
+Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.immortalizer
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.bvn.immortalizer_1.0.0_iphoneos-arm64.deb
+Size: 46570
+MD5sum: 7d184f3ed08968fab621c3026f36db52
+SHA1: eada742d2a01261e94e141bd940ad1c55ecc29f2
+SHA256: 486dc7992d130a65a59b02dae2b0b4b684417bb5556a09a520bbb2dccef16041
+SHA512: cdf7e0113d876f370d6b6072ceeb919291d9343436c654b323a796c3f8f98a3020d49fcd22899e41e6c9d2b5bc1bfb492e0ddcbe10f956fd186038000299af91
+Description: Foreground your tweaks even if they are in the background!
+Name: Immortalizer (Rootless)
+Author: sergy
+Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.jade
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -13952,6 +13992,46 @@ Author: Geku
 Depiction: http://bvnsupport.github.io/infodeb/Html/XingTu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/XingTu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_5.0.2_iphoneos-arm.deb
+Size: 8038408
+MD5sum: 95e74e515f4f948f68f5fe52d14b0e47
+SHA1: f775f0af93d45094129a7c45c6db54d463854c47
+SHA256: ba6a242478826b9589105abe44576d7135c2f4d5e86d5613fc31b877e5d86f33
+SHA512: 38e5b3999d80ec674004afc5c31fc1120d02dcedc9f00f01d1e9a93c54ec38ab9fa89ba5ec03fb37c9d73f80e6eb1245e105dea806b8175af36612647b857dc3
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0.2
+Section: Tweaks
+Maintainer: bvn
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 8038424
+MD5sum: 902325be5df41cd0977eb2b80497596f
+SHA1: ba1e1307f692dc19f221f53fd39fbc2f1444a175
+SHA256: ecfdcf06909f099ee81be01d45a7c95e881277ae0e69bd957496ffb196d39c01
+SHA512: 6bd005e83302162addf1d15dfbfe4374db4d781717926d8fa9f8b830a3fb38545dec5690b9d37a4179e09c0412e63ca94becf3d85391a0f1abd06ba17ac2fe0f
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus (Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.zeppelinreborn
 Architecture: iphoneos-arm64
