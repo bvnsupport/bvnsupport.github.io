@@ -11948,6 +11948,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.immortalizer
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.bvn.immortalizer_1.0.1_iphoneos-arm.deb
+Size: 46436
+MD5sum: 9df91deaeb8a9127c2f3771c8f38ddce
+SHA1: 834938a7efed92de6bb7af0f5c83d7270b8b6e9f
+SHA256: 64f89ba08f1040d7745b38f2d629c1698eac0dad94d8ed952c8218ec9dd58381
+SHA512: bc16db688406c864458ad9ef683afa9ccb385d2b9304a0d105d1dc6c46f2ed3bc60085af729f716c459f135c5bb52fd35c3efa10f8a61cfcd4e431367bf71220
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer VH
+Author: sergy
+Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.immortalizer
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.bvn.immortalizer_1.0.1_iphoneos-arm64.deb
+Size: 46666
+MD5sum: 790010c9fa5664ce7f5c35f8824a2fd3
+SHA1: e3a10a5cb1d35de8c6b1a5ae72fd4a7e207e63a7
+SHA256: 00c6795e0f1aac2e4203f06c0f321834296faa07ee6e9d4f2270352d2f830be5
+SHA512: 7b6d2ed339d76cc8d702ee6b0cd4442250383fea659641fccb100d35ae87c58c843c650d8ef668c2d08aa97379bd122c2fc6075c11f135dcdf609e32e8c5938c
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer (Rootless)
+Author: sergy
+Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.jade
 Architecture: iphoneos-arm
 Version: 1.0.2
