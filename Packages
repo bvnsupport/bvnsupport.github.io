@@ -13567,37 +13567,37 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 5.7
+Version: 5.8
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2952
+Installed-Size: 2980
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: ./debs/com.bvn.spotify_5.7_iphoneos-arm.deb
-Size: 1019740
-MD5sum: fff1efe4f8d1d75d1f60bd60ac3234db
-SHA1: af3ed2963ec5ae750c4a3290f5f84620aedd3ad1
-SHA256: 5f2cf6ccd9e734283faffcc9eb94d0f8cf669ab9d9bfe3822f3fd7572466b520
-SHA512: 5f8df93fb61b225b2eddce612c8e4a9dad6f6d4a36f7ed43bd46b0fed3389a5a3b089b650396c0bfdb7572e4ea4dcbe096433604b0a71b900ca7044d63124f4a
+Filename: ./debs/com.bvn.spotify_5.8_iphoneos-arm.deb
+Size: 1035986
+MD5sum: efd9d0481a87857cce02e0c1d1e48ee7
+SHA1: e2a37702940d56d38e9c7957c2885a3bc62a9420
+SHA256: 1e6575ce128d034659f468149fc74f430a0e31e1475c3d3cb8d613c4e8ba48f1
+SHA512: b698b2c205e90af86fee3c8472279395a45b0dbcf155b9604a9c70675d4b3589c0043c092c3eea01df7c6d399108aa88774ac2643cc62d6bfd5d8dc8b63de5fa
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify VH
+Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Eevee
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 5.7
+Version: 5.8
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 2952
+Installed-Size: 2980
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: ./debs/com.bvn.spotify_5.7_iphoneos-arm64.deb
-Size: 1019510
-MD5sum: 0b1780ec6a9bca52e72de4bfd4c743e1
-SHA1: 30b6f05d1789b493d9ee23cb883ed953e762d77c
-SHA256: 1f0b55844067d5eb2613bc1d6a9a70d517dc78463e19c35199be3ac91d552134
-SHA512: 5ff197764dc8e83c8e47c69fdaf3694c20742835c1b18f82f8dd379c9bab5fff7a765ce9143b8dc4b61b86da1e1edab93cd30c9dfd24e75cfa68ffd54005f370
+Filename: ./debs/com.bvn.spotify_5.8_iphoneos-arm64.deb
+Size: 1035806
+MD5sum: 8de7f0f564581f23094b9be38dd46a88
+SHA1: b1f2f20b0e3d7a7be617f24e99a16bc945070a8d
+SHA256: 8107c438b5cce9c4084460fd0ef5c15036a90fc444ea3d1ec0d15d1181fb1c72
+SHA512: 7da2b1cfec64d4d26742ec399c143aaafb48d2a8ca24c523a1dedaeb25fee1f943242d843338bc270fda56c31c56f8486774c28073b360363e78586238069b6b
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Rootless)
 Author: Eevee
