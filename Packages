@@ -13884,6 +13884,46 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/VideosUnmute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideosUnmute.json
 
+Package: com.bvn.vivacutpatch
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 1440
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.vivacutpatch_0.0.1_iphoneos-arm.deb
+Size: 437026
+MD5sum: 1fdc1ef18efda574b3edca1f05114449
+SHA1: 8eaf1c8945f2d8f0b4534e8b7dac87e5e33366fe
+SHA256: f70f6296c31c0aea4cc04cb51c00e7b2469ebfc3d34e231efe5dfc9bcb075782
+SHA512: 4facd2cd29a0f36d34df8a91c361dec2f63263a2a1e478c505ed2748244fd75ee3c8edeab55e6e614d4240e6689eb3ab136201679613e5eda6885df0aab879f7
+Description: Unlock Vivacut Pro Yearly
+Name: VivaCut Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/VivaCut.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VivaCut.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.vivacutpatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 1440
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.vivacutpatch_0.0.1_iphoneos-arm64.deb
+Size: 436958
+MD5sum: 246c2889fa647f50c519f04be43b7fed
+SHA1: fd8677b8f28ad75dfaad6aede8bfd3f2c4f898bd
+SHA256: d3aaa552b3e82557b458b1f185b13accd48b0dd2acfe5a1fcc4d81ef014d31b1
+SHA512: 030acd6ff7925951c54f5a8b4adb26e1d1a6ba5f678d5eba3e05c86e1a7fd51fd6a53079896ab2ef0890c09749b8becc671f323968e7f446284d1e0621c42f9f
+Description: Unlock Vivacut Pro Yearly
+Name: VivaCut Pro (Rootless)
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/VivaCut.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VivaCut.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.watched
 Architecture: iphoneos-arm
 Version: 1.1-8+debug
