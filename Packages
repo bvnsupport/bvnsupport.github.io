@@ -13135,45 +13135,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
 Package: com.bvn.safarix.rl
 Architecture: iphoneos-arm64
-Version: 1.5.3K
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 744
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Replaces: com.bvn.safarix, com.0xkuj.safarix
-Filename: ./debs/com.bvn.safarix.rl_1.5.3K_iphoneos-arm64.deb
-Size: 319840
-MD5sum: b1339a755b01e7b5be83e3b216342518
-SHA1: 10a5befcad53b95a3ffb43e21dd5fe97e4063c72
-SHA256: bbe7719fff2ee27cb051b3cfecfa654cf8887840d2fb126157a997b0fb809b1c
-SHA512: 69223fcca8be1426e0a65595d411d9c95931ed9bd3f00560fdbc5f5596a643f3021629646b44f62b485ff0295c5451881b60f86f21b6a59dea7dbbc437c28780
-Description: Thêm 1 số tiện ích cho Safari
- - Safari Essential Features
-Name: SafariX
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: 0xkuj
-
-Package: com.bvn.safarix.rl
-Architecture: iphoneos-arm64
-Version: 1.7.2
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 748
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.7.2_iphoneos-arm64.deb
-Size: 324462
-MD5sum: 2d357e979848d7432fe40d99811a5833
-SHA1: d82805fd389d2820bd0951f4a588de047390b25a
-SHA256: 8a167e922f8f1563fdc2d45dfae5608fbdbca6f95b14788cffb692e527779fe0
-SHA512: a721b3b15cf87f0ea528f44f80991f3d2876e99f15839dec9311ffc2b1e6c2b6db3bdf30d9fa57d870b0d070c5ab89f90dc6fd504ac79e161ecdb7a9fb91c6bd
-Description: Thêm 1 số tiện ích cho Safari
- - Safari Essential Features
-Name: SafariX (Rootless)
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: 0xkuj
-
-Package: com.bvn.safarix.rl
-Architecture: iphoneos-arm64
 Version: 1.8.1
 Section: Tweaks
 Maintainer: BVN REPO
@@ -13185,6 +13146,25 @@ MD5sum: 668656bb963e6bb079a90658900a9013
 SHA1: 7fa9cb0d2c53e7d29618e7ee7b57bf383b9ea481
 SHA256: 9dfc23a1d749edb45f329f38cd9d306b57f9aa7a0bc9faad4c7805f65c83a639
 SHA512: a0edd42ae55cb55017c83eca95de1ffc949a2612210edc86c64d8c454f23310b9358c6ec79f2bdf6199264843fd929cf42c3cbabec676a61330090f0d24acf3f
+Description: Thêm 1 số tiện ích cho Safari
+ - Safari Essential Features
+Name: SafariX (Rootless)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.rl_1.9.0_iphoneos-arm64.deb
+Size: 342266
+MD5sum: 3c473e111af2c1de7007a2fc064c7c08
+SHA1: b274447155295dfa6af6f0fe475910e76a5b4005
+SHA256: 84930e8995e7f0204facac30b79160067ff42e248e636fada1cdfb281b6cb6c2
+SHA512: fb7947919c5d3dbd8ed194949dd2ed7757190fb7cf19505165ca57493edf2c7efce67430ace5c9ffff7eb3e858c0c1873b6317553d791ac46fa35b161d993708
 Description: Thêm 1 số tiện ích cho Safari
  - Safari Essential Features
 Name: SafariX (Rootless)
