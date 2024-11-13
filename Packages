@@ -10184,6 +10184,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ango.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Author: Max Patchs
 
+Package: com.bvn.appaze3
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: bvn
+Installed-Size: 1802
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/com.bvn.appaze3_1.0_iphoneos-arm64.deb
+Size: 984000
+MD5sum: d8eda140deed6274980ca08c036fa915
+SHA1: 3de8bcaddb6816d33dcb3bed11f265482e0d34fa
+SHA256: b794e639e156742c7d25b5721ec0f2c4b90dad08b7931040dff852bf78a7761d
+SHA512: 1f5969f4603bbd239296b2750d2035dcbe2fc610f7fcdf99781e67eeae90ec69f7d5d497f2c36e44c4a9eb0626d87944cb76c72c15d1f2d3f5dfe4712bf91b13
+Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: Appaze 3 VH(Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.appleturboboost
 Architecture: iphoneos-arm
 Version: 0.7.0
