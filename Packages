@@ -11929,57 +11929,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.immortalizer
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 2.0.0-1
 Section: Tweaks
-Maintainer: BVN
-Installed-Size: 412
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.bvn.immortalizer_1.0.0_iphoneos-arm.deb
-Size: 45298
-MD5sum: 3180993e7a4c161d144614dd267546ee
-SHA1: b5a76d135e941598067bc56556a74a2a0456a1d6
-SHA256: 4d401fbd51bab39b469d5c538c4734efbe9b76a25f69be92ab64553fca53c6af
-SHA512: 351bc3f6c645352655cd2705fb64dcaba0f5ee1633839172aacd54521c39da59511a38347f153b4e53a44e96422587db4c2375e223c13e3714fcc032b15c42a0
-Description: Foreground your tweaks even if they are in the background!
-Name: Immortalizer VH
-Author: sergy
-Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.immortalizer
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: sergy
-Installed-Size: 412
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.bvn.immortalizer_1.0.0_iphoneos-arm64.deb
-Size: 46570
-MD5sum: 7d184f3ed08968fab621c3026f36db52
-SHA1: eada742d2a01261e94e141bd940ad1c55ecc29f2
-SHA256: 486dc7992d130a65a59b02dae2b0b4b684417bb5556a09a520bbb2dccef16041
-SHA512: cdf7e0113d876f370d6b6072ceeb919291d9343436c654b323a796c3f8f98a3020d49fcd22899e41e6c9d2b5bc1bfb492e0ddcbe10f956fd186038000299af91
-Description: Foreground your tweaks even if they are in the background!
-Name: Immortalizer (Rootless)
-Author: sergy
-Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.immortalizer
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: sergy
-Installed-Size: 412
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.bvn.immortalizer_1.0.1_iphoneos-arm.deb
-Size: 46436
-MD5sum: 9df91deaeb8a9127c2f3771c8f38ddce
-SHA1: 834938a7efed92de6bb7af0f5c83d7270b8b6e9f
-SHA256: 64f89ba08f1040d7745b38f2d629c1698eac0dad94d8ed952c8218ec9dd58381
-SHA512: bc16db688406c864458ad9ef683afa9ccb385d2b9304a0d105d1dc6c46f2ed3bc60085af729f716c459f135c5bb52fd35c3efa10f8a61cfcd4e431367bf71220
+Maintainer: Bvn repo
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.bvn.immortalizer_2.0.0-1_iphoneos-arm.deb
+Size: 75836
+MD5sum: c0e8f0548c9d57343b437ba610b949b1
+SHA1: fda73b1b0e66ba9d69074603119529f5ba47416c
+SHA256: aa449a68f582ba610ccfb31508e5980365f1f83aa8ac66349ff77dc2af33a2f0
+SHA512: 54e273f7dfff62c5115bacc678431e5ad31329858a7c7164b93316db4d82f422886430badc7b0a9a34746a4ea34e8e867d3733e1be2ef3b3373ffc0a6cf4a0e4
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer VH
 Author: sergy
@@ -11989,17 +11949,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.immortalizer
 Architecture: iphoneos-arm64
-Version: 1.0.1
+Version: 2.0.0-1
 Section: Tweaks
-Maintainer: sergy
-Installed-Size: 412
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.bvn.immortalizer_1.0.1_iphoneos-arm64.deb
-Size: 46666
-MD5sum: 790010c9fa5664ce7f5c35f8824a2fd3
-SHA1: e3a10a5cb1d35de8c6b1a5ae72fd4a7e207e63a7
-SHA256: 00c6795e0f1aac2e4203f06c0f321834296faa07ee6e9d4f2270352d2f830be5
-SHA512: 7b6d2ed339d76cc8d702ee6b0cd4442250383fea659641fccb100d35ae87c58c843c650d8ef668c2d08aa97379bd122c2fc6075c11f135dcdf609e32e8c5938c
+Maintainer: Bvn repo
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.bvn.immortalizer_2.0.0-1_iphoneos-arm64.deb
+Size: 76260
+MD5sum: eaed66c4be1f90dd21a8b2097d82a9f3
+SHA1: 6181e96154b31e90ea0e66624bd0ecd5df2b494b
+SHA256: 1f82cc47fb54d73e79222e4cef62ea929b8468815b94548fc3eb64c09cf7a3a1
+SHA512: 4fc9d7b625ab12299c856eede7af3a2a4e39a1e01dfa33fdced190ff365453ac15e256c461965748a66753b6caf173ecff3b88a6baaa0f1cecafb74765fb1961
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer (Rootless)
 Author: sergy

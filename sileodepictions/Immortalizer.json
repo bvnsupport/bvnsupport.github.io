@@ -72,7 +72,7 @@
 "title":"Nhà phát triển",
 "text":"sergy"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.0-1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -81,7 +81,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"8/11/2024"
+"text":"15/11/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -108,7 +108,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\n- Hỗ trợ Rootfull\n\n- Cải thiện kiểm tra an toàn"
+"markdown":"### Phiên bản 2.0.0-1\n\n- Đã sửa lỗi xung đột với một số chỉnh sửa liên quan đến thông báo [Glance]\n\n- Đã sửa lỗi nút Tắt của Mô-đun CC không phản hồi\n\n- Đã sửa lỗi khiến một số ứng dụng bị treo/đóng băng\n\n- Đã sửa lỗi bàn phím không hoạt động\n\n- Đã thêm Hỗ trợ CC cho các hành động nhanh chóng\n\n- Đã thêm tùy chọn khóa ứng dụng trong trình chuyển đổi ứng dụng\n\n- Đã thêm tùy chọn để có chỉ báo khóa trên cả SpringBoard và trình chuyển đổi ứng dụng"
 },
 {
 "class":"DepictionLabelView",
