@@ -9106,6 +9106,27 @@ Name: SettingsRevamp VH
 Author: SOPPPra
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 3.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 936
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.bienvannhat.settingsrevamp_3.0.0_iphoneos-arm.deb
+Size: 340294
+MD5sum: 4ee341b98bb331e7443194303bed2e83
+SHA1: 87db7c11898904520806d26c277523f23c205b18
+SHA256: 241a7f91de5eecae990abb9925a33c2a99b775f1973cbae426cda27437f96f25
+SHA512: 9b2091cdc9d5f9cf775976c2e25a4fa795bc15568cab6441d61590db6a73424d725d3cab4b29fba8e200fa6e245a02a3e5de5360178b0133a1775824aa066dcc
+Description: Customize the ios settings page
+Name: SettingsRevamp VH
+Author: SOPPPra
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+
 Package: com.bienvannhat.spotilife
 Architecture: iphoneos-arm64
 Version: 1.8
