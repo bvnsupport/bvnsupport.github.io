@@ -16768,19 +16768,19 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.settingsrevamp
 Architecture: iphoneos-arm64
-Version: 3.0.0
+Version: 3.0.1
 Section: Tweaks
 Maintainer: BVN Repo
-Installed-Size: 936
+Installed-Size: 888
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: ./debs/com.repobvn.settingsrevamp_3.0.0_iphoneos-arm64.deb
-Size: 341308
-MD5sum: a58d43dafe8f9816d9c82c05f2794c4a
-SHA1: 5198b2721448b6e42fbe4afbc49774fe5bec7301
-SHA256: 04c94d37001cad10f8d9bdfb6d3ae8d85fdc375507ac19b06caa0f7f8b9d9fb3
-SHA512: e5a55d498fb3e21059edc023667b24e50937db6d3de13ebd44695b482c5b855f36f5d56c6beaf716db409dcb20f2517a1e7dd8891d8d1986f7fa138c52cc957d
-Description: Tùy chỉnh trang cài đặt ios
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.sop.settingsrevamp
+Filename: ./debs/com.repobvn.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 295486
+MD5sum: a7819d2b5233ea885e628d55c2a8993b
+SHA1: f17ac256bd09cbd7b76fae8665d5b3c1e5a424a5
+SHA256: 9a3d65125d02e5fca73cfedf09e7676d7667d4933167b2c5bd1dd4ae909f8840
+SHA512: b9687d43079ce9f689dca1045fa162265f08f0addbad06576a3c9439a007150a2df1f3b5901aa026bf3ed014a968302da7d9d63ba68c5067986e8406da134252
+Description: Customize the ios settings page
 Name: SettingsRevamp VH(Rootless)
 Author: SOPPPra
 Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
