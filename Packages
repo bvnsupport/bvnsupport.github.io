@@ -10675,6 +10675,26 @@ Name: CCAdsBeGone (rootless)
 Author: 0xkuj <0xkujz@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ccadsbegone.rootless
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1076
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone, com.0xkuj.ccadsbegone.rootless
+Filename: ./debs/com.bvn.ccadsbegone.rootless_1.2_iphoneos-arm64.deb
+Size: 164988
+MD5sum: 0c390119d8aae2bae2bb722263f083df
+SHA1: 521834bc08fc7147a96a999f66e12cc0c60fddb4
+SHA256: 069b966bde2619e5a40c5feb95db6de3520a6d3b2d3a88d22126ff6899f09ef1
+SHA512: 463b8d2301119eb4557def71d0853469621afe98d97bc9cf97944cfd03a5b7a3a1f15ff46da25bed4ddb6b633754d9a05dcecd53ea2d8f45ad818e029e2d897c
+Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
+ - CC Toggle to block ads on demand!
+Name: CCAdsBeGone VH(Rootless)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.ccadsbegone
 Architecture: iphoneos-arm
 Version: 1.1
