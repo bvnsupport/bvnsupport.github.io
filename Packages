@@ -16959,16 +16959,16 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.vneidbypassjb
 Architecture: iphoneos-arm
-Version: 2.1.11
+Version: 2.1.12
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=10.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.11_iphoneos-arm.deb
-Size: 23381658
-MD5sum: d3b6dc38895dfd33e7c740ede2eb2ec9
-SHA1: 6cb0ee7b3f8b8d278df0720963690bb725984bb7
-SHA256: f59fa4c65d3c8119d0a1c259b9b1983042692a3ea87b275e6b0e9d48c6248948
-SHA512: 54ce009ef37e904492bd9d1d63874f05a8c18ed4a71f0be5e5bfb2e188348e64726b81fde10c18040529b6d4754c471ac525d79cfa586e0d3fefccbd0b8649af
+Filename: ./debs/com.repobvn.vneidbypassjb_2.1.12_iphoneos-arm.deb
+Size: 23381640
+MD5sum: da313fda06a415dda8e33fdc292f151e
+SHA1: 98f6525ce14221ef86b9fd7325f6b8573915a3f6
+SHA256: ae0b774c013a94ba42a02f274c0b3d8c7dd9a4c567eed1b2462047b44b4bfa05
+SHA512: 12d4985295030f9c2f1d206a836a078f19f8051dfa3d24aee88d6f37104280fd42d0cbc902ad40ed3c4c007913da3213f14227dd6aac81f9a7b684793b7aadd8
 Description: Chặn Jailbreak Ứng dụng VNeID
 Name: Hidejb VNeID
 Author: Biện Văn Nhật
@@ -16979,20 +16979,20 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
 Package: com.repobvn.vneidbypassjb
 Architecture: iphoneos-arm64
-Version: 2.1.11
+Version: 2.1.12
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=15.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.11_iphoneos-arm64.deb
-Size: 23284378
-MD5sum: 2447015535a2e8ada416448a377bb7ea
-SHA1: 2be57db3a8a1734fdb16aa4e2375d232f4d8a5eb
-SHA256: c50006481a23c1f286e0964de981c9d28e30124f7ca449d7bea648965754d28d
-SHA512: 9da559d3f8c0b603705bc4d19d18a5f3c3506eb91b13b050a1f68ab27c1564d3e0f2723a24e316efdfbb33074b607409f85b42c1029a836d1e35157b2b2edb52
+Filename: ./debs/com.repobvn.vneidbypassjb_2.1.12_iphoneos-arm64.deb
+Size: 23284396
+MD5sum: b703f5cde0c210564fe6cb8c542993da
+SHA1: 9f7d702fab2d861c3f178fc174193305d2cbbb7e
+SHA256: 5c9f8d0353574b071bb69dbb51bf27077fe06ce5e17787b1388d4d4c9aa48633
+SHA512: 1da00d3fc2b468491c51e1760e913157b5cba446eaa172b27996db7b09fc3070c3c19ffff50b86bb98b86bff9d16346f8260ea7f81dd8ab47d8c79db652b9e65
 Description: Chặn Jailbreak Ứng dụng VNeID
 Name: Hidejb VNeID
 Author: Biện Văn Nhật
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Tags: compatible_min::ios15.0
 Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
