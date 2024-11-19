@@ -12584,6 +12584,26 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: NotificationsGroupCount VH(Rootless)
 Author: 0xkuj
 
+Package: com.bvn.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.notificationsgroupcount_1.0.5_iphoneos-arm64.deb
+Size: 106302
+MD5sum: 9fff875cdb881af1501256cc5a268c26
+SHA1: 12fc97576f9db4a1ad61f47afb653190a7470ec3
+SHA256: 373f8fcc0ddcdd436bb01bacdaf0545c096de7633e1d9f909ac9a978a854069b
+SHA512: d462af18b8453ff15f940cc7aba030dcda49ada36b842cb5ed6b8f4127a27909a20e5040b6dc97f9217bee2c086145250377e8b32aa57d11655a37cdcb27b410
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.notrecording
 Architecture: iphoneos-arm
 Version: 1.1.1
