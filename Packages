@@ -12242,6 +12242,27 @@ Name: Little12 VH(Rootless)
 Author: Ryan Nair
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.locationfakerx
+Architecture: iphoneos-arm
+Version: 2.9-1Crk
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 2531
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), org.mr.cunstuck
+Conflicts: org.thebigboss.locationchangerx, org.thebigboss.locationfaker8
+Filename: ./debs/com.bvn.locationfakerx_2.9-1Crk_iphoneos-arm.deb
+Size: 1691940
+MD5sum: 11ff172b39c4fc6552c443351c4afcb6
+SHA1: 49c4b16d59c2c9e9ba7826999fea5d589047db16
+SHA256: 8ef9a92f3eca3735bc141bf2f1c265037c7dced961dda0dfd3dc5aca363bbf67
+SHA512: 938ad805a1432e59092150f314f127ab59f4145249f0efdc7428ed1a0f5b53621f13dbf66bc6ac4f741b86fd3f5dcabbae1770cbc2909dc0d59336eb350aeafd
+Description: Thay đổi Vị trí của bạn trong bất kỳ Ứng dụng nào
+Tag: purpose::extension
+Name: LocationFakerX VH
+Author: CUNSTUCK <cunstuck@gmail.com>
+dev: cunstuck
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.locketpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -19955,6 +19976,24 @@ Author: HAHALOSAH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/NoFreeAppLimit/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/NoFreeAppLimit/?p=info
+
+Package: org.mr.cunstuck
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Development
+Maintainer: MainRepo
+Installed-Size: 504
+Depends: mobilesubstrate
+Filename: ./debs/org.mr.cunstuck_1.0_iphoneos-arm.deb
+Size: 345422
+MD5sum: 26babacff59d709576544277f9de6dec
+SHA1: 0fecb046a872a41aa146870b8e07191188fb3605
+SHA256: 2664c73e2c7dfd6b64cd82b11596d941a3d7974563ff662ee35b5a2dfc5ed619
+SHA512: b53c9cba4334a4d3a2ab15d4cf88b076514bf1ebdb41a5a92f36ff4db899cdc1cbc695c5188c5b32c048729c79e7abe0f994ebd5a1ad87e4dcb1f24ecfd0dcb8
+Description: License to enable tweaks
+Name: Cunstuck Crack
+Author: MainRepo
+Icon: file:///Applications/Cydia.app/Sections/phatrienn1.png
 
 Package: org.mr.icleanerprorl
 Architecture: iphoneos-arm64
