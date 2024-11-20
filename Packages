@@ -12676,6 +12676,25 @@ Name: NtSpeed (Rootless)
 Author: Julioverne
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ocd
+Architecture: iphoneos-arm64
+Version: 5.4.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Filename: ./debs/com.bvn.ocd_5.4.1.1_iphoneos-arm64.deb
+Size: 469760
+MD5sum: f53d92e2513f945a0ec585bb5868e8a3
+SHA1: e6f3e704948cdebcb86a7214693f8c347a116616
+SHA256: e0f4b8de873a5f198b6d122ecdeab208519dc4c9a52cbd653f4c771af73ce809
+SHA512: 600babf531a50972c62a7c72a34cd36b312a2b3c0ebb22655daa134d944caa27fc56be52953e1c9c6d5f10a968eb6f11af28b553d06936dc4b04b7aed0c263f6
+Description: OCD will let the option to color icon lables & badges background based on app color!
+Name: OCD VH(Rootless)
+Author: b4db1r3
+Depiction: http://bvnsupport.github.io/infodeb/Html/OCD.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OCD.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.oledkeyboard
 Architecture: iphoneos-arm
 Version: 0.0.1
