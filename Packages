@@ -11229,6 +11229,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.5-1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.bvn.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Size: 504252
+MD5sum: abbc8a17aeb644b30c9b1ad7f38ab0df
+SHA1: eb150aa542b91cdf7c78d7fd4f5f78261ca7d38f
+SHA256: 8b9edd5ff271e6e8fda2bd8c56a935ff9b7d19c6e72d7c43923a1c117a4dba91
+SHA512: b5252fd86400dd0b568bc0bde5bd06e5f54ca0a3b0de55576a5a1d5b941a4befbf2490e4086ec6123dd786bb57963621e0addb7a08f474d1d374355dc1667ded
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter (Rootless)
+Author: Netskao
+Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -12683,11 +12703,11 @@ Section: Tweaks
 Maintainer: BVN Repo
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
 Filename: ./debs/com.bvn.ocd_5.4.1.1_iphoneos-arm64.deb
-Size: 469760
-MD5sum: f53d92e2513f945a0ec585bb5868e8a3
-SHA1: e6f3e704948cdebcb86a7214693f8c347a116616
-SHA256: e0f4b8de873a5f198b6d122ecdeab208519dc4c9a52cbd653f4c771af73ce809
-SHA512: 600babf531a50972c62a7c72a34cd36b312a2b3c0ebb22655daa134d944caa27fc56be52953e1c9c6d5f10a968eb6f11af28b553d06936dc4b04b7aed0c263f6
+Size: 467774
+MD5sum: c84ffbeb34f7837813897fa7d52e7214
+SHA1: 358953156a11494565269b4fccf76538d0057a73
+SHA256: 522f8fe51214e4f0ae35976228a35006325f04d1082ad7deaa6bc17f7ed4c385
+SHA512: 08efd6052beab12219ae376f7f2bad439300e547363ba7c92eb680cf5810ad06a1eb7808aab39f35c0a110af6c186c5f547150cf15db26bd9f84596bc5ed156a
 Description: OCD will let the option to color icon lables & badges background based on app color!
 Name: OCD VH(Rootless)
 Author: b4db1r3
