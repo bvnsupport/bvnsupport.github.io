@@ -10128,14 +10128,16 @@ Installed-Size: 1802
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2
 Filename: ./debs/com.bvn.appaze3_1.0.1_iphoneos-arm64.deb
-Size: 980336
-MD5sum: 343300b17bc1f03477eebc27268ec123
-SHA1: 2d4b1fc58ac7019827b27eeca8e8151dfbf0ce6e
-SHA256: 26f71d0fa2928c53024f15cbb4868217b1cc6725d84e0ac266a76a3dc7330922
-SHA512: a3a5220dfa3baa355176cdac3c8aa35cef75a2a71ffb8a0dab53eaff99c9d799347176e4537055099c89c66779a39e97f956a15fdb62162edf176ed38ec94d7b
+Size: 993622
+MD5sum: 70b087b146af61dcf71159f838023a25
+SHA1: efee0cb4eb5911fbe19e05b40a53610699a3e67e
+SHA256: 654fe725eb84564c8706653a4137f7020140c6fc65d33a7d2e1215495b300acb
+SHA512: 812e2ab6e18a02ef5a1d5aa7986da20969218323645872ffbd0729c8adadd14111f30b14552050dc09c9f068c8ebc0ece2048f2cbba5727a211c331ea77a1dac
 Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
 Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3 VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/appaze3.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/appaze3.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.appaze3
