@@ -12326,6 +12326,50 @@ Author: CUNSTUCK <cunstuck@gmail.com>
 dev: cunstuck
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.locationservicecc
+Architecture: iphoneos-arm
+Version: 0.1-7
+Section: Addons (ControlCenter)
+Maintainer: ichitaso
+Installed-Size: 216
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/com.bvn.locationservicecc_0.1-7_iphoneos-arm.deb
+Size: 54322
+MD5sum: cdf740248e7adaf844dde3feb2da56f6
+SHA1: 2be3045bc277c389d2dd5686467cc66727234de2
+SHA256: 578a8054f4ff30488d02fb865aa38a5ba84a3469b6cb60ca7dc1008d06ef4bc9
+SHA512: eff8f3bd203f41677ad3294b87c29b42022dd40fcdf16457ae4a045236371e57ec5496a6fdb31744b6d13f2c76802275aff800b915321753bd70f3e65a90a187
+Description: Bật/tắt Vị trí từ trung tâm điều khiển.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Name: LocationService (CCSupport)
+Depiction: http://bvnsupport.github.io/infodeb/Html/LocationService.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LocationService.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.locationservicecc
+Architecture: iphoneos-arm64
+Version: 0.1-7
+Section: Addons (ControlCenter)
+Maintainer: BVN Repo
+Installed-Size: 248
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/com.bvn.locationservicecc_0.1-7_iphoneos-arm64.deb
+Size: 51014
+MD5sum: 09a589ea11eb2b71ff3849f0f6c3aa35
+SHA1: 8adb115a66e63c07ae996d02cb7dafb8f175102c
+SHA256: fb676496322d19a706bb45c8e3ba0bb3f377ab5c9728a6f8c15f866eba4bba61
+SHA512: a7ac628e232f129db350ad8cadd61d58b7c154bed31b398ad442f314de6ec6990e3455d987e79cd5a2a42e09dbe0e800b82e1163f128201f400c0ef67020160a
+Description: Bật/tắt Vị trí từ trung tâm điều khiển.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Name: LocationService (CCSupport)
+Depiction: http://bvnsupport.github.io/infodeb/Html/LocationService.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LocationService.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.locketpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
