@@ -13813,24 +13813,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
-Package: com.bvn.solstice
+Package: com.bvn.solsticer
 Architecture: iphoneos-arm64
 Version: 3.0.5
 Section: Theme Rootless
-Maintainer: Bvn Repo
-Installed-Size: 63400
-Filename: ./debs/com.bvn.solstice_3.0.5_iphoneos-arm64.deb
-Size: 60013994
-MD5sum: 9795426d68ce7177d54247197085eb82
-SHA1: 8c982f854d66ebc664134042c33069a427cfb201
-SHA256: db1db26b41d0d19435cdc569d62382e982ac383ec100c7b6bada11099914c75e
-SHA512: 53591d8c992a1a307ec738db44a223660d99a257c2b1f898bd25919801a02ca92df67008ce9235fcf998697bfec21f85054c0de9ee587a09849f7c6bf9d80f9a
-Description: Solstice Theme 3550 icons
-Author: Rifai <icons-requests@hotmail.com>
+Maintainer: BVN REPO
+Replaces: com.bvn.solstice
+Filename: ./debs/com.bvn.solsticer_3.0.5_iphoneos-arm64.deb
+Size: 60014002
+MD5sum: fcf88ab340e80cf8dd33c45d1d5cc27c
+SHA1: 18e697a8a9314a95a5a1a6bc709fbe6b4e642eb5
+SHA256: 1f96fdf65e6168af683f2394838138905738127dfe327cd1c681a64266c1def9
+SHA512: 272ae2786159a65cdd3221dbafbca9725eaa43e6c1781bd83f72c982a99a022bb5beafd1573d8b1c83858bd0c98b26dfc38c47faba201dcc27ad8d13a437ca96
+Description: Solstice Theme
 Name: Solstice Themes
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Author: Rifai
 
 Package: com.bvn.spectrum
 Architecture: iphoneos-arm64
