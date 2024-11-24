@@ -13710,6 +13710,52 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SniperTool.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Sniper @DNS_Sys
 
+Package: com.bvn.snmessenger
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debs/com.bvn.snmessenger_1.0.0_iphoneos-arm.deb
+Size: 663626
+MD5sum: 39f8f27b1418873ee3fbe96e9a18c3ee
+SHA1: fedfedaa712cd0791f88d4915a45c8e71d80f32b
+SHA256: c91d6a94019c1b7cc61bfd63ab34e0cebf7eddc462df830627b73f653a135a41
+SHA512: 46c67ff7f794dc9e129413fc6f604497c136bb90c4ea5be143cfe9a2648ad92434f0b298f98c30169f3bf3fe6383c5e9e00887eafc7960981f376cc53e04b843
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger VH
+Author: NguyenASang
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.snmessenger
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debs/com.bvn.snmessenger_1.0.0_iphoneos-arm64.deb
+Size: 663746
+MD5sum: 9645a91aba3c33dad629ece23b5dc246
+SHA1: ca2e6c30a5dc317b2397a6646aad92924786e44e
+SHA256: f52d477f3eccc77fd638ce0dfb37280a9bc5e0f5fbab012b6a8510ad68045340
+SHA512: 257fcc9c824cb0576f76ac10c40eb174c177cdd5bf41fd52c7efc3d0e9f02ea92ca4ee244f122e2cfa65b871cbce252f513931a1b1b49a2a0052ae8c649f52f7
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger (Rootless)
+Author: NguyenASang
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.solstice
 Architecture: iphoneos-arm
 Version: 3.0.5
