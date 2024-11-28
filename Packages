@@ -12764,6 +12764,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.notificationsgroupcount
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.bvn.notificationsgroupcount_1.0.6_iphoneos-arm.deb
+Size: 95656
+MD5sum: 38e4f6bbae5f60460a8a34931445a040
+SHA1: 7a4e2222dc761f68acc9c39561584429991117db
+SHA256: 894d27a03f4503b4c0c97267520f17679dcb3cda1d728ace7c47c3a5d4c79af0
+SHA512: 00f3feffdf6fb4030d5d24a29cd6c4823b45068f0197de957a7bcd8e3f21a16b39bdb3d4cfd682e3c2049d60c94c8c08e772bdedb5c32c211b9c61803d64c223
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
+Size: 96854
+MD5sum: 7ee249794b68bfd650692e193eb2893d
+SHA1: 98c1d25529a9e1ce1175fd00bb2da0ffe515c215
+SHA256: 70ae92fbff01002d1f12a94c90794f260633b7e2fc51e479f4fad6bf65245fef
+SHA512: dff7041aee05cb9da510c15e7bbf6b97be9257374087d1295ff77c6fed213ec62384a15ec780541acf9608d5fff48e6f3834c03f927ec6ea8db16e9f82c49ab8
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.notrecording
 Architecture: iphoneos-arm
 Version: 1.1.1
