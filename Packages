@@ -10334,6 +10334,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/BeautyPlus.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 Name: BeautyPlus Vip(Rootless)
 
+Package: com.bvn.betteruiswitch
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.bvn.susudaynightswitch
+Filename: ./debs/com.bvn.betteruiswitch_1.1_iphoneos-arm.deb
+Size: 84776
+MD5sum: 5462f1584fc61202d7e9c506c786c238
+SHA1: aca73e2aa117a9434d3351ec4cbf553292316ee3
+SHA256: 82b42b6c03fcc7f646fa4fecc05a045aaa975e6a14cfcc0b10234b289c0f8adf
+SHA512: 7582d61a7b6b6b6b71851c1d62150a7d0152d758b37e0659ce350e4cbe89b4adf2ad0c8b49c3c3d55045aff7320bb2369fb6709a1a0c08cb78268d26b0556f34
+Description: Plug-in này không có cài đặt và nó sẽ có hiệu lực sau khi cài đặt và Respring! Thêm hiệu ứng đặc biệt cho công tắc chức năng trên điện thoại di động
+Name: Betteruiswitch VH
+Author: TiaoTiao
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/Betteruiswitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Betteruiswitch.json
+
+Package: com.bvn.betteruiswitch
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn repo
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.bvn.susudaynightswitch
+Filename: ./debs/com.bvn.betteruiswitch_1.1_iphoneos-arm64.deb
+Size: 84860
+MD5sum: 423ed72bece2fc63c53ca231e4fd6c82
+SHA1: 6f29326876c1102c95b51d51c79540014ae7512d
+SHA256: a085ec913f3027bde3cb4316ca31bc313b3e274e1bc74b70260580e7f87dd604
+SHA512: 1884400c62b7ed29155acd84fb704dfdab1f0abfe1fd420990e1d32d8ec0ebb9f3bea203460e6f0580a77ca157a656a49bedcb5f1d50903c7a07f8ef7adf3ecc
+Description: Plug-in này không có cài đặt và nó sẽ có hiệu lực sau khi cài đặt và Respring! Thêm hiệu ứng đặc biệt cho công tắc chức năng trên điện thoại di động.
+Name: Betteruiswitch (Rootless)
+Author: TiaoTiao
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/Betteruiswitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Betteruiswitch.json
+
 Package: com.bvn.bhtiktok++
 Architecture: iphoneos-arm64
 Version: 1.5-4+debug
