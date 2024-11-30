@@ -212,24 +212,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.0xkuj.ccadsbegone.rootless
-Architecture: iphoneos-arm64
-Version: 1.3
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 1076
-Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
-Conflicts: com.0xkuj.ccadsbegone
-Filename: ./debs/com.0xkuj.ccadsbegone.rootless_1.3_iphoneos-arm64.deb
-Size: 116988
-MD5sum: 0094e01bf861c95846417b349ed30d98
-SHA1: 3624f8fe3251fe5ad43500889b307cdfd78cfc22
-SHA256: 9493f36f9345a7860fa58a06e06dcac51ddeff6156c1f0b7aa8b558978870c5d
-SHA512: a63f2df11be3d748bd3dbe4cb82ab6bdf0a78f3caf4ec8509d794e1c8ed3580b57f71bf42834ca37dfeb290e0d9f65a615b7de11a204422aec78056512a6af2d
-Description: CC Toggle to block ads on demand!
-Name: CCAdsBeGone (rootless)
-Author: 0xkuj
-
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -10673,45 +10655,6 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: 0xkuj <0xkujz@gmail.com>
-Depends: com.opa334.ccsupport, com.ps.letmeblock
-Conflicts: com.0xkuj.ccadsbegone
-Filename: ./debs/com.bvn.ccadsbegone.rootless_1.1_iphoneos-arm64.deb
-Size: 162704
-MD5sum: 4e5ca8219d94319c2ec9f6de085add4b
-SHA1: b091bc0dc4f0238150bcf7c21394ac1c8f96ef3d
-SHA256: 5f80a2cf97d1db77a1b5aad3f2da5a9ac15196032f136d25b966576bef879464
-SHA512: 0fda9a20b2e635473b1761b8b05bcc3e3ab0ae01509b76d8e9ae91b58501a6775a672616ed76693cc62c50dc61f59c01e0740749167e122822cfe98d8608699e
-Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
- - CC Toggle to block ads on demand!
-Name: CCAdsBeGone (rootless)
-Author: 0xkuj <0xkujz@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.ccadsbegone.rootless
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 1076
-Depends: com.opa334.ccsupport, com.ps.letmeblock
-Conflicts: com.0xkuj.ccadsbegone, com.0xkuj.ccadsbegone.rootless
-Filename: ./debs/com.bvn.ccadsbegone.rootless_1.2_iphoneos-arm64.deb
-Size: 164988
-MD5sum: 0c390119d8aae2bae2bb722263f083df
-SHA1: 521834bc08fc7147a96a999f66e12cc0c60fddb4
-SHA256: 069b966bde2619e5a40c5feb95db6de3520a6d3b2d3a88d22126ff6899f09ef1
-SHA512: 463b8d2301119eb4557def71d0853469621afe98d97bc9cf97944cfd03a5b7a3a1f15ff46da25bed4ddb6b633754d9a05dcecd53ea2d8f45ad818e029e2d897c
-Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
- - CC Toggle to block ads on demand!
-Name: CCAdsBeGone VH(Rootless)
-Author: 0xkuj
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.ccadsbegone.rootless
-Architecture: iphoneos-arm64
 Version: 1.3
 Section: Tweaks
 Maintainer: BVN
@@ -10727,6 +10670,26 @@ SHA512: 777cd9d626ced92698a0e2ddd7a8f8a67705a55f047edd883c59fe8446d97c2af4dc5b60
 Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
  - CC Toggle to block ads on demand!
 Name: CCAdsBeGone VH(Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: 0xkuj
+
+Package: com.bvn.ccadsbegone.rootless
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1076
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Conflicts: com.0xkuj.ccadsbegone, com.0xkuj.ccadsbegone.rootless
+Filename: ./debs/com.bvn.ccadsbegone.rootless_1.4_iphoneos-arm64.deb
+Size: 164884
+MD5sum: a3f7389c6bb6f09972e72dcf22905361
+SHA1: e4db07eec6aa26ecf847011a119b26d308f9eb14
+SHA256: e180b896da8cf3a5793e89a15eb880b81c8d4cf5f0db0ea446435332cff502cd
+SHA512: 81d1bf1df91c65696ca4ffc6fecc82239be416b45f2fb5525314d4646a55d157ab1bf697e9f393fa8fec8b54bb5b5ddc4ffafc414c9860e9a3e0be61705c266f
+Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
+ - CC Toggle to block ads on demand!
+Name: CCAdsBeGone (rootless)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: 0xkuj
 
@@ -16046,17 +16009,17 @@ Maintainer: 🅷🆆
 Installed-Size: 480
 Depends: mobilesubstrate
 Filename: ./debs/com.hw.wallcraft_0.0.1_iphoneos-arm.deb
-Size: 110256
-MD5sum: a6d4ff891f72f4362403e08b2338e272
-SHA1: 1ecd265f2258d3979c705676e7de5a4e9278ef8d
-SHA256: dbddf7a422d4b0c4ca47b82ac9f4cff9f8c626021008b5655b774df3095e03c5
-SHA512: 17eed3cd9cfa01b8a596d81c50b90b34a7158e156463360a13963ecf3402d02cb1aca78bcaf400253c13e88afe35e0c2ba3f5d89afdfb005edaa90fec84464ae
+Size: 110276
+MD5sum: 93b365eb28bf20b9f32bc7a91f7970c3
+SHA1: 5e34688a579ca786bd519bf1f59ee291737ac188
+SHA256: 7a1befed4329ad6a2e6d716652c16bc12632681420716b69c97b16dc15b0d84d
+SHA512: d4eb5c408868c498789214657eaca2beb0f8f7a3b265e6f244c8ddbd5241e03c925243cd4e5882a6c61ca5d79f5c8bd609532b6d93011ce497af3e70ba2e3d31
 Description: Mở khoá tính năng Pro cho ứng dụng Hình nền 4K Wallcraft
 Name: Wallcraft Pro
 Author: 🅷🆆
 Depiction: http://bvnsupport.github.io/infodeb/Html/Wallcraft.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wallcraft.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
 
 Package: com.hw.wallcraft
 Architecture: iphoneos-arm64
