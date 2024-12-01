@@ -14492,6 +14492,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/VivaCut.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VivaCut.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.wallcraftpro
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Bvn repo
+Depends: mobilesubstrate
+Replaces: com.hw.wallcraft
+Filename: ./debs/com.bvn.wallcraftpro_0.0.1_iphoneos-arm.deb
+Size: 115492
+MD5sum: ddeeec6fdb57c415d264ba73e3f852b7
+SHA1: 2ee9fea4a37c7083a425f6e3f758653fdcde0d9e
+SHA256: 81a0f6a6ca93bd4a938f0fe7d3c5805d0f909cf3702f0842d185f7f375bae606
+SHA512: ca1f61757840d42660c07a2f4b52987172e4deb10cd1091296c11a059ba8eebe585093fe140a5cd3fa569db947e53d492ebbce34cc0671bcfe5a955b32aef5fa
+Description: Các tính năng chuyên nghiệp đã được mở khóa cho "Wallcraft - Wallpapers, live" từ AppStore
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wallcraft.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wallcraft.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+Name: Wallcraft Pro
+Author: Hoang_Anhp
+
+Package: com.bvn.wallcraftpro
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Bvn repo
+Depends: mobilesubstrate
+Replaces: com.hw.wallcraft
+Filename: ./debs/com.bvn.wallcraftpro_0.0.1_iphoneos-arm64.deb
+Size: 115546
+MD5sum: 13ae2e077cfa564d6268bd7a0ae39480
+SHA1: fb8f64e16a01f62b1bbf21f901514ba9d75dc393
+SHA256: 220813bb9f418f00bb700c1373c307a0a4fa94db9af410a1736167f801129261
+SHA512: 6037e8b73316010b6bf1f5622a06c7d76f428462181d7979fcff36074248f1e25d658fee11d39a97323f36d056ec733dfe42e3947c151e39ab0a768492d0134b
+Description: Các tính năng chuyên nghiệp đã được mở khóa cho "Wallcraft - Wallpapers, live" từ AppStore
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wallcraft.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wallcraft.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+Name: Wallcraft Pro
+Author: Hoang_Anhp
+
 Package: com.bvn.watched
 Architecture: iphoneos-arm
 Version: 1.1-8+debug
@@ -16061,46 +16101,6 @@ Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
-
-Package: com.hw.wallcraft
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Apps Crack
-Maintainer: 🅷🆆
-Installed-Size: 480
-Depends: mobilesubstrate
-Filename: ./debs/com.hw.wallcraft_0.0.1_iphoneos-arm.deb
-Size: 110276
-MD5sum: 93b365eb28bf20b9f32bc7a91f7970c3
-SHA1: 5e34688a579ca786bd519bf1f59ee291737ac188
-SHA256: 7a1befed4329ad6a2e6d716652c16bc12632681420716b69c97b16dc15b0d84d
-SHA512: d4eb5c408868c498789214657eaca2beb0f8f7a3b265e6f244c8ddbd5241e03c925243cd4e5882a6c61ca5d79f5c8bd609532b6d93011ce497af3e70ba2e3d31
-Description: Mở khoá tính năng Pro cho ứng dụng Hình nền 4K Wallcraft
-Name: Wallcraft Pro
-Author: 🅷🆆
-Depiction: http://bvnsupport.github.io/infodeb/Html/Wallcraft.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wallcraft.json
-Icon: file:///Applications/Cydia.app/Sections/appcrack.png
-
-Package: com.hw.wallcraft
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Apps Crack
-Maintainer: 🅷🆆
-Installed-Size: 480
-Depends: mobilesubstrate
-Filename: ./debs/com.hw.wallcraft_0.0.1_iphoneos-arm64.deb
-Size: 110224
-MD5sum: e5980c4f90cc997088ea9f1455036737
-SHA1: 5ce1cfa3462fd399a023b016bc7a030bdfea92eb
-SHA256: d09863727f4f315b7340721b1da4e233b612ddc185d8459d75b7d0522234a9bf
-SHA512: 105c1dabc3a58f09aa20555a46f91b7f2aeb46fae2e09bf9cd15f0dc229a490d9d838c261a91a54ab8451c3d718dea4d26768fcffb936135c92518badc52fe0a
-Description: Mở khoá Pro cho ứng dụng Wallcraft
-Name: Wallcraft Pro
-Author: 🅷🆆
-Depiction: http://bvnsupport.github.io/infodeb/Html/Wallcraft.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wallcraft.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.iarrays.libiarrays.rootless
 Architecture: iphoneos-arm64
