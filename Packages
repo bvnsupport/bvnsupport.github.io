@@ -13574,6 +13574,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.9.2
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: byg.iosios.net.safarixhook, com.xx.safarixhook
+Filename: ./debs/com.bvn.safarix.rl_1.9.2_iphoneos-arm64.deb
+Size: 362960
+MD5sum: c37d0dcfc9a255487a6054ed77ebd21c
+SHA1: db237a94b6f014a13f1c18d3b05054ea50a2cf9a
+SHA256: ca475f8b536e3eada8c6ebbf8c7dbe8661c82d2cb5b58ae49305694010ecf8ab
+SHA512: bbd412306d4c76d901bdd0d48c1e8f1539c2c5dce979d95b8d34d93ca973d71bbfbf68a43cf182088f380618ea29d8805e79f5095844a89de4539d64d5db9774
+Description: Safari Essential Features
+Name: SafariX VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.safarix
 Architecture: iphoneos-arm
 Version: 1.1.1
