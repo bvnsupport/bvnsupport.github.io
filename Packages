@@ -11357,40 +11357,40 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.epikpatch
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 0.0.2
 Section: Apps Crack
 Maintainer: BVN Repo
 Installed-Size: 75168
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.epikpatch_0.0.1_iphoneos-arm.deb
-Size: 2701240
-MD5sum: cbe24da778756e355b8091184a1e14ec
-SHA1: f04bfd5648fb53c530a420563f0918abf566cdd7
-SHA256: d6f7f37863f8a4d5d9dc98bb8ad28dd96ce8e28cea26ef5fc540432b8928d6dd
-SHA512: f3e7c3cfad275c790450c207b3f0f470164682bd59f9cce62f9a4cba54de713ac264a579a9314576ce6cd1d5bd70a44289fe2b4a9033b934a72898b56e7db33f
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.epikpatch_0.0.2_iphoneos-arm.deb
+Size: 877628
+MD5sum: 4e8ef59275b74aba6e8094d33ddf91f0
+SHA1: 8e3f6bd71822fff1de4389e4c0a546e04ec48ba8
+SHA256: b8a5d54ba807c1bd8e573f4e8065fa0c57d2f464d484c6cacaae8d9cc3597f9f
+SHA512: 41683c62087f517894798c143b437ee14c366b4e94ba3bc4abd41aa81e8bfe3e4931a874265dd0fd0a57f452e58e2371eafeea9e6269203609c72a3cab4e261e
 Description: Mở khóa PRO
 Name: EPIK Pro
-Author: Dell <dvq273665536@gmail.com>
+Author: blatant
 Depiction: http://bvnsupport.github.io/infodeb/Html/epikpatch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/epikpatch.json
 Icon: file:///Applications/Cydia.app/Sections/appcrack.png
 
 Package: com.bvn.epikpatch
 Architecture: iphoneos-arm64
-Version: 0.0.1
+Version: 0.0.2
 Section: Apps Crack
 Maintainer: BVN Repo
 Installed-Size: 75168
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/com.bvn.epikpatch_0.0.1_iphoneos-arm64.deb
-Size: 2701254
-MD5sum: 6371da063c68dfa4b679af33b920151c
-SHA1: 0f5f43f21575f0ba670b5e3ef95ee5d26e690ad6
-SHA256: 336ab7b0909c904abaab670623defed30182dc95e5c91d96383416d6f1e90daa
-SHA512: cea272cbe6939fc837f78231dc7863aef376914852e0022adae26d3976154cddd298d2b43a18fef0c1033370af29f4c64e503a964833721c6f5187108d072294
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.epikpatch_0.0.2_iphoneos-arm64.deb
+Size: 844220
+MD5sum: f0a0842beda4f741c7525405ea386f7a
+SHA1: 5f1edb6a9e8533a56db36b73869b7f7e1cc80b85
+SHA256: 22e9e3fc122d1b48578ebd5f72adc7f8ecc84ad9a2be3a2a882b2d802fb301b9
+SHA512: aaacca71d2f7dd6561471267546d15940d288bad1b9bc37f14b75c0bf3c182c827c8ad8b5c601787453fab742bb27bc2333877cb1514db67ab8b669e63e3a7f3
 Description: Mở khóa PRO
 Name: EPIK Pro(Rootless)
-Author: Dell <dvq273665536@gmail.com>
+Author: blatant
 Depiction: http://bvnsupport.github.io/infodeb/Html/epikpatch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/epikpatch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
