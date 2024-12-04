@@ -10562,15 +10562,16 @@ Section: Tweaks
 Maintainer: BVN Repo
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
 Filename: ./debs/com.bvn.cahighfps_2.1.2_iphoneos-arm64.deb
-Size: 21264
-MD5sum: e7ac7bb4cc17a25d533c141ba6974bcc
-SHA1: 0fb040c39980dd794bcee3bb980fec7694f9c6b3
-SHA256: 911755038ef15d1afac7d6769a5a34e931161e3923f0537c62027768a9effa24
-SHA512: 52227b11dc5f2f8e8ad3cf482e98841da5f1b246b10ff3fbc783d1f4a4d999eb4ab4635b12cebe23d1766eaddc84f2334cce58e62b91354e5a72eb5ed05fce04
+Size: 21310
+MD5sum: d937ee177232e804872ce28d4d88f9e2
+SHA1: 9a13f65b3b6e3aeda1e5ffb40762ec0484b0f4fb
+SHA256: bcbee9880c1ef7a69f2e1bb0d707f93cdbbb78375101bac8cbef2bd76895aa87
+SHA512: 50f658459007677813b441b7c9e206bcdada7e71998ecc32dea73cb1f0a892d73a30e88893a49043887e252d94b55928850ca9a1ba517f2fae8be381d117c91e
 Description: Làm cho các ứng dụng sử dụng FPS cao nhất hiện có. Tùy chọn FPS tùy chỉnh được thêm bởi uz.ra (@ChromiumCandy)
  * Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
 Name: CAHighFPS VH(Rootless)
 Author: PoomSmart
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.callblocker
 Architecture: iphoneos-arm64
