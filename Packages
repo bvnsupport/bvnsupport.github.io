@@ -9123,20 +9123,20 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
-Version: 1.8.16
+Version: 1.8.18
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 188
+Maintainer: PoomSmart
+Installed-Size: 192
 Provides: com.spicat.youpip
-Depends: mobilesubstrate, com.ps.yougroupsettings, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.8.16_iphoneos-arm.deb
-Size: 31192
-MD5sum: 7fbd4757cc021086242b0a33eccbe805
-SHA1: 4278c0de3dbc376b500b8db0d233030bcdfed455
-SHA256: d47fedf1b171ec8c050591a59eb014bae0867d19cd31a1a6e4cb96b151126a1b
-SHA512: 297b0a7913a75aa09e1019be2bc1d1fa89a3a65f6c2ce2fe12f1ba80d6bf9f1845d20845bf3f24f5906fad7da788257c8c103bd7d64d4904e3ce6394dfb2d0ca
+Filename: ./debs/com.bienvannnat.youpip_1.8.18_iphoneos-arm.deb
+Size: 31978
+MD5sum: 0bfabaf12d7a7e67e5802c5d433a8c29
+SHA1: 186620a7cb35dfa7305cceae17b2dcdaf302d4f3
+SHA256: 2230ad3ad33ac917140eb3b19f0ae66170b8fa75fcf000d02358eb077a10b3ae
+SHA512: 5fcc11ae7f8b9fe4553874e86b7fc65a352b7231e44e5e4b7854ea85e20f59e96f5a8548212d49a4a5c54538b0b4e811f452c23e0d2d5f1bce169e335fae208f
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP VH
 Author: PoomSmart
@@ -17784,21 +17784,21 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
-Version: 1.8.16
+Version: 1.8.18
 Section: Tweaks
 Maintainer: BVN Repo
-Installed-Size: 188
+Installed-Size: 192
 Provides: com.spicat.youpip
-Depends: mobilesubstrate, com.ps.yougroupsettings, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.8.16_iphoneos-arm64.deb
-Size: 31188
-MD5sum: 0a6312d28fd3feecba91f3401a21d9ef
-SHA1: ebe0931bb237a95fc943e8044e7ea1691ec6af66
-SHA256: aa5a2af1cf3ef98bb88b15f0979b1e3a7b406e63f7e10ae9dc53cdc1caa7fe56
-SHA512: 1c11eef0f7eed72d36a6880c2690d673c56f40f55484a6aded8ef1a69b08e88bc328d6328b012e1e75f7d5d00c65f250144fbb2356e887f1144a9d3908fe01eb
-Description: Enable native PiP in iOS YouTube app.
+Filename: ./debs/com.repobvn.youpip_1.8.18_iphoneos-arm64.deb
+Size: 31990
+MD5sum: e2889ef53260276d1076afdf6515f1c4
+SHA1: 6f8920b4433d8736d7976bee20ce4cb908896d93
+SHA256: 92ce69c0d9614cc4b996912dadaad0bf5dbb6b8c0e2a6049476f6f8e826af325
+SHA512: 91c834de38fa6bc696063f43ef9fc1eb692f5c6f9cfb2c3ecb1bf56cce125bdf224e128f45d5aa3b1537eedc8862da7e343e911027e5efa28c9ce533643b7fb2
+Description: Bật PiP gốc trong ứng dụng YouTube dành cho iOS.
 Name: YouPiP (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
