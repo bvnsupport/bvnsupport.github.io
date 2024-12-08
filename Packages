@@ -8979,6 +8979,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Rocket cho Instagram
 Author: Rocket App
 
+Package: com.bienvannhat.rocket
+Architecture: iphoneos-arm
+Version: 3.8.30k
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Conflicts: xyz.cypwn.rocketcrack, xyz.cypwn.rocket
+Filename: ./debs/com.bienvannhat.rocket_3.8.30k_iphoneos-arm.deb
+Size: 2288414
+MD5sum: 95f17d80afeb1097b91b4c54427b9b2b
+SHA1: 492c7dba7990fcbe8db6bbd5ce53f254bff40142
+SHA256: cca19e518ca6b45cce50442a4b8159215891776304f0b6c9ed7ae4cb6ad6d76a
+SHA512: ed1c8a14a8a0202029b3f3b1b707ee2a123dd4b22495622d51815d82e0596df7ed4e9621d7073ec6fd47d47bcb921d0670324cf5d412dfb838146aab857b9857
+Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
+Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Rocket for Instagram VH
+Author: Rocket App
+
 Package: com.bienvannhat.satella
 Architecture: iphoneos-arm
 Version: 2.3
@@ -21340,6 +21360,25 @@ Author: Rocket App
 Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.bvn.rocket-ig
+Architecture: iphoneos-arm64
+Version: 3.8.30k
+Section: Tweaks
+Maintainer: Bvn repo
+Depends: mobilesubstrate, xyz.cypwn.rocket, xyz.cypwn.rocketcrack
+Filename: ./debs/vn.bvn.rocket-ig_3.8.30k_iphoneos-arm64.deb
+Size: 2289352
+MD5sum: 1d19b9269f20c8ee9b9f4c0004108188
+SHA1: f916b46a08bd310cacb0f88491a052dd75ce9711
+SHA256: 5b4362b0f4093cfda12ba047de27922d9650f19e6eded18e0cc50b77ed80f38d
+SHA512: 31730d0b0b40eae89879c2d2c72759ab685c3989025adbb7809d4ea65e3e8ac35a2d45777efe58d80d5526c5043900a736e108dc548927726d44e019067484a1
+Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
+Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Rocket for Instagram (Rootless)
+Author: Rocket App
 
 Package: vn.bvn.scribble
 Architecture: iphoneos-arm64
