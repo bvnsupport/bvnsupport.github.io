@@ -13433,19 +13433,21 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.recordpause
 Architecture: iphoneos-arm
-Version: 2.0.2
+Version: 2.0.3
 Section: Tweaks
-Maintainer: Bvn Repo
+Maintainer: BVN Repo
 Installed-Size: 168
+Provides: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/com.bvn.recordpause_2.0.2_iphoneos-arm.deb
-Size: 17098
-MD5sum: 0a9a9349c9bdc849a5544489c39fae7c
-SHA1: 876d391799d997d19ae9bd156242da72621d983e
-SHA256: 1f0d212244c60c370264a2ac727e8ae52732345942c00282dcf60857a8aa6f35
-SHA512: 294c9cb7cc7fec317c899b61f8710738cc17ce925dc1fdaab0f8e0274b376a39763f7f794a483464620a9bfc3f431f5142f0e2107f89648500b5474eec4e43ac
-Description: Tạm dừng/tiếp tục quay video.
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.3_iphoneos-arm.deb
+Size: 17138
+MD5sum: 4276db03e4cd848aabd00b4b0b1376fa
+SHA1: ca6e22bb3cde52aa68d00dbe5b64227c649b82c2
+SHA256: c40aac611879926beff71a371c47e9b3a96b8598f861bf7904ea4e67485214d4
+SHA512: cbdb6c97fe35175646e5a13542ca98b87c59ad936e48c068d513f8df6c0bc8c3747b22460fff6748b9fcd1eda84d8ef17a2930a5c94095fea8b526ab391fa72f
+Description: Pause/resume video recording in iOS Camera app.
 Name: RecordPause VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
@@ -13454,19 +13456,21 @@ Author: PoomSmart
 
 Package: com.bvn.recordpause
 Architecture: iphoneos-arm64
-Version: 2.0.2
+Version: 2.0.3
 Section: Tweaks
-Maintainer: BVN REPO
+Maintainer: BVN
 Installed-Size: 168
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/com.bvn.recordpause_2.0.2_iphoneos-arm64.deb
-Size: 17230
-MD5sum: b5e4269879913a0452b8863be16092b1
-SHA1: 0495d5b0ead86f8342a38443ac24adba95375a2e
-SHA256: 054997515ca9f80ebc3fb0fcf47817458c15e69b481ca8a8e8ae7c05e6110d74
-SHA512: 02b8a81f6f902142f144c6a2bfad9b269350b13df8584a6bb5e4d88448469126cd293ef61c4432fb722bb5986ed9c998722fff73c1debf6b1d25acc100b4fb9c
-Description: Tạm dừng/tiếp tục quay video.
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.3_iphoneos-arm64.deb
+Size: 17292
+MD5sum: da994b7fb510d29bd83a9e7660403b51
+SHA1: aeda17dc3a32c40e499767738bc05b68c43c36c0
+SHA256: 551426af42829d5c5255ca6925d187870ab8c6494fea1cec3491ea7a37cfd64b
+SHA512: b6ce974dcf93a757390dddcbf03f1ecc474f5bde96dda74689b29aa1299955dad349c23c3f701f52efb429487cb1b6fe26dd0bd06c0e503d997cfea95fa79625
+Description: Tạm dừng/tiếp tục quay video trong ứng dụng Máy ảnh iOS.
 Name: RecordPause (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
