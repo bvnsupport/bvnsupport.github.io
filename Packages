@@ -10791,6 +10791,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.centra
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.centra_1.0_iphoneos-arm64.deb
+Size: 71340
+MD5sum: edb0714500a8ec2b2f291d560e9153be
+SHA1: fd4367f53f9af196dfd3d7934b08190ad8460fb3
+SHA256: 4206726b51c0dd473121756e369eac2f6bea0c09f6de064df9650d7e36bdcddf
+SHA512: da6fc441dcd0ebd1eff1a5b8bbb63ee85cc13e0a12c9d0c8799c2fa24cd2e2a1f167023f1afd5c7ecbab32305fd24fa031c624cf0d2edae56ebbf88e1b1f330c
+Description: Customize the size of modules in the Control Center, including Connectivity and other modules.
+Name: Centra VH (Rootless)
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.chromahomebarx
 Architecture: iphoneos-arm64
 Version: 0.5
