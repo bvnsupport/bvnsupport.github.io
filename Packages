@@ -14712,19 +14712,19 @@ Author: uz.ra
 
 Package: com.bvn.vibetok
 Architecture: iphoneos-arm
-Version: 1.1-3+debug
+Version: 1.2-11+debug
 Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 548
+Maintainer: BVN Repo
+Installed-Size: 616
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vibetok_1.1-3+debug_iphoneos-arm.deb
-Size: 141968
-MD5sum: 92fd9d01e9fb6ff4644fe874b31d5c54
-SHA1: 42a10b29af1e2c55ff4cc16b92b7b4ea9c565dbb
-SHA256: 0476a143cac21681c37f019008a5928db8abba3df9fee6e3e5f41d6f32d702af
-SHA512: 48b9ce34244bd6559b8dce7f95d792c25cef937aa67050e03096ca29034bf4b9b8682996134f86b0f03fba0fa0f66a5a806c7e297c9f3ceebf13276860353905
-Description: Make TikTok Better!
-Name: VibeTok
+Filename: ./debs/com.bvn.vibetok_1.2-11+debug_iphoneos-arm.deb
+Size: 163638
+MD5sum: c7fe1dfdd2ce64958bd022b71ad1c6ac
+SHA1: a7e99ea19660c9b386e8666fc31a89066d43b97d
+SHA256: 3bd454dec50d1427f66ddfa041d142fc8d6972f7c740da60e5c1da8bf7628ea5
+SHA512: eac98c5340cd9ee67092abbfcc536cf0ea5a496728b318a7bce36385e611c4d5e1abaa35a2c62a004a694272ebb7de5b6997ec2ea00f996ac7540ba1259636f5
+Description: Làm cho TikTok tốt hơn!
+Name: VibeTok VH
 Author: DeNsor
 Depiction: http://bvnsupport.github.io/infodeb/Html/VibeTok.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VibeTok.json
@@ -14732,17 +14732,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.vibetok
 Architecture: iphoneos-arm64
-Version: 1.1-3+debug
+Version: 1.2-11+debug
 Section: Tweaks
-Maintainer: Bvn
-Installed-Size: 548
+Maintainer: BVN Repo
+Installed-Size: 616
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vibetok_1.1-3+debug_iphoneos-arm64.deb
-Size: 144364
-MD5sum: 2869b00429ec4805bd35ffcd113184cd
-SHA1: be39a2c0fd7e36b91363034bcdd57bd334633b9a
-SHA256: 338d43c093231d6e607b55edf67b5644331e2c8fd3eeeb2233a849a66f3f56a7
-SHA512: dddebe4c17420934f8fee583423dc41734e82b34c6b43cb44a433073cfc782e31a274607aa6746874ca08db221b27ee3cfab6fef1c1aff28086f0e0371dd05b7
+Filename: ./debs/com.bvn.vibetok_1.2-11+debug_iphoneos-arm64.deb
+Size: 166812
+MD5sum: bc33c75b0a9f40731ab7b342c4d39734
+SHA1: 68874f8867aa03d20f53944e0bc18fde1942c4a7
+SHA256: 0a52728df982ecbacd6e1a5c8b1e84f877c18e7d2ea8afb065c9d5aa8206cc51
+SHA512: 7c7b7922b17e70708acf3f95257a6d9ddc345355a1489300a400d063ce37d8c24f603735622ab06e23aa947bb9fe38b4876bf6e5e2825ccfd019cefcf7b05d51
 Description: Làm cho TikTok tốt hơn!
 Name: VibeTok (Rootless)
 Author: DeNsor
