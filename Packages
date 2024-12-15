@@ -21236,6 +21236,46 @@ Name: DLEasy CRK(Rootless)
 Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15588
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.6_iphoneos-arm.deb
+Size: 7432166
+MD5sum: de11dfdd8656a2d9711e94ed554ac52b
+SHA1: 30f5c6896d0dd9a2aa123c53aeb74180333d9ab8
+SHA256: 406ab8db8d87d822c1e2910ae7006ca23a171b37d0cdfccad5a7d280be5ea765
+SHA512: 8e163480b2ac7f535aea35f366a6d5365dc74d87fe2863406998ac5c872f175d445c5feaa948d176d93c5be6774a24cb7a3abf53c37a18baf544d9001060fdc3
+Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
+Name: DLEasy CRK
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.6
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 15544
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.6_iphoneos-arm64.deb
+Size: 7357660
+MD5sum: 64731d05c36545d1aab8c85fa1e9af72
+SHA1: b68cc586c97ecbd7d9dac56e2ef2766d4fabb381
+SHA256: 1f0bb322624b5f1c239890d5deb77e7ff2fba3e00bb28dc01037ea51470c82e8
+SHA512: 79af6bf3ce766760ad26e1b209d16f27074b15d07d54c3bad0711ccf86ee7b6f52139847c3fddf1669498b87babdc57dff3ce4e8fd6313623a7de778093e3c8c
+Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
+Name: DLEasy CRK(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: AhmedBafkir <prooxy0@gmail.com>
+
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2-2
