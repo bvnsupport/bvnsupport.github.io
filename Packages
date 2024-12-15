@@ -13813,6 +13813,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.replyactions
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.bvn.replyactions_2.0.0_iphoneos-arm64.deb
+Size: 262822
+MD5sum: adb3d35957f0d66ae821e177c6f4c0d7
+SHA1: b1781317c79454e055419cf709f4903534a80883
+SHA256: 2b7a20685286184ffcd5f3a55c94dd0700b630ce613fa84a8e0ab158b0670d75
+SHA512: c9789f11624d17feb549b5af4c14b0e53d4cc651a6ddb09e50bc4b504d7b671af61ee9e972001af0645a1c57f2be104762f7badacd4753f333c4d0418421b511
+Description: Gửi tin nhắn một cách dễ dàng
+Name: ReplyActions VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ReplyActions.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ReplyActions.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: sergy
+
 Package: com.bvn.ring
 Architecture: iphoneos-arm64
 Version: 1.0.1
