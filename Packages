@@ -9415,20 +9415,19 @@ Package: com.bvn.Christmas
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Theme Rootless
-Maintainer: Biện Văn Nhật
-Depends: com.bvn.stella
-Filename: ./debs/com.bvn.Christmas.deb
-Size: 63594
-MD5sum: 9254aa9a88e2918a80a8eb95d971ee75
-SHA1: ca1a8c007cc943c30f1f6ec21fbe9f205230e325
-SHA256: 65178cd75eae3e0511cf958ac24b7264a38d6b4918028047574e99f60cd8be92
-SHA512: 8f446b0868d5ef00727abf3864c05b4d15922d0d898b1fd73cd26f41c03da470b2356ecc677130adb3a1479bd94ca92c841fe1c7af1f14849c96864c755b3170
-Description: Gói AE Christmas
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debs/com.bvn.Christmas_1.0_iphoneos-arm64.deb
+Size: 63584
+MD5sum: 825bb61ac6ef6740c94975f8894db2e3
+SHA1: e3faaacb3dd7ba6736cf762c3e5f1da33b051b98
+SHA256: 594545d2e26a4d3a5f31891355d07c7d300805c1b4e04100d5ceb1d9b1103b0a
+SHA512: 988bd9835049f88886a18c510169e21602cacfc7c9660063b7655f4682dbe05db4445b5581e7d993b8af582dad45143c805c71f326d60845c20d7de2ec32ea12
+Description: Gói AE tuyết
 Name: AE Christmas
 Author: unclear
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/Christmas.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Christmas.json
-Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.Exodar
 Architecture: iphoneos-arm64
