@@ -1,0 +1,117 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"iCleaner Pro\n\n- Trình dọn dẹp tối ưu iOS tốt nhất!\n\n- Phiên bản đã được kích hoạt sẵn\n\n- iCleaner Pro là một tiện ích có nhiệm vụ “dọn rác” và tối ưu cho iPhone/iPad tốt nhất hiện nay. Nó giúp cho người dùng kiểm soát được nhiều hơn những thứ được lưu trên thiết bị của họ, chẳng hạn như tin nhắn, dữ liệu Safari, bản cập nhật OTA,... Vv.\n\n- Tiện ích iCleaner Pro sẽ rất hữu ích trong trường hợp người dùng đang sử dụng những chiếc iPhone có dung lượng chỉ 16GB hoặc 32GB \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/iCleaner/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/iCleaner/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/iCleaner/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/iCleaner/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Ivano Bilenchi"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"7.10.0" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tiện ích"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"20/12/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"1.4 MB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 9.0 đến 17.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 7.10.0\n\n- Thêm hỗ trợ Palera,xina,Dopamine Roothide"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
