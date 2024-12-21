@@ -12264,6 +12264,23 @@ Depiction: http://bvnsupport.github.io/infodeb/iCleaner
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/iCleaner.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
 
+Package: com.bvn.igamegodnoads
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate (>= 0.9.5000), com.gamegod.igg.rootless
+Filename: ./debs/com.bvn.igamegodnoads_1.0.0_iphoneos-arm64.deb
+Size: 200820
+MD5sum: 5cf87fb24c36c6ce2d6004bb393876e9
+SHA1: 42785ebb5b9f6cb6ca9faab728280d040832802a
+SHA256: c803740bd09f0a66c66d67bfe2839094b642b8bfaef151fae6ad72f7c7cab07f
+SHA512: 0247c7afc265b4bbd1f5a208006a2b6e2f8f920afade90f19b75ed2191d349ab5817d91bf0a08b5e36bdd34674593d350d05cc15f33e4cf0bdaf93f29b5b7a07
+Description: Chặn quảng cáo igameGod
+Name: iGameGod NoAds
+Author: x✨
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.immortalizer
 Architecture: iphoneos-arm
 Version: 2.0.0-1
@@ -16395,23 +16412,6 @@ Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
 Package: com.gamegod.igg.rootless
 Architecture: iphoneos-arm64
-Version: 0.4.2.1
-Section: Utilities
-Maintainer: iGameGod
-Installed-Size: 195060
-Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
-Filename: ./debs/com.gamegod.igg.rootless_0.4.2.1_iphoneos-arm.deb
-Size: 36601528
-MD5sum: d4310c546a0f8b534006f7cbd0ca03f6
-SHA1: 851421b409f7465fc8c004da3507270633530abb
-SHA256: 4a3b3bb3b1dc907bcaa1fc5ad6b37454d73dbb40b8df52b9c95ab4ecba3287f7
-SHA512: ca8598e1fc0e09a9c494b87dd0ce31f145e352dbcb7c2f1087f71fcd9939cc332546c3d8662f60e74a4c09f5c0d23fabab7e6b6191ecb8e7db13e36fbee3b2f4
-Description: Be the god of your games!
-Name: iGameGod Rootless
-Author: iGameGod
-
-Package: com.gamegod.igg.rootless
-Architecture: iphoneos-arm64
 Version: 0.4.3
 Section: Utilities
 Maintainer: iGameGod
@@ -16427,22 +16427,23 @@ Description: Be the god of your games!
 Name: iGameGod Rootless
 Author: iGameGod
 
-Package: com.gamegod.igg
-Architecture: iphoneos-arm
-Version: 0.4.2.1
+Package: com.gamegod.igg.rootless
+Architecture: iphoneos-arm64
+Version: 0.4.4
 Section: Utilities
-Maintainer: iGameGod
-Installed-Size: 195092
-Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
-Filename: ./debs/com.gamegod.igg_0.4.2.1_iphoneos-arm.deb
-Size: 36606232
-MD5sum: 6d0189ad23c8b66fb6358b8efe220305
-SHA1: 95dc9add7953950d35612f458c392ddfa1e50a99
-SHA256: 2c1b1c5f7f6dcebd9525ba43e36d7bef98fddae74ecf83943dae9b53fe2f84a4
-SHA512: d88deb13d08d40956ecf97adf67369dcd47ebeb2ef4175848e78efaa33801479e12954a3b4d6a14c3290e200f0c834014a814d11326563579395a66edbd96f17
+Maintainer: bvn repo
+Installed-Size: 203320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gamegod.igg.rootless_0.4.4_iphoneos-arm64.deb
+Size: 80342196
+MD5sum: e6c37b5caebb379f1df1e0ebf0e9076d
+SHA1: 4b06a0d70791779635f3aea8f293a4921bc2fd08
+SHA256: d7e60e560d67778a82e02447f4a43c5a9446f7ab7898574733dd6e19e69603d8
+SHA512: 5a6cd9353048c09fe1ea38bf2a60cd32e0fd0c858a7ba1fd2305ab86a85c566ea4ecf3f296cef3e341a987b7bab33ca632a61c12e3f158caf9a4185262ec1899
 Description: Be the god of your games!
-Name: iGameGod
+Name: iGameGod (Rootless)
 Author: iGameGod
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
 
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
