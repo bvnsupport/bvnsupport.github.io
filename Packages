@@ -7786,25 +7786,6 @@ Depiction: http://bvnsupport.github.io/infodeb/SneakyCam/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SneakyCam.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.REPOBVN.sneakycam-rootless
-Architecture: iphoneos-arm64
-Version: 2.0.8
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
-Filename: ./debs/com.REPOBVN.sneakycam-rootless_2.0.8_iphoneos-arm64.deb
-Size: 144752
-MD5sum: 1154d435cc0ab64a3dabe5eb1b4b31d9
-SHA1: 9f0f7278fefcdda9427d87119a8a475e10f8fdbf
-SHA256: 1736c52f524874e8e41d6bfbea3c51d4a10565646496dc0008eab2b116e1f49e
-SHA512: 5a1c4bd382b5d68f575f0502a8aa6cc7343e1082b58266406f235e546f32025ef3f1e8a5710b0e0aba960027af7c0ccb6544456f44d2dbc4a070d482b6bc4336
-Description: Chụp ảnh hoặc quay video một cách kín đáo từ mọi nơi, ngay cả khi màn hình tắt.
-Depiction: http://bvnsupport.github.io/infodeb/SneakyCam/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SneakyCam.json
-Name: SneakyCam VH(Rootless)
-Author: Spark
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: com.REPOCYDIABVN.PullOverPro15
 Architecture: iphoneos-arm
 Version: 15.17-2
@@ -11593,6 +11574,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: yan
+
+Package: com.bvn.fixSneakyCam
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 748
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.bvn.fixSneakyCam_0.0.1_iphoneos-arm64.deb
+Size: 47008
+MD5sum: f09cc56aa9ea1a291218e4226af4fa69
+SHA1: 480cba348bc0b29a193422ccabbea1103e11e25d
+SHA256: 22f9c6183ce6db909c6d54d1b1f853de855624bc0210727ac31db39afdb9ef96
+SHA512: 33fbd547f7e5485c06fdc070e47fc90aed69867040e33bd1763412d4aaac1fe88821612cd0d8103784d6300d5dc0c39d2e1d69a3726f2fbd69518934f99275f2
+Description: fix SneakyCam không hoạt động trên iOS 16
+ - Fix SneakyCam not working on iOS 16
+Author: Alex
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: fix SneakyCam
 
 Package: com.bvn.focospatch
 Architecture: iphoneos-arm
