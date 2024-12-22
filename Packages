@@ -13748,6 +13748,26 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Lessica <82flex@gmail.com>
 
 Package: com.bvn.reo
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1040
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 13.0)
+Filename: ./debs/com.bvn.reo_1.3.0_iphoneos-arm.deb
+Size: 546254
+MD5sum: 960c43c2683d6c58b5cc2fe7281c5816
+SHA1: 13ee31df9d071ffedb1920681d1c8d372956fb1f
+SHA256: e23dc5852101b82ac108bd98fe2d52354afbb83b5fa2b7c71a7449931917f3b4
+SHA512: 7e043ee3fda0e947b67c1a45eb966e65101c970bcb0ba62367303a86cc397c3fb76dc4867e70e40915c0ab880b400f1457578ec95ffc5f279b1e174b2a5839f5
+Description: Classic Music player for LS
+Name: Reo VH
+Author: Mystery
+Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.reo
 Architecture: iphoneos-arm64
 Version: 2.6.0
 Section: Tweaks
