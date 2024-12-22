@@ -56,7 +56,7 @@
 "title":"Nhà phát triển",
 "text":"mikifp"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"29/10/2024"
+"text":"22/12/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.7.10"
+"text":"iOS 14.0 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
@@ -92,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.4\n\n- Đã khắc phục sự cố liên quan đến bản xem trước thư mục liên quan đến khả năng tương thích của tinh chỉnh Classic Folders\n\n- Đã khắc phục sự cố với bản xem trước thư mục liên quan đến khả năng tương thích của tinh chỉnh Primal Folders 2\n\n- Đã khắc phục sự cố thiết bị sẽ vào chế độ an toàn khi khởi động trên iOS 15.0\n\n- Đã khắc phục sự cố về khả năng tương thích của Atria [Floating Dock, một số kích thước lưới nhất định]\n\n- Đã khắc phục sự cố khiến trạng thái biểu tượng không được lưu đúng cách sau khi chỉnh sửa\n\n- Đã khắc phục sự cố liên quan đến sự cố do tạo bản xem trước thư mục[hy vọng là vậy]\n\n- Đã khắc phục sự cố liên quan đến việc tạo thư mục mới\n\n- Cải tiến tổng thể"
+"markdown":"### Phiên bản 1.0.5\n\n- Đã khắc phục sự cố với các biểu tượng trên thanh dock nổi tạo ra nhiều hàng\n\n- Đã khắc phục sự cố lưu dữ liệu Griddy ở vị trí sai\n\n- Đã khắc phục sự cố liên quan đến việc tạo bản xem trước thư mục không chính xác\n\n- Cải thiện độ ổn định tổng thể"
 },
 {
 "class":"DepictionLabelView",

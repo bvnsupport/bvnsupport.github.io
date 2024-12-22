@@ -12001,79 +12001,38 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/GitHub.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.griddy
-Architecture: iphoneos-arm64
-Version: 1.0.3.5
+Architecture: iphoneos-arm
+Version: 1.0.5K
 Section: Tweaks
-Maintainer: Bvn repo
+Maintainer: Bvn Repo
 Installed-Size: 204
 Depends: mobilesubstrate
-Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./debs/com.bvn.griddy_1.0.3.5_iphoneos-arm64.deb
-Size: 34988
-MD5sum: c3fbeddc732d55589d89134bfb4bfc55
-SHA1: 67c7cce2620b1bb44190e40b0c3c68c25fd9fcb4
-SHA256: 75aa804177b501d1b4760865000d218e50a8cdd25a3b5b5210908865671caa78
-SHA512: 15d672d1ae98403b836df6e5635a11e8eab38da5d1b3f5ccb975692413c8bdd93ec68106c6e73bc8f643ee7ed83f05382493094df641fc862c0ee92756b9fd8f
-Description: Hãy để các biểu tượng của bạn được đặt tự do trên màn hình chính! Được biên dịch dựa trên nguồn mở, được hợp nhất vào bản sửa lỗi plug-in Hello Folder và PrimalFolder2.
-Name: Griddy VH(Rootless)
-Author: mikifp
-Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.griddy
-Architecture: iphoneos-arm
-Version: 1.0.3K
-Section: Tweaks
-Maintainer: bvn repo
-Installed-Size: 204
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.bvn.griddy_1.0.3K_iphoneos-arm.deb
-Size: 31962
-MD5sum: 37d58a1a3d03b219fd4f784d645ed57f
-SHA1: ab8ea768f05c455009c0d7a8d490732dd327b148
-SHA256: 759600d28308e044bcc4cd7317161367137a8884f12e5c5a7806507d7529628a
-SHA512: 1653ead247e2c864dce8fd07510d910982ca41e1d466831c3d88089b12d4885911ab3465f4855bc46378608446dff009c5030eebf941ca1649382d77d2e7d5c4
-Description: Make your icons hit the griddy
+Filename: ./debs/com.bvn.griddy_1.0.5K_iphoneos-arm.deb
+Size: 36036
+MD5sum: 72bb3aede1009022033696b94d64b0e2
+SHA1: 0fcd1f1bc9d09446ba36664e1bd17e79c6bb81a2
+SHA256: 5165b6457b9f4fbffbdf853ed67ea95b74d3dd0c631e7c381e39fe1f1392b273
+SHA512: 41a6534516c521af804205ed388570de4ebfb97c585e58834af32e8204ad7fdb67ff976acac88c760a15a95b99f060e0b3b60b76a3b5c67978b66b0b0d4afd9e
+Description: Layout your icons anywhere you want!
 Name: Griddy VH
-Author: mikifp
 Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.griddy
-Architecture: iphoneos-arm64
-Version: 1.0.3
-Section: Tweaks
-Maintainer: bvn repo
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.griddy_1.0.3_iphoneos-arm64.deb
-Size: 31994
-MD5sum: 0ab6d4ccc99f34f9be6b858d66832918
-SHA1: 394086ef06c33a0189f6bfe11905fbc8b91fdb16
-SHA256: 746a562df8a7940104951cd731d46b705587ed4b498fd37da5d37fddae2a2510
-SHA512: aab33813871f17c80b843f07ceceb617a786ba34245c768490bbdaf086fac43b962d6ac8c6ddadf996a2bd4d558fdfa1efe257317e49392beb47c3218a4d6574
-Description: Make your icons hit the griddy
-Name: Griddy (Rootless)
 Author: mikifp
-Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.griddy
 Architecture: iphoneos-arm64
-Version: 1.0.4K
+Version: 1.0.5K
 Section: Tweaks
-Maintainer: BVN Repo
+Maintainer: mikifp
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.griddy_1.0.4K_iphoneos-arm64.deb
-Size: 36100
-MD5sum: 69404ffa05eabd1cb1e5c806a2a5e6a6
-SHA1: f2b61951700c1a24f857782a92cc230041cb6476
-SHA256: af04391d6bbdeafe955422b91155503876c02ea7c9c900f83fc428427824d41b
-SHA512: 58016af7b5dcf9b1db6148689e70ea148b49d05c4bdaa43f4e38770a4d08210f889de834b0ac4474d2678ab20da386034663c861cef6b84c20955a84bb5351af
+Filename: ./debs/com.bvn.griddy_1.0.5K_iphoneos-arm64.deb
+Size: 35998
+MD5sum: 5357c7855524e171660196f339b4aa1b
+SHA1: 32777ad8a59a7e7b10e1095075049fb8d7c9e539
+SHA256: ccbd0226327d1c75e511345e583f2fc59327e0f85897c583a6c05638905209a2
+SHA512: 69c9742910eae8c7b31d26d83e4dd5ca082f0798dd2e79efdcb9837fa9ec9fe3112bde1ba3e99557b2284dab8568f72195173a3b4fc8bbba8bddcc6941a5e2ef
 Description: Layout your icons anywhere you want!
 Name: Griddy (Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
