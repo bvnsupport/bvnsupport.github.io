@@ -10045,6 +10045,42 @@ Name: Alpine VH(Rootless)
 Author: MTAC
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ango
+Architecture: iphoneos-arm
+Version: 5.5
+Section: Themes
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.ango_5.5_iphoneos-arm.deb
+Size: 66997932
+MD5sum: ce769b1226f881fad8a17aab1d93112f
+SHA1: bca11bd4ef97addca869fec0ee61b96dd12757d2
+SHA256: 5b3fb420cf857d7372f4c744d11bec98e103786b6b3684418c5638e3d75c7982
+SHA512: 52d06f5571b1b73eb5a1146d8ad3ce0c839352acb894e8589e62beb2a680586d90104d423a0fb2c489fb3b50b1372f83331cd3e419d3509a747c1dbc42d9a9ee
+Description: ango is made from mango
+Name: Ango Full Theme
+Author: Max Patchs
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ango.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ango.json
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.bvn.ango
+Architecture: iphoneos-arm64
+Version: 5.5
+Section: Theme Rootless
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.ango_5.5_iphoneos-arm64.deb
+Size: 67004094
+MD5sum: c7ef5bcc63c33a101837324b4666bd49
+SHA1: 30d3646141e01f8ef7a0fab690da34d093be102b
+SHA256: 1a746413d6f9acabc45141cf8d68139d5933b8b44c52f3b8de55e484124b0ab7
+SHA512: b7c20f423bf5e1de2aec406fa2b6079652bb8036f0edf3871b188d74e6d56d74ecc86e59580e4aaffc0c12670c4675f3a8428d5f3c24815474ee217c3b562675
+Description: ango is made from mango
+Name: Ango Full Theme
+Author: Max Patchs
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ango.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ango.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.appaze3
 Architecture: iphoneos-arm64
 Version: 1.0.1
