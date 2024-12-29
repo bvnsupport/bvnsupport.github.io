@@ -1078,27 +1078,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/aimpro/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.aimprorooess
-Architecture: iphoneos-arm64
-Version: 1.0.5
+Package: com.BIENVANNHAT.aimpro
+Architecture: iphoneos-arm
+Version: 1.0.6
 Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 4904
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, oldabi
+Maintainer: Repo BvN
+Installed-Size: 5708
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Filename: ./debs/com.BIENVANNHAT.aimprorooess.deb
-Size: 3248530
-MD5sum: 1cbb2612196cda3b1eb2840e24bf0b47
-SHA1: 259f396fac61955004e678c8042a20918b946e0f
-SHA256: b9ca291113cb24d0fb903b5c9901d68ef26c1ebda707e55e4e957e80c69f600a
-SHA512: 9acdc4f7bb0bff8b5a8405ffc1fa7484ec6c8b9ef5582ab0d5bf075f37b911845d55d9b91ad5307d63f47f02c928d04d05ff487421db35cd0d406162d4fb9133
-Description: Màn hình khoá phong cách iOS16
-Name: AIM Pro VH(Rootless)
+Filename: ./debs/com.BIENVANNHAT.aimpro_1.0.6_iphoneos-arm.deb
+Size: 3007790
+MD5sum: dbb10b97b622485863789b838e6af13d
+SHA1: 3cd7b413b856f456ec2fb0957fb0e80d5faad4df
+SHA256: b3c15ef56d693cc00249beece803b85a73584d66ef31753a09c489647c29f098
+SHA512: 6e4125eaf514a72e2e90d5fb4b1a6424e6ae99795097538bc87ca9d79d1c34d4f28270d9b6a2dd71747d85810d82d97240eac08e35498d2f3fb5cd1342b94f92
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM Pro VH
 Author: alimaulana
-Sponsor: 搬运工
-Depiction: http://support-jailbreak.github.io/infodeb/AIM/?p=info
+Depiction: http://support-jailbreak.github.io/infodeb/aimpro/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.aimprorooess
 Architecture: iphoneos-arm64
