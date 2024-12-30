@@ -14527,6 +14527,26 @@ Name: Stella VH(Rootless)
 Author: yan
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.stella
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.bvn.stella_1.1.3_iphoneos-arm64.deb
+Size: 495630
+MD5sum: 4bea894f8e724fbbe754fb262ed57c0f
+SHA1: eeb5c2fd0b16e45b88eb6f29f1e276fd431c69cc
+SHA256: 5850082050b652fa46259a29040450afce314d1c8c90004a7c9135c11d32649a
+SHA512: e7b6dff1b14ba6129161b909e972e7daa3790e119ee101efea847c39c6b1567b6360834b8e308a17861575abb39aab6253507e905a24f873b6e042b4dde5b8d6
+Description: Hãy để tuyết rơi trên thiết bị của bạn!
+Name: Stella (Rootless)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.strangerwp
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -17759,6 +17779,26 @@ Description: Cask 3 mang tính năng cuộn bảng động đến tất cả cá
 Name: Cask3 VH (Rootless)
 Author: Ryan Nair
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.cask3-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 840
+Depends: firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: ./debs/com.repobvn.cask3-rootless_1.0.3_iphoneos-arm64.deb
+Size: 368788
+MD5sum: 8973958958ae7b5866e5dd647b09cad6
+SHA1: 5f733bd8a014baee2dd8b03b00ef7c6b2f5f52a0
+SHA256: 4a16a3ff2b2a63def0e5b22c082784a83b492aeafa0da40c62109c867f2b31e4
+SHA512: ce193646660d57bb6ec411656bc6af946af7fbb291c7f1803d5c2baa2d33817871be1b63ee0ea440e617769ee8963a9379e687b97709271939a869d8cfb2cca5
+Description: Cask 3 mang tính năng cuộn bảng động đến tất cả các bảng trong iOS 14 trở lên. Đối với  iOS thấp hơn, hãy thử Cask gốc của Ryan Petrich hoặc Cask 2.
+Tag: compatible_min::ios14.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cask 3 VH(Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.ccsim-rootless
 Architecture: iphoneos-arm64
