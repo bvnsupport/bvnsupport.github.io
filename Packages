@@ -12843,26 +12843,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
-Package: com.bvn.lynx.English
-Architecture: iphoneos-arm64
-Version: 2.5.3
-Section: Tweaks
-Maintainer: Bvn Repo
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Conflicts: com.bvn.lynxrootless
-Filename: ./debs/com.bvn.lynx.English_2.5.3_iphoneos-arm64.deb
-Size: 947794
-MD5sum: ec9dc5236b8bbe031dfceb0f668a2e71
-SHA1: e27aaefc8bb57ab08eae6c914de1106cb5f18781
-SHA256: fc0d2881473d50f2cd21b31931b10659af60ec82ff87fdda9b1603ddeecf7232
-SHA512: e004bd2c5cd19d4c3de1803c55362b1a16a0d70d3690e465fb4630cd7b307845097f5735942ac5fa78339b45eee34e61fe1eb25b8c5c0c57828c6e3893c8a382
-Description: Ultimate iDevice Customization for iOS 14, 15, 16
-Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Lynx 2 English(Rootless)
-Author: MTAC
-
 Package: com.bvn.lynxrootless
 Architecture: iphoneos-arm64
 Version: 2.5.3
@@ -12879,6 +12859,25 @@ Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Lynx 2 VH(Rootless)
+Author: MTAC
+
+Package: com.bvn.lynxrootless
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxrootless_2.5.4_iphoneos-arm64.deb
+Size: 1014624
+MD5sum: 7b0e0fbae1624188ec73114dd5e142a3
+SHA1: 95c30ed6c9cb0d3f5fc148a4da632ee01b276ae2
+SHA256: 478f93bfbbc2a54a5d7b4fce01c4de9dd3310cdbd77ffaf39a2211727d69946d
+SHA512: 0644c456766484cefc35000e3b5f8b5f58a642665792634da9fd75eb9f30fce918a4e7701d644be1c5d3bb259b41ca2e9ab8c02d6b6acf47349f9fc52952f089
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Lynx 2 VH(Rootless)
 Author: MTAC
 
