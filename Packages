@@ -1140,6 +1140,27 @@ Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.aimprorooess
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 4908
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.BIENVANNHAT.aimprorooess_1.0.7_iphoneos-arm64.deb
+Size: 2731914
+MD5sum: c34e4d2562a7c75e5f8a5585c02a797f
+SHA1: 8da97a8aef0049eb77591948e1876f94add14126
+SHA256: 5dbdbd3490d96e966215a20792b8996fdcd9301f2478b453d0d0bb4844e73e34
+SHA512: 62f250427f9ee5726f5bcd7710f532c5f6dc461ce31eddf068a4def805499784a26af614de04e07236973e924bd7fb31be1134ee14ea6c6c170378936f123446
+Description: Màn hình khóa ngày và giờ phong cách iOS 16
+Name: AIM Pro VH(Rootless)
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.airaw
 Architecture: iphoneos-arm
 Version: 1.2
