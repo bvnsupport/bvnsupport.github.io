@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"Yan"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/12/2024"
+"text":"7/1/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -83,7 +83,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 17.1.1"
+"text":"iOS 14.0 đến 17.7.3"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.5\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 1.1.4\n\n- Ngăn chặn sự cố có thể xảy ra trong những trường hợp hiếm hoi khi cố gắng khởi tạo lớp tuyết ở Dock"
 },
 {
 "class":"DepictionLabelView",
