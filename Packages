@@ -14585,6 +14585,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.stella
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Bvn
+Installed-Size: 1328
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.bvn.stella_1.1.4_iphoneos-arm64.deb
+Size: 487620
+MD5sum: 48516d754f12165ebdd34aa4da19bce5
+SHA1: f95100edfeb7be7eccb06fdf09c8c4e260ea0fae
+SHA256: 6f03097417487fbb2b8de3283d4e7bdd1aa1db1253cff347abadb9afe27bce18
+SHA512: 9c7740f1b45452c134014cc3cf91ba4b011aaa67f074c8f1db566c39ee64863cbe609ea7a0de79874abe556cab7dbd49067faef94e888bc7ce8b4a2c99cc5fe2
+Description: Let it snow on your device!
+Name: Stella VH(Rootless)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.strangerwp
 Architecture: iphoneos-arm64
 Version: 1.0
