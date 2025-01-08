@@ -10435,6 +10435,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: raul saeed
 
+Package: com.bvn.bhtiktok++
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok++_1.9.3_iphoneos-arm.deb
+Size: 328126
+MD5sum: b8fa174c8fff8f12e2d4025a25187428
+SHA1: 13be92ef39c23dc3d3c1e8f5cd7e7abf382c7fca
+SHA256: 04fdfef8cbc42eee1b20abbf9e582eada8608b502a04d81c811a63e4848548e1
+SHA512: 87e38e4fc9762ed3e16332e8e5ea3793900fd838d03724d28a07047d9e67bea479190171694041fa8c70a622fcd53c8531201297346970119225e83a7c78f047
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++ VH
+Author: raul saeed
+Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package:  com.bvn.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok++_1.9.3_iphoneos-arm64.deb
+Size: 328154
+MD5sum: 15a56529318ef9535b956f44cc8347cf
+SHA1: 2b0334e42cb1f0ab7edcbd2186d667e8ede93a45
+SHA256: a57ad9498f56a0aac3c048f55963353c677ca77f0a0cfe9dca124a1786b6a002
+SHA512: cd0fb1bb3b67ca08ffd23d5239daffa0ccf9c880cf9bd2405129abe9136ef16156652098e180e6073fd25710566a6397619f15f7d09e6399daaa9e95115d2c86
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++ VH(Rootless)
+Author: raul saeed
+Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.bhtiktok
 Architecture: iphoneos-arm
 Version: 2.3
