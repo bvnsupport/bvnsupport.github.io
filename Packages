@@ -2261,6 +2261,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.carbridge13
 Architecture: iphoneos-arm
+Version: 2.0.14K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.BIENVANNHAT.carbridge13_2.0.14K_iphoneos-arm.deb
+Size: 1875284
+MD5sum: 62ff4d6035930e0628d2b388bbd8e24e
+SHA1: 20542f593ec83e7a01a3f045aff0140e2231bc3f
+SHA256: 25d55971f443232d676b4da93dce94967c629b6f875020947fbfe5050c5ddb36
+SHA512: 5b027754e9a08dfef63a651b9e565e822f324770edf477bdb510635c0202c4b63180aac55f3b159724c408286bd5dff2185fb26cd459b22d253004bdae798171
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VH
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.carbridge13
+Architecture: iphoneos-arm
 Version: 2.0.9~1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
