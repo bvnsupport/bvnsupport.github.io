@@ -16957,6 +16957,26 @@ Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.6R
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.6R_iphoneos-arm64.deb
+Size: 19688
+MD5sum: c72a762fe98354d224e560cc62f62e57
+SHA1: 5f79c4a3a73bd762f754f163060c11acc55fc1ac
+SHA256: 03349f7542aca3bd519d69a75f7bfa8ec31c7ea39af23635a0cc6fa35c0a9cf8
+SHA512: aa17cd2e073f56222da19f1360461d21b4d271126d2a789d4c8490048c2a9498b946f6e002bb1d1e3edfeea4047f071e58bc84ed7a6180f92d1e5755cd3290c5
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler (Rootless)
+Author: ichitaso
+Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
 Package: com.icraze.hestia
 Architecture: iphoneos-arm
 Version: 1.7R
