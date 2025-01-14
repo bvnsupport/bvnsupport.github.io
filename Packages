@@ -12657,6 +12657,45 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/KineMaster.json
 Author: Dell <dvq273665536@gmail.com>
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.lastlook
+Architecture: iphoneos-arm
+Version: 4.2.2
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1331
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: ./debs/com.bvn.lastlook_4.2.2_iphoneos-arm.deb
+Size: 638734
+MD5sum: dde41335a6750ab3149cf1572589cd8d
+SHA1: 69954e7276181c4c1264e32b1c446278891840d2
+SHA256: 58784085a00f4ebacb4c3b067bbffb6360be35f5742d1dc9eb3f333d44cd62e5
+SHA512: 0f82870e47cf8320e28f25e72658d4bdaece9fba6bd4c688ba9d725d841067281d6924b2cff5079c62f9764a75b91c923d77b8e09e5758bebbda38a4b79eeb50
+Description: A last look at your Notification Center when you lock your phone!
+Name: LastLook VH
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/LastLook.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LastLook.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.lastlook
+Architecture: iphoneos-arm64
+Version: 4.2.2
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lastlook_4.2.2_iphoneos-arm64.deb
+Size: 616404
+MD5sum: 26a7fc75a7e935e3e85f346881b7233d
+SHA1: 05a3e24d6b6fed3919d4e6ad4aae8c0cbed8273a
+SHA256: 579541f0ac66482a6dec33a26434c3e7db8034be09d1bba33e5990f1d498d59b
+SHA512: 9c5d32c714992ed6385940c2c4f7835bdecec204a6e75e4ac8e1b5c5d6a3ca962341b5670ae76040fe0b18b32c09b4b6973b821340fa16bd70e4904d1093023c
+Description: Một tinh chỉnh AOD mang lại cảm giác nguyên bản với khả năng vô tận!
+Depiction: http://bvnsupport.github.io/infodeb/Html/LastLook.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LastLook.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: AnthoPak
+Name: LastLook VH(Rootless)
+
 Package: com.bvn.latchkey
 Architecture: iphoneos-arm64
 Version: 2.3.4
@@ -14725,18 +14764,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 5.8.2
+Version: 5.8.4
 Section: Tweaks
-Maintainer: Eevee
+Maintainer: Bvn Repo
 Installed-Size: 1588
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: ./debs/com.bvn.spotify_5.8.2_iphoneos-arm.deb
-Size: 553666
-MD5sum: a3a3ee3eb62c82b1910575aa71d42607
-SHA1: 13ffdc0f635515f69e154c0f25ff52d44b6ac609
-SHA256: 9aeb238df5a8cb09b3d04f204f910cd2b5c952c79ab00f1361def511756baa8b
-SHA512: 2de6cc6e5314f151f6e484f0714b2fae384a8abbfda68d400fb2d07ff4fd7dbfafede4f8bed0f35e66622f202c9e7d8b9a494918f2cbd3655456d7af33385893
-Description: A tweak to get Spotify Premium for free, just like Spotilife
+Filename: ./debs/com.bvn.spotify_5.8.4_iphoneos-arm.deb
+Size: 555988
+MD5sum: 9d16c811dad58fcb017670ccf8c94173
+SHA1: 939ae45614a21c2d4615a52a579fdade6e91f8ec
+SHA256: c170790de78865e6101f7c37e77ebb84c897e5541d2d3f9db7fc8e24476f3601
+SHA512: e591fd3c9b94fd8d725d0e850b2d351ee623b0835b0b5b3cf5b2b3e1c0a1c8b505ad0f624b98330a8408822941594c62de83b8b5e4821eb08acfb3b4a7d0d7fa
+Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
 Name: EeveeSpotify VH
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
@@ -14745,19 +14784,19 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 5.8.2
+Version: 5.8.4
 Section: Tweaks
-Maintainer: Eevee
+Maintainer: BVN Repo
 Installed-Size: 1588
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: ./debs/com.bvn.spotify_5.8.2_iphoneos-arm64.deb
-Size: 553442
-MD5sum: c539ce349dd76d26dff3fe5fff5c66b4
-SHA1: 74971fab8ad2250ea9842e527ae91dca43acdc8b
-SHA256: 1245013a0adecca1d5bc05bcebcf16c6a805d20ecea1c06be6693150078a9cbd
-SHA512: d0d45342472579b7c6c27ba4980491288faae76b837bc219fb20b6a1c6c3322a13877956402c3b67755ea54c6ef7df52fe6a41a01d160db784943c6873afb75f
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify VH(Rootless)
+Filename: ./debs/com.bvn.spotify_5.8.4_iphoneos-arm64.deb
+Size: 556082
+MD5sum: 85e72f776098073775a879cfc0f06b91
+SHA1: d1c311f9de82476722a9334a88ed619f54a9c99d
+SHA256: c9cac913ba2394a63a6f88a57ca2944a9cabc887addb39a84a22adacf9496427
+SHA512: e05c1d73337871035ebad843ec81fe4240a0b17fa2b1d04e3b08a14e34475e5a920d422ebe7d69cc2d83b6247f9630e921f136778253535e1547d428197af15a
+Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
+Name: EeveeSpotify VH (Rootless)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
