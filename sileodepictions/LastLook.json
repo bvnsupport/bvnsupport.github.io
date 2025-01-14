@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://bvnsupport.github.io/features/Eevee.png",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"EeveeSpotify\n\n- Tinh chỉnh Spotify Premium miễn phí giống Spotilife\n\n- Tinh chỉnh hiện có thể chặn các yêu cầu của Spotify để tải dữ liệu người dùng, giải tuần tự hóa dữ liệu đó và sửa đổi các tham số trong thời gian thực\n\n- Để kích hoạt chế độ Premium bạn cần vào cài đặt của EveeSpotify mục Patching Method và tích vào chế độ Dynamic\n\n- Tùy chọn Không kích hoạt Premium [dành cho người dùng có đăng ký Premium đang hoạt động]\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
+"markdown":"LastLook VH\n\n- Tinh chỉnh này làm đẹp cho Màn hình khoá \n\n- Hiển thị một màn hình cuối khi bạn khóa thiết bị.Bạn có thường khóa điện thoại\n\n- Bạn có thường xuyên khóa điện thoại của mình sau đó mở khóa điện thoại ngay lập tức kiểm tra chủ đề thời gian nếu bạn có thông báo hoặc quản lý?\n\n- Nếu có,thì LastLook là dành cho bạn! Hữu ích, cái nhìn tuyệt đẹp mỗi khi bạn khóa điện thoại, nó sẽ hiển thị nội dung từ Trung tâm thông báo của bạn trong vài giây, khi bạn làm mờ hình nền để có một cái nhìn rõ ràng.Và đối với những người bạn có cơ hội có màn hình OLED, nó sẽ còn đẹp hơn nữa!\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,19 +21,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/3.png",
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/4.png",
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -62,9 +62,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Eevee"
+"text":"Anthopak"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.8.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"4.2.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -83,11 +83,11 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 16.x"
+"text":"iOS 12.0 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Bvn Repo",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,11 +100,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 5.8.4\n\n- Cải thiện khả năng tìm nạp lời bài hát LRCLIB bởi @Mapleshade20"
+"markdown":"### Phiên bản 4.2.2\n\n- Sửa lỗi\n\n- Thêm Tiếng Việt"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN Repo",
+"text":"Copyright © 2025 by Bvn Repo",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
