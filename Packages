@@ -2009,20 +2009,22 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/BlackBerry/?p=info
 
 Package: com.BIENVANNHAT.blockupdate
 Architecture: iphoneos-arm
-Version: 1.2
+Version: 0.6
 Section: System
-Maintainer: Biện Văn Nhật
-Installed-Size: 123
-Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.blockupdate_1.2_iphoneos-arm.deb
-Size: 35048
-MD5sum: b35cb107beba7304200a6b1049e640c2
-SHA1: d3f62d4b14c34d2c22051adb3bdabeb475ae1aac
-SHA256: f7ef8c47beb6196c0e9efb5d5734c0cd9031734151877aad75ffb5c131966c7e
-SHA512: 5b5dd5a7a34246c4fba3438f517f9c6e00db4075932626bd25c772da76ee30aaaea6bc39a7b54a77620d894019c086d286ae4ba809dd36da4efe1e828c943fb6
-Description: Xoá Và Chặn cập Nhập Phần Mềm,hỗ trợ ios 9 tới Ios 14.4
-Name: Chặn Update PM
-Author: BIỆN VĂN NHẬT
+Maintainer: Bvn Repo
+Installed-Size: 200
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.blockupdate_0.6_iphoneos-arm.deb
+Size: 31722
+MD5sum: b3bc6be25612c77f7476b10b755fb16f
+SHA1: 93dcc6a38617fd661c81ebb3107585856e923b66
+SHA256: 31d2d7a8b11a05ddd1364a670734926b7c18bfd36f239e44bcd395ec61e79483
+SHA512: 2c6240fe26fe030cbbad53c55d430077e2f9fedde748fffde471f7e8d27086e5f99eb7f9c810f9e39e0010e39090892a7bd483016739978308c070a1e53054b9
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler
+Author: ichitaso
+Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.BIENVANNHAT.bypassJb
