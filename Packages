@@ -69,6 +69,44 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: bvn.repo.designer
 Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/bvn.repo.designer_1.5.1_iphoneos-arm.deb
+Size: 8169568
+MD5sum: 9a3fed84f0314f7861ac81dc36f2a8f1
+SHA1: 98f889879eda9341b4673a31e5a434b55a713940
+SHA256: 087edd6b82da857b397f21e5df9aae5edc96a902a560d3be0c714370c0a32a1f
+SHA512: 3f4f6ec658e1ae07caeff352a36b9e39b597ff49b5d648d502f5ee363216b051768cba5a8b8558d8712603252c48c7112c5064d55a311edf503dba20e665d296
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Designer VH
+Author: JunesiPhone
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/bvn.repo.designer_1.5.1_iphoneos-arm64.deb
+Size: 14082928
+MD5sum: ac2c2819444c89df9a326f150869e5d4
+SHA1: 1b8699cd7b60b892925f05da07e2286fa6abcdd6
+SHA256: 9b04c712340fd826b5ace01f29dd93c0695a4b51eb6523005e0822cf895c7f5c
+SHA512: 68d841cb72c1e7f012f0b478cb9fa04232a67247df36a0e4ed9c849509f66ea1e8d3448ded7f3cf5fb295590875e274caa670609d1358a371e76d2651a57971c
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Designer VH(Rootless)
+Author: JunesiPhone
+
+Package: bvn.repo.designer
+Architecture: iphoneos-arm
 Version: 1.5
 Section: Tweaks
 Maintainer: BVN Repo
