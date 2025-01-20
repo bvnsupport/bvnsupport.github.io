@@ -9266,6 +9266,29 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
+Version: 1.12.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 196
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.bienvannnat.youpip_1.12.2_iphoneos-arm.deb
+Size: 32460
+MD5sum: 1b556ec500cfd1c336727b69688462dc
+SHA1: ba49a14e3e05423d5957f892f8b0b9cb8ce6e7a9
+SHA256: b43f24ad47f8190984449d62ce660a48f3b3641f4dc0564d0659b352f170590a
+SHA512: ee6783a6ed0a60bccc1d98acee097421bb68723177e260ad54555d0bef8e42424a6a9782ed5d6d8f1dd155ea8c857d20705061013fb353140669f14779c1be8c
+Description: Enable native PiP in iOS YouTube app.
+Name: YouPiP VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
 Version: 1.8.18
 Section: Tweaks
 Maintainer: PoomSmart
@@ -14299,6 +14322,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.9.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 824
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.rl_1.9.5_iphoneos-arm64.deb
+Size: 379958
+MD5sum: bd910731f24151cb90593fda45e44206
+SHA1: b0fd5b27474cf4caf217e081e26ba9eabebd3057
+SHA256: d3c39d98fe50c8adf336f2dc029e17a3055a3f42798702f94902448a34607152
+SHA512: f4d9d036eba847d84e8979917169d325803d569b3d0c51754bf1295274904641cd5bc45cd571f1623e1c042091c92c1b75db4890b408740d7103bdc6c45d3218
+Description: Safari Essential Features
+Name: SafariX VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm
 Version: 1.1
@@ -17772,6 +17815,46 @@ Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.1.1_iphoneos-arm.deb
+Size: 17270
+MD5sum: 3f21ebf449e5e0db68cc4e5ef4c8a590
+SHA1: c9f01ab4dfc7f10e9fa0e861a6bc665dbca90f6e
+SHA256: 4337c34ffd907b9c608a135df65e5a87e3531d80b0d1c80c20d8697b21e500f6
+SHA512: 4d62a19286e9282f9b1eba7f2b1a57ea77ad92066e63e3aa9caee1b93b67c10ba1ff2f435e8c8896bea65263dc62c82275b6a02a31c613155a75b8d85c65b763
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.1.1_iphoneos-arm64.deb
+Size: 17200
+MD5sum: 23b3db8e3ec88b6aa4540fc7f1665cd0
+SHA1: a24f4a84ffed0466330ddfd3358a5e6fe371bf9d
+SHA256: bb7eedb8ce6a792eff67dcbaa54734abe785e022b0cf4a635d075fc9b893014c
+SHA512: 005702ed04830df9477268eb993cf6c5c71e066521708d67c4ebbdfb55f2f0535073caaace6537375430a641f7bd57b020bea10b98ca2339a665243ceefbf5ed
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.reobvn.choicy
 Architecture: iphoneos-arm64
 Version: 1.4.10-3
@@ -18573,6 +18656,29 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Tags: compatible_min::ios15.0
 Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.12.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 212
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.12.2_iphoneos-arm64.deb
+Size: 32360
+MD5sum: 070d4f13129253d81b27ebb28540da4a
+SHA1: 948d93bb85335869bfa157b7c3dc4272fa3e1a5f
+SHA256: 158bab8b867d90f8cf561eeb29b18d0ca8cec549df62e14d88604424ddec0d14
+SHA512: 33ef492ed90b55d9f8633c036e268357a8a53edafe0a607c3d0374b04aa07f058c5a8fb4232de1e23fb5124b28f35d49043222645c4eaeddef6d2ceb0b091946
+Description: Enable native PiP in iOS YouTube app.
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
