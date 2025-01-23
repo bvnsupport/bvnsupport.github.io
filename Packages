@@ -10123,27 +10123,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/VivaVideo.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VivaVideo.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.bvn.Wink
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 160
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.Wink_1.0_iphoneos-arm.deb
-Size: 34244
-MD5sum: 971ba5cd9d65834423e90b833f5977f7
-SHA1: 7523e67bb4b1eba5d39d8b75a4881fa50605df46
-SHA256: 12a0305eeb1ac78ea4622655a63cd4bf813b74970f67f89646cbea3125c5cfd2
-SHA512: e9e4f6933d58e490f573cc1c0c588b0154a417540e0ef90808ee94702ef90797fecc85f87a5f00653d192be590c55fe244446b3d6deb0f27a57ac150a16ad462
-Description: 
-  • Mở khóa tính năng Vip cho Ứng dụng Wink
-Author: unclear
-Depiction: http://bvnsupport.github.io/infodeb/Html/Wink.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wink.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: Wink Vip
-
 Package: com.bvn.adguardPro
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -15603,6 +15582,46 @@ Name: WhoozItPro VH
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bvn.wink.vip
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.wink.vip_0.1_iphoneos-arm.deb
+Size: 4244
+MD5sum: 6c955a45bdf8ec9ec81c9e56e43e8c55
+SHA1: ded85fa2fd897330e51409a076e9e05a63886d81
+SHA256: 38c9cc29bf7af176cd3f38b9d603f459b522d34bd1c428df71e4649126ccc62f
+SHA512: dd18b6f525a28596af67a8b988b590087165d066b7d22af9e5b231878430c801a5e1c5ef4e8040ba723433562784ee4588232a0cc213b08c2e46c265e376b639
+Description: Wink unlock VIP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wink.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wink.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+Name: Wink VIP
+Author: iOSign
+
+Package: com.bvn.wink.vip
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.wink.vip_0.1_iphoneos-arm64.deb
+Size: 4566
+MD5sum: dec485eda927bf6357cab096ffc858b5
+SHA1: f5c5c1f194225f684166a3f953026902f0bebb90
+SHA256: d3457f4f8950403c975bcf92da7c8a69a3e01f9f293d304f083abb10cc75862c
+SHA512: 11b19343059dd06e4e850ee0e9d84b6e866d3f503d2a2c1a68f2097d68d592fd5f2f92a79f3bfe6b45490b139fc365c2181f6a29887940ed5eeae1d3d19fe1ab
+Description: Wink unlock VIP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wink.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wink.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+Name: Wink VIP
+Author: iOSign
 
 Package: com.bvn.xingtu
 Architecture: iphoneos-arm
