@@ -8575,6 +8575,28 @@ Name: Shadow VH (Legacy)
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: jjolano
 
+Package: com.ali.aimpro
+Architecture: iphoneos-arm64
+Version: 1.1K
+Section: Tweaks
+Maintainer: alimaulana
+Installed-Size: 4960
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Replaces: com.BIENVANNHAT.aimprorooess
+Filename: ./debs/com.ali.aimpro_1.1K_iphoneos-arm64.deb
+Size: 2793446
+MD5sum: 43cc413c978b5b51b2cc3b4864fa78f2
+SHA1: ffc6f9304b4e344bc704d1ce6c0b9b5e7245177f
+SHA256: c3f6dae9f55f4afe1c652418d23b8b4b0eb6531f24efeb5f076070b702cfb2ad
+SHA512: b4fe8cc02b9a37e71ee5f046567ca7055f6ae6e0375680de126621967f308221f036fdc2cf200f24700a3c90fd58154b6188d9953d2f6574a511c9e1ba5871b8
+Description: Màn hình khóa thời gian và ngày theo phong cách iOS 16
+Name: AIM Pro VH(Rootless)
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.betterccxi
 Architecture: iphoneos-arm64
 Version: 1.6.0
