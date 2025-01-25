@@ -13472,6 +13472,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplay
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
 
+Package: com.bvn.nointerruptwhenplayingmusicic
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.nointerruptwhenplayingmusicic_1.0.2-1_iphoneos-arm64.deb
+Size: 8244
+MD5sum: bec83a38ca31d711be3a004972bbe9d3
+SHA1: 76c1b0000cc2f2e8647dbc8a68a454eaec3280e3
+SHA256: 31c57968ad70d0596a2b302421cd3185aaa8e7076246040bcb0f52e6c5a2bef5
+SHA512: 41b63ddbd483616ce5035cd1d6cf57f6c377a3cffa8dbe9240f9dc02f3b75e705dd76e89b62d9a6ad67ddeab790c635fbd079b115d3de992a36ad9fb260344fb
+Description: Thông báo im lặng khi đang phát nhạc.
+Name: NoInterruptWhenPlayingMusic
+Author: Ginsu
+Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.nopastealerts16
 Architecture: iphoneos-arm
 Version: 1.0.0

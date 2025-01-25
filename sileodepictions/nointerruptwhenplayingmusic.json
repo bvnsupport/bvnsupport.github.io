@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"Ginsu"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.2-1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,16 +61,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"24/6/2024"
+"text":"25/1/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15 đến 16.x"
+"text":"iOS 15 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by BVN Repo",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -83,11 +83,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.2\n\n- Hỗ trợ iOS 16"
+"markdown":"### Phiên bản 1.0.2-1\n\n- Sửa lỗi vào chế độ an toàn trên iOS 16"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by BVN Repo",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
