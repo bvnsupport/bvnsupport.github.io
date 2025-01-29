@@ -7500,6 +7500,26 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.7.7
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.7.7_iphoneos-arm.deb
+Size: 6042
+MD5sum: c29ad3f28c9cc1414e6643920d059e0f
+SHA1: dcb2388f475f71f4c1823762d481116b5990ea5b
+SHA256: 9b3809de86cb9bb7b90055c3d4f9725b9729f4e82fd4c265ce575c79e242a5b7
+SHA512: 5cd2dfdc4dcecee43dfe4d0ea33a0993c961008bf544a025778b53c6d1728c517e1fcc4f2f998608a962924291dc8758da4a50bb9ca429bd2b75a6bc71e339b7
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.zephyr
 Architecture: iphoneos-arm
 Version: 1.6.4-1
@@ -8577,6 +8597,28 @@ Author: jjolano
 
 Package: com.ali.aimpro
 Architecture: iphoneos-arm64
+Version: 1.1.1K
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 5080
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Replaces: com.BIENVANNHAT.aimprorooess
+Filename: ./debs/com.ali.aimpro_1.1.1K_iphoneos-arm64.deb
+Size: 2793042
+MD5sum: 645cfee9efbe838a9555b6ad4384134d
+SHA1: 478fc55fc307923e04ab0d535fa096b2e68a8a5f
+SHA256: 8eae8f6e32b692243eac4010ed782176db6b5e753abc91c20036e648ca89c420
+SHA512: 019cfaed43ce3f3f15248dc9f2bdf3427f3f26fbdc44b4defdba63be53aea2afa05ac6845f352a9d9b36987ce71703044f6386e18e4aab91963188a1a65ccc4c
+Description: Thời gian và màn hình khoá phong cách iOS16
+Name: AIM Pro VH (Rootless)
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ali.aimpro
+Architecture: iphoneos-arm64
 Version: 1.1K
 Section: Tweaks
 Maintainer: alimaulana
@@ -9288,7 +9330,7 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
-Version: 1.12.2
+Version: 1.12.4
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 196
@@ -9296,35 +9338,12 @@ Provides: com.spicat.youpip
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.12.2_iphoneos-arm.deb
-Size: 32460
-MD5sum: 1b556ec500cfd1c336727b69688462dc
-SHA1: ba49a14e3e05423d5957f892f8b0b9cb8ce6e7a9
-SHA256: b43f24ad47f8190984449d62ce660a48f3b3641f4dc0564d0659b352f170590a
-SHA512: ee6783a6ed0a60bccc1d98acee097421bb68723177e260ad54555d0bef8e42424a6a9782ed5d6d8f1dd155ea8c857d20705061013fb353140669f14779c1be8c
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP VH
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bienvannnat.youpip
-Architecture: iphoneos-arm
-Version: 1.8.18
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 192
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.8.18_iphoneos-arm.deb
-Size: 31978
-MD5sum: 0bfabaf12d7a7e67e5802c5d433a8c29
-SHA1: 186620a7cb35dfa7305cceae17b2dcdaf302d4f3
-SHA256: 2230ad3ad33ac917140eb3b19f0ae66170b8fa75fcf000d02358eb077a10b3ae
-SHA512: 5fcc11ae7f8b9fe4553874e86b7fc65a352b7231e44e5e4b7854ea85e20f59e96f5a8548212d49a4a5c54538b0b4e811f452c23e0d2d5f1bce169e335fae208f
+Filename: ./debs/com.bienvannnat.youpip_1.12.4_iphoneos-arm.deb
+Size: 32372
+MD5sum: 83674a7b3c0e44c947579e8f6f851129
+SHA1: e472d51a935887ccce402d5965e3950bc21a695e
+SHA256: c557c02854481cf294174714c35f1844688fe043055083e630bfe974a0cfd856
+SHA512: 0c0f140896d9035d10001e8f5fea8ee803d67069b03bec4feb58c7dd4487724bdaa3df7b796aa5788980bf1fadc0b43cd89e778506357bd304787da9598ba14d
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP VH
 Author: PoomSmart
@@ -14363,6 +14382,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.9.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 908
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.rl_1.9.7_iphoneos-arm64.deb
+Size: 388530
+MD5sum: bc64ca9024a1d30a62f787099ad380d9
+SHA1: 769590546d251fbf84b469be4287ed833644c060
+SHA256: f8f194b7377b33da5bcb9ed94a0b42fcde97496c11d9c48203991e9f529fb8a3
+SHA512: 53dd97b6b398b6bf4db2b8c81e6ccc2a715b3f356c0e053275f4ec1ae14ac22bdf60901c6b50e33d2b7ec318ecedb99d2eb8092421660afe4269a073358e9334
+Description: Safari Essential Features
+Name: SafariX VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm
 Version: 1.1
@@ -18792,7 +18831,7 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
-Version: 1.12.2
+Version: 1.12.4
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 212
@@ -18800,36 +18839,13 @@ Provides: com.spicat.youpip
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.12.2_iphoneos-arm64.deb
-Size: 32360
-MD5sum: 070d4f13129253d81b27ebb28540da4a
-SHA1: 948d93bb85335869bfa157b7c3dc4272fa3e1a5f
-SHA256: 158bab8b867d90f8cf561eeb29b18d0ca8cec549df62e14d88604424ddec0d14
-SHA512: 33ef492ed90b55d9f8633c036e268357a8a53edafe0a607c3d0374b04aa07f058c5a8fb4232de1e23fb5124b28f35d49043222645c4eaeddef6d2ceb0b091946
+Filename: ./debs/com.repobvn.youpip_1.12.4_iphoneos-arm64.deb
+Size: 32244
+MD5sum: 1def82de23dd6dada995bd28c65c336e
+SHA1: fedff91f262e07bad12db23d9f70573843a08889
+SHA256: 75617dc6f792233491b9b9b286dcd2c85efbe7c54ce6152c0c85e7c2c795d013
+SHA512: 25dd37dc585a00dcd59f5cc7c5db3bd2d4792e50d698e92a6f41ab35f6c99414bff90069492639d418cb6d6bef5ac5b0e725c6c81e39a018eb1018cdd73d8f91
 Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP (Rootless)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64
-Version: 1.8.18
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 192
-Provides: com.spicat.youpip
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.8.18_iphoneos-arm64.deb
-Size: 31990
-MD5sum: e2889ef53260276d1076afdf6515f1c4
-SHA1: 6f8920b4433d8736d7976bee20ce4cb908896d93
-SHA256: 92ce69c0d9614cc4b996912dadaad0bf5dbb6b8c0e2a6049476f6f8e826af325
-SHA512: 91c834de38fa6bc696063f43ef9fc1eb692f5c6f9cfb2c3ecb1bf56cce125bdf224e128f45d5aa3b1537eedc8862da7e343e911027e5efa28c9ce533643b7fb2
-Description: Bật PiP gốc trong ứng dụng YouTube dành cho iOS.
 Name: YouPiP (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
@@ -18849,6 +18865,26 @@ MD5sum: 2ecd5d2f3b35674967ac481304a5b552
 SHA1: a4a2bbf78b2aa6305955bc5ef0b27e48224488d8
 SHA256: 522571ffd5ff381c74001e7a2be6c389ac834a2a4529db7e9bba8fd4fa15037a
 SHA512: b593afb380cdc5bfb486ba11654bd336f802319a85ec3ad2e3e62024389693bc7decaffeb3e7427f0e8750bcecec0d980545dd60a62877943b4883db8b8d387f
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.7
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.7.7_iphoneos-arm64.deb
+Size: 5976
+MD5sum: 897cec35f2fc0908d3160759312749a1
+SHA1: 40ec1103a52a588625a196dd78e34b6622c2b7f0
+SHA256: eaf1d800216130c3c80d020cb8d0b2cd25196ff5562ff10299c12632d2bbb9a4
+SHA512: 184f061b206cdea0a797925f7f210959d269188d7abd8318f45289d4440856158a50c70e0a44b0ee5867b8c4382ebd018b9916ae13ef8a05017985e712fcb205
 Description: A lightweight YouTube improvement tweak.
 Name: YouTube X (Rootless)
 Author: PoomSmart

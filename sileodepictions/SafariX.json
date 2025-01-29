@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Oxkuj"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.9.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.9.7" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/1/2025"
+"text":"29/1/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -96,7 +96,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.9.5\n\n- Đã thêm tính năng tự động chèn JS vào các miền đã chọn với các bản sửa lỗi đã biết cho một số trang web [ví dụ: sự cố cuộn ChatGPT]"
+"markdown":"### Phiên bản 1.9.7\n\n- Đã thêm tùy chọn chặn các tab mới mở từ một số miền nhất định\n\n- Đã thêm độ trễ tiêm JS (0 đến 5 giây) mặc định là 2"
 },
 {
 "class":"DepictionLabelView",
