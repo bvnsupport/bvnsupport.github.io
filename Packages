@@ -10549,6 +10549,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/backgrounderaction15.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/backgrounderaction15.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.badgebreathing
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.badgebreathing_0.0.1_iphoneos-arm.deb
+Size: 6474
+MD5sum: b6b5d059f23843255bf02c460caa5651
+SHA1: 0fbb0bee2cd44e6e34173fb1d95e56075db1da5f
+SHA256: 5c776f3d0dc10dcc7be5327c8264669233049df99806d0b3590304bafd14ec9e
+SHA512: 813a6b9ba3b5781dcbcda7b3c4b25237605bacb08602ab5671a35526dc7f2f0953d3996565c751cfe4fd66b7915e390f304a1624e8a6345a59e493ee51780f78
+Description: An awesome MobileSubstrate tweak!
+Name: Badge Breathing
+Author: Phuc Do
+Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.badgebreathing
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Phuc Do
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.badgebreathing_0.0.1_iphoneos-arm64.deb
+Size: 6594
+MD5sum: d4f941804d4476c6c6e84407244258f3
+SHA1: ff744a1279f1c003d4f7dccfe26dee19d6e3cb88
+SHA256: 812fb6148144ddb757c5124df6fff87ea003497969b4a05d08079d49853dfea7
+SHA512: 4321b194bf7ca46112f147174ad7fa79c12569af45bf5a9e947be435a36e2d518d7b5352c6fe38482f62f6aefbf762b8a533fb567dd25a8fd16d40bcdd458af6
+Description: An awesome MobileSubstrate tweak!
+Name: Badge Breathing (Rootless)
+Author: Phuc Do
+Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
