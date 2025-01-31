@@ -11665,6 +11665,23 @@ Name: Disable Screen Time
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Hitori
 
+Package: com.bvn.disablethermalmonitord
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: BVN Repo
+Depends: plutil
+Filename: ./debs/com.bvn.disablethermalmonitord_0.1.0_iphoneos-arm64.deb
+Size: 1452
+MD5sum: 2f05488166027684624886cede7a2997
+SHA1: 2f20000caed6655cea6e235b58dcccd78c0288a2
+SHA256: a84be06bbfc49e1093bca35d55e17449e4e1c9c83961c4ec6ef449bcea2008ec
+SHA512: 5c71a68b95f17651199e982827d1b8302c754a349e7f031905dfa03b6a720fb65452c41c30d0c3dcb85e22ca7adc69c663ba42d51c99621c0af460741adbe958
+Description: Vô hiệu daemon giám sát nhiệt. Ngăn chặn điều tiết và làm mờ màn hình điều khiển nhiệt độ. SOCs A15 trở lên kết hợp các cơ chế kiểm soát nhiệt độ bên trong và chỉ vô hiệu hóa trình nền này không hoàn toàn đạt được hiệu quả mong muốn. ⚠️ Bạn tự chịu rủi ro khi sử dụng cái này. Nếu bạn không biết liệu điều này có lợi cho bạn hay không, thì đừng cài đặt nó. ⚠️
+Name: Disable Thermalmonitord
+Author: zhaonan
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
 Package: com.bvn.documents
 Architecture: iphoneos-arm
 Version: 1.0
