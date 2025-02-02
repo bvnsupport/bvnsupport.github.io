@@ -14012,6 +14012,45 @@ Name: PlampyCC VH(Rootless)
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.pogr
+Architecture: iphoneos-arm
+Version: 0.4.0~prerelease1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 632
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.pogr_0.4.0~prerelease1_iphoneos-arm.deb
+Size: 111740
+MD5sum: 23586785c0e155ea67809fdf5c7d6b89
+SHA1: 1e76ac1d12a2774404ab734612184297c8ad29d7
+SHA256: 30a8ca8f1776f43d5d42e4c645c27bca3a946046d7b92aace826118627bd29a5
+SHA512: 69bb9881733c6ebfada8084146554a5397dca9e83edbce4fd2c05d2f1a8b946b37f306d7db06694be1c6dcead970306559c34b90fbdc3c3dffa16f75d36103c7
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant VH
+Author: Ruphane
+Depiction: http://bvnsupport.github.io/infodeb/Html/PodsGrant.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PodsGrant.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.pogr
+Architecture: iphoneos-arm64
+Version: 0.4.0~prerelease3
+Section: Tweaks
+Maintainer: Bvn repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.pogr_0.4.0~prerelease3_iphoneos-arm64.deb
+Size: 99694
+MD5sum: f231ebff0bc8d90c505233bfaec0c47a
+SHA1: 9837a92ca1d8c9d402894be5e92d858f535cacf9
+SHA256: bd2047da296c72caaa1ca1daa3d117a00b5848e70edf289443944f726c4bde1e
+SHA512: bb0e38b14f7beabeca32beedbc1e1d47297c0a205767726ee136aceac6f3b7bd9a75fde1af0a0968c713975a6a3357100221ca62c0b221938552239189385daf
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant (Rootless)
+Author: Ruphane
+Depiction: http://bvnsupport.github.io/infodeb/Html/PodsGrant.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PodsGrant.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.popoutbuttons
 Architecture: iphoneos-arm
 Version: 1.0.1
