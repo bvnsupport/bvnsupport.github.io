@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Badge Breathing\n\n- Tinh chỉnh này có thể khiến huy hiệu ứng dụng của bạn trông năng động hơn :D\n\n- Không có tinh chỉnh trong cài đặt,tự động kích hoạt sau khi cài xong \n\nㅤ\n\n",
+"markdown":"PodsGrant\n\n- Tinh chỉnh này cho phép bạn kết nối AirPods khi có thông báo Một số tính năng của phụ kiện âm thanh này yêu cầu phiên bản iOS cao hơn\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,7 +21,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/Breathing/Screenshots/1.mp4",
+"url":"https://bvnsupport.github.io/infodeb/PodsGrant/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/PodsGrant/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/PodsGrant/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -50,9 +58,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Phuc Do"
+"text":"Ruphane"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.4.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +69,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/1/2025"
+"text":"2/2/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Giờ tải lên",
-"text":"10:16p'"
+"text":"22:46p'"
 },
 {
 "class":"DepictionTableTextView",
@@ -76,7 +84,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 17.5"
+"text":"iOS 12.0 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
@@ -93,7 +101,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 0.4.0~prerelease3\n\n- Sửa lỗi"
 },
 {
 "class":"DepictionLabelView",
