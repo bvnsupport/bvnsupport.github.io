@@ -21917,6 +21917,42 @@ Name: SwiftProtobuf
 Author: eevee
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
 
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm
+Version: 1.28.2
+Section: System
+Maintainer: eevee
+Installed-Size: 10056
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.2_iphoneos-arm.deb
+Size: 3018208
+MD5sum: 5831ea4b6e0df073906a342f3ac16e8d
+SHA1: fb0e27b21da1591758f8be5bf1db950e09a608aa
+SHA256: 54e2616d202e10ce08043caf00848748f1153ac9837b1cae968a75139f13e7fc
+SHA512: 671c59e91e6ba8abf75a13d6947af079d4e046729521411c4de073f1d478dbd7b909df183158719216e557ac3b55fef86abe19db975c3209b99e0596a340e6fa
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Author: eevee
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.28.2
+Section: System
+Maintainer: eevee
+Installed-Size: 10056
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.2_iphoneos-arm64.deb
+Size: 3018346
+MD5sum: 7c2b7245ec59d4ea27c3b1225c8a3bba
+SHA1: 96854ad2c4a7b9212f1b6d6fbe10c5bc69fe4f30
+SHA256: ad193717c5ef232c1fd5d86880d52a42fc69ab9a3b28fedc9b15f51e6259dfad
+SHA512: f6a013a9732014a374cae3f2932dffea5d13dd6f3110249102f4ec9e1d385156e4a2e926ab3080b0065ab4556ec30000ec0eae8ba673bf5ea54fc6fcbfdaf3ae
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Author: eevee
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0
