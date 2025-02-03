@@ -15291,6 +15291,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Tinge VH
 Author: P2KDev
 
+Package: com.bvn.touchvis
+Architecture: iphoneos-arm64
+Version: 2.8.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.touchvis_2.8.1_iphoneos-arm64.deb
+Size: 1075828
+MD5sum: 3aab8035e0562fb446adbb31d96b1d4d
+SHA1: 31e9bf158ba64bc0e9a83bd7c8b2f313a6454a7c
+SHA256: 0e5f45d04f651ce29694c0d339c3f283446e112da75f02a87d77b8fc4519b913
+SHA512: 366be2b2eccf0f06ff431bf5959ad6ac0becebbb9e70583a715d4a3198ad5265efe88c05834e5e13d96fc5596efa1a5873c41fd9d51df0427d1c7e1347d2ed08
+Description: Hiển thị các tương tác cảm ứng của bạn! Crack bởi CBZ
+Depiction: http://bvnsupport.github.io/infodeb/Html/touchvis.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/touchvis.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Touch-Viz VH(Rootless)
+Author: Lessica
+
 Package: com.bvn.tudientflat
 Architecture: iphoneos-arm
 Version: 0.0.1
