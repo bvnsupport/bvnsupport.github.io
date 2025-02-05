@@ -1,116 +1,82 @@
-@charset "utf-8";
-
-body{
-	background: linear-gradient(#2d2d2d, #1a1a1a) fixed;
-	/*background: linear-gradient(#242444, #040424) fixed;*/
-	font-family: 'Quicksand', sans-serif;
-	color: #FFFFFF;
-	/*text-align: center;*/
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url('assets/bg.png') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-h1{
-	
-	font-weight: normal;
-	font-size: 140px;
-	text-shadow: 0px 0px 30px #00000080;
-	text-align: center;
-
+.container {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    text-align: center;
+    max-width: 300px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
-h2{
-
-	font-size: 60px;
-	text-shadow: 0px 0px 10px #00000080;
-	margin-bottom: 0px;
-
+.logo-container {
+    margin-bottom: 20px;
 }
 
-p{
-	
-	font-family: -apple-system, Sans-Serif;
-	font-weight: 150;
-	font-size: 40px;
-	margin-top: 10px;
-
+.logo {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
 }
 
-.MainMenu{
-	
-	background-color: #373737;
-	margin-left: 40px;
-	margin-right: 40px;
-	border-radius: 75px;
-	
+.title {
+    color: #fff;
+    font-size: 1.5em;
+    margin-top: 10px;
+    font-weight: bold;
 }
 
-.buttons{
-
-	text-align: center;
-
+.button-container {
+    margin: 20px 0;
 }
 
-.btn-square{
-
-	font-family: Quicksand;
-	color: #181818;
-	width: 60vw;
-	height: 100px;
-	font-size: 50px;
-	border-radius: 25px;
-	box-shadow: 0px 0px 30px #00000080;
-	border-width: 0px;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	text-shadow: 0px 0px 30px #00000080;
-	
+.button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 1px 4px 0 rgba(255, 255, 255, 0.07);
+    backdrop-filter: blur(14.5px);
+    -webkit-backdrop-filter: blur(14.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: #fff;
+    text-decoration: none;
+    transition: background 0.3s ease, color 0.3s ease;
 }
 
-.cydia{
-  background: linear-gradient(135deg, #b98e55, #b98e55 20%,  #d7d7d7 21%, #d7d7d7);
+.button:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
 }
 
-.sileo{
-  background: linear-gradient(135deg, #55b9ad, #55b9ad 20%,  #d7d7d7 21%, #d7d7d7);
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
 }
 
-.zebra{
-  background: linear-gradient(135deg, #1f1f1f, #1f1f1f 20%,  #d7d7d7 21%, #d7d7d7);
+.icon {
+    width: 40px; 
+    height: auto;
+    margin: 0 10px;
+    transition: transform 0.2s;
 }
 
-.Installer{
-  background: linear-gradient(135deg, #1f1f1f, #45b8ad 20%,  #d7d7d7 21%, #d7d7d7);
-}
-
-
-.packages{
-
-	margin-left: 20px;
-	margin-right: 30px;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	text-align: left;
-
-}
-
-.packages h2{
-	font-weight: normal;
-}
-
-.packages-block{
-
-	font-family: Verdana;
-	display: inline-block;
-	vertical-align: top;
-	background: #cba36d;
-	color: #ffffff;
-	width: 400px;
-	height: 200px;
-	font-size: 40px;
-	border-radius: 30px;
-	border-width: 0px;
-	margin-top: 20px;
-	margin-left: 10px;
-	text-align: left;
-	text-shadow: 0px 0px 30px #00000080;
-	
+.icon:hover {
+    transform: scale(1.1);
 }
