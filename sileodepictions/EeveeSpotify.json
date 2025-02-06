@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"Eevee"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.8.6" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.8.7" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/1/2025"
+"text":"6/2/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -87,7 +87,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 5.8.6\n\n- Cải thiện khả năng tìm nạp lời bài hát LRCLIB bởi @Mapleshade20"
+"markdown":"### Phiên bản 5.8.\n\n- Sửa lỗi tải xuống danh sách phát cục bộ [trước đây là "tải xuống" danh sách phát chứa chỉ các bản nhạc cục bộ từ PC của bạn trong mạng Wi-Fi]"
 },
 {
 "class":"DepictionLabelView",
