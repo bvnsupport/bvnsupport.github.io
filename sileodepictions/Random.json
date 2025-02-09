@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Chủ đề Linebit\n\n- 2 chủ đề Sáng & Tối\n\n- 900+ Biểu tượng đầy màu sắc\n\n- Biểu tượng cài đặt\n\n- Cập nhật thường xuyên\n\n- Các tính năng mới sắp ra mắt \n\nㅤ\n\n",
+"markdown":"Random Icon Flip\n\n- Ngẫu nhiên lật các biểu tượng trên màn hình chính \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,28 +21,8 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/4.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/5.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/6.png",
-"accessibilityText":"Screenshot"
+"url":"https://bvnsupport.github.io/infodeb/Videos/a.mp4",
+"accessibilityText":"Videos"
 }
 ],
 "itemCornerRadius":0,
@@ -70,13 +50,13 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Edzon Diaz"
+"text":"Limneos"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.3-20" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Chủ đề"
+"text":"Tweaks"
 },
 {
 "class":"DepictionTableTextView",
@@ -86,17 +66,17 @@
 {
 "class":"DepictionTableTextView",
 "title":"Giờ tải lên",
-"text":"9:57p''"
+"text":"21:36p''"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"53.5 MB"
+"text":"16 KB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 5.0 đến 17.5"
+"text":"iOS 15.0 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
@@ -113,7 +93,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.3\n\n- Thêm biểu tượng mới"
+"markdown":"### Phiên bản 0.3-20\n\n- Hỗ trợ Rootless"
 },
 {
 "class":"DepictionLabelView",
