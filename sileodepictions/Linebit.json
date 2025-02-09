@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://bvnsupport.github.io/features/Eevee.png",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"EeveeSpotify\n\n- Tinh chỉnh Spotify Premium miễn phí giống Spotilife\n\n- Tinh chỉnh hiện có thể chặn các yêu cầu của Spotify để tải dữ liệu người dùng, giải tuần tự hóa dữ liệu đó và sửa đổi các tham số trong thời gian thực\n\n- Để kích hoạt chế độ Premium bạn cần vào cài đặt của EveeSpotify mục Patching Method và tích vào chế độ Dynamic\n\n- Tùy chọn Không kích hoạt Premium [dành cho người dùng có đăng ký Premium đang hoạt động]\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
+"markdown":"Chủ đề Linebit\n\n- 2 chủ đề Sáng & Tối\n\n- 900+ Biểu tượng đầy màu sắc\n\n- Biểu tượng cài đặt\n\n- Cập nhật thường xuyên\n\n- Các tính năng mới sắp ra mắt \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,19 +21,27 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/2.png",
+"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/3.png",
+"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/4.png",
+"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Linebit/Screenshots/6.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -62,28 +70,33 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Eevee"
+"text":"Edzon Diaz"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.8.7" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
+"text":"Chủ đề"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"6/2/2025"
+"text":"9/2/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Giờ tải lên",
+"text":"9:57p''"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"567 KB"
+"text":"5.3.5 MB"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 16.x"
+"text":"iOS 5.0 đến 17.5"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +113,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 5.8.7\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 1.3\n\n- Thêm biểu tượng mới"
 },
 {
 "class":"DepictionLabelView",
