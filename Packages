@@ -14228,6 +14228,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Express.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Express.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.randomiconsflip
+Architecture: iphoneos-arm64
+Version: 0.3-20
+Section: Tweaks
+Maintainer:  BVN Repo
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debs/com.bvn.randomiconsflip_0.3-20_iphoneos-arm64.deb
+Size: 19142
+MD5sum: dcfdc71758d8e8181fa0676cb1daa34b
+SHA1: 3341424ccb1da72dc31464d3364488e376bf6b1d
+SHA256: 189819987dc577dd3d5a95e3034217ae3584917eb96c2f3bb18e3a95eb747d78
+SHA512: bcb4ba22a8e5a48c2224cc2607df235da78b0d703f6be2b7282c7001c06a2357a8268222f6feed1a9fbee5f1f395be2a88cf968115a2766fa371b6c8a17ae01d
+Description: Ngẫu nhiên lật các biểu tượng trên màn hình chính
+Name: Random Icon Flip (Rootless)
+Author: Elias Limneos
+Depiction: http://bvnsupport.github.io/infodeb/Html/Random.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Random.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.recordpause
 Architecture: iphoneos-arm
 Version: 2.0.4
