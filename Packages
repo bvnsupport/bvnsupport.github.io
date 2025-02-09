@@ -17146,6 +17146,46 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.deepseek.chat
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>=15.0)
+Filename: ./debs/com.deepseek.chat_1.0.6_iphoneos-arm.deb
+Size: 13031158
+MD5sum: 2154e3729e06e0fa75e60dfbee4ae6dd
+SHA1: 980fddba0eff3835f5baca877549deb493b5a241
+SHA256: e4e27683b6c9cdfaafdeb25542112cb7d6f85bca975f792f67f418caea64d980
+SHA512: fc46f60d9d7fd15b632c85bc9d1441eda1774f7029bc2fb7ba70e60cc35ec4bd7efc6478c54657b22b64048acf4365702d665758497a41aa4c157ad285402455
+Description: Chat GPT bên máy chủ AppStore Trung Quốc.Khả năng tìm kiếm và hỗ trợ tối ưu hơn rất nhiều so với Chat GPT. Sử dụng và tìm kiếm thứ cần tìm kiếm và so sánh sẽ thấy điều đó
+Depiction: http://bvnsupport.github.io/infodeb/Html/deepseek.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/deepseek.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: DeepSeek Chat
+Author: deepseek
+Tags: compatible_min::ios15.0
+
+Package: com.deepseek.chat
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>=15.0)
+Filename: ./debs/com.deepseek.chat_1.0.6_iphoneos-arm64.deb
+Size: 13032574
+MD5sum: f16a2ce3988f6165154048e2fd01b51b
+SHA1: ac03bd2dc603eaae6b0dd6117dd7596154610a07
+SHA256: 0a5ab3c50c09921e462c61dadbc52b2056d88098f1defdf7d9d520490d5d6875
+SHA512: ebfd0edaa2a259999791b27b1c6c1b7e0708021e56f746a1c5ce2d8ea51c5da93db8dde53351b3a2b2ef13ad69e58e10eba9a7ecb3fd3a99ff8c0c30c404df4d
+Description: Chat GPT bên máy chủ AppStore Trung Quốc.Khả năng tìm kiếm và hỗ trợ tối ưu hơn rất nhiều so với Chat GPT. Sử dụng và tìm kiếm thứ cần tìm kiếm và so sánh sẽ thấy điều đó
+Depiction: http://bvnsupport.github.io/infodeb/Html/deepseek.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/deepseek.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: DeepSeek Chat
+Author: deepseek
+Tags: compatible_min::ios15.0
+
 Package: com.foxfort.backtrix
 Architecture: iphoneos-arm
 Version: 1.1.4R
