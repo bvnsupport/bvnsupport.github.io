@@ -11248,6 +11248,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.classicfolders3
+Architecture: iphoneos-arm
+Version: 3.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/com.bvn.classicfolders3_3.0.6_iphoneos-arm.deb
+Size: 3706538
+MD5sum: c8f886619dcb83cd1fe896a2c5b41367
+SHA1: fecd6d9e19dc9a67ef18453d026ac692ca229c23
+SHA256: f27f0252f7f438b02ae7a84b4abb774c47c754a37126a7fcc78fe78fa8f81fc3
+SHA512: 6f90c7b2a78ff2bdb26f027852cf95121f00b84d8fb017a19ad32211d6d0ed72bcba68d823e322efa2ac540a73d83f17d627c4684d3ce3ec3fb212f93f565d96
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 3 VH
+Author: CoolStar
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.0.6
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/com.bvn.classicfolders3_3.0.6_iphoneos-arm64.deb
+Size: 3706632
+MD5sum: bc8c618615c666a1710f53a3d2002526
+SHA1: d0de601a45e5474b974d9ca3e023d2b281a698c5
+SHA256: 11638558a9c727c3730beaa4bc4a6aede51f4166d1f30a8685fe2e8b6927afab
+SHA512: 1baa7e315990c852b6059381edd77eced2ac473b647f98432cd720656f901ac626d455a533f960b3a52fd5260f6d8e2d516371682b9f5f251430fadf2873722d
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 3 VH(Rootless)
+Author: CoolStar
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.cmm
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -17431,6 +17471,58 @@ Name: libiarrays
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
+
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 136
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debs/com.ichitaso.iconorder_1.0.3_iphoneos-arm.deb
+Size: 14802
+MD5sum: 70553a5dc79e7c9ee1544a2d8dd58d34
+SHA1: 6ef883c1a9b5a9c1eaaba41fd757738bbf9ed3ea
+SHA256: 70fbe04a832ebc2992d6a473ff9f3ff182e02b6f6e9b57a722ca22ad2262c3b6
+SHA512: c75c3c7b6f8dee5a8ce8b5136d3a1d03db07744d29ba7137a57f66b358325c2232e4c4b3cbf2c4f87f06f97463a86e1fec7c556ce6fb5590b4161efb7377a402
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: ichitaso
+
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 168
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debs/com.ichitaso.iconorder_1.0.3_iphoneos-arm64.deb
+Size: 14848
+MD5sum: bcc6b108e401ad9c7af307f8662c4acc
+SHA1: e59f4915d16185b47d840880216dc74cd3345199
+SHA256: 2a3c03c6ef3c08ecab57faaa33549f4ef6e5065a9da1743907868bbb2d56cfa4
+SHA512: d0450ff4f821a37da81fdf47e370e20386f1abd3f1dc966bd6859494062654a19411a420cc18a79ab65f1b7af8718856ae6187a2a4c88fe95c4e7779348e4a0c
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+dev: ichitaso
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
