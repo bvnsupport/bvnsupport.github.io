@@ -15465,69 +15465,6 @@ Name: TweakHub VH(Rootless)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.vcam
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vcam_1.0.1_iphoneos-arm.deb
-Size: 68158
-MD5sum: 75cf9dafb24b86559b20b9aa4d78582f
-SHA1: 70b8589b7ae0fad5bd2d532b609aef4a88eea085
-SHA256: 7d68910bfaa016aa72d87c387673975d0bf4417e66f3fcc3b722224e4e89bd8c
-SHA512: 56c856b6861f28abc859150e0033bfce82d5adbd304488d9acbb061d27e4f626a9c94fa4ed15ab66ab8a77da59243fe51c6dc52d56e5aca2ab2b8966a3c5b9e2
-Description: VCAM4iOS
- - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
-Name: VCAM iOS
-Author: trizau
-Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.vcam
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vcam_1.0.1_iphoneos-arm64.deb
-Size: 68216
-MD5sum: b97d6c51c2a777b1860d52354757fded
-SHA1: c4084a483930170537884fe6444b0288f3f4f5e5
-SHA256: 9b478bad49502f7dea5f935af0c2041507c209714634aec100803fbcb021b89b
-SHA512: 3978a7c27d1946fb7a5533580c802428ad578098b3f9dbebb748a40a7eeb453a9bb28a23f7292d3a43a56282d39c4c2335e57a87b53167fa57fa646449db1822
-Description: VCAM4iOS
- - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
-Name: VCAM iOS (Rootless)
-Author: trizau
-Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.vcam
-Architecture: iphoneos-arm64
-Version: 1.0.2
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vcam_1.0.2_iphoneos-arm64.deb
-Size: 79202
-MD5sum: 2531630a168be1c1eb6a86f54e591b51
-SHA1: 941192a7283168c99c02fe16505ce6d2ca113301
-SHA256: 70acbbbed7a7865fe4fdea93c9db04b1e2c7d9de47b21c11ac89db637823d735
-SHA512: ee00c4d11d70b96bd41c03aad74b4ca63b03fdcd42aa5211591554e62504e08a495e9a8c559bbed7326adc76af9b4870813ae5f526d330b9120ab2354aec0603
-Description: VCAM4iOS
- - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
-Name: VCAM iOS (Rootless)
-Author: trizau
-Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: com.bvn.verxina
 Architecture: iphoneos-arm64
 Version: 1.2
