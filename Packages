@@ -8397,6 +8397,29 @@ MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 
 Package: com.Repobvn.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
+Version: 5.0-62K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 6088
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, com.bvn.limneos-crack, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.Repobvn.audiorecorderxs-rootless_5.0-62K_iphoneos-arm64.deb
+Size: 1866944
+MD5sum: e942fba0d05a50a8f8b9e926cfd260bc
+SHA1: 3140b8eb08c48c9b6fa279b140699ef7c2454f1f
+SHA256: f5d935b6591aefe360e17c27ab50c54ac3d770d62cc49c481e98117bdfe22443
+SHA512: 3a32cd9bc528104f9ff2eb200fb4f3a2e85cad3e5731cd905831b2ca98848fdc476b2f0171bd9b36d718c5abf95e7a588f34252657398c015c9f5de54e335838
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS VH(Rootless iOS 12/18)
+Depiction: http://bvnsupport.github.io/infodeb/Html/AudioRecorder-rl.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AudioRecorder.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: com.Repobvn.audiorecorderxs-rootless
+Architecture: iphoneos-arm64
 Version: 5.0-6
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
