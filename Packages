@@ -13762,6 +13762,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/NoPasteAlerts16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPasteAlerts16.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.nopreferencetips
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.bvn.nopreferencetips_1.0.4_iphoneos-arm.deb
+Size: 8042
+MD5sum: d3fbefcd6921e4351f76953146e4b970
+SHA1: 3a46784e64ea3c1a0297603c27277c11674fa21a
+SHA256: 26333da92c368f6aec067b2f7a8bcbca1086efc30bce26da596f51baa713173c
+SHA512: f8f94b59bf9706355317d55dc87c1b4fda49f0167af41fd981add8e90ea0dd6a931c348eb4e4ad6ee975b6511779f011744ce0615fe9e85884d6d8df1ed0df9a
+Description: Loại bỏ thông báo khi thay pin không chính hãng,hiển thị lại % Pin
+Depiction: http://bvnsupport.github.io/infodeb/Html/NoPreferencesTips.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPreferencesTips.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: NoPreferencesTips
+Author: 苏苏
+
+Package: com.bvn.nopreferencetips
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.bvn.nopreferencetips_1.0.4_iphoneos-arm64.deb
+Size: 8384
+MD5sum: a956297bf91daf6b5398ecc3cb0bffe6
+SHA1: 69907f91fd2d8f9be12da0e944bc0d47a947510b
+SHA256: f803955a2c31b606a5b793a514fd0ec7d696284f12bc3742b580c8f7b2a4c151
+SHA512: bf26a36b3ae8c6611b655d746c6ef3f2b4313f7af1749788f5b01168fc06183126cd50f47187eb7efc70b510d941d8cd717df03d2b512657c2342bc62ff89ade
+Description: Loại bỏ thông báo khi thay pin không chính hãng,hiển thị lại % Pin
+Depiction: http://bvnsupport.github.io/infodeb/Html/NoPreferencesTips.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPreferencesTips.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: NoPreferencesTips (Rootless)
+Author: 苏苏
+
 Package: com.bvn.notificationsgroupcount
 Architecture: iphoneos-arm64
 Version: 1.0.0
