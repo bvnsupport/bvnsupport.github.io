@@ -8660,28 +8660,6 @@ Name: Shadow VH (Legacy)
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: jjolano
 
-Package: com.ali.aimpro
-Architecture: iphoneos-arm64
-Version: 1.1.1K
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 5080
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
-Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Replaces: com.BIENVANNHAT.aimprorooess
-Filename: ./debs/com.ali.aimpro_1.1.1K_iphoneos-arm64.deb
-Size: 2793042
-MD5sum: 645cfee9efbe838a9555b6ad4384134d
-SHA1: 478fc55fc307923e04ab0d535fa096b2e68a8a5f
-SHA256: 8eae8f6e32b692243eac4010ed782176db6b5e753abc91c20036e648ca89c420
-SHA512: 019cfaed43ce3f3f15248dc9f2bdf3427f3f26fbdc44b4defdba63be53aea2afa05ac6845f352a9d9b36987ce71703044f6386e18e4aab91963188a1a65ccc4c
-Description: Thời gian và màn hình khoá phong cách iOS16
-Name: AIM Pro VH (Rootless)
-Author: alimaulana
-Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.betterccxi
 Architecture: iphoneos-arm64
 Version: 1.6.0
@@ -18545,6 +18523,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
+Version: 1.5.2-2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1122
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.reobvn.choicy_1.5.2-2_iphoneos-arm64.deb
+Size: 271870
+MD5sum: 526714e5dc0f4e62ce6d0ca301bd2381
+SHA1: 4441a976ec7a740d5f1f0c8b8504adfb0a5c1f37
+SHA256: b7e1c4c85ae9c804750e24d3e999cb4199b8bccd8c8d0e9289710edc6fbc5399
+SHA512: 092f2a5f72dde5963c7dd1607657f9bedaff616168ee88e1943b5ba13032a452c5451edc4ec08a5a50b7d65e7bc32f271678e150a29d386827dd60f3045dc0da
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
+ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
+dev: opa334
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.reoobvn.iconrotation-rootless
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -19947,6 +19947,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
+
+Package: com.supportjailbreak.choicyvn
+Architecture: iphoneos-arm
+Version: 1.5.2-2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1351
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.supportjailbreak.choicyvn_1.5.2-2_iphoneos-arm.deb
+Size: 413408
+MD5sum: 600bd447c079f563ce028149be8a94d9
+SHA1: af85ad9db261377a5b67c53c999a6431c1022bbc
+SHA256: 6107b66365a0c3e789e54b3590d793251d92a3b7a90d854be256eee37fce206e
+SHA512: 56eb8e06ec423beb81308f16cca7f558333fbfa2932f73d1bb9c543ddeb5121b62f3b20c3f75ee3fa910d7527011ea4f04d42904978632c87e91b170a74769e7
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy VH
+Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: opa334
 
 Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
