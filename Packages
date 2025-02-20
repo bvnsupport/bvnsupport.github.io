@@ -10067,45 +10067,43 @@ Tags: compatible_min::ios15
 
 Package: com.bvn.Surgepro
 Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
+Version: 0.5
+Section: Apps Crack
 Maintainer: BVN
-Installed-Size: 940
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.Surgepro_1.0_iphoneos-arm.deb
-Size: 23522
-MD5sum: 5fcc39e116e888f2bfba54da61c79e08
-SHA1: 88351b112515d09f354f7165553750e1eeb72b3d
-SHA256: 9eecd02b9aa24c0bf985fd0ee9e8a885989956ecf9d2afb00c8624e11f5e25a4
-SHA512: 5b32c8e4bcf57589d4bd659a4b4933466d019636b67371113c516e8545ff196b7a79a819b8cb726fa4b5a2e16e4998b948799312a7c3d82edcd181b65f1dbb06
-Description: 
-  • Mở khóa tính năng Pro cho Surge 5
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.bvn.Surgepro_0.5_iphoneos-arm.deb
+Size: 51904
+MD5sum: bee6f72805a882408ca31fac768759f4
+SHA1: 18ad9ba8bba12002a2cd64a8057dedd89c31aadc
+SHA256: d7312a4552aa2e5f66366d9e33e2dfc01146a92b41e0c8594a08b80efc8d0417
+SHA512: c9b3b8158b318f31d40614217db0f77b830099bb6a3d4fdc123eb2536f36a12da6772d2578894f910463d762d2e6e73baf1d9a98b8003fd523529cbdda4a4606
+Description: Mở khoá tính năng cho ứng dụng Surge 5
 Name: Surge 5 Pro
-Author: unclear
+Author: pxx917144686
 Depiction: http://bvnsupport.github.io/infodeb/Html/Surgepro.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Surgepro.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
 
 Package: com.bvn.Surgepro
 Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
+Version: 0.5
+Section: Apps Crack
 Maintainer: BVN Repo
-Installed-Size: 940
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.Surgepro_1.0_iphoneos-arm64.deb
-Size: 17884
-MD5sum: 35f6a40b5347d5f64de58a5de587bf90
-SHA1: 7ebe964ef4fa653010eaa43639eeb01d171825b4
-SHA256: 2679c8fb4b03c8116ff8627526253f2d89330fe8168b8d688c965d6e0e83ce59
-SHA512: e4bd95a6f59ea194f69425e995ff9b4a29d17130258139dbfffdeedc532f7eb000757df05389f47c3283e7fa4fe3ab9e9d487531b6f24ac119f2e166d94ead45
-Description: 
-  • Mở khóa tính năng Pro cho Surge 5
-Name: Surge 5 Pro (Rootless)
-Author: unclear
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.bvn.Surgepro_0.5_iphoneos-arm64.deb
+Size: 52014
+MD5sum: 6b9df22fea48e5e0bbc636551c96d8dc
+SHA1: 04bf53c8a2b657aa930e876f2fbb80e642e0444d
+SHA256: a87ad099665dcab076953d5d9a2f527711ba1cf8895ba627f7b8f97f12e00790
+SHA512: 14b52651e14af68dc0264ef9a2faaf7d7590a90a013aa1ab152b4f737b23831545c91671b35500ba0b78db39d6d29006d5c3c6f9618f4cd467149a4dce7a689c
+Description: Mở khoá tính năng chi Ứng dụng Surge 5
+Name: Surge 5 Pro
+Author: pxx917144686
 Depiction: http://bvnsupport.github.io/infodeb/Html/Surgepro.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Surgepro.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Swipelefttoback.rootless
 Architecture: iphoneos-arm64
