@@ -19128,6 +19128,27 @@ Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
 
+Package: com.repobvn.carbridge13-rootless
+Architecture: iphoneos-arm64
+Version: 2.0.15K
+Section: Tweaks
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.repobvn.carbridge13-rootless_2.0.15K_iphoneos-arm64.deb
+Size: 1875700
+MD5sum: 660b1dd51856b8d30a58f5bf332b8001
+SHA1: 41c22ddffee162758b42729253e6ade5fe3416f8
+SHA256: f268bff73a2470107d8990f6588e286712605f3d129285d93d8736baf0c1c85f
+SHA512: 03950363a64c0311d5a268637996aa4341b20f73073d9357a18442ee9c97cc6c7e8c309a6a3aeb7c62bd48d7216477b0791789e9e672dbe6c50d047b010895b1
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VH(Rootless)
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinh1.png
+
 Package: com.repobvn.cask3-rootless
 Architecture: iphoneos-arm64
 Version: 1.0.2
