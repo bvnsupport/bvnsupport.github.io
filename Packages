@@ -5685,26 +5685,6 @@ Name: PhotosPro Việt Hoá
 Author: ahmedmakls <makhl.2266@yahoo.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.picsart-rootless
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Apps Crack
-Maintainer: BVN Repo
-Installed-Size: 2948
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.picsart-rootless_1.0.1_iphoneos-arm64.deb
-Size: 127324
-MD5sum: ae1235a7a678293b98a3f64c6830898f
-SHA1: 635c8b4e297a0c0c9c490424c7a6384517f2faaf
-SHA256: 37cccc9d9311dc4ba8281ef347239b2f9c8d4eb066041dfb5ecb66cbedf27216
-SHA512: f1717c6d26138159bc9ea621b034afc5c6fec2d5e5953f9495f3cb54782519fb414c0699bbe970dfa15feae1d9ad65eafc622a92559a682ad8232adadc08eb05
-Description: Unlock Picsart Gold Annual
-Name: PicsArt® Gold (Rootless)
-Author: Dell <dvq273665536@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
-
 Package: com.BIENVANNHAT.pockettranslator
 Architecture: iphoneos-arm
 Version: 1.0
@@ -9210,6 +9190,47 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
 Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 1049
+Depends: mobilesubstrate
+Filename: ./debs/com.bienvannhat.picsart_1.0.2_iphoneos-arm.deb
+Size: 858070
+MD5sum: 5578c17729d3f732e39cbff9404793fa
+SHA1: cf27815ab6c9bff130af1055e6afcdb9a667059f
+SHA256: 10f503181f85950ecc8b78545986590bcebccfe92458d7bcbb1efae182f2a0c9
+SHA512: d42ec772fac550f57cee8245ad6f1041424468fe93e1e31fe56c525875a21b7611ce9467db1f56dbb19df5ff7bdaaed3b66569b64562a9d821ea8e165f62acef
+Description: Mở khóa tính năng Gold cho ứng dụng PicsArt®
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+Name: PicsArt® Gold
+
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 1049
+Depends: mobilesubstrate
+Conflicts: com.BIENVANNHAT.picsart-rootless
+Filename: ./debs/com.bienvannhat.picsart_1.0.2_iphoneos-arm64.deb
+Size: 858160
+MD5sum: e8e800d902a50f720008ca62312643ac
+SHA1: 4914e0f1ef9a8d92e663bcaaf70c2f8b201dc625
+SHA256: 66153bbbcbc3cbeaf0b3da8b033d783e4f25d4b44ed8775c7f183b8908f20ed1
+SHA512: 85ed591e651116adb0f0b41e29db94f8c28a62e719a3e4886f2c1555e987465886eee679010f9d1329ec975ed8853a1da7d3be477ce06e2d59ecf31d9632b9a0
+Description: Mở khóa tính năng Gold cho ứng dụng PicsArt®
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+Name: PicsArt® Gold
 
 Package: com.bienvannhat.rocket
 Architecture: iphoneos-arm
@@ -23316,13 +23337,14 @@ Architecture: iphoneos-arm64
 Version: 3.8.30k
 Section: Tweaks
 Maintainer: Bvn repo
-Depends: mobilesubstrate, xyz.cypwn.rocket, xyz.cypwn.rocketcrack
+Depends: mobilesubstrate
+Conflicts: xyz.cypwn.rocket, xyz.cypwn.rocketcrack
 Filename: ./debs/vn.bvn.rocket-ig_3.8.30k_iphoneos-arm64.deb
-Size: 2289352
-MD5sum: 1d19b9269f20c8ee9b9f4c0004108188
-SHA1: f916b46a08bd310cacb0f88491a052dd75ce9711
-SHA256: 5b4362b0f4093cfda12ba047de27922d9650f19e6eded18e0cc50b77ed80f38d
-SHA512: 31730d0b0b40eae89879c2d2c72759ab685c3989025adbb7809d4ea65e3e8ac35a2d45777efe58d80d5526c5043900a736e108dc548927726d44e019067484a1
+Size: 2289366
+MD5sum: fda6782e013dec5951cce7aa79f10833
+SHA1: a71566e4bce4bda4b4a7c66566c72ae4bac934e1
+SHA256: 3b97b970a41dc7183a978c10f10cd7a16dd56a6aaa79b792374891ba40b94285
+SHA512: 757d0b80036372581e46f596497f8ccd1fc116c84b0136b04a9d3031df1dacced44714ac063b9f2b8ef8bdea015664a19595e190f342111cfa63c1c37a64fa52
 Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
 Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
