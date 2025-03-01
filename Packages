@@ -8949,6 +8949,29 @@ Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 Author: TIGI Software <satashi2009@gmail.com>
 dev: satashi2009
 
+Package: com.bienvannhat.appdatamanager
+Architecture: iphoneos-arm64
+Version: 1.8.2-5
+Priority: optional
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 9121
+Depends: firmware (>= 7.0), ldid
+Filename: ./debs/com.bienvannhat.appdatamanager_1.8.2-5_iphoneos-arm64.deb
+Size: 3732894
+MD5sum: fccf44c8fdde19eb9de94dbf47f76c74
+SHA1: 8863f459fe71f4c90874a2938a66a68eee768e43
+SHA256: 72d8952a3bbbb391903bd766fcec8b09702dfb1b34b3a6665b99fe2fe2542879
+SHA512: 3552655c86cdc6365c31bac3a805d6388a5cf583ea8c4e93592ef861c8f20df25360c1dd0479f3b204196540601b2324c81e7fc6b5547749405bdfe593e0c283
+Description: Công cụ này cung cấp cách XÓA, SAO LƯU, KHÔI PHỤC AppData cho các Ứng dụng đã cài đặt
+Tag: purpose::uikit
+Name: Apps Manager (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/AppsManager/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppsManager.json
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
+
 Package: com.bienvannhat.april
 Architecture: iphoneos-arm
 Version: 3.0
