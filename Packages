@@ -9257,38 +9257,18 @@ Name: PicsArt® Gold
 
 Package: com.bienvannhat.rocket
 Architecture: iphoneos-arm
-Version: 3.8.30k
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: mobilesubstrate
-Conflicts: xyz.cypwn.rocketcrack, xyz.cypwn.rocket
-Filename: ./debs/com.bienvannhat.rocket_3.8.30k_iphoneos-arm.deb
-Size: 2288414
-MD5sum: 95f17d80afeb1097b91b4c54427b9b2b
-SHA1: 492c7dba7990fcbe8db6bbd5ce53f254bff40142
-SHA256: cca19e518ca6b45cce50442a4b8159215891776304f0b6c9ed7ae4cb6ad6d76a
-SHA512: ed1c8a14a8a0202029b3f3b1b707ee2a123dd4b22495622d51815d82e0596df7ed4e9621d7073ec6fd47d47bcb921d0670324cf5d412dfb838146aab857b9857
-Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
-Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: Rocket for Instagram VH
-Author: Rocket App
-
-Package: com.bienvannhat.rocket
-Architecture: iphoneos-arm
-Version: 3.8.32k
+Version: 3.8.32-1K
 Priority: optional
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.bienvannhat.rocket_3.8.32k_iphoneos-arm.deb
-Size: 2292578
-MD5sum: 02b05e0252202c18f0c46867466b2128
-SHA1: 77e6f4e1dc5e6242534c258bd43fd401c9a88430
-SHA256: 556b4b7611338438d9f3afc5906639431929a99016885d362004ff93f050593e
-SHA512: 52e24b417f3d632e2003248591dcfc265945a11faa9e36ed096b0371f05001d31d8f385c3be6d3f0795ea66201bcbca0cfcff2828e789c0d12d64464d853bdba
+Filename: ./debs/com.bienvannhat.rocket_3.8.32-1K_iphoneos-arm.deb
+Size: 2300268
+MD5sum: 2ba036cb029b4c829e448fc26312cac6
+SHA1: 139ebc199e00b74c2486ddb355bb2c1d48e9edd5
+SHA256: 817a81b9ad7b642b9f1d186e20886c85766c90c1df06c7266e00274d8a9763b7
+SHA512: 02e286ada865fed5704408de176d2459c989180f6726dcf4ca364eccfae1fe6e443657310528f94bf186fe020a73d9309ea0e69660d3c6f72946361eaf2ddac6
 Description: Lưu bài viết và xem các câu chuyện ẩn danh và làm nhiều hơn nữa
 Name: Rocket for Instagram VH
 Author: Rocket App
@@ -12068,6 +12048,27 @@ Author: hahios <kevinpham250607@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/Recorder.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Recorder.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.dynamicnotlands
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/com.bvn.dynamicnotlands_1.0_iphoneos-arm64.deb
+Size: 6326
+MD5sum: 379a900516a7bd525ef4c7208a7a34b0
+SHA1: c9a2c4ae82192d9e9fa5f1fca559bde79cbad16a
+SHA256: 58c52ea26c3f5c41e9409fae3d678c5295616ea6d8763b188fd0af64edd55cd8
+SHA512: a6d24205e99e9b7213b70c6c9f534718a78981e91bbb97554e08a340a581eba953e3855ed1e69d4e0237af2fd50019bf587b9d3b52ec4f0b4a01c94008f1cbae
+Description: Một điều chỉnh để che giấu hòn đảo động trên 14 pro,14Promax khi nó không được sử dụng
+Name: DynamicNotLand (Rootless)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
@@ -23358,38 +23359,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.rocket-ig
 Architecture: iphoneos-arm64
-Version: 3.8.30k
-Section: Tweaks
-Maintainer: Bvn repo
-Depends: mobilesubstrate
-Conflicts: xyz.cypwn.rocket, xyz.cypwn.rocketcrack
-Filename: ./debs/vn.bvn.rocket-ig_3.8.30k_iphoneos-arm64.deb
-Size: 2289366
-MD5sum: fda6782e013dec5951cce7aa79f10833
-SHA1: a71566e4bce4bda4b4a7c66566c72ae4bac934e1
-SHA256: 3b97b970a41dc7183a978c10f10cd7a16dd56a6aaa79b792374891ba40b94285
-SHA512: 757d0b80036372581e46f596497f8ccd1fc116c84b0136b04a9d3031df1dacced44714ac063b9f2b8ef8bdea015664a19595e190f342111cfa63c1c37a64fa52
-Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
-Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Name: Rocket for Instagram (Rootless)
-Author: Rocket App
-
-Package: vn.bvn.rocket-ig
-Architecture: iphoneos-arm64
-Version: 3.8.32K
+Version: 3.8.32-1K
 Priority: optional
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/vn.bvn.rocket-ig_3.8.32K_iphoneos-arm64.deb
-Size: 2293118
-MD5sum: f78d4a0c169262e965f1bcf9763e42fd
-SHA1: b27bdf4e6f21d8d8a2ecff134e3d689638c28fcd
-SHA256: bb769c9e12e619f545c3ccb66835efdc1ecd2e6182c30374a96b652f91ff3f5b
-SHA512: ac930b20d682c42f8b252789fd267d2745a7beedf5a18172d4e1479d13ba2c5e368093bc2cd588309a5f80f0d4883a3ca0fa5026c725cbb565a539be02fedcc5
+Filename: ./debs/vn.bvn.rocket-ig_3.8.32-1K_iphoneos-arm64.deb
+Size: 2301072
+MD5sum: 1c9cf6a302a449af9bb1233f105f2470
+SHA1: 39ae57a28c037f2c057e7eaf8d60da469a1faee3
+SHA256: 452688e436984c08105e4a849f92424f863119daa0650dffa02670e98d03a03b
+SHA512: dd57f0d3b6d879f20b538f51a0f020b184b21c7c58ce4ac428267aa25eb65d78ace9c26603904b714ea17a44b6763f224cbb93dc413cc237f8c01c1515687ca1
 Description: Lưu bài viết và xem các câu chuyện ẩn danh và làm nhiều hơn nữa
 Name: Rocket for Instagram (Rootless)
 Author: Rocket App
