@@ -11310,6 +11310,26 @@ Name: CCAdsBeGone VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.ccborder15+
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 464
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.bvn.sugarcane, com.ioscreatix.sugarcane, com.bvn.ccborder
+Filename: ./debs/com.bvn.ccborder15+_1.1.2_iphoneos-arm64.deb
+Size: 69972
+MD5sum: fee08d81642972113d8766e24811e84c
+SHA1: 6ff6842358cdc2d140628ab1a8e13559118bf5d9
+SHA256: c903a78f50e278f10689ba6c21ce671165ed5da8d2595ae8a9e1f4a352894afb
+SHA512: f99df6d08d914903c80a0582eef29dd907aa1134f2704675d845508d81321210e04b66dc8bce79854fd1017d2b68216b4d8ddcc01c2176345472231d5f39fde3
+Description: Tinh chỉnh đơn giản loại bỏ nền mô -đun và thêm một đường viền, giống như CoolCC!
+Name: CCBorder (iOS15/16)
+Author: fiore
+Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder.json
+
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm
 Version: 1.1.8
