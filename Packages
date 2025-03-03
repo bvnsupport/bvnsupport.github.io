@@ -11319,16 +11319,17 @@ Installed-Size: 464
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: com.bvn.sugarcane, com.ioscreatix.sugarcane, com.bvn.ccborder
 Filename: ./debs/com.bvn.ccborder15+_1.1.2_iphoneos-arm64.deb
-Size: 69972
-MD5sum: fee08d81642972113d8766e24811e84c
-SHA1: 6ff6842358cdc2d140628ab1a8e13559118bf5d9
-SHA256: c903a78f50e278f10689ba6c21ce671165ed5da8d2595ae8a9e1f4a352894afb
-SHA512: f99df6d08d914903c80a0582eef29dd907aa1134f2704675d845508d81321210e04b66dc8bce79854fd1017d2b68216b4d8ddcc01c2176345472231d5f39fde3
+Size: 69994
+MD5sum: 80bfc6b8bd8a25eb91f03e96cfa4424e
+SHA1: c7451962f5171a773c7e69107199e2c1758ae336
+SHA256: ad705abfde7736adbe2381c9ea4877c28ccbad59e418f5b126963ff67432759a
+SHA512: ec0a87f537f44a48ad4f7812969a65e289bd7cdcb9833ad346364071529648f4a1934f1e16ae3394eb179a55c6fab435fb3cefe6a894c82a161d6796fa5ad511
 Description: Tinh chỉnh đơn giản loại bỏ nền mô -đun và thêm một đường viền, giống như CoolCC!
 Name: CCBorder (iOS15/16)
 Author: fiore
 Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm
