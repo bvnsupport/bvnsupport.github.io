@@ -15720,6 +15720,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 5.8.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1596
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify_5.8.8_iphoneos-arm.deb
+Size: 557856
+MD5sum: a41c1ff8a0372e1f0d488493e2033395
+SHA1: 9a9039ccc5a9a8a9ee901097bef5d5d4079198fb
+SHA256: 7f8351c32c7e5892db8239fe5344dc74d3b49c5a2b7af2216ab36858e3a33a7b
+SHA512: 77eae1f372b53736f644087689da34830a513d2ea1e4f107b3a8dcec1e83b3299aadec3e95775e290250870cd8dd800b9e5d30cde2213302ea898f763d908269
+Description: Một tinh chỉnh để nhận Spotify Premium miễn phí, giống như Spotilife
+Name: EeveeSpotify VH
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 5.8.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1596
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify_5.8.8_iphoneos-arm64.deb
+Size: 557670
+MD5sum: 56aefdfe88ae0090b7363ee04f7f9bae
+SHA1: d3770a07fe46f5da3e015616564c8bb327b6e49a
+SHA256: 8ac5a7950af6cd59b2e7df6938f1a1f76206a79d5d2a1da5f35ba5d8438775a0
+SHA512: 4973b9574062e6dc3c8c1b6c326f66618cd733ce7e32d339e12870ddcc18a367a80cd5490727b3b1ca37a679e1a01045217ccc9cdf7df0bdcd71b26abf4ec71f
+Description:
+Name: EeveeSpotify (Rootless)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
@@ -22864,6 +22904,42 @@ MD5sum: 7c2b7245ec59d4ea27c3b1225c8a3bba
 SHA1: 96854ad2c4a7b9212f1b6d6fbe10c5bc69fe4f30
 SHA256: ad193717c5ef232c1fd5d86880d52a42fc69ab9a3b28fedc9b15f51e6259dfad
 SHA512: f6a013a9732014a374cae3f2932dffea5d13dd6f3110249102f4ec9e1d385156e4a2e926ab3080b0065ab4556ec30000ec0eae8ba673bf5ea54fc6fcbfdaf3ae
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Author: eevee
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm
+Version: 1.29.0
+Section: System
+Maintainer: eevee
+Installed-Size: 10116
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm.deb
+Size: 3039250
+MD5sum: 0c40193a9212a2c96ef985a7370f2a79
+SHA1: bcf3f93c44a323424928f6df87ebe76a9104877b
+SHA256: c1858fd38a6476cded63b556b2941765d4815a4a804e6d6b1b4048aa0ff11d07
+SHA512: 73104ce92456b55e8eefbd0576f24a443a7d1e6cb37c4ca96e0fd292e3a15ec52fee973ba09d82ee6f2225e70573098516e95fbfc423eed46ea8d8928a780cd1
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf
+Author: eevee
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.29.0
+Section: System
+Maintainer: eevee
+Installed-Size: 10116
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
+Size: 3039398
+MD5sum: e143874272e2068e1e93aa6d6529a51c
+SHA1: 21da0dc20f983a2de7fbb92ca9c30fff4c8ab1c9
+SHA256: 00af89f63e3a963352c210937cc1dd196582163bd67e976aaed7cbc1ea3111e1
+SHA512: 83718b6b44457e8aa500e63fe3630eaaa365d1c072ac9e5e94445f64adfee2e8844679c2c30de2e7669704e0bb5ac9b05af9e8e16a045298aaccd43b8d959cea
 Description: Plugin and runtime library for using protobuf with Swift
 Tag: role::developer
 Name: SwiftProtobuf
