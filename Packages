@@ -7931,6 +7931,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: opa334
 
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64
+Version: 1.3.16-4K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3232
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.16-4K_iphoneos-arm64.deb
+Size: 947908
+MD5sum: a8233b0625c9ef962012ae00f5e68483
+SHA1: 6a0e8d40dde94a7210984e2d201321b20dbd5b84
+SHA256: 8f1273681998f1681c9141aabcc3b6d211f0b137c40be97adbf534782deb5366
+SHA512: a662efe5fed8cbd8f8376ace96a2034dd04b21a54632d4937b5730188d6d9aa76dfafab5bcf2a869a68e5c3898c059ab789925367d8794383e0f9209c6e22d5c
+Description: Multiple containers for your applications!
+Name: Crane VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: opa334
+
 Package: com.REPOBVN.enekoalt
 Architecture: iphoneos-arm64
 Version: 1.4.2
