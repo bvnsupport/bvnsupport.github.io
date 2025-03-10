@@ -9463,18 +9463,18 @@ Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
 Version: 1.12.7
 Section: Tweaks
-Maintainer: Bvn Rep
+Maintainer: PoomSmart
 Installed-Size: 196
 Provides: com.spicat.youpip
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture (>= 1.0.1)
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Filename: ./debs/com.bienvannnat.youpip_1.12.7_iphoneos-arm.deb
-Size: 32552
-MD5sum: 17de9d8f8bb8d53d5dfc5bd86f01833f
-SHA1: 086ce911d9e4937a18d974510b22428c6cf339ab
-SHA256: c06fcce411cd5066e4d79bc1c274ed4d1bcf4da916c134166e52a991c6e297a5
-SHA512: 0daec5e0b1f1109fef2a58f5632541b88c4ee400cd2bd245766a47321d08777370dcb1ef46385923cdf96d53d6c365a9c577d7ae62a6644b0dbe92dfc7eef6bd
+Size: 32548
+MD5sum: e89bc9cf9e5d1c8f914bcab6c3ac2d7f
+SHA1: 3615f1fa75263e3ff168144be7a69c8d47d34724
+SHA256: 65241e6fb23be4c1a7a5deae3ae2327e3399780102379c8468a4c64fe445f0ba
+SHA512: 1dd142e5fa9cf1df8732b69f237aff9232a5773fd0c3c82b18a07de9fd9a5eeb38e238e1adca10e9b34e47f2634604bcd09dd7b7603d054310bd4cb2847f8dcd
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP VH
 Author: PoomSmart
@@ -19929,11 +19929,11 @@ Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), 
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Filename: ./debs/com.repobvn.youpip_1.12.7_iphoneos-arm64.deb
-Size: 32406
-MD5sum: 7681953fc0a160bfbd32c60ad35e6bae
-SHA1: 9e57a7d76b62ba404dbaeb7ad74f9ab150f5dcd3
-SHA256: 2c507d799e92bd0d0bdf9bebf31ada1ab8ea5ace5c2469e030e97082f7489e50
-SHA512: d5f980d5380980a488a1240a6f2deb9ac983e2c730b33a9834aa3c54b240870733d45d404ee99a8da47d4b93a584cc67791704c64b0e5deb567608d9eaad0c64
+Size: 32408
+MD5sum: 09e8a54f28dad3c020d6784af372c7da
+SHA1: 54092b474ec8afffeaabfff43076ced562960096
+SHA256: 4bf4f7abc6c63a4bf53fdcfc47468ca5454698755bcd292db26ce315ebf49201
+SHA512: d1a7215d46b149f46ffc1bc38d990a61e2be5b1ebe70d3f4ad1e3b44f52b79d5c6b22cbb551c64756f2dc64d8b22592ac2b9b76324e93141acd38374817943da
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP (Rootless)
 Author: PoomSmart
