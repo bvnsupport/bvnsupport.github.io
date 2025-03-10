@@ -7940,11 +7940,11 @@ Installed-Size: 3232
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/com.REPOBVN.crane-rootless_1.3.16-4K_iphoneos-arm64.deb
-Size: 947908
-MD5sum: a8233b0625c9ef962012ae00f5e68483
-SHA1: 6a0e8d40dde94a7210984e2d201321b20dbd5b84
-SHA256: 8f1273681998f1681c9141aabcc3b6d211f0b137c40be97adbf534782deb5366
-SHA512: a662efe5fed8cbd8f8376ace96a2034dd04b21a54632d4937b5730188d6d9aa76dfafab5bcf2a869a68e5c3898c059ab789925367d8794383e0f9209c6e22d5c
+Size: 947912
+MD5sum: fa5a60fcd283542f2e8e1a6af46ad0bc
+SHA1: 0970297ef7d9d68bcf93359e5311d6f2a5f34c1f
+SHA256: f980e981080663f91f85caf2ce61a8c1b86ef5b4a7b4694525e2948f1549291b
+SHA512: b1e127cb458e5da3498933148202dba1bd07da4d0b6d3bef30941a819f6f925d37459eafe393b25fdc2989d181908ca1b540a64d11225ae0d80db6be19a4be28
 Description: Multiple containers for your applications!
 Name: Crane VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
