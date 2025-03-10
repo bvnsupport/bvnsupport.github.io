@@ -7507,6 +7507,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.ytx
 Architecture: iphoneos-arm
+Version: 1.7.11
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.7.11_iphoneos-arm.deb
+Size: 6914
+MD5sum: 2de8d2f9ec25d8d2776d12a06631f6bc
+SHA1: 4e5f9585b2644c4e4bd303d4bca1515d30ec8fdf
+SHA256: 8dcaa4cf12ba66e9dcdaac7f3a2a4af9da7fd2c84ddf0e5b9c160e3ac59754f9
+SHA512: 7818c9fdff9723a0f8338851e124aa038b43bbe79427eaf9c9f9c7821e6c07e6212254a2902bcbe9c5a4d2fd97f6e73be932f507550f596237e80b67c0b7f5b0
+Description: A YouTube improvement tweak.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
 Version: 1.7.6
 Section: Tweaks
 Maintainer: PoomSmart
@@ -19919,6 +19939,26 @@ Name: YouPiP (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.11
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.7.11_iphoneos-arm64.deb
+Size: 6900
+MD5sum: 807ff1a94cc0386dc5bfb1d9a9c5fe95
+SHA1: 2a0eb1c9fde6aa48ed7d60153c07a29d40c9a1d8
+SHA256: 997caba018b4fe2316a1248ad3e2cb1e9919a0f57f4e76df69b338eac8527ec4
+SHA512: 77241a65a64f2dda0cf78c5a97c0573b4d2531ff8d452edcec9862c157dedd3380948346aa60540f4314f8898d8554edf385b3a6a77e2a73d3d56b5b53fab53d
+Description: A YouTube improvement tweak.
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.ytx
