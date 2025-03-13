@@ -8866,6 +8866,27 @@ Depiction: http://bvnsupport.github.io/infodeb/VideoAdsSpeed/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideoAdsSpeed.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.adsspee
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.bienvannhat.adsspee_1.1.3_iphoneos-arm64.deb
+Size: 171050
+MD5sum: b61664650b9293bf47107c9712687469
+SHA1: bbd4a5e6db2ecc2b594681df6e86bd75698ffc53
+SHA256: f841f8a4f916e5a76cd3e1710cf60a9982eb0a305a6b7b45392232f40d1763e4
+SHA512: 970eece15651258bcbf93da64e78768b660b58c03357e4aa4bb4e2bda29ec2d429782a7d4db5e4870a710ac23cacf2c6cb6fcf47829c7a00889ecdd0fc401a1f
+Description: Nhanh chóng bỏ qua quảng cáo video khuyến khích và nhận phần thưởng bình thường.
+Name: VideoAdsSpeed VH(Rootless)
+Author: lenglengyu
+Depiction: http://bvnsupport.github.io/infodeb/VideoAdsSpeed/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideoAdsSpeed.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bienvannhat.aim
 Architecture: iphoneos-arm64
 Version: 1.3-1
