@@ -13422,6 +13422,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.kayoko
+Architecture: iphoneos-arm
+Version: 2.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.bvn.kayoko_2.8_iphoneos-arm.deb
+Size: 225896
+MD5sum: 91ef721da0fad9bb331080749f5f812c
+SHA1: a89a2f3c3462a45eab35a867161c249d4edf1c86
+SHA256: 209b574f5ee15afb79c2fd957aaf24c366756573b934f09a229cde4fcb0075cd
+SHA512: 641a28268918b7b96b9aeda219055b12eb1f03fb9eaaf5ca1a8151426ae9beaedd8d5c4fd71e5bf2ca9eb5ec1f2213d40fa1d9c17033cd0c9b01a7905a5f3d29
+Description: Clipboard manager for iOS.
+Name: Kayoko VH
+Author: Alexandra Aurora Göttlicher
+Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.kayoko
+Architecture: iphoneos-arm64
+Version: 2.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.bvn.kayoko_2.8_iphoneos-arm64.deb
+Size: 225578
+MD5sum: 149bf4d160af2e76f2d8fcb52d856a8e
+SHA1: 03f18335abeda0f473af3b866cf441b4267f8362
+SHA256: 3160687042e3e3abbaafa9d1c6337b02c7e5281db72e0eaf4401068d2adb10c6
+SHA512: a78c931cfb830bb68b1be5acada6f27f7557932e9c6628c3dceb32e9bbee600376279402b6ed3b58db589bb4a122b189451fb3e3a574825afe018a5a0005211b
+Description:
+Name: Kayoko VH(Rootless)
+Author: Alexandra Aurora Göttlicher
+Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.kinemasterpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
