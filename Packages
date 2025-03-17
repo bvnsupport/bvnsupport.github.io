@@ -10724,6 +10724,50 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3 VH(Rootless)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.applecard
+Architecture: iphoneos-arm64
+Version: 3.3.3-end
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.bvn.applecard_3.3.3-end_iphoneos-arm64.deb
+Size: 707512
+MD5sum: b6ff4b34b7aaa7c165792ba4f2033be7
+SHA1: 39db87edccfcf80dd9edd2cd1f76ed6123340c45
+SHA256: ecf5b62daff68542fe3fef096f72fbe7c48237e6829b3dde210341f82a209c8c
+SHA512: 135f7fcdd40d23bb510b661e9820ac5102a76c32d22c945b136ba34599de3ed0b45645f8653bf722484fe0fcd92f66a7e3c6378ef24032559617e2a6502d3493
+Description: Vượt qua O2 với khả năng phản hồi tức thời!!
+ 1. *Bắt đầu*:
+ - Triệu hồi Đĩa: Vuốt từ cạnh màn hình (từ phải sang trái hoặc từ trái sang phải) khoảng 1 inch trên đáy màn hình.
+ - Truy cập Cài đặt: Kéo nhanh đĩa đến cạnh đối diện của màn hình.
+ - Thêm Ứng dụng: Trong Cài đặt, chạm vào biểu tượng ngôi sao ở trung tâm đĩa để chọn ứng dụng cho đĩa.
+ - Ứng dụng trong đĩa có thể được mở dưới dạng cửa sổ nổi hoặc ở trên màn hình dưới dạng biểu tượng hình tròn nhỏ
+ 2. *Kiểm soát Nhanh*:
+ - Vuốt nhanh sang bên để hiển thị/ẩn tất cả cửa sổ và biểu tượng hình tròn.
+ 3. *Sử dụng Đĩa*:
+ - Kéo từ cạnh màn hình đến trung tâm, sau đó kéo ngón tay đến ứng dụng để mở nó trong cửa sổ nổi.
+ - Trong Chế độ Cài đặt:
+ - Xoay đĩa nhanh để thay đổi kích thước đĩa và khả năng chứa ứng dụng.
+ - Xoay đĩa bình thường để điều chỉnh vị trí ứng dụng trong đĩa.
+ 4. *Kiểm soát Cửa sổ*:
+ - Đóng Cửa sổ: Vuốt nhanh lên trên thanh dưới cùng.
+ - Toàn màn hình: Vuốt nhanh xuống dưới thanh dưới cùng.
+ - Chế độ Nền: Chạm nhanh vào thanh dưới cùng để biểu tượng hình tròn.
+ - Di chuyển Cửa sổ: Kéo bất kỳ cạnh cửa sổ nào.
+ - Thay đổi kích thước Cửa sổ: Giữ cạnh hoặc kéo góc.
+ 5. *Chế độ Biểu tượng Hình tròn*:
+ - Chạm nhanh để mở lại cửa sổ nổi.
+ - Nhấn lâu để xóa khỏi màn hình.
+ 6. *Tính năng Thông minh*:
+ - Cửa sổ kích hoạt bởi thông báo.
+ - Kích thước cửa sổ thông minh.
+ - Hỗ trợ xoay màn hình.
+ - Vị trí bàn phím thông minh.
+ - Và nhiều tính năng khác để khám phá...
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: App Lecard
+Author: Crassna (Rootless)
+
 Package: com.bvn.appleturboboost
 Architecture: iphoneos-arm
 Version: 0.7.0
