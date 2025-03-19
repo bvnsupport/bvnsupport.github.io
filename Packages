@@ -7898,14 +7898,14 @@ Maintainer: BVN Repo
 Installed-Size: 1049
 Depends: mobilesubstrate
 Filename: ./debs/com.Bvn.Photoroom_0.0.1_iphoneos-arm.deb
-Size: 11850
-MD5sum: f3d43db3bd24a4e8e7dde73978f5af7e
-SHA1: c28bdfa7d3e9748164be1fa6e03fd4b6d9cec74b
-SHA256: b492264e7b26bdbd72b3f62ff127866e8b0c63268f08afe072719d42c64d3a42
-SHA512: d6a8dbc1c2f52da947e1d46226ae9d8965f5bf3b197985c587b8b7bd5bc7d40725339da10997645f7a50107336b361605ffb38a40a9134b85cbab848ce3ac646
+Size: 11848
+MD5sum: 714619616c88880ec8208f1ab9b0ff10
+SHA1: 28ffaeecbb1f1b908d4c9dcff02c25338b01dddf
+SHA256: 70f82d477d7ac04d4e803f733fc47ab80fcd7ee329d498a84c6f1ea39a2c1932
+SHA512: 283e2cbc48611032a3e09b8ff6f56d8807b370dbfc1568239a3b10d5928024d66ac8d0a41fa36847f4c97e178bb3de29367ebaf5e161255a8c5e6d9050ba59e9
 Description: Mở khóa tính năng Pro cho ứng dụng Photoroom
 Author: no
-Depiction: http://Depiction: http://bvnsupport.github.io/infodeb/Html/Photoroom.html
+Depiction: http://bvnsupport.github.io/infodeb/Html/Photoroom.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Photoroom.json
 Icon: file:///Applications/Cydia.app/Sections/appcrack.png
 Name: Photoroom Pro
@@ -7918,14 +7918,14 @@ Maintainer: BVN Repo
 Installed-Size: 1049
 Depends: mobilesubstrate
 Filename: ./debs/com.Bvn.Photoroom_0.0.1_iphoneos-arm64.deb
-Size: 12898
-MD5sum: f47a075e18c3de2e713dfe8c875951d4
-SHA1: a01809f32aed90cd5389d738d6f09fffb2f813ed
-SHA256: fbac0d3863f106f5d3443003154ed1f942170248c47879253e8e5cb27d483b5d
-SHA512: 2d4bd9b125113741777562dec8d65e5127a97c45f7959f7131f03d3bdb81704198db7539106f246d72811f36e11d3854100a321f7481e26d9a30e1497717cb74
+Size: 12896
+MD5sum: e6f8dc860a73838276e3cc3a720e9e57
+SHA1: 5f11619f31fb1de2a2f264842046ad4117794350
+SHA256: 4f036ded3ddcbcfdbd006535467f6f867207cb02acd4dcc971b64b1d7ffabab7
+SHA512: 8333025c6a652176cf24bc00ceb9f354f38c164ed91db7c865da4243d716376d26ae7fae85653ec7977bc91f0f075d4a7af6121c277cf33906b6d599eef5c93e
 Description: Mở khóa tính năng Pro cho ứng dụng Photoroom
 Author: no
-Depiction: http://Depiction: http://bvnsupport.github.io/infodeb/Html/Photoroom.html
+Depiction: http://bvnsupport.github.io/infodeb/Html/Photoroom.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Photoroom.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 Name: Photoroom Pro
@@ -9827,6 +9827,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ExodarO.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Exodar.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.FontsAIStickers
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 11648
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.FontsAIStickers_1.0.0_iphoneos-arm.deb
+Size: 843930
+MD5sum: 2e04b5a0a61981a01da86a90ec6db67b
+SHA1: f752940f63aa60314da6e4635af5e1d3f1593270
+SHA256: 59c1161bb4bbf3582dd316a6b7882ac769b8f1600680d58851e69112e6e68ffa
+SHA512: 5bb62df19335c2c7c16d9744f433d1679f2e202ca5118e14348d99ed5fe2a3c84e0777aabad533c9d49e025e20196aa36a2a9ff8d88143764b397bf3d9b4139e
+Description: kích hoạt tính năng Pro cho Fonts - AI Stickers
+Name: Fonts - AI Stickers Pro
+Author: blatants
+Depiction: http://bvnsupport.github.io/infodeb/Html/Stickers.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stickers.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bvn.FontsAIStickers
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 11648
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.FontsAIStickers_1.0.0_iphoneos-arm64.deb
+Size: 844174
+MD5sum: 5e70fbcd8dc4513b34a043160b3295d7
+SHA1: 1dbc6f04c3baecf4ccb1d35aad8a0d37de867149
+SHA256: c6e5f0b8f6300052e14c6066adf62888fb16e7c3b85c0b1c7406caa995ec7e26
+SHA512: 3a26c30952a455ad90899ecdcc10cc3cf67eeef783591109c09db5c911b086ec8c2411ef97384cb1010007806bb3d89feaacae9c2efbbc72daf312a3e04e3f93
+Description: kích hoạt tính năng Pro cho Fonts - AI Stickers
+Name: Fonts - AI Stickers Pro
+Author: blatants
+Depiction: http://bvnsupport.github.io/infodeb/Html/Stickers.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stickers.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.ITCBauhausR
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -10208,15 +10248,15 @@ Maintainer: BVN
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.bvn.Photoleap_1.0_iphoneos-arm.deb
-Size: 797824
-MD5sum: 70e3a663c0a1fa8c27a41d66fa50c5ca
-SHA1: ff7db7473e1fe804ebbd44ec86cfec9c4e894162
-SHA256: 5033db91d68528ebcb944f7f4b5a10492e6c78e7562452d2bd3322088f30f7a9
-SHA512: 0ca57a124426c97a66f481aac840323c2ee662fe87d5400e7904bcfc9c6d4efd7c50cd72e1cdaadbd0da0d1b6c153ee9352bfb3ddb87dbe3adf93519bf25eec5
+Size: 797822
+MD5sum: 1e4fb054a1cfadbec34e39d9032d5c82
+SHA1: 85edaffeffab83700358cb65919d7193b0721756
+SHA256: 595828854abe0c6f16efdc200fd26c84d92619abef0f9d574ec255e39e32a32a
+SHA512: b15fdf4cd6617a74e9061101037df6756f14c991f55529c9b9f9db7d0c6b42cf73a043ce7ba6499722e7a0771f4b2533c81767156e6b43812479c1df49d76635
 Description: Photoleap crack by Blatan
 Name: Photoleap Pro
 Author: blatant
-Depiction: http://Depiction: http://bvnsupport.github.io/infodeb/Html/Photoleap.html
+Depiction: http://bvnsupport.github.io/infodeb/Html/Photoleap.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Photoleap.json
 Icon: file:///Applications/Cydia.app/Sections/appcrack.png
 
@@ -10228,15 +10268,15 @@ Maintainer: BVN
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.bvn.Photoleap_1.0_iphoneos-arm64.deb
-Size: 798064
-MD5sum: 178cdec9472b8e0e179b68de72112832
-SHA1: 64eaabb21a175b3b38e959bb0b54682b57f80fe9
-SHA256: 8fd7dfe08818f12490e297ef98e53519fbd97844e2e49030ae57f5bc7a2f2e2e
-SHA512: 89a6da17ca4a412e88f3c621f63e6a8b8d08cb67dd579c1526442764c312a7972239bf8dc6870b655318fc8e59bb5949b5a43648b7e0599ea3df7b3030c791df
+Size: 798072
+MD5sum: 5148e58b4910f0c0a42aef405a7ccc2e
+SHA1: af8f5f4dfd57fc3c0ed0ae343a65f97395b168fc
+SHA256: ada8c9f57b0e438cd3e77b7032f3f812fd06e54d8424ee4a75c982545b24fc66
+SHA512: d9d21ce9346ef95d8a9cda179269f5c4529969a75a68b579c4f34ebeccfefb23b4247f01f5bc3283339cadf9d081190b095b22aa21f33b80c89d2f3355e04309
 Description: Photoleap crack by Blatan
 Name: Photoleap Pro
 Author: blatant
-Depiction: http://Depiction: http://bvnsupport.github.io/infodeb/Html/Photoleap.html
+Depiction: http://bvnsupport.github.io/infodeb/Html/Photoleap.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Photoleap.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
