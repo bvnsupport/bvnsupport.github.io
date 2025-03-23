@@ -2776,25 +2776,6 @@ Name: Cylinder Reborn VH
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.cylinderremade
-Architecture: iphoneos-arm64
-Version: 0.0.3-beta
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 488
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, oldabi | oldabi-stub
-Conflicts: com.ryannair05.cylinder
-Filename: ./debs/com.BIENVANNHAT.cylinderremade_0.0.3-beta_iphoneos-arm64.deb
-Size: 131356
-MD5sum: 265ec058005aeac37ee02f8fc889a9d9
-SHA1: ebc2dd9a5b6247f4fcb41e71bbff016b02378903
-SHA256: fb0d6dece7ad83b1f3d31ebbb3ebbf53232cb57950296a96ec52c20117821191
-SHA512: 426c1ae284a3f309943a758c1194eb60d76c73d74ad231a58a8e1854e426c0b74f307f822bf749aa1a21502aec40fb5650b33f688a3084c57476efe04a70814a
-Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 15.4.1
-Name: Cylinder Remade (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Ryan Nair
-
 Package: com.BIENVANNHAT.darkpapers
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -12060,6 +12041,23 @@ Description: Make your icons dance
 Name: Cylinder Reborn VH(A9-A11)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ryan Nair
+
+Package: com.bvn.cylinder-vh
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Installed-Size: 604
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/com.bvn.cylinder-vh_1.1.2_iphoneos-arm64.deb
+Size: 152744
+MD5sum: 3dc997e6d2f7adfb0281a6609db6695c
+SHA1: fda2dc60c29da801ba12092661d29e57ffa22125
+SHA256: 7cd66a9a447610b635cc0f32799e9b2c7df15a9ab454c8eb40db2f0c1814b543
+SHA512: e6af65c4ce06dd54e13b970e6f7f300df1141ce9687f9d27cf804a9f065a09d78b0bcf4653548f546b87b04a7c026fff56f9f636f49ec026b55a8f813360d8a9
+Description: Make your icons dance
+Name: Cylinder Reborn VH(A9-A11)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.darl-rl
 Architecture: iphoneos-arm
