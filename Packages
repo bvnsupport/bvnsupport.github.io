@@ -12392,6 +12392,26 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.dynamicnotlands
 Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.dynamicnotlands_1.0.9_iphoneos-arm64.deb
+Size: 18154
+MD5sum: 9d02e76f5048e7270c40b92724de045d
+SHA1: c170dee5540c52e6f8cf2b9e762c920bf1e2a035
+SHA256: e97d8dabce28dc92bc974ee428dc6d7c6fd88add0c9fed2c89d2d94a737ca7d1
+SHA512: cd54f8d58c4736fda300ac2a7f53d8f296635d75941e0f067ab594dd5f3b219bb7e03eb5d5ea3d54b548de93e17709d3e62a71a2ae81e1ed3b38a3805c140cf1
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+Name: DynamicNotLand (Rootless)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.dynamicnotlands
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: BVN Repo
