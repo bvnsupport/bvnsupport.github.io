@@ -17136,6 +17136,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/XingTu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/XingTu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ytlegacy
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx
+Conflicts: com.ps.ytlegacy, com.ps.ytx
+Filename: ./debs/com.bvn.ytlegacy_1.0.0_iphoneos-arm.deb
+Size: 2958
+MD5sum: e09f97c1bbd7791267ac283bff2126ed
+SHA1: f147f7247c1f17c53055b1bf812afd7a9a5b66ec
+SHA256: 904efeebf2f228186a4a88f12d43a103fa11fc046e123f723ef72dd6cf3487d2
+SHA512: 2529e7943543f648716ab624cb587f5c10607da8a12ec18a903f0cbf187ebbda6ae3f5ef16f9f099d65d9c2d4d1ba21fabbb3b093184ffb2a854cfa89ca9871f
+Description: Cho phép Youtube phiên bản cũ hoạt động trở lại
+Name: YouTube Legacy
+Author: PoomSmart
+Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
