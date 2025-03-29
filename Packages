@@ -11599,14 +11599,14 @@ Version: 1.1.2
 Section: Tweaks
 Maintainer: fiore
 Installed-Size: 464
-Depends: mobilesubstrate, firmware (>= 15.0)
+Depends: mobilesubstrate, firmware (>= 15.0), ws.hbang.alderis
 Conflicts: com.bvn.sugarcane, com.ioscreatix.sugarcane, com.bvn.ccborder
 Filename: ./debs/com.bvn.ccborder15+_1.1.2_iphoneos-arm64.deb
-Size: 69994
-MD5sum: 80bfc6b8bd8a25eb91f03e96cfa4424e
-SHA1: c7451962f5171a773c7e69107199e2c1758ae336
-SHA256: ad705abfde7736adbe2381c9ea4877c28ccbad59e418f5b126963ff67432759a
-SHA512: ec0a87f537f44a48ad4f7812969a65e289bd7cdcb9833ad346364071529648f4a1934f1e16ae3394eb179a55c6fab435fb3cefe6a894c82a161d6796fa5ad511
+Size: 70010
+MD5sum: 951c518d2a77b3d1627741b81b438fe5
+SHA1: 31c3db92668e5c3e6f18a456784e9801a7dbc773
+SHA256: a44a06722c07bd5c1a81d7f5a7e042521577fa9880f16b11ea680fb59a1cbc79
+SHA512: 29db55073b3b65fc9d92fa82144d0213230b80dbb28676497bbd5b21a25434c168a55cd4071e6846115f022a1e54048176f092bafbe638722b808eb82dc0b14c
 Description: Tinh chỉnh đơn giản loại bỏ nền mô -đun và thêm một đường viền, giống như CoolCC!
 Name: CCBorder (iOS15/16)
 Author: fiore
