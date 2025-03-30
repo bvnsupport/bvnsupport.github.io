@@ -12491,6 +12491,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.dynamicnotlands
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.dynamicnotlands_1.2_iphoneos-arm64.deb
+Size: 20360
+MD5sum: d0606b44e709646344ff569169ccd09c
+SHA1: 88b552ceb9217b9cee97f07b5bdbcd71d9f39f0c
+SHA256: 96feaf7d8e924e2991a9cc6e89d3674150ed5c6f4d788d106f9323bc89c3daec
+SHA512: 8a21ba9c5d02e3612537509d7f580d5992ff9b5f8b182280136fae8ec6ec254087dba304d807cc9db8fae7002afd99f85755025afbee85f7aab3730065c3bd8b
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+Name: DynamicNotLand VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Nathan
+
 Package: com.bvn.edge2
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -13657,6 +13677,26 @@ Author: Nightwind and thetimeloop
 Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.jade
+Architecture: iphoneos-arm64
+Version: 1.0.5k
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1502
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jade_1.0.5k_iphoneos-arm64.deb
+Size: 427816
+MD5sum: 6fdbb6e611cb2c5cef723d97d8932e5a
+SHA1: adde48782f76d787a140a20ab483a6380883a839
+SHA256: 0a352b02a9bbbd3960710993901522c3eebf5f9d975171f82a322d2688809cee
+SHA512: 0646d5cb90eeb9515f3c5590401726f40b3bb5bc718c1a327f35d3a72a97fb7961f44edc1c6693776e70ef7825bc09a7ca4c45190051a9c366cc342ec4999da0
+Description: Your control center, brought anew.
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Jade VH(Rootless)
 
 Package: com.bvn.kayoko
 Architecture: iphoneos-arm64
