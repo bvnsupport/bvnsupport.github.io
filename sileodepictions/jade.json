@@ -68,7 +68,7 @@
 "title":"Nhà phát triển",
 "text":"Nightwind & thetimeloop"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.3" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -77,7 +77,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"27/10/2024"
+"text":"31/3/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -91,7 +91,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -104,7 +104,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.3\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 1.0.5\n\n- Đã khắc phục sự cố khiến trung tâm điều khiển không mở được\n\n- Đã khắc phục sự cố khiến một số cài đặt không được diễn giải chính xác"
 },
 {
 "class":"DepictionLabelView",
