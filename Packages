@@ -22242,6 +22242,42 @@ Depiction: https://repo.xyaman.xyz/depictions/index.html?p=libsona
 SileoDepiction: https://repo.xyaman.xyz/depictions/libsona/depiction.json
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.yan.anitime
+Architecture: iphoneos-arm
+Version: 1.0K
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1488
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0K_iphoneos-arm.deb
+Size: 597200
+MD5sum: 97eb0c7a0b694daf91b389d52f9d6985
+SHA1: 8a8f45c8e868f97997f7706988f4047cc6db2833
+SHA256: a119ed06116ed634ef6065856bec0fbba7d787e86eccfc5d4b5961649faac75d
+SHA512: a013a291debf67006f84610e7f4f7fcb7953d35572a2f0bf2f36c5a1cffaaed7bc4bf5bf4fd01a2230f45426ab3bb8a90b5ad30131061f50581308af4255ed5a
+Description: Các ký tự anime hoạt hình như các chữ số đồng hồ của bạn.
+Name: AniTime VH
+Author: yan
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.yan.anitime
+Architecture: iphoneos-arm64
+Version: 1.0K
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1488
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0K_iphoneos-arm64.deb
+Size: 596948
+MD5sum: 475f44a5a7630674f23a0aa78fb24397
+SHA1: 2e1aae76e0d6b41d13e0e6653f99c1f8bcb8b37d
+SHA256: 3e88a74fcfed00ceed4d450ab8279667e07a1276a189b3c2ac2436081e2ac1d3
+SHA512: 3ac320d9b0bc8a5ea44611ba34e9beff311a3f4f6e58624ad7a2556451ed474ba6ce1975858d970a3974ca8455af3237996e9d0bb48e337cc50e9459afd435e1
+Description: Các ký tự anime hoạt hình như trên chữ số đồng hồ của bạn.Crack By Repo BVN
+Name: AniTime (Rootless)
+Author: yan
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: combvnrepo.autotouch.ios8
 Architecture: iphoneos-arm64
 Version: 8.0.11
