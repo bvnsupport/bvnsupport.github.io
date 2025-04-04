@@ -7513,12 +7513,13 @@ Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Conflicts: com.ps.ytx
 Filename: ./debs/com.BIENVANNHAT.ytx_1.7.12_iphoneos-arm.deb
-Size: 6910
-MD5sum: 236e1c021c77fc79c81217b3695b4db7
-SHA1: 1f60cff82b17f9ac448fcf36ecf7e25b62f2520c
-SHA256: 2e43918f7bb4d0305edeb91aab6c3d9539ed07dd93bdcafcc62857e3feb74d15
-SHA512: 5777d23bd76b7de1b72a63484d1351fdf7145e20f6af26cb2967e61c2d498b71ea95fd7156dc36081429b5caced7b4fb5c8535bac7314d39acf2f9657f531182
+Size: 6924
+MD5sum: 3fbb7a2cc671069a7376d1164877cf58
+SHA1: 0ea78ae8f520e3b5b9ae9a2888033a3132dbde0e
+SHA256: 821d78e23135db28d2ef21afbb58a1255312aadf5c48db569df0fd647657e756
+SHA512: 5d2713368df04b07c9e95e6571543b13d0ce17bd2d8ed0d5738f753c38c7e6b4e0bb333e77240a2ec1b6e05ed3bb12805f080228e2f5785f1bc20a36621a8dfb
 Description: A YouTube improvement tweak.
 Name: YouTube X VH
 Author: PoomSmart
@@ -17258,6 +17259,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.ytlegacy
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx, com.ps.youspeed, com.ps.ytclassicvideoquality, com.ps.noytpremium
+Conflicts: com.ps.ytlegacy, com.ps.ytx
+Filename: ./debs/com.bvn.ytlegacy_1.1.3_iphoneos-arm.deb
+Size: 5126
+MD5sum: ba393d64662bc8236603cb9eb2d89de5
+SHA1: af285d7f73b61c501a4859c205abaa2676ae9182
+SHA256: edf155e5b333568349c867af9e65e7ef23e13549ba4769befffb5211a7b91102
+SHA512: 554d3661fdf3aba96e8e995e9b9f808d6e6215c83ec2775fc9400e18345c3608dd4e922c14eb7558398c38de968ce2996ab6ff0b1362894d5385c3c259a89890
+Description: Nỗ lực để làm cho các phiên bản YouTube cũ hoạt động trở lại.
+Name: YouTube Legacy VH
+Author: PoomSmart
+Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
@@ -19569,6 +19591,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ps.noytpremium
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.noytpremium_1.0.4_iphoneos-arm.deb
+Size: 3060
+MD5sum: 1467e2ee079eacb342c828f17aba9123
+SHA1: 86b362f1c77529a920057c08b689e4276ed796ec
+SHA256: 6f03a4e1ebfd813aca5c6348e56a043f5127106b11c1b7020e46269e04085691
+SHA512: 8cf270b54bcb466f4aad1026225c1f85989b1e077b66f648675303d2f90be4e51f53e3a10b1ebd438276bff1f60b95acd9ee4099950d0cab2781e671cdc1a2df
+Description: Remove YouTube Premium upsells.
+Name: NoYTPremium
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64
