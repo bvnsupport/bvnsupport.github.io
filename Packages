@@ -7508,6 +7508,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.ytx
 Architecture: iphoneos-arm
+Version: 1.7.12
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.BIENVANNHAT.ytx_1.7.12_iphoneos-arm.deb
+Size: 6910
+MD5sum: 236e1c021c77fc79c81217b3695b4db7
+SHA1: 1f60cff82b17f9ac448fcf36ecf7e25b62f2520c
+SHA256: 2e43918f7bb4d0305edeb91aab6c3d9539ed07dd93bdcafcc62857e3feb74d15
+SHA512: 5777d23bd76b7de1b72a63484d1351fdf7145e20f6af26cb2967e61c2d498b71ea95fd7156dc36081429b5caced7b4fb5c8535bac7314d39acf2f9657f531182
+Description: A YouTube improvement tweak.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
 Version: 1.7.6
 Section: Tweaks
 Maintainer: PoomSmart
@@ -17217,6 +17237,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.ytlegacy
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx, com.ps.youspeed, com.ps.ytclassicvideoquality
+Conflicts: com.ps.ytlegacy, com.ps.ytx
+Filename: ./debs/com.bvn.ytlegacy_1.1.2_iphoneos-arm.deb
+Size: 4628
+MD5sum: 6c7b4c4b67d9974623230a92c1b4f4ab
+SHA1: 132ab5c08a53437285c6def729d8c76d531728f2
+SHA256: b0d34925d33e30515d4a6218f47ad7ac687b6efc18e25ad74573aeed26210cda
+SHA512: 2e0068a5d45d7d91df792914c6cb6fc179e040a3f620b4a0c049132aa5ad8ff005e0085b986c6604391f45198c1afe50e88cd1521e717441f1ff7c9e2ddea7b8
+Description: Nỗ lực để làm cho các phiên bản YouTube cũ hoạt động trở lại.
+Name: YouTube Legacy VH
+Author: PoomSmart
+Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
@@ -19548,6 +19589,27 @@ Author: PoomSmart <unicorn03.glimmer@icloud.com>
 Name: YouGroupSettings (Rootless)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.ps.youspeed
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.2.0)
+Conflicts: com.lyvendia.ytspeed
+Filename: ./debs/com.ps.youspeed_1.3.0_iphoneos-arm.deb
+Size: 9910
+MD5sum: d7ec79431728b0d97a3316929b19911a
+SHA1: 58c84d54e15cbacc4be7eacd369f188d57172dc3
+SHA256: 27825756e864de5800ea6cb4601bd803b4334f65c3772ebb37dc7a34d3a9e1d1
+SHA512: aaaf871651f39752f2353e0e977c7a903720cf2118cb96da846c33609e64ee2458a397814004809ff4269bc5b1120beb2322d30fbd3dc4285d83ede1e1201869
+Description: View/change video speed in iOS YouTube app faster, and more speed options.
+Name: YouSpeed
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youspeed.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youspeed.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.ps.ytabgoodies
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -19590,6 +19652,26 @@ Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.ps.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytclassicvideoquality_1.5.1_iphoneos-arm.deb
+Size: 5890
+MD5sum: 3f2ab0aee3615a8f54ab1ad4d68397c8
+SHA1: 38683584b313cd5b47ab618630cdf5d780fc32e2
+SHA256: 4a88a9b22dea00a6900ce7abd62cd423b231431376e0561a1a535e3525b197fe
+SHA512: 05e6f134001c12e30b8db1e937cfdfb6103e099b69b29ef135cf0285bed898f306752663a87747125e4b415d211177b11c59164b3ff904581518ef53a083f2f8
+Description: Revert to the original video quality selector in YouTube app.
+Name: YTClassicVideoQuality
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytclassicvideoquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytclassicvideoquality.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.ps.ytvideooverlay
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -19629,6 +19711,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm
+Version: 2.2.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.2.2_iphoneos-arm.deb
+Size: 17818
+MD5sum: eb311ad748d6dc5c1ddbfbc948959f05
+SHA1: f4df0baa5119f721d21368143d3eca708f51a5f8
+SHA256: 7dc27c4fbff7ba0ce299489b922ecc1c3590c78915bbbed8d289204af4478486
+SHA512: 76192916f4eced6c6855f879adf85af3c27aeb12eb4eb5eb929fdb66255e40d7fb10b3c5443802213b7ab81ca3d2b5f54aec1b93bcc181eed6d2dd399de89369
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.reobvn.choicy
 Architecture: iphoneos-arm64
@@ -20530,6 +20632,26 @@ SHA1: 2a0eb1c9fde6aa48ed7d60153c07a29d40c9a1d8
 SHA256: 997caba018b4fe2316a1248ad3e2cb1e9919a0f57f4e76df69b338eac8527ec4
 SHA512: 77241a65a64f2dda0cf78c5a97c0573b4d2531ff8d452edcec9862c157dedd3380948346aa60540f4314f8898d8554edf385b3a6a77e2a73d3d56b5b53fab53d
 Description: A YouTube improvement tweak.
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.12
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.7.12_iphoneos-arm64.deb
+Size: 6932
+MD5sum: 5a58451fcf8afedcd7ca24912f0a54ab
+SHA1: abfe8998be4f77bdf23da4edc9c9eaf90e0adb55
+SHA256: a73b357f13769ba0641464ab50bcc29bafacb76f6a35713561f237518769a772
+SHA512: ee0ee9c42f70acdc45c392baddeea3aaa20ec021c63588a5f3d166f8914705e709f901cbaf3c770838812c52534e9a0670d6fb8c2fb4cfdeaefbd0028394d5d1
+Description: Một điều chỉnh cải tiến YouTube.
 Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
