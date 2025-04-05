@@ -7513,13 +7513,13 @@ Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Conflicts: com.ps.ytx
+Replaces: com.ps.ytx
 Filename: ./debs/com.BIENVANNHAT.ytx_1.7.12_iphoneos-arm.deb
 Size: 6924
-MD5sum: 3fbb7a2cc671069a7376d1164877cf58
-SHA1: 0ea78ae8f520e3b5b9ae9a2888033a3132dbde0e
-SHA256: 821d78e23135db28d2ef21afbb58a1255312aadf5c48db569df0fd647657e756
-SHA512: 5d2713368df04b07c9e95e6571543b13d0ce17bd2d8ed0d5738f753c38c7e6b4e0bb333e77240a2ec1b6e05ed3bb12805f080228e2f5785f1bc20a36621a8dfb
+MD5sum: 2a18353c562cc188bb91715be34e244d
+SHA1: df8a3fbf80608b47b2664e8946972f95cde12fb1
+SHA256: 646c8823cd5eedc22b85e62218f193198aac0ca50775077910f97443b9b41a00
+SHA512: ff350bea220b283052a4706364b4b29c696c61ad98ecd8ebd79eabd7739e19bfb89e3ac5829b3b5d3595e45d21926cdd62a88985cef11dec1471cc607843a159
 Description: A YouTube improvement tweak.
 Name: YouTube X VH
 Author: PoomSmart
@@ -17216,6 +17216,27 @@ Author: Geku
 Depiction: http://bvnsupport.github.io/infodeb/Html/XingTu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/XingTu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ytlegacy
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx, com.ps.youspeed, com.ps.ytclassicvideoquality, com.ps.noytpremium
+Replaces: com.ps.ytlegacy
+Filename: ./debs/com.bvn.ytlegacy_1.1.3_iphoneos-arm.deb
+Size: 5124
+MD5sum: 4d35e553503bb32bcf8b5082bf5d7f3c
+SHA1: debe9f61751970dc054a150ec8609a49ed4e86fa
+SHA256: 434ae816c681c4c2b4f184df586fac9750d1dc61de19a37d2f22269630a65eca
+SHA512: f19ee632edc89b20b4e2a884207c17a2c395a94c89dc6998f2c96c2cd305083e981669e743c1f90b80e607f18243c6513b77b08f2760ba65fb34c871bf547172
+Description: Nỗ lực để làm cho các phiên bản YouTube cũ hoạt động trở lại.
+Name: YouTube Legacy VH
+Author: PoomSmart
+Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
