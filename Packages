@@ -17217,69 +17217,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/XingTu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/XingTu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.ytlegacy
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 56
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx
-Conflicts: com.ps.ytlegacy, com.ps.ytx
-Filename: ./debs/com.bvn.ytlegacy_1.0.0_iphoneos-arm.deb
-Size: 2958
-MD5sum: e09f97c1bbd7791267ac283bff2126ed
-SHA1: f147f7247c1f17c53055b1bf812afd7a9a5b66ec
-SHA256: 904efeebf2f228186a4a88f12d43a103fa11fc046e123f723ef72dd6cf3487d2
-SHA512: 2529e7943543f648716ab624cb587f5c10607da8a12ec18a903f0cbf187ebbda6ae3f5ef16f9f099d65d9c2d4d1ba21fabbb3b093184ffb2a854cfa89ca9871f
-Description: Cho phép Youtube phiên bản cũ hoạt động trở lại
-Name: YouTube Legacy
-Author: PoomSmart
-Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.ytlegacy
-Architecture: iphoneos-arm
-Version: 1.1.2
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 56
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx, com.ps.youspeed, com.ps.ytclassicvideoquality
-Conflicts: com.ps.ytlegacy, com.ps.ytx
-Filename: ./debs/com.bvn.ytlegacy_1.1.2_iphoneos-arm.deb
-Size: 4630
-MD5sum: 8ab947ff8adef8ab444474faa66f02c8
-SHA1: db393caf42a1d534311a935b2b1d550ec140e82c
-SHA256: 2f824acb730cc54075ad5a5a0263a46951d2479aaf752a3f12d96f6d2d0f3bcb
-SHA512: c6994dde58d3ae9ecffa301537efeec78b233c2f17912c541a0d7bc63940f6dc0c9361a151b8ff576ec2724b7f29fb31af8ec2bed7c2b2f2551a8d07b5a1faca
-Description: Nỗ lực để làm cho các phiên bản YouTube cũ hoạt động trở lại.
-Name: YouTube Legacy VH
-Author: PoomSmart
-Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.ytlegacy
-Architecture: iphoneos-arm
-Version: 1.1.3
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 56
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.ytx, com.ps.youspeed, com.ps.ytclassicvideoquality, com.ps.noytpremium
-Conflicts: com.ps.ytlegacy, com.ps.ytx
-Filename: ./debs/com.bvn.ytlegacy_1.1.3_iphoneos-arm.deb
-Size: 5126
-MD5sum: ba393d64662bc8236603cb9eb2d89de5
-SHA1: af285d7f73b61c501a4859c205abaa2676ae9182
-SHA256: edf155e5b333568349c867af9e65e7ef23e13549ba4769befffb5211a7b91102
-SHA512: 554d3661fdf3aba96e8e995e9b9f808d6e6215c83ec2775fc9400e18345c3608dd4e922c14eb7558398c38de968ce2996ab6ff0b1362894d5385c3c259a89890
-Description: Nỗ lực để làm cho các phiên bản YouTube cũ hoạt động trở lại.
-Name: YouTube Legacy VH
-Author: PoomSmart
-Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
