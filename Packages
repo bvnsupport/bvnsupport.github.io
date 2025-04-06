@@ -17296,6 +17296,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.ytlegacy
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.bvn.ytx, com.ps.youspeed, com.ps.ytclassicvideoquality, com.ps.noytpremium, weeb.lillie.youtubedislikesreturn (>= 1.13.6)
+Replaces: com.ps.ytlegacy
+Filename: ./debs/com.bvn.ytlegacy_1.4.0_iphoneos-arm.deb
+Size: 7364
+MD5sum: e841c67f66c1e07b8831806667cb12cd
+SHA1: 93a2eb90173b75262801f0ea3b04d90541b635d1
+SHA256: 31ed54aa42f2f204a0460ecd1fe19907d5189bcbab96477338657b0335dc43d4
+SHA512: 3e8a0324b0ebd502c27d31874d5216bac94972b2eb42af79d374083b080e479adfe397048913649701a2ddf4ec4ff36e06b539ceb32d6797976b61c6d1dc7d67
+Description: Nỗ lực để làm cho các phiên bản YouTube cũ hoạt động trở lại.
+Name: YouTube Legacy VH
+Author: PoomSmart
+Depiction: http://bvnsupport.github.io/infodeb/Html/Legacy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Legacy.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
@@ -17415,6 +17436,27 @@ Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.ytx
+Architecture: iphoneos-arm
+Version: 1.7.12
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Replaces: com.ps.ytx,com.BIENVANNHAT.ytx
+Filename: ./debs/com.bvn.ytx_1.7.12_iphoneos-arm.deb
+Size: 6928
+MD5sum: a3e17f390ff7aeb3ca25515b913a19c0
+SHA1: c3b331db4cc50482532ed0532fb99ab664652836
+SHA256: 3c64530542aa87cdfceefa58008a8d6a2cc6669602738c542bbef84d31a13918
+SHA512: 3a26dc77e5a5ea474a8e3651f4af3f5f562cff492d6065090990186bf92b1051eea04a82adcd93cf64ac82e38bb87cceca2eb4d98e60c1eba07fe21a1f3d85b0
+Description: A YouTube improvement tweak.
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.zeppelinreborn
 Architecture: iphoneos-arm64
