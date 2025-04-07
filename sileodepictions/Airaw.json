@@ -72,7 +72,7 @@
 "title":"Nhà phát triển",
 "text":"Dcsyhi"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.6.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.6.6" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -81,7 +81,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/3/2024"
+"text":"7/4/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -108,11 +108,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.6.4\n\n- Đã khắc phục sự cố khi đóng ứng dụng chọn toàn\n\n- Đã khắc phục sự cố các biểu tượng trong suốt không được hiển thị"
+"markdown":"### Phiên bản 1.6.6\n\n- Hỗ trợ tiện ích HTML IOS16.\n\n- Xóa đường viền góc màu đen của CarPlay.\n\n- Bật cài đặt 3D Touch cho từng ứng dụng.\n\n- Hiển thị thời gian bao gồm cả giây.\n\n- Tùy chỉnh màu huy hiệu biểu tượng.\n\n- Đã bật chế độ hiển thị ứng dụng toàn màn hình ở chế độ khởi chạy CarBridge.\n\n- Thay đổi kích thước phông chữ của nhãn biểu tượng.\n\n- Cho phép thay đổi nút trang chủ của CarPlay bằng cách chọn biểu tượng từ thư mục ảnh.\n\n- Có thể gọi các phương pháp cập nhật tiện ích được cải tiến bằng cách sử dụng Airaw API.\n\n- Thêm mô-đun trung tâm điều khiển."
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
