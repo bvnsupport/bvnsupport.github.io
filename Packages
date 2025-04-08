@@ -20941,6 +20941,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStore.json
 Author: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.roothide.managers
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: System
+Maintainer: roothide
+Installed-Size: 896
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.roothide.managers_1.1_iphoneos-arm64.deb
+Size: 763450
+MD5sum: fcb15121c5f178629d0cf796178d12f7
+SHA1: 1f93f5c3b68f7b0b42a9e716cd49368077ba52d7
+SHA256: 53d0bf83d98ea9716c7ebbd99ff83519793c23aa5bae3f75320cda41727c4e23
+SHA512: 779ba58c282fe12d957ba7c435016396e7fa8fab4cf1a4787dabc7cddd0f0cca24bf0311e5de40892a83f8d044b0fd92e121b87f6681e70678cbdd69d60ca045
+Description: Configuare RootHide's Features
+Name: RootHide Manager
+Author: roothide
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png:
+Depiction: https://github.com/roothide/RootHideManagerApp
+Support: https://github.com/roothide/RootHideManagerApp
+
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
 Version: 1.1.1~rootless
