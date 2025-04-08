@@ -22485,6 +22485,24 @@ SileoDepiction: https://repo.xyaman.xyz/depictions/libsona/depiction.json
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.yan.anitime
+Architecture: iphoneos-arm64
+Version: 1.0.1K
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1488
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0.1K_iphoneos-arm64.deb
+Size: 598402
+MD5sum: 07149f3d7e98ac063e0430db991c7b3c
+SHA1: 8b899ce0284804d45e19009f459e540756720270
+SHA256: aca1204fc00ad1cbc20328adadcd8226642266addfa2667447c72d8ed1e5b8f9
+SHA512: c9f8c32b0fed71abf200d659e02d39a770eeeeb4f5722c13a4beacbdcc595ae6ba89f81d502871869c8e8986fa9c0660473c2858afba53988a60778ad058593d
+Description: Nhân vật anime hoạt hình làm chữ số trên đồng hồ của bạn.
+Name: AniTime (Rootless)
+Author: yan
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.yan.anitime
 Architecture: iphoneos-arm
 Version: 1.0K
 Section: Tweaks
