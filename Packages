@@ -10707,6 +10707,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Airaw VH(Rootless)
 
+Package: com.bvn.airaw
+Architecture: iphoneos-arm64
+Version: 1.6.7K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 13502
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.bvn.airaw_1.6.7K_iphoneos-arm64.deb
+Size: 11231212
+MD5sum: 9b41f79c56d893cd0b523e57eaccf992
+SHA1: 0b812295b80fc45e7fb06dad693c6e1b8ea6e434
+SHA256: 1f1f6bed42e222e36bccaa8d29674fc7908b44536459c5276832d16b6aa625fe
+SHA512: 2dbc0cf1556f6e2e386e813aa7920267a8ab3b1601f83005454192b1ffbe14fff0c1e4c363f10347904bb88bdfe34058992f52f73b9986d32c401f4bf69532ba
+Description: Một tinh chỉnh CarPlay tuyệt vời.
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Airaw VH(Rootless)
+
 Package: com.bvn.airpodscompanion
 Architecture: iphoneos-arm
 Version: 1.2
