@@ -1265,27 +1265,6 @@ Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.airaw
-Architecture: iphoneos-arm
-Version: 1.2
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 7352
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 13.0), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo
-Filename: ./debs/com.BIENVANNHAT.airaw_1.2_iphoneos-arm.deb
-Size: 6763058
-MD5sum: 57f5ae7740b493830bc0b74985975109
-SHA1: 2c7a4b92b5eb95220a9f48f027cbd1a2c29b0b92
-SHA256: 0e0fdc785fddc12706b73e5e9d4393210283bb058bfd775fc88531d7655bb153
-SHA512: 179edb9ad35a4872512b051a8bea098a0eb8b99cc6617cec4008094e90479c97eaf689de9e164ff40b7ff3a27d30894656539a66cae711368d76fb3fdcf916b0
-Description: Bổ sung các tính năng cho CarPlay.
-Tag: compatible_min::ios13.0
-Name: Airaw Việt Hoá
-Author: Dcsyhi <dcsyhi1998@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Airaw/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Airaw/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.akara
 Architecture: iphoneos-arm
 Version: 1.0
@@ -10726,6 +10705,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Airaw VH(Rootless)
+
+Package: com.bvn.airaw
+Architecture: iphoneos-arm
+Version: 1.6.7k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 7352
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.bvn.airaw_1.6.7k_iphoneos-arm.deb
+Size: 11139452
+MD5sum: 9179848a56ac3eee37d0c696fc12d5ae
+SHA1: e2bd4f00a04e4a15af3e907b79eb4e3f373c5cb1
+SHA256: b141ad901dc37017584253908e552d3cea2b183931d084e9080d0a1c9ef28781
+SHA512: 5911fae8dd953f7242f1da77e9fe71e2f4054c2a724e3042b9de574796ca450faa3363d5fe52b5ee65084abeec1e38bba4b93a114b0b0cdaf08b0fb35091d632
+Description: Bổ sung các tính năng cho CarPlay.
+Name: Airaw VH
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.airpodscompanion
 Architecture: iphoneos-arm
