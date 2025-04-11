@@ -10647,6 +10647,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/AdGuard.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AdGuard.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.aemulo
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulotrial
+Filename: ./debs/com.bvn.aemulo_1.2.5_iphoneos-arm.deb
+Size: 815392
+MD5sum: 75da9bb5d0f3d15475b7a9beab29a374
+SHA1: 7d48cc307b0371935c4380195e1dadd7ac7743f9
+SHA256: 0a35a0816393f107bd61b40531a840e97a6322ed8df1fbd80744f3e9d1700b20
+SHA512: ecedcb6fba50c437dc76c55dd8271cca2112b8f338e3c43a5cccaf23819f01c04cb196cea4110691a67429d9bbbf32043b69a6a13a81d618fcfad7eacc6ef66d
+Description: NFC Frickery
+Name: Aemulo VH
+Author: Amy While <support@anamy.gay>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
+Package: com.bvn.aemulo
+Architecture: iphoneos-arm64
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulotrial
+Filename: ./debs/com.bvn.aemulo_1.2.5_iphoneos-arm64.deb
+Size: 815092
+MD5sum: c7e1774de764da35f40d38d7175bcef9
+SHA1: 184b9fd6a285b0e18dd342232d2a8c9e2d97525b
+SHA256: 2b203aef829f602cfb4c1d10f665414f885fa1db3048c2aff0edf9a735377a73
+SHA512: d492abc524be0f69918badf34ff4b1fa3bf757673ceb6aaa24b4452b35744f35651e88532dcde54f64010dccd12462465c22d133be843fde56d11d895131eae6
+Description: NFC Frickery
+Name: Aemulo VH (Rootless)
+Author: Amy While <support@anamy.gay>
+Depiction:
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.5
