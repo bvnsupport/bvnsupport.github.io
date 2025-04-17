@@ -16477,6 +16477,46 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
+Version: 5.9.3
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1616
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_5.9.3_iphoneos-arm.deb
+Size: 567852
+MD5sum: a38f022792dfdf40dd2988c8888296b4
+SHA1: 1b8536f4330584fb9613f53fe096a9d345b10d6a
+SHA256: 11a4ecd714f6a821f500fe287928dccb1f12d4cc72f2fc1d0f5a1ba521de55d5
+SHA512: cc5d1ba148a7a3bf70bdf0b9e9bd10f9a24ada6be0fae7f8174dc29026bffacd0ebe7eff95d9a31324996176b777cd110bd49a1aab1c6c0fa59f8f62c26384ec
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 5.9.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1616
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_5.9.3_iphoneos-arm64.deb
+Size: 567804
+MD5sum: 6651ae2af5b999c028f07c242e9b8b98
+SHA1: 99e5c9f86675d1b33d43270b4d4a4757af4419ce
+SHA256: e5d50e09b4660b539da75de790084975565a202a9e8c36a88b938b31b6a24bfc
+SHA512: d65576cf5d23dd57026aa700565291692c6796b0b416a7e2388dd32d406240ee26f6634b21ad9c5352ff35257b5ac4de8ce5afebfecb7891229635179aebd9e0
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH(Rootless)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
 Version: 5.9
 Section: Tweaks
 Maintainer: Eevee
