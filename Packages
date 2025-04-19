@@ -16772,6 +16772,45 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Ticktick.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ticktick.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.tiktokphotocomments
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.tiktokphotocomments_0.0.1_iphoneos-arm.deb
+Size: 2868
+MD5sum: 2d4461b41524006c547c849aee79245b
+SHA1: 4adcf53ec2967a0e15dede039afdc9fed5183d7b
+SHA256: 4a77741cbb1762582853cc11c9a86d996f77f77625fca61031171bfc62833936
+SHA512: 70cbaa387113ded16257f1b65ec6b5104ac1d6b7ccba386454e35b09f6274c98965cd5c8ffe31fe1f6fa92eed3783707bedd9709ae68ea715189cd3a43bcea32
+Description: Chỉnh sửa để bật chức năng Ảnh trong bình luận trên TikTok nếu bạn chưa có! (Cũng bật nhãn dán trong bình luận nhưng không hoạt động nếu bạn không ở trong khu vực bạn được cho là có chức năng này)
+Name: TikTokPhotoComments
+Depiction: http://bvnsupport.github.io/infodeb/Html/TikTokPhotoComments.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TikTokPhotoComments.json
+Author: Nathan Senter
+
+Package: com.bvn.tiktokphotocomments
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.tiktokphotocomments_0.0.1_iphoneos-arm64.deb
+Size: 2974
+MD5sum: df5f2d469cc5a35a292c02bb6639eb63
+SHA1: 51324b2fa40432930f34c9ae8222d71cb514dcda
+SHA256: efae4f0edec6373f58764c4666eb317b7262e3189279939f9d2af16de8b594ac
+SHA512: 31843059af3c62ba9da4a6078cdd5264ea1f16c677d03f26d3235ad1c2092cafdad29c785585f02da1d9b6096e69206e7c2faaa1bab145039aaefb2996d95098
+Description: Chỉnh sửa để bật chức năng Ảnh trong bình luận trên TikTok nếu bạn chưa có! (Cũng bật nhãn dán trong bình luận nhưng không hoạt động nếu bạn không ở trong khu vực bạn được cho là có chức năng này)
+Name: TikTokPhotoComments
+Author: Nathan Senter
+Depiction: http://bvnsupport.github.io/infodeb/Html/TikTokPhotoComments.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TikTokPhotoComments.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.tinge
 Architecture: iphoneos-arm
 Version: 1.1
