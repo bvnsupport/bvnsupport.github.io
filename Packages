@@ -12651,6 +12651,26 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.dynamicnotlands
 Architecture: iphoneos-arm64
+Version: 1.2.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.dynamicnotlands_1.2.4_iphoneos-arm64.deb
+Size: 21508
+MD5sum: e8eed0e4223b3442d8c09c6182de94f1
+SHA1: 636581140c183dabb20819dbae06a375d83d48ce
+SHA256: 9918287e9307293d5ce68f333f6ebe8732d8be393152c92ad0fc75adf8a52167
+SHA512: 78c5211e032d483943ecb9bc379937732d6e98f40b66b7616da30c8a70d176fa7ee8d09f5e8bcdc8ab4622334823dc0cf28a38f9d15e362e5f7fd680c29f1668
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+Name: DynamicNotLand (Rootless)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.dynamicnotlands
+Architecture: iphoneos-arm64
 Version: 1.2
 Section: Tweaks
 Maintainer: Nathan
@@ -17329,6 +17349,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.whoozit.rootless
 Architecture: iphoneos-arm64
+Version: 2.15.0-beta-13
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 4372
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16), com.bvn.iarrays-crack
+Conflicts: com.iarrays.whoozit, com.iarrays.whoozit.roothide
+Filename: ./debs/com.bvn.whoozit.rootless_2.15.0-beta-13_iphoneos-arm64.deb
+Size: 1380356
+MD5sum: bfee33bf3b246eb0ffe2768b8a40f44b
+SHA1: 8c7b6566881b5d18f8972fea0fe45849435dab1f
+SHA256: 79386b7d65e3e38a7a7e0d813c4a22a7c83535ef19cd5e1ba7e2df5df192cdee
+SHA512: 071a60eedf05a77691708ed9594c0225653c2e9f66a21c334bbd4edc3575f972ef32aaeda51d47c092e655f12642a83ab15f5fcdaf43e97643029d6084e4612c
+Description: Không biết ai đang gọi cho bạn và không biết bạn đã bỏ lỡ ai? Đừng lo lắng, giờ đây giải pháp ID người gọi hoàn hảo này sẽ giúp cuộc sống của bạn trở nên đơn giản hơn. Chỉ cần cài đặt cái này và TrueCaller hoặc NumBuster! hoặc ShowCaller trên thiết bị của bạn và bắt đầu tìm kiếm cuộc gọi từ các ứng dụng xếp chồng như Điện thoại, Tin nhắn & Trung tâm thông báo và thậm chí từ CallLogPro.
+Name: WhoozItPro VH(Rootless 15-17)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
+
+Package: com.bvn.whoozit.rootless
+Architecture: iphoneos-arm64
 Version: 2.15.0-beta-9
 Section: Utilities
 Maintainer: IArrays <support@iarrays.com>
@@ -19099,6 +19140,27 @@ Name: libiarrays (Rootless)
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: com.iarrays.libiarrays.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.16-beta-15K
+Section: Development
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 656
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
+Filename: ./debs/com.iarrays.libiarrays.rootless_1.0.16-beta-15K_iphoneos-arm64.deb
+Size: 202372
+MD5sum: f15e3c4b2319394e526817c36d052dc3
+SHA1: 14edf2470c233a0ab7abe0c40821b0c4f746895c
+SHA256: e897069352ab934900842af32a2a58b5e2f4cb9d050683fd49ec6698cee8a36d
+SHA512: 5ad65d8a2a9c2c312e3d124f6e703dedd4f57273eef4f926a0e8bfa271aea0b2919ea7df608c77be12621bba9149a705a9e43c11ccc765d08a319cfe5f162090
+Homepage: http://iarrays.com/
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/phattrienn1.png
 
 Package: com.iarrays.libiarrays
 Architecture: iphoneos-arm
