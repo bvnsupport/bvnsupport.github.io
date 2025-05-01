@@ -10238,6 +10238,24 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
 Package: com.bvn.Meizu3D
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Themes
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.Meizu3D_1.4_iphoneos-arm.deb
+Size: 59853622
+MD5sum: 15a6c129fb38afcc499c851ff4ae6408
+SHA1: 850b42743b8463eb86c5631e3c6aee3382792509
+SHA256: 792d91ec97778496e43b2c4dd1420bc80a59e5bfee1b97f728b00f2b46b34d47
+SHA512: 92c8632be8db4bb5c823731f670bcd7b2034445d1c69217569348bc4a2d1f86c5fe60f9f691db49d616f9742dfff103191175800db67bdfa6a2058263ba42d12
+Description: Chủ đề Meizu 3D
+Name: Meizu 3D Theme
+Author: Miss
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.bvn.Meizu3D
 Architecture: iphoneos-arm64
 Version: 1.4
 Section: Theme Rootless
