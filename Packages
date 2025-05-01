@@ -17184,6 +17184,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/VideosUnmute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideosUnmute.json
 
+Package: com.bvn.visibleisland
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.bvn.visibleisland_2.0_iphoneos-arm64.deb
+Size: 43150
+MD5sum: e1f9b65432b9363c35d770add630a753
+SHA1: fd0623e4cdf370093b2f67bdb67e9bf67643ed7d
+SHA256: 465f2d1e48d4bb67f3e24485747989a9f3ca272483da74edd5bff2d750f32ab0
+SHA512: ebff3549ec3c9d71f429a7f8a605f9b277480d7fc3b27e7147ab3ad7e0ffa03a59d3ca20de01febcabe93f6eeed8b978bd76c4d9d82185af40db0d6f8e2f83f9
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Name: VisibleIsland VH(Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/VisibleIsland.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisibleIsland.json
+
 Package: com.bvn.vivacutpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
