@@ -16111,6 +16111,44 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.smpro
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Cracks
+Maintainer: BVN Rep
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smpro_0.0.1_iphoneos-arm.deb
+Size: 4670
+MD5sum: 5239323e3b504b02f0303cb8d27363ce
+SHA1: 198ab19ad09bf201c408cee67ae4c5d3aca8552f
+SHA256: e4b631ba9a27e259f0a18481028e089aeb72cc85c647b7efe3405af40a200738
+SHA512: 4e5ec34f736a856849694be03d9ead654d485da1fca0b541e6e7ec451f2c769979d7296b7bc017fab18a32de470eaf032ee2c56cd6c1746c549b3ab0ea6eec46
+Description: Crack for SM Pro app. Free IAPs
+Name: SMPRO Crack
+Depiction: http://bvnsupport.github.io/infodeb/Html/SMPRO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SMPRO.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+Author: CyPwn
+
+Package: com.bvn.smpro
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smpro_0.0.1_iphoneos-arm64.deb
+Size: 4892
+MD5sum: 6de1623d0eb93daad7e3683f9b56052c
+SHA1: 900c3cf7cdf64fd97854c71efcee68955e0aebab
+SHA256: 45aaa322a543d6fb74cdcf060239911a105c6959e6ea65e7dfb8f4ecee885e63
+SHA512: 95bd0a0d117fcabed6e587714baefd51596e7ba78d119a6e6c6a2c0fb482c73fc0002ac792cd1e66f7204eef14a904b8cfdfa2f42dc6277e9ce9429f464bb4dd
+Description: Crack for SM Pro app. Free IAPs
+Name: SMPRO Crack
+Author: CyPwn
+Depiction: http://bvnsupport.github.io/infodeb/Html/SMPRO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SMPRO.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.sms
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -17183,6 +17221,26 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/VideosUnmute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideosUnmute.json
+
+Package: com.bvn.visibleisland
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.bvn.visibleisland_2.0_iphoneos-arm.deb
+Size: 42150
+MD5sum: 826dc108487bb7471b1dd30628b52d6a
+SHA1: 6517f959fce193c28d460b5525784ab8af478aca
+SHA256: 351e6ccb30c14093401d610d80c41e5974841323da8a5dea5c7674d7b019edc8
+SHA512: 83c997176cbbe5bde4c0b455273f91eb56cb88fac3a7c30173854b1fcd01d6eaecb9c11a01c588f4aea45b3b36de3d433b8195d8bfc7d6e4011958b6fa950441
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Name: VisibleIsland VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/VisibleIsland.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisibleIsland.json
 
 Package: com.bvn.visibleisland
 Architecture: iphoneos-arm64
