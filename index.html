@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div class="container">
+ <div class="container">
         <div class="logo-container">
             <img src="assets/icon.png" alt="s8xg Logo" class="logo">
             <h1 class="title">ミ★ʙvɴʀᴇᴘo★彡
@@ -32,5 +32,48 @@
         </div>
     </div>
  </div>
+
+<!-- Snowfall Effect -->
+
+<script>
+    const snowflakesContainer = document.createElement("div");
+    snowflakesContainer.style.position = "absolute";
+    snowflakesContainer.style.top = "0";
+    snowflakesContainer.style.left = "0";
+    snowflakesContainer.style.width = "100%";
+    snowflakesContainer.style.height = "100%";
+    snowflakesContainer.style.pointerEvents = "none";
+    document.body.appendChild(snowflakesContainer);
+
+    function createSnowflake() {
+        const snowflake = document.createElement("div");
+        snowflake.innerHTML = "&#10052;";
+        snowflake.style.position = "absolute";
+        snowflake.style.top = "-10px";
+        snowflake.style.fontSize = Math.random() * 5 + 5 + "px";  // Smaller size (5-10px)
+        snowflake.style.color = "white";
+        snowflake.style.left = Math.random() * window.innerWidth + "px";
+        snowflake.style.opacity = Math.random();
+
+        snowflakesContainer.appendChild(snowflake);
+
+        let speed = Math.random() * 2 + 1;  // Slower speed (1-3px per frame)
+        let rotation = Math.random() * 360;
+
+        function fall() {
+            snowflake.style.top = parseFloat(snowflake.style.top) + speed + "px";
+            snowflake.style.transform = `rotate(${rotation}deg)`;
+            if (parseFloat(snowflake.style.top) > window.innerHeight) {
+                snowflake.remove();
+            } else {
+                requestAnimationFrame(fall);
+            }
+        }
+        fall();
+    }
+
+    setInterval(createSnowflake, 150);  // Slightly reduced frequency for a gentle snowfall effect
+</script>
+
 </body>
 </html>
