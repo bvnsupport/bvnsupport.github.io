@@ -16151,6 +16151,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.smallboards
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smallboards_1.1_iphoneos-arm64.deb
+Size: 5378
+MD5sum: 6e01b4a6fc15d5983d90c92183c680f6
+SHA1: c9c48c6225934dc6d13e3126e716f2a36d9b330b
+SHA256: 5bd8f51c6f644edafb738a0f8c08c167580593c836181f1afe209581a61de649
+SHA512: 42c908b222a63350b039603921fb86963b859498bb8a87f77c27b7b91af77916d500ca58b896869020338da8373e11de860c7b986f802a48b1ecc007fd6a8ccb
+Description: Sửa lỗi bàn phím bị cao khi fake cử chỉ iPhone X
+Name: SmallBoard (Rootless)
+Author: iCraze
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/SmallBoard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SmallBoard.json
+
 Package: com.bvn.smpro
 Architecture: iphoneos-arm
 Version: 0.0.1
