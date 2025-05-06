@@ -14901,6 +14901,56 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/NGL.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/NGL.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.noapplemobilerepair
+Architecture: iphoneos-arm
+Version: 0.0.1-103
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.bvn.replaced, com.34306.replace, com.bvn.nopreferencetips
+Filename: ./debs/com.bvn.noapplemobilerepair_0.0.1-103_iphoneos-arm.deb
+Size: 17932
+MD5sum: 981783caa1273bd64293c5a2c3bddc45
+SHA1: a84f356ab76b1fa3d809c0a818b0131cec3cef0e
+SHA256: aaa667ea995412ea70a4e8bd2fc276a826c9b5a543b5fa6c8749c9a93032c415
+SHA512: a1ac50dfc312ccc30197f779eb4339f562ec1f7ffdbfe4658127513dbb1bd4aba5c8b9c34c6532457254e688f6851d46185aa803f374d621ab3d0aef72cbd234
+Description: Apple MobileRepair
+ 1. Sau khi thay thế pin của bên thứ ba, hãy bật và hiển thị giá trị sức khỏe của pin bình thường.
+ 2. Chặn các bản ghi của các bộ phận không xác định được hiển thị trên máy này.
+ 3. Cài đặt chặn hiển thị % Pin và thông tin nhắc nhở cập nhật pin.
+ 4. Tắt cảnh báo cập nhật phần mềm
+Name: No Apple MobileRepair
+Author: xybp888
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/noapplemobilerepair.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/noapplemobilerepair.json
+
+Package: com.bvn.noapplemobilerepair
+Architecture: iphoneos-arm64
+Version: 0.0.1-103
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.bvn.replaced, com.34306.replace, com.bvn.nopreferencetips
+Filename: ./debs/com.bvn.noapplemobilerepair_0.0.1-103_iphoneos-arm64.deb
+Size: 17850
+MD5sum: fce1f127cc962c881172ac3ab359ca42
+SHA1: 86b6d4b9333edf2a2e1979b18370b3cdeb8e9419
+SHA256: 905d8d3a732df2dd233657bb8dd1f65ece7f31439f4b4a9d816c89385c0c24e6
+SHA512: 1284e0b7ff5031493b6f5d25739833e3069f8bef7c0c12a4f1b24cc0893db33669139dc9e4388fb41a63d508e4c2a0bfa84625d5cbbb9845fa3ed86b668b2015
+Description: Apple MobileRepair
+ 1. Sau khi thay thế pin của bên thứ ba, hãy bật và hiển thị giá trị sức khỏe của pin bình thường.
+ 2. Chặn các bản ghi của các bộ phận không xác định được hiển thị trên máy này.
+ 3. Cài đặt chặn hiển thị % Pin và thông tin nhắc nhở cập nhật pin.
+ 4. Tắt cảnh báo cập nhật phần mềm
+Depiction: http://bvnsupport.github.io/infodeb/Html/noapplemobilerepair.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/noapplemobilerepair.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: No Apple MobileRepair
+Author: xybp888
+
 Package: com.bvn.nobetaalert
 Architecture: iphoneos-arm64
 Version: 4.0
