@@ -11850,6 +11850,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ccmusicartwork
+Architecture: iphoneos-arm64
+Version: 2.4.0-rootless
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 656
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ccmusicartwork_2.4.0-rootless_iphoneos-arm64.deb
+Size: 283012
+MD5sum: b947dfc4cf2e3d4d58b420ae150d337a
+SHA1: aac09e38c13b2fb18def16673a5440dcdf718021
+SHA256: 5e1c8a4987e2d5c2486710354a22f2decca32875e8fbe51abaf4b338f224520e
+SHA512: 6cf12d73f183c5a0e4a567da1ac48b0bc1c950277ad8da35d6cd202062366fbeef2e98af50284a84f7cbc6daf9e716cd8e50934ad2ca9ce11f1bae15a4c4379a
+Description: Hiển thị album tác phẩm nghệ thuật đằng sau mô-đun âm nhạc trong Trung tâm điều khiển iOS 11-16.7.10
+Name: CCMusicArtwork VH(Rootless)
+Author: Spark
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/CCMusicArtwork.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCMusicArtwork.json
+
 Package: com.bvn.centra
 Architecture: iphoneos-arm64
 Version: 1.0
