@@ -11556,6 +11556,46 @@ Name: Bloom (Rootless)
 Author: yan
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.blur
+Architecture: iphoneos-arm
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer:
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.blur_1.0-8+debug_iphoneos-arm.deb
+Size: 18770
+MD5sum: 8e12a34e5c9ee81f9443e12973bb087d
+SHA1: bd548e807cec930194f92581e96d9c0daede112b
+SHA256: 612ec60954cdeb38320207cecc8e3a1345597b8a1f2014bb7aca98c905217b5d
+SHA512: 6512760e154b3f96d22a5f6fb8b2051dc444a7d249f5de8ec87cb5de48b5500ccfa380be78864bdf19c1e10c619e2b60b8a2bdecfb900681abd96d57c9ea9340
+Description: Ẩn ảnh riêng trong thư viện của bạn. Mở khóa bằng ID mặt, ID cảm ứng hoặc mật mã
+Name: Blurify6 VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/blur.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/blur.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: MrDeNsor
+
+Package: com.bvn.blur
+Architecture: iphoneos-arm64
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.blur_1.0-8+debug_iphoneos-arm64.deb
+Size: 19272
+MD5sum: c6804f3ee17c7ed94c5d31bf90732406
+SHA1: ae85371b9c170135d32b4faa97463b399c17829e
+SHA256: 627c4b7917cac620809278c3aa5f4142ef82425f34e863346a0d8b45e44d6130
+SHA512: ca76c26c594ae46cc2e8544304b11761a259d8fce2e615e4fbb2423bb8644a2504fe69fc9de7bfaee0dff27da42c57a66acf0d2272b057247a78375f25fbe810
+Description: Ẩn ảnh riêng trong thư viện của bạn. Mở khóa bằng ID mặt, ID cảm ứng hoặc mật mã
+Name: Blurify6 (Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/blur.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/blur.json
+Author: MrDeNsor
+
 Package: com.bvn.bong
 Architecture: iphoneos-arm64
 Version: 1.0
