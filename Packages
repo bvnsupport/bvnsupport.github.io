@@ -16021,6 +16021,44 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Ring.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ring.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.roundprefs
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.roundprefs_1.0.9_iphoneos-arm.deb
+Size: 97362
+MD5sum: fcc72d67df252395f6362afd3734f884
+SHA1: 1e127dbfa7f51d5f292a6d539af529d8bae9357e
+SHA256: 2258011ecf227cc8ab6e98b91146af62bcc47b06c6df6004e8a6f6d1083c4e73
+SHA512: 96a1607ec40e6a2575c1fd3939203938e36a728edf0118706b757ee48bfb6a1d64e7ddd78cf9a971e27eac4eb75d6abf9c7b5c002c02d4751255157843cd5cce
+Description: Làm tròn các bảng cài đặt!
+Name: roundPrefs VH
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/roundPrefs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/roundPrefs.json
+
+Package: com.bvn.roundprefs
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.roundprefs_1.0.9_iphoneos-arm64.deb
+Size: 98328
+MD5sum: 028109efa417d5d1efa3e2c8520143cc
+SHA1: c3439c7988846bbebfae7ea58163eff3e5df7ab7
+SHA256: 54375e3ae676a2d55e29aa4578af4611fe8b694334eac4ce1a2ae8d507cdcb17
+SHA512: 5cc2b8c1a616c51f2de53ef05b96632b1d5b9262e7685880f4298ce01d8ffea3205c186192059352aea4cde442ca7abf43459e0cd8280f11895629942523521a
+Description: Làm tròn các bảng cài đặt!
+Name: roundPrefs VH(Rootless)
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/roundPrefs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/roundPrefs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.safariblocker
 Architecture: iphoneos-arm64
 Version: 1.3.1
