@@ -11275,6 +11275,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.batteryinfo
+Architecture: iphoneos-arm
+Version: 1.1.8
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 464
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.bvn.batteryinfo_1.1.8_iphoneos-arm.deb
+Size: 158604
+MD5sum: c5ab2651d45e8f48d710e226d794b8de
+SHA1: 9328af385ab780c59b95f4977077a823f26e1d6f
+SHA256: f0b465763861152831dfac60904bdc0f82b4523933ed8369b91b3920ef416936
+SHA512: d7e293b564c7dc726493fa36be5ecac331ae6a6ed6cfe3de0234e837d2e2610b6303d4f5f7b7d7d2fc0af99c54c6a02f8f56fbbe8e77cb82f754e95a9ac18560
+Description: Thông tin về pin
+Name: Battery Info VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/infobat.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/infobat.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: developlab
+
+Package: com.bvn.batteryinfo
+Architecture: iphoneos-arm64
+Version: 1.1.8
+Section: Tweaks
+Maintainer: developlab
+Installed-Size: 464
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.bvn.batteryinfo_1.1.8_iphoneos-arm64.deb
+Size: 158786
+MD5sum: e5150882967b74a5c49b29233c0175bd
+SHA1: 52dee8de7ed9e7bf0ce4fbea749d321ec246bb24
+SHA256: e13f1b792cca6a374dc93779fbf0060c176b800bcf406b28c6025c6ea27cf3a7
+SHA512: 73955bb529def5789708467fa1055ab8c3819e607f55cc08621068410d1cede9d0eb443cbc69a0ee702d86a13c11a8841b693067c49d54194cb5e7fabd48eb70
+Description: Hiển thị chi tiết pin
+Author: developlab
+Depiction: http://bvnsupport.github.io/infodeb/Html/infobat.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/infobat.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Battery Info VH(Rootless)
+
 Package: com.bvn.batterynotch
 Architecture: iphoneos-arm
 Version: 1.8.2k
