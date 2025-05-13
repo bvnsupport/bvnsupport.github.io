@@ -13863,6 +13863,46 @@ Name: iArrays Crack(Rootless)
 Author: Artem Kasper
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.icatch
+Architecture: iphoneos-arm
+Version: 1.1-120+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.icatch_1.1-120+debug_iphoneos-arm.deb
+Size: 58252
+MD5sum: c27c44a00c3be541c1de77072dfc010a
+SHA1: b91f19f3993aa4211235bd962c19b54e23a4f8f7
+SHA256: 6a74bdab5c1fca4875da4f7e1b8aba390419739f3f36b5a3914b576a1b65675b
+SHA512: c1c5aa87653be853d30d4b2aa472122512eacc3a5a3cc59c0246d4afac55563da81e1f4ed37d74846eb9ac26f0faf284ea15be52e8641496b7832cfe6091d0c2
+Description: iCatch Phát hiện mọi tệp .deb bạn tải xuống từ Sileo & Zebra
+Name: iCatch
+Depiction: http://bvnsupport.github.io/infodeb/Html/iCatch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/iCatch.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: DeNsor
+
+Package: com.bvn.icatch
+Architecture: iphoneos-arm64
+Version: 1.1-120+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.icatch_1.1-120+debug_iphoneos-arm64.deb
+Size: 59322
+MD5sum: 6df9ce67b766527cb3169a91da7db324
+SHA1: 5b7eac33afea94d026d1b27bcac90e3db824a943
+SHA256: d272d19b8e9e06537fe795750f7baeecc50a69fae37fae69001995b901e65704
+SHA512: 958fcc89b8941d3e04ceb85d59add844ff8e0e7d2c02f991dcd52d6096e607b1c9f0f9b32d95e99dad87c50a6a15c3559271fd98ccf2e24dee5e92e34a44be29
+Description: ICATCH Phát hiện mỗi tệp .deb bạn tải xuống từ Sileo & Zebra
+Name: iCatch (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/iCatch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/iCatch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: DeNsor
+
 Package: com.bvn.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0K
