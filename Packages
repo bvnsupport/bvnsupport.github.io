@@ -12978,6 +12978,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/FaceLab.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/FaceLab.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.fakedualsim
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.fakedualsim_1.0.1_iphoneos-arm64.deb
+Size: 6322
+MD5sum: 689e18f725a16c7f0d5617356bbf769b
+SHA1: e9f8241c57cddb483e64263c5013f1d1b5666691
+SHA256: d6795d53c4fcbee3051f5ebba7572a4c60aec850947b60b86255a7f6401559b8
+SHA512: bab9d5331002cc265f743a8e5f543ba8d6d6aef214f7ef005676c5c610384807e503d7d46ecb5ca8dcde14da64292e8835dc89d8b72d5039aaeb57ed3322978e
+Description: Giả mạo 2 sim
+Name: FakeDualSIM (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FakeDualSIM.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FakeDualSIM.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.bvn.fiona-rootless
 Architecture: iphoneos-arm64
 Version: 1.0.6R
