@@ -8849,6 +8849,26 @@ Depiction: https://support-jailbreak.github.io/depictions/amber.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.amber
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 320
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 13.0)
+Filename: ./debs/com.bienvannhat.amber_1.2.4_iphoneos-arm.deb
+Size: 17062
+MD5sum: ebe3ac3f1d64c69a86e95a86fee71bc1
+SHA1: 0343ed3fd19610c2f8f9e71e38df972711993f87
+SHA256: e5a6d7106770442888a58a3952ca8e5bd0d036cdf3a9a73d08dd5f0fa6103008
+SHA512: d18531021815704cb41a3240b825eb881561a98664c6acc352bbd1de96a7a3e12342f74b32b504a579b7aba9cface7187d85966a2209ab218231411eda748a41
+Description: Amber-ify your flashlight LEDs.
+Name: Amber VH
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/amber.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/amber.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.appcolorclose
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -18292,6 +18312,26 @@ Author: PoomSmart
 Depiction: https://support-jailbreak.github.io/depictions/amber.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvnrepo.amber-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 304
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 13.0)
+Filename: ./debs/com.bvnrepo.amber-rootless_1.2.4_iphoneos-arm64.deb
+Size: 16790
+MD5sum: 85aaddfe5001faf59cd9227bbbaec21d
+SHA1: de29c01a62c79ea8cd35002780af96332e0be5bf
+SHA256: 99c757cdd6f3fc042769bfd1a1b02124492e4a481a0ae9f31beac5d68f9c9dcc
+SHA512: bade63a2e855e152822b6688fb2a36f5ca0296734ddd53df3a9b74342449b192f31afd42bd1b33bbbdd3503a0d2e8543eea5d1e5f3fbd41bcf3cfb5186e4df54
+Description: Amber-ify your flashlight LEDs.
+Name: Amber (Rootless)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/amber.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/amber.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvnrepo.calllogpro-rootless
 Architecture: iphoneos-arm64
