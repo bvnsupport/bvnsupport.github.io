@@ -13149,6 +13149,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: yan
 
 Package: com.bvn.fiona-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.7K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.fiona-rootless_1.0.7K_iphoneos-arm64.deb
+Size: 160220
+MD5sum: 38e43828a33b21da84ad8d1e563f7489
+SHA1: 4ada20f26c802088943bf7f348fb13a3fa07956a
+SHA256: db9a4c69943079f174049ee5aa482211a38b31109870e9be005c6503b4cdc28e
+SHA512: fc13d0b6485841cba1c56f9c2467d8466d50c1795ce0438719d7688bbe3f44a255aa4406c38090784e869c0c180d47d64854a1a8c322806bc3e3305e5cdae538
+Description: Floating Tab bar for iOS devices.
+Name: Fiona VH(Rootless)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
+
+Package: com.bvn.fiona-rootless
 Architecture: iphoneos-arm
 Version: 1.0.7
 Section: Tweaks
