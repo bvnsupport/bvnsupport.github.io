@@ -15158,6 +15158,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Migii.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Migii.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.milkyway2
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/com.bvn.milkyway2_1.0_iphoneos-arm64.deb
+Size: 92346
+MD5sum: 141a0f025a00a70565bcf12814e6d945
+SHA1: 79d3bdaa6172117fb0bf0c6f21d1414a1e44a30e
+SHA256: cb0400e9fd2cf872c09d41821363640aa83baad47ae80a2af9d45537a4fd5f6e
+SHA512: 9e5e843ed3836dfc15a2de9bde2e7f724a95cd21252a25dea77a5c8d4c7ee86eb0acdb214f2d9c733289cc906cf896ef9515092fed2552307798b068afb055dc
+Description: Sửa đổi dựa trên phiên bản gốc, sửa hỗ trợ đa nhiệm trên iOS/iPados 16+.
+Depiction: http://bvnsupport.github.io/infodeb/Html/MilkyWay2.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MilkyWay2.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: MilkyWay2 iOS15+(Rootless)
+Author: akusio
+
 Package: com.bvn.n95
 Architecture: iphoneos-arm64
 Version: 4.4
