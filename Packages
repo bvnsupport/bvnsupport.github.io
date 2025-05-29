@@ -17073,6 +17073,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 5.9.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1548
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_5.9.8_iphoneos-arm.deb
+Size: 547956
+MD5sum: e4da23ec61e3951d1bee74350f1d810b
+SHA1: cdcf43ae97035ec77ea67f4ffb27387f1425d91a
+SHA256: e2cff9b44de1d158167f75d7a08485ea64104200c15887d2b09edb33920b5833
+SHA512: f40cf5359ddb87de25c67b3cda8c3b7a603c3522433cb369a83b2ce0a436afcbdb37924f9883a13ae1240f07dd0ad6afeeba4bf4ade565cf2c4e55bafc42cc29
+Description: Một tinh chỉnh để nhận Spotify Premium miễn phí, giống như Spotilife
+Name: EeveeSpotify VH
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 5.9.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1548
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_5.9.8_iphoneos-arm64.deb
+Size: 547840
+MD5sum: 6e5a27018272aa668cc6662e3939cfa5
+SHA1: 56618487fa5912c88f5b5fec9e5fade217d75a6f
+SHA256: 6e3210def74e36cc914c08965c738eb851405cd41afb158a4f614d3eb85cd945
+SHA512: 9b7ca367b09304a4b2184489f1861751ffa07eb9168ad92d267bc476c2fde5fa343d27d078f793b517c19c671076603d9173a5996cb8f201d101a5bcaf1fcd08
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Eevee
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
