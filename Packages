@@ -14867,6 +14867,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.lockscreenbatterymagsafe
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 175
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debs/com.bvn.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64.deb
+Size: 11050
+MD5sum: 9a81678c036e3ea647544903ad3b7432
+SHA1: b7cb162c22bfe39be5c89f3174792fde89a1b70b
+SHA256: c6f6330f4ca312bbba5faaff9973dbea88034e06c58881f8b99c07eff950eb8c
+SHA512: c52f18030759de67de289bfa1c5b91071559202faed91a64715a9b5333f479bc50c21675af80ea62fbcbe0f3d7b84f6458a586c1df161260789e7976dd5df9cd
+Description: Bật chế độ xem sạc MagSafe gốc mới trên màn hình khóa khi kết nối thiết bị với nguồn điện
+Tag: purpose::extension
+Name: MagSafe Enabler (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/MagSafe1.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MagSafe1.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+dev: tomaszpoliszuk
+
 Package: com.bvn.locktouchx
 Architecture: iphoneos-arm
 Version: 1.3-15+debug
