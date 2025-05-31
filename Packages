@@ -9921,6 +9921,44 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenRound.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenRound.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.LLSwitch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.LLSwitch_1.0_iphoneos-arm.deb
+Size: 28002
+MD5sum: 629e58a81cf15ce18343c58e7f53247a
+SHA1: 18cc841d061b7f4373cb3bfd6343c4717dfa1fae
+SHA256: 17df93ad27292f23cd8a62f91831192fb6387a0275c1c20e5ba6ccdcc03f815f
+SHA512: 75908dd4676c1c0d8e621caf517ccfbe180160c139609157a970f1e61d4333aa9614edfa72ccc14236225ffbcd392f9e15969a4a2c43615bb20dd88421c0d03b
+Description: Mặt Cười On Off
+Name: LLSwitch
+Author: Simon <qiaozhani000@163.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/LLSwitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LLSwitch.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.LLSwitch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.LLSwitch_1.0_iphoneos-arm64.deb
+Size: 28098
+MD5sum: 14c0f96c0efede7a77a54d81ef15ac17
+SHA1: 30bf423071fc66b0fafde2a3dc2efd69cbbc8251
+SHA256: a1bec876a406e1e6c7608d766a145223e3156d59be3fd9a21ff4c94fef1914e6
+SHA512: 4e3d5d64345686bc5e85877b5b9cfcb3cb325a53446d05d31c6e03bfbd2ac1c7cfba963dd09cde45562784cd5cc0cd353baaa5df10425e96607da6b295a1da40
+Description: Mặt Cười On Off
+Name: LLSwitch (Rootless)
+Author: Simon <qiaozhani000@163.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/LLSwitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LLSwitch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.LS-16-Constance
 Architecture: iphoneos-arm64
 Version: 1.0
