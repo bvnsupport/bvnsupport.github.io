@@ -17332,6 +17332,44 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/TeraBox.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TeraBox.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.tgextra
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: BVN Repo
+Filename: ./debs/com.bvn.tgextra_1.3_iphoneos-arm.deb
+Size: 9486218
+MD5sum: a6795e78ee67bebf836c71b4efa2d780
+SHA1: 344a805a85b8c2761462b32a2dd83a187d6b907b
+SHA256: a93f7668ccbb1b9c48b4dec675b7898fb10f0e9f2a336b93fd19d5b2a0f2022e
+SHA512: 71a7513f591097a545e08e825219d8fad2a783325352e5ff888a59da0d2497899edb44a008ae5579af5297c05627f4a93647f251df701ff2e6fa5c01f58cd168
+Description: Một tinh chỉnh đơn giản cho Telegram, Swiftgram, Turrit.
+ - Nhấn vào biểu tượng trò chuyện 5 lần hoặc 3 ngón tay Tap để kích hoạt menu.
+Name: TGExtra VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/TGExtra.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TGExtra.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: choco, waruhachi
+
+Package: com.bvn.tgextra
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: BVN Repo
+Filename: ./debs/com.bvn.tgextra_1.3_iphoneos-arm64.deb
+Size: 9626586
+MD5sum: 769e5b1c127b5f9d0b9b71a2ba7e5c8a
+SHA1: 3691095f980abf7601af87f81e2fe4f626abc73d
+SHA256: 7b5ee4e00e2799aac5f9654676208f8ec8f917f43ecf01bd7de69824fcab41f9
+SHA512: 103df0595d51baa0f6a912308c271cccb95dfb9651633a6db61a3cb99d1364a7a0a1468663fc7190f70d3ec5cddac929df2624370e2ec55f1480fc87d83b9fb1
+Description: Một tinh chỉnh đơn giản cho Telegram, Swiftgram, Turrit.
+ - Nhấn vào biểu tượng trò chuyện 5 lần hoặc 3 ngón tay Tap để kích hoạt menu.
+Name: TGExtra VH (Rootless)
+Author: choco, waruhachi
+Depiction: http://bvnsupport.github.io/infodeb/Html/TGExtra.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TGExtra.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.ticktick
 Architecture: iphoneos-arm
 Version: 1.0
