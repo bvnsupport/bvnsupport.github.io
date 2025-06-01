@@ -14348,59 +14348,19 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Jade VH(Rootless)
 
 Package: com.bvn.kayoko
-Architecture: iphoneos-arm64
-Version: 2.6
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: ./debs/com.bvn.kayoko_2.6_iphoneos-arm64.deb
-Size: 226872
-MD5sum: 7124ba78c971ccb6222c787d33446a40
-SHA1: bf3d62f224a25906313781a55564d4b27876af2b
-SHA256: 6dca37ccbf87afb5ea5502cef58290b7dea4c851a4f5a0b0b2fdc6949aacf16f
-SHA512: be609a8e898e9f3cdef7673fe5a3a7325729fef6264047a26e706c9ed9e229c3b5a0a799756a4131d8703068b02116142ba5f61270da244621b72d7b38a9998e
-Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí!。
-Name: Kayoko VH(Rootless)
-Author: Alexandra Aurora Göttlicher
-Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.kayoko
-Architecture: iphoneos-arm64
-Version: 2.7
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: ./debs/com.bvn.kayoko_2.7_iphoneos-arm64.deb
-Size: 219982
-MD5sum: f6374c1adea36fd6f8acad96049cf3fe
-SHA1: e10d998019ac813e9da652c385271f3f0b15a678
-SHA256: 4fbdc6b4fec51bc5ec72adcfb91aacbc456b9d89008cb3a7f1680e14af3f2e45
-SHA512: 18710109b4a9ed0e246bd3d9e58f37a460f5c6547b93501e40bfe69df641ac0d975dc327dfb3d67815fc524b55f616a0640096bc935b0184aba86c39845f900b
-Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí!。
-Name: Kayoko VH(Rootless)
-Author: Alexandra Aurora Göttlicher
-Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.kayoko
 Architecture: iphoneos-arm
-Version: 2.8
+Version: 2.9
 Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
+Maintainer: BVN Repo
 Installed-Size: 952
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.bvn.kayoko_2.8_iphoneos-arm.deb
-Size: 225896
-MD5sum: 91ef721da0fad9bb331080749f5f812c
-SHA1: a89a2f3c3462a45eab35a867161c249d4edf1c86
-SHA256: 209b574f5ee15afb79c2fd957aaf24c366756573b934f09a229cde4fcb0075cd
-SHA512: 641a28268918b7b96b9aeda219055b12eb1f03fb9eaaf5ca1a8151426ae9beaedd8d5c4fd71e5bf2ca9eb5ec1f2213d40fa1d9c17033cd0c9b01a7905a5f3d29
-Description: Clipboard manager for iOS.
+Filename: ./debs/com.bvn.kayoko_2.9_iphoneos-arm.deb
+Size: 229426
+MD5sum: ac082f48cad133dde8cf1507d6950e78
+SHA1: e0359e5391c8ccaf3a2a6e055dce464248aa4571
+SHA256: 3beea1f026d7f600dd04abdc269750f3c38948e7ab46afc129cb9b98acb62b54
+SHA512: 8a117ae588e6da33b96c51b1b2bc3a0c00f2474d8a207a266561fa288aa0c5070a420c98b321593ba29d601ba3d170c32da398003ffd380a8df0c110118c7836
+Description: Trình quản lý clipboard cho iOS.
 Name: Kayoko VH
 Author: Alexandra Aurora Göttlicher
 Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
@@ -14409,18 +14369,18 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.kayoko
 Architecture: iphoneos-arm64
-Version: 2.8
+Version: 2.9
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 952
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.bvn.kayoko_2.8_iphoneos-arm64.deb
-Size: 225578
-MD5sum: 149bf4d160af2e76f2d8fcb52d856a8e
-SHA1: 03f18335abeda0f473af3b866cf441b4267f8362
-SHA256: 3160687042e3e3abbaafa9d1c6337b02c7e5281db72e0eaf4401068d2adb10c6
-SHA512: a78c931cfb830bb68b1be5acada6f27f7557932e9c6628c3dceb32e9bbee600376279402b6ed3b58db589bb4a122b189451fb3e3a574825afe018a5a0005211b
-Description:
+Filename: ./debs/com.bvn.kayoko_2.9_iphoneos-arm64.deb
+Size: 229178
+MD5sum: 6e4317ea9f925deca6a629d770d4ca38
+SHA1: f3f67609dbf03d287c134e5217e727d854076b06
+SHA256: 0a5ac341af11e4c4c4da151271795afc3b9c3fa3a4738eafcde4b631bada0c03
+SHA512: cea77d73283a0d78c0add22607aba98ac956fdd926bf86da5e0c2ec814b2059f5bae03b7583cd00e04946793cb8be471f4076708b47e3b25f86304d9cb8fc534
+Description: Trình quản lý clipboard cho iOS.
 Name: Kayoko VH(Rootless)
 Author: Alexandra Aurora Göttlicher
 Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
