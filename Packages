@@ -24874,6 +24874,33 @@ Name: SwiftProtobuf
 Author: eevee
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
 
+Package: org.tihmstar.kDFUApp
+Architecture: iphoneos-arm
+Version: 1.0.2
+Priority: optional
+Section: System
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, firmware (>= 6.0)
+Filename: ./debs/org.tihmstar.kDFUApp_1.0.2_iphoneos-arm.deb
+Size: 80436
+MD5sum: 1199a8cb4c92cab4f7090972ae033421
+SHA1: 8457e8daedb3f592a3241b1005f2479a9a48c7ec
+SHA256: 38bfa24ae5c839e4e3c3449f6a92dc53f7bfa5d79343ecfb46166718e02279b9
+SHA512: b1626e6e032169f207dcf92a427ae448b860b18c415abf2fc0cc9495ef6b8021718e63d6b26cb471306033c64981e5f2aa491f81380096c643f82dd0086f90e1
+Description: easy way to get into kDFU mode
+	kDFUApp is an easy way to get into kDFU mode
+	simply activate all switches and press the button
+	<br>
+	<br>Currently compatible with:
+	<br>iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,4
+	<br>iPad2,1 / iPad2,2 / iPad2,3 / iPad3,1 / iPad3,3
+	<br>
+	<br>NOT COMPATIBLE WITH 64BIT DEVICES!
+Name: kDFUApp VH
+Author: tihmstar
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+dev: tihmstar
+
 Package: plutil
 Architecture: iphoneos-arm
 Version: 0.1.0
