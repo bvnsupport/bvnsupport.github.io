@@ -1,0 +1,113 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"ProKeys VH\n\n- ProKeys là một bàn phím RGB cảm ứng dành cho iPhone.\n\n- Bàn phím iOS đã không thay đổi nhiều kể từ iOS 7, nó khá phẳng và nhàm chán\n\n- ProKeys mang đến trải nghiệm mới với thiết kế phím cơ học cho phép bạn cảm nhận rõ ràng từng lần gõ phím, tùy chỉnh giao diện bàn phím và phím, cùng với đó là các hiệu ứng hoạt hình đẹp mắt giúp mỗi ký tự bạn gõ đều nổi bật với màu sắc sống động\n\n- Hơn nữa, bạn có thể tinh chỉnh từng tính năng để bàn phím hoàn hảo theo ý muốn của mình! Cách duy nhất để thực sự thấy ProKeys có thể làm được gì là thử nó ngay thôi! \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/ProKeys/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/ProKeys/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/ProKeys/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Justin Proulx"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"4/6/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"9 Mb"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.7.11"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.2\n\n- Thêm ngôn ngữ Việt Nam"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

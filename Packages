@@ -15975,6 +15975,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
 Author: FoxfortMobile
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.prokeys
+Architecture: iphoneos-arm64
+Version: 1.1.2k
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, firmware (>= 15.0)
+Filename: ./debs/com.bvn.prokeys_1.1.2k_iphoneos-arm64.deb
+Size: 134000
+MD5sum: 2b3a967d0217ae0859e285dd22b59365
+SHA1: 051718abbc9ae5ee08369e5dfe5298659be6def1
+SHA256: 716220e8fb7ee4c8d7332768928a24bbfcdd4bb655f653f4918dc236c966386b
+SHA512: 6fa18a65254274c08800369a8a0ea3909ba432796b6f1a4c1b52464a516e3c84a1c90942a7b3bee0b22ac74c7ce4d820ac235024341229f07c3f3a732591aa9f
+Description: A Tactile RGB Keyboard for your iPhone
+Depiction: http://bvnsupport.github.io/infodeb/Html/ProKeys.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ProKeys.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: ProKeys VH(Rootless)
+Author: Justin Proulx
+
 Package: com.bvn.psexpress
 Architecture: iphoneos-arm
 Version: 1.0
