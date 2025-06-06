@@ -17308,6 +17308,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.switchtheme
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.switchtheme_1.0.0_iphoneos-arm.deb
+Size: 79454
+MD5sum: 83c97f1a985264153f551ad3a4ebf5a4
+SHA1: d991b20daf1a1cc712b97a2708683e581d2a9f42
+SHA256: 3e8bacd89e17dfd0a519f52790c6bdae76a148e77560bd8c694a2f46fb49f782
+SHA512: 8fa86d103fac824d20283bb91f4705282d413afa2ebb442b72ac87250f164231bfc971dbacf4618ca367deb2e7f65d10d0e1f8f5ddf0513a0d26bd39041a656b
+Description: Thay đồi nút công tắc bật /Tắt
+Name: SwitchTheme
+Author: 白衣
+Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.switchtheme
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.switchtheme_1.0.0_iphoneos-arm64.deb
+Size: 79382
+MD5sum: 315abcf9cdd1124d102c40e856836cda
+SHA1: fcafa861d727555f6270e08e43671e81c4ec9f7c
+SHA256: c7ec8a4757a027f53995cb015260ed1a96feded2a819c594127517b32b5e50a2
+SHA512: 274dcfbba479c4618778d85a48db0fe856f2f8a3f1c5b1c2a9a8aad35b9d8af2ba7b485529061bdd64faa2fbf20d2de94a175286e3155fbb4d78816a960fc030
+Description: Thay đổi nút công tắc bật /Tắt
+Name: SwitchTheme (Rootless)
+Author: 白衣
+Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.teraboxpremium
 Architecture: iphoneos-arm
 Version: 1.0.0
