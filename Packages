@@ -17198,6 +17198,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Eevee
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 5.9.9
+Section: Tweaks
+Maintainer: BvN
+Installed-Size: 1548
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_5.9.9_iphoneos-arm.deb
+Size: 547936
+MD5sum: ddb86b57ec2e01e9bf621ebf666446d2
+SHA1: e5017213060b972c63ff440f620ba89861a7a45f
+SHA256: a5127cca77326f84df0588c1d4566f7cc3628792b41093f553d8846a53e6bb45
+SHA512: e05a7788216e9c9cab13b9d4e03d7eab0b349cbf0d70e5a68c1516ed31eb7587dd6d0c82ca2d3d955529277119551200573a45883ce3291b6be96bda1473ea01
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Eevee
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 5.9.9
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1548
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_5.9.9_iphoneos-arm64.deb
+Size: 547848
+MD5sum: ce40cf8757f2072c202625fad81da23a
+SHA1: 0941eb515f922252ad6307177917b4d32d10acde
+SHA256: 0830a68d38bdb2573170cd3948e2e30a8bea36b4660cc29af4b0569322fb2602
+SHA512: 443d2aacd0717e19a46aad46abb3d2c154b7f553405cc736ba7f2e1d393fe21d626c74d20c4ebac5a432f5402c0e812d25d2377c363c0079dbcfc3e2b96bb6f1
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.stella
 Architecture: iphoneos-arm64
 Version: 1.0.4
