@@ -11787,6 +11787,40 @@ Name: CAHighFPS VH(Rootless)
 Author: PoomSmart
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.callassist15.gtv
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn
+Depends: com.xybp888.callassist15.fugu15
+Filename: ./debs/com.bvn.callassist15.gtv_1.0_iphoneos-arm64.deb
+Size: 30592
+MD5sum: b05c86d111022256b0ea312c98c08717
+SHA1: f5b37be471728dbe4415aab5c1a966c5bb7b2a97
+SHA256: 0b82f141be0a67457a9798b2e002da3e5e47ba587805c8bea3fd2e492502e1bd
+SHA512: 0f212d67370088c089751f128530ce1e2bb3e110f13257b1bee2b331bc2506ae531289af78050bd68342e107c539ee5485a7505c9ca3033024b75c796626fc12
+Description: Gói Tiếng Việt cho Tweaks CallAssist iOS 15
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
+Name: CallAssist iOS15(Gói Tiếng Việt)
+Author: BVN Repo
+
+Package: com.bvn.callassist16.gtv
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn
+Depends: com.xybp888.callassist16.dopamine
+Filename: ./debs/com.bvn.callassist16.gtv_1.0_iphoneos-arm64.deb
+Size: 30596
+MD5sum: 372198e076b9b19f62d562ac2dc9072b
+SHA1: 9eb85acce9fbb51fc2526d8efb3d7df110b8cabe
+SHA256: eeaf83a7ef807b3452775d9a5a7fe92124d6028b1544bd9ab043b18361c2ac0a
+SHA512: 623f31c6157df74c9ab963397125feca594ab57aa9c8277c7e45228fbb5cc01d3cc432bb82870142bf162946998f55179dc4bb1b1b1953cef26e6b480f83db4d
+Description: Gói Tiếng Việt cho Tweaks CallAssist
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
+Name: CallAssist iOS16(Gói Tiếng Việt)
+Author: BVN Repo
+
 Package: com.bvn.callblocker
 Architecture: iphoneos-arm64
 Version: 2.0.4
