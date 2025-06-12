@@ -8996,6 +8996,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/April/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/April.json
 
+Package: com.bienvannhat.april
+Architecture: iphoneos-arm64
+Version: 3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 808
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/com.bienvannhat.april_3.1_iphoneos-arm64.deb
+Size: 419384
+MD5sum: 9ca650c6e679b00f56a7cff60d681d9f
+SHA1: babf8e6a2c6b5769e33c013a5c53eba818aebecd
+SHA256: 9331e7586da9a1be779be0e0886470a889f58ec92154fce8a2118a004fcf29c0
+SHA512: fd3cbf537bc53a215b13ca40eb45803cd17270a7d8e7d83c53b465717d06fc05279e17144de06288dec9cb8b083fada175e810a71742eda5916211c2bcca1911
+Description: Tăng cường tính thẩm mỹ của ứng dụng cài đặt của bạn lên cấp độ tiếp theo khi đang bay
+Name: April VH(Rootless)
+Author: Luki
+Depiction: http://bvnsupport.github.io/infodeb/April/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/April.json
+
 Package: com.bienvannhat.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.7.12
@@ -17314,6 +17334,26 @@ Name: EeveeSpotify
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.stealthcc
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.stealthcc_0.9.0_iphoneos-arm64.deb
+Size: 30466
+MD5sum: c7e2ef96485352814e4b96ef1929e585
+SHA1: 89fa66a6791136721a13f349cc55916e1499c10e
+SHA256: 5effa9b7da74821f3a8da799eedc5fd030dd8efeb741aade8d7122926b38ae07
+SHA512: 0d4fe6bfff37cd9bf8dd0f66199074216d9f01ca5f4b42068e3e11c04ed3dbd0bd0a9110df15be83c2aedfb666e204a6845ccf332355bf5c663fc233878d442e
+Description: Control the intensity of the stock CC blur on the fly
+Name: StealthCC VH(Rootless)
+Author: Luki
+Depiction: http://bvnsupport.github.io/infodeb/Html/StealthCC.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/StealthCC.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.stella
