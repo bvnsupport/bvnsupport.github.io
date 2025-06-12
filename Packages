@@ -9005,16 +9005,17 @@ Installed-Size: 808
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings
 Filename: ./debs/com.bienvannhat.april_3.1_iphoneos-arm64.deb
-Size: 419384
-MD5sum: 9ca650c6e679b00f56a7cff60d681d9f
-SHA1: babf8e6a2c6b5769e33c013a5c53eba818aebecd
-SHA256: 9331e7586da9a1be779be0e0886470a889f58ec92154fce8a2118a004fcf29c0
-SHA512: fd3cbf537bc53a215b13ca40eb45803cd17270a7d8e7d83c53b465717d06fc05279e17144de06288dec9cb8b083fada175e810a71742eda5916211c2bcca1911
+Size: 419406
+MD5sum: b1e01129db976ac718df2d254a6a84b6
+SHA1: fe471db2aab7ada3d201b537dab73951cae79778
+SHA256: cfd5f82316f44ad78b3c6a87726b89d7b4317e18700dc85160270bec8ba0d5a0
+SHA512: 44dfa429bedcc0887c014c05a3f284c8b7588fd8bbdb6903acab41117afddbd4e73aa2114da56e2400bb89d1b3fa00a78f3418c96f98da52378f7411fe1992b0
 Description: Tăng cường tính thẩm mỹ của ứng dụng cài đặt của bạn lên cấp độ tiếp theo khi đang bay
 Name: April VH(Rootless)
 Author: Luki
 Depiction: http://bvnsupport.github.io/infodeb/April/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/April.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bienvannhat.bakgrunnur
 Architecture: iphoneos-arm
@@ -23717,6 +23718,24 @@ SHA1: 8b899ce0284804d45e19009f459e540756720270
 SHA256: aca1204fc00ad1cbc20328adadcd8226642266addfa2667447c72d8ed1e5b8f9
 SHA512: c9f8c32b0fed71abf200d659e02d39a770eeeeb4f5722c13a4beacbdcc595ae6ba89f81d502871869c8e8986fa9c0660473c2858afba53988a60778ad058593d
 Description: Nhân vật anime hoạt hình làm chữ số trên đồng hồ của bạn.
+Name: AniTime (Rootless)
+Author: yan
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.yan.anitime
+Architecture: iphoneos-arm64
+Version: 1.0.2K
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1544
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0.2K_iphoneos-arm64.deb
+Size: 618942
+MD5sum: 7704fe440c21e00ba5b053cc9642da00
+SHA1: 1cf78ddc5dfd5ffb39068892e60548f4944bfeb4
+SHA256: 6195cc6f4bc071eeb123e0ffb2bed4f2e7489dc5d7eea9490b0d757312b7c91e
+SHA512: a99642e4fade93eb62465f6048409719d5508c52d59694ba40265f06b538a6157fcd20403045b7a4beca44cdbd5e04824ccb5a808db181a2118157359e203304
+Description: Nhân vật Anime hoạt hình làm chữ số đồng hồ của bạn.
 Name: AniTime (Rootless)
 Author: yan
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
