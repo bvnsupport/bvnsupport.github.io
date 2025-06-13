@@ -13422,6 +13422,50 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Flo.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Flo.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.flow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.flow
+Replaces: com.dvntm.flow
+Filename: ./debs/com.bvn.flow_1.0_iphoneos-arm.deb
+Size: 260678
+MD5sum: 7d04616ce791e72a98dce04ea275c068
+SHA1: 27ad48f03dc1ddbb4ef30f2c82ed248b5f5208f5
+SHA256: e48698aa086624d69ceaceffccbb3c8e1eb212d57d7bfba19b9776e4651f9994
+SHA512: 0ab489a6d79bb8ff96b2dae36f34b6277a3173bd1d53c2ae3044def69af241af0dd8eb1cc1004197816bb299763ec1e1812a5fcd76da05cde57e8d2c8342ce9b
+Description: Bổ sung các tính năng hữu ích cho ứng dụng Messenger
+Name: Flow Cho Messenger
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Flow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Flow.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.flow
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.flow
+Replaces: com.dvntm.flow
+Filename: ./debs/com.bvn.flow_1.0_iphoneos-arm64.deb
+Size: 261024
+MD5sum: b11e1f5c13fb2161ae83dd5c770a1cff
+SHA1: ab3cd4ca5b988c16e31356b6d0a8c3f356dd9055
+SHA256: 05e51bd7706f2c72e8745cf9bf3c226be29dc01dc34bf5d7df1173196b94954c
+SHA512: 210a148d3f9a6a5324822ce9e4034eb37c8060931fe18c8a78107d3a9958d4be54c27d52d69b3efd2edf9cd4ef553cabda56f65260eb94b75eb55d52fab269d0
+Description: Bổ sung các tính năng hữu ích cho ứng dụng Messenger
+Name: Flow cho Messenger
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Flow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Flow.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.focospatch
 Architecture: iphoneos-arm
 Version: 0.0.1
