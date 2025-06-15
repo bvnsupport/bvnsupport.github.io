@@ -18063,11 +18063,11 @@ Section: Tweaks
 Maintainer: BVN Repo
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Filename: ./debs/com.bvn.visibleisland_2.0_iphoneos-arm.deb
-Size: 42150
-MD5sum: 826dc108487bb7471b1dd30628b52d6a
-SHA1: 6517f959fce193c28d460b5525784ab8af478aca
-SHA256: 351e6ccb30c14093401d610d80c41e5974841323da8a5dea5c7674d7b019edc8
-SHA512: 83c997176cbbe5bde4c0b455273f91eb56cb88fac3a7c30173854b1fcd01d6eaecb9c11a01c588f4aea45b3b36de3d433b8195d8bfc7d6e4011958b6fa950441
+Size: 43360
+MD5sum: 5b68a108361a437ba2874ad3bb5429ec
+SHA1: 296b41484386ad60e176a333c0bdeb396b15a660
+SHA256: ae83c19f069ed5915a4611c42a5dfc7e46732b093f83f99bc6f5214cf280a579
+SHA512: 1fe7bf8a8e31e9c2cc32e0f4f5641ffc05619e34c1514d80268af94339d960ed2b0ee03b65e37a80cf6c6858bfc2e6e3e267fa0950cc86ddcab0751fa8d42180
 Description: Enable, fix, and customize the Dynamic Island on older devices.
 Name: VisibleIsland VH
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
@@ -18083,11 +18083,11 @@ Section: Tweaks
 Maintainer: BVN Repo
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Filename: ./debs/com.bvn.visibleisland_2.0_iphoneos-arm64.deb
-Size: 43150
-MD5sum: e1f9b65432b9363c35d770add630a753
-SHA1: fd0623e4cdf370093b2f67bdb67e9bf67643ed7d
-SHA256: 465f2d1e48d4bb67f3e24485747989a9f3ca272483da74edd5bff2d750f32ab0
-SHA512: ebff3549ec3c9d71f429a7f8a605f9b277480d7fc3b27e7147ab3ad7e0ffa03a59d3ca20de01febcabe93f6eeed8b978bd76c4d9d82185af40db0d6f8e2f83f9
+Size: 44424
+MD5sum: f023af60274136b96d9470cf125d6777
+SHA1: bf5a3a35a172c46ee7d9aa616270cc685b0331d8
+SHA256: 76d783f6e151bd1adb6ef6c59ee4c1aa702dd803752c4859bdf845ddf5623500
+SHA512: 60bb3aa5fe39c2a3a52e61f6628cee57553f0a282dd73108cc8b88052e37db9c3641e69c99e08a838337234f3ec68c2bbed2fe95d7c3f04284d1fb0877868f8e
 Description: Enable, fix, and customize the Dynamic Island on older devices.
 Name: VisibleIsland VH(Rootless)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
