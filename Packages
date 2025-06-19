@@ -20230,6 +20230,46 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64
+Version: 2.2-1K
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2-1K_iphoneos-arm64.deb
+Size: 391702
+MD5sum: 5de4b82c9e2a718f2adae2cd511759b4
+SHA1: 02277be4eb85f04f51694f40a7c52d3687de94e1
+SHA256: 9f1b0d47132cf9ad751b5d02662fa56f45e3bc25cf9f64ecf57ef7ec812437e9
+SHA512: 980a2472b73f6631067897c6a0d043f48d522ba7d44da81c61f499334da5c1fd0746d8bd196fe545759a5d400349a9591e3fcf86776917e964ac4b80c26788fd
+Description: Misaki là một công cụ tùy chỉnh jailbreak toàn diện cho iOS 15 và 16, giúp bạn biến iPhone của mình trở nên độc đáo. Dưới đây là một số tính năng và tùy chọn mà Misaki cung cấp:
+ - *Tùy chỉnh Màn hình khóa*:
+ - Ẩn thời gian, biểu tượng Face ID và khóa
+ - Tùy chỉnh nút Quick Action để tăng cường khả năng truy cập
+ - Ẩn thông báo không mong muốn
+ - *Tùy chỉnh Màn hình chính*:
+ - Ẩn nhãn ứng dụng, dấu trang và thanh tìm kiếm
+ - Tùy chỉnh giao diện và bố cục ứng dụng
+ - *Tùy chỉnh Trung tâm điều khiển*:
+ - Tùy chỉnh bố cục và giao diện
+ - Thêm chỉ số phần trăm cho các thanh trượt
+ - *Tùy chỉnh Thanh trạng thái*:
+ - Tùy chỉnh văn bản nhà mạng và thời gian
+ - Ẩn các biểu tượng không mong muốn
+ - *Tùy chỉnh Trung tâm thông báo*:
+ - Tùy chỉnh giao diện và bố cục
+ - Ẩn văn bản không mong muốn
+ * Misaki cũng cung cấp nhiều tính năng khác như:
+ - *Tùy chỉnh thư mục*: ẩn tiêu đề, nền và hiệu ứng mờ
+ - *Tùy chỉnh ứng dụng điện thoại*: ẩn tab không mong muốn
+ - *Tùy chỉnh App Switcher*: ẩn biểu tượng và nhãn ứng dụng
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki VH(Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: https://chariz.com/buy/misaki
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.iarrays.libiarrays.rootless
 Architecture: iphoneos-arm64
 Version: 1.0.16-beta-14
