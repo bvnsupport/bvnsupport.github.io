@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"dvntm"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -96,7 +96,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.2\n\n- Thêm tuỳ chọn chất lượng tải xuống video"
+"markdown":"### Phiên bản 1.:\n\n- Thêm tùy chọn ẩn đề xuất khỏi nguồn cấp dữ liệu[Đảm bảo đọc mô tả tùy chọn trước khi bật]\n\n- Thêm khả năng tải xuống video trong bình luận bằng cách nhấn lâu\n\n- Thêm tùy chọn thông báo về các bản cập nhật\n\n- Đã sửa lỗi biểu tượng trên một số thiết bị"
 },
 {
 "class":"DepictionLabelView",
