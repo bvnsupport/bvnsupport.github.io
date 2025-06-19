@@ -14138,6 +14138,50 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.glow
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16888
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Replaces: com.dvntm.glow
+Filename: ./debs/com.bvn.glow_1.2_iphoneos-arm.deb
+Size: 8987790
+MD5sum: c86ea8dc8e832bd9bdaf2d290e4f6a1b
+SHA1: cf623d067879a08f12cbeaff194258b65af2ac46
+SHA256: 3f9bfaf94f62142ca139ef0522edc97080384290cc3694b3bba9ab6cfe6f439f
+SHA512: 6d98dd120d843316f1d9a1fd8404a12c9c05e85665506252a95addc036b5079391804adfa595b8f535d79eb3306c5a9263587ec8aeabbfd8c62d16b086dc77c5
+Description: Bổ sung các tính năng cho ứng dụng Facebook
+Name: Glow Cho Facebook VH
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.glow
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 16888
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Replaces: com.dvntm.glow
+Filename: ./debs/com.bvn.glow_1.2_iphoneos-arm64.deb
+Size: 8992074
+MD5sum: e1322c7dc61fd16eb595fc2a50ef49d0
+SHA1: b56871817ecf406095cb631d1963c4c519e4cf83
+SHA256: f2e8c334563600808f48a55dbbf533433c195548eb11ef72eadc6396aada0522
+SHA512: c763dc70f15a9f0031f556b2d43a40e9f3e6e542a6ec915853a2e67af42ec578b3e89634a470e3ed492e2b7453f461c10290fd7f8fe0d041c954cabf43aa8288
+Description: Bổ sung các tính năng hữu ích cho Facebook.
+Name: Glow Cho Facebook (Rootless)
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.griddy
 Architecture: iphoneos-arm
 Version: 1.0.5K
