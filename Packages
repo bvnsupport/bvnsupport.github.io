@@ -17557,6 +17557,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 6.0
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1612
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_6.0_iphoneos-arm.deb
+Size: 576468
+MD5sum: ba814e00953ec29937c644c7abbfd45d
+SHA1: 0058c7c843320ee8a253e0cd5bc27a5f7f3ef160
+SHA256: cbdf3e164051a5defb6840d3ecc649dba53df0bfc72a4e22ec50d53e4eb1a710
+SHA512: a2ec1eeefcb65c82ddb87dd53b5303e12234c7e3f7d9956c8943dca8f74955f6a6769b96c4eb7c4564ddff9b84dfbc8bc480840a80bd648e194b03c6f6ccf5fe
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm64
+Version: 6.0
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1612
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_6.0_iphoneos-arm64.deb
+Size: 576384
+MD5sum: a932eace24164e0ff20b3206678669be
+SHA1: 91c283d651de59978abd06fd3de31ee2e99ae5fc
+SHA256: c365d06774f76d839c3758215bfa6d49f517200f9fb1bd3bbf64f4893959c7ee
+SHA512: de4c6f5739c23dc4549d1ba03ec8f6159e4cec46d5c59b334c5210392d863121b3795566af98544cdd9d0f1579d874c53b8aca5535b8d8737c4bf8da9a6e953d
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: ÊveeSpotify VH(Rootless)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.stealthcc
 Architecture: iphoneos-arm64
 Version: 0.9.0
