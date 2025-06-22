@@ -96,13 +96,30 @@
 "class":"DepictionStackView"
 },
 {
-"tabname":"Nhật ký thay đổi",
+"tabname":"Nhật ký",
 "views":[
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 6.0\n\n- Sửa lỗi"
 },
 {
+"views": [
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Paypal",
+                    "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Mua cho tôi một ly cà phê",
+                    "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Hỗ trợ"
+},
+{
+        
 "class":"DepictionLabelView",
 "text":"Copyright © 2025 by BVN Repo",
 "textColor":"#999999",
