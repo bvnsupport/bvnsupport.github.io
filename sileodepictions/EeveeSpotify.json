@@ -106,7 +106,7 @@
 "class":"DepictionStackView"
 },
 {
-"tabname":"Hỗ trợ",
+"tabname":"L.Hệ & Hỗ trợ",
 "views":[
 {
 "class":"DepictionTableButtonView",
@@ -117,6 +117,21 @@
 "class":"DepictionTableButtonView",
 "title": "Mua cho tôi một ly cà phê",
 "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {        
 "class":"DepictionLabelView",
