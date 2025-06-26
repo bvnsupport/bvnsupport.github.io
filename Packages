@@ -14184,6 +14184,50 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.glow
 Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 17004
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Replaces: com.dvntm.glow
+Filename: ./debs/com.bvn.glow_1.3.1_iphoneos-arm.deb
+Size: 9028110
+MD5sum: ad38a7083cee083381c22d701d62e0a3
+SHA1: b83449edc29550759cf70a21444a156630952c81
+SHA256: ead3100b8eb654db20111a6ba1f2b87a4ee843f8cc330e93d8012e3e7cfa0387
+SHA512: 3e2bda16d9983e9643b334f88f310fedbbcbcbeeb184ee608baf7bc62847e3a0bd1a58610aac95f3a18501c77258f7ae4821e82791323b59c1ca2f46844a04ba
+Description: Bổ sung các tính năng cho ứng dụng Facebook
+Name: Glow Cho Facebook
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.glow
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 17004
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Replaces: com.dvntm.glow
+Filename: ./debs/com.bvn.glow_1.3.1_iphoneos-arm64.deb
+Size: 9028020
+MD5sum: ee381e844e239d4eb62a42a736fcd56b
+SHA1: ad09d868cdd3654a81aa1684397c8635225750cf
+SHA256: 723ef5415382baa03563c19b552401ea642b9047aa2c502bbb5624edf6cca75d
+SHA512: 781ef6110e53f2040401cfaef2b3496e6186b5d6d3462f50dc06dda5d18eb4fceb7aa606c0df5d56f9f8afdf4624062f5b50c13040cddb86ebac8bc067f677c3
+Description: Bổ sung các tính năng cho ứng dụng Facebook
+Name: Glow Cho Facebook (Rootless)
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.glow
+Architecture: iphoneos-arm
 Version: 1.3
 Section: Tweaks
 Maintainer: dvntm, nowesr1
