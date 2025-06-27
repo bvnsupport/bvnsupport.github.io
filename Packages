@@ -17861,20 +17861,20 @@ Package: com.bvn.switchtheme
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 304
+Maintainer: BVN Repo
+Installed-Size: 272
 Depends: mobilesubstrate
 Filename: ./debs/com.bvn.switchtheme_1.0.0_iphoneos-arm64.deb
-Size: 79382
-MD5sum: 315abcf9cdd1124d102c40e856836cda
-SHA1: fcafa861d727555f6270e08e43671e81c4ec9f7c
-SHA256: c7ec8a4757a027f53995cb015260ed1a96feded2a819c594127517b32b5e50a2
-SHA512: 274dcfbba479c4618778d85a48db0fe856f2f8a3f1c5b1c2a9a8aad35b9d8af2ba7b485529061bdd64faa2fbf20d2de94a175286e3155fbb4d78816a960fc030
-Description: Thay đổi nút công tắc bật /Tắt
-Name: SwitchTheme (Rootless)
+Size: 67764
+MD5sum: ddd3cb8dffae1afe18b24d079252a0f2
+SHA1: 28259fd57c660c3aace49fed36d9c79fcd0b485e
+SHA256: 49d53e07761e25fa96ead795910437af34cf38ba6d80d89fb9f06599406ee219
+SHA512: 4b16390462ffa5c824b03ec6d5586be495de180b07d9d90e22ad56267dddf8585e1d93590be9f83cd6316d18b4a374168849e88c9985700e8087619b4a3f73df
+Description: "Đây là một chủ đề công tắc hoàn toàn mới, mang lại trải nghiệm thay thế cực kỳ mượt mà
+Name: Day-Night Switch (Rootless)
 Author: 白衣
-Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
+Depiction: http://bvnsupport.github.io/infodeb/Html/Day-Night.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Day-Night.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.teraboxpremium
