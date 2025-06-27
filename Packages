@@ -17837,6 +17837,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.switchtheme.rl
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.switchtheme.rl_1.0.0_iphoneos-arm64.deb
+Size: 67766
+MD5sum: bf0393553ed2cbf03d9b3da5bd52d07e
+SHA1: 03ae823b656e6cbbe1ae394642350c99f7ba8f4b
+SHA256: 77406e477a63fb942120d477476d00b7487931e3a41c375b34064096143f1ebe
+SHA512: c86ded5a108380d3f9dd3f52e2911cebacbd1214ebc9af03da1254dd14e42908aa8191b5d2976ada7da5132a0414eea49ac25c802e756dc41faa1a72d6cb6ce6
+Description: "Đây là một chủ đề công tắc hoàn toàn mới, mang lại trải nghiệm thay thế cực kỳ mượt mà
+Name: Day-Night Switch (Rootless)
+Author: 白衣
+Depiction: http://bvnsupport.github.io/infodeb/Html/Day-Night.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Day-Night.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.switchtheme
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -17861,20 +17881,20 @@ Package: com.bvn.switchtheme
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 272
+Maintainer: Bvn Repo
+Installed-Size: 304
 Depends: mobilesubstrate
 Filename: ./debs/com.bvn.switchtheme_1.0.0_iphoneos-arm64.deb
-Size: 67764
-MD5sum: ddd3cb8dffae1afe18b24d079252a0f2
-SHA1: 28259fd57c660c3aace49fed36d9c79fcd0b485e
-SHA256: 49d53e07761e25fa96ead795910437af34cf38ba6d80d89fb9f06599406ee219
-SHA512: 4b16390462ffa5c824b03ec6d5586be495de180b07d9d90e22ad56267dddf8585e1d93590be9f83cd6316d18b4a374168849e88c9985700e8087619b4a3f73df
-Description: "Đây là một chủ đề công tắc hoàn toàn mới, mang lại trải nghiệm thay thế cực kỳ mượt mà
-Name: Day-Night Switch (Rootless)
+Size: 79382
+MD5sum: 7d8d0359cc2e014e956a41b3b72157d5
+SHA1: fa8c81afa45c1528aba846141b546ae1270c56db
+SHA256: 3459a54b00a7b2076956ef2df2c53c11ab9d0dba6a72ce7beecaf1931792933e
+SHA512: ae2df9416c3c3da7cdd1537008cddb31bb0fa0026466b1b5df8d647bcbcc7c52530b95967476704c65c3e6cb572c4b090734b31e639a320e17c17b1560359930
+Description: Thay đổi nút công tắc bật /Tắt
+Name: SwitchTheme (Rootless)
 Author: 白衣
-Depiction: http://bvnsupport.github.io/infodeb/Html/Day-Night.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Day-Night.json
+Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.teraboxpremium
