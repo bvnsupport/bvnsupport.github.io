@@ -16856,6 +16856,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.9.9K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.rl_1.9.9K_iphoneos-arm64.deb
+Size: 409464
+MD5sum: e4af67c5a54a034475a17ed96cf4b87c
+SHA1: bebf2f9388fb635a55bcedf0af34f80e436483ef
+SHA256: 22ed000a14a6ea87cd7f496cc9a3ed402ef87b5a09854a8641acc7b3ce38bf4d
+SHA512: fb0d7438f08afdd7aac19ccf7d9bc2bb5d5822886e09109a636bb96c2b4ffeb448a492ab0b17d67032b3ddc7585d812ee7c141048b041d5f48572e4f12173816
+Description: Safari Essential Features
+Name: SafariX VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm
 Version: 1.1
