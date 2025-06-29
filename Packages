@@ -26484,6 +26484,26 @@ Depiction: https://chariz.com/get/cephei
 Support: https://hashbang.productions/support/
 dev: hbang
 
+Package: ws.hbang.common
+Architecture: iphoneos-arm64
+Version: 2.0K
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: ./debs/ws.hbang.common_2.0K_iphoneos-arm64.deb
+Size: 353968
+MD5sum: 075e9b5a7168d0877700458d73273a18
+SHA1: 4b900979b3031b779f55d65ad727ec2513807e2d
+SHA256: 93a3df96e6e4561e81a99142b32178e828b0e3d07d76c7c3522142b3495eec61
+SHA512: 455edcda8fad9bb003f31076625324384c664cf5908ea50d288197eceb83a78c643d281f635357debf18e1e7450c53785866269848d01fe3d2315136351fdf88
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support (Rootless)
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Support: https://hashbang.productions/support/
+
 Package: xyz.coolstar.wzrypj
 Architecture: iphoneos-arm
 Version: 1.0.1
