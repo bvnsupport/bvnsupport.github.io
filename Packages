@@ -17688,6 +17688,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.stealthcc
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.stealthcc_0.9.0_iphoneos-arm.deb
+Size: 30964
+MD5sum: d2feb662ac1bf9a687949c8a82f638cd
+SHA1: 34777ff32a250a75bb0a28391b48ba09bbbf5c36
+SHA256: 70d20802d4089156aeefde71b432526f19555b233ad256b5f0b3c1976c3a171e
+SHA512: d87f5bb5b0e5c920909138b8e50d433089d0c1559020dbb7e6dbff97f39f950a25a63850fc9812d415309a53097f0c997cc6b6c6f55801087275c8809cafc01c
+Description: Control the intensity of the stock CC blur on the fly
+Name: StealthCC VH
+Author: Luki
+Depiction: http://bvnsupport.github.io/infodeb/Html/StealthCC.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/StealthCC.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.stealthcc
 Architecture: iphoneos-arm64
 Version: 0.9.0
 Section: Tweaks
