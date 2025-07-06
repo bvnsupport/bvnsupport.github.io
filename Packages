@@ -11984,6 +11984,28 @@ Name: CC26 (Rootless)
 Author: therealhoodboy
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.9.7b
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 220
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.7b_iphoneos-arm64.deb
+Size: 40340
+MD5sum: db5e467a591898e743991536421f522f
+SHA1: b7f036e43d7bfdcc534942e7d43ca17c98af36ff
+SHA256: 99afd162c58fb78f7bcf4acff95b1614f4fd8a7c133e5bf48974df489be3ea5c
+SHA512: a7d3ff88b31cc434c81dd393a21b0ab6c4ed9d522ef8e13ea39e23130acb8ddcc8f97643b470b140dbebba272608bf0fb4014138a239583f5f90ba9321df9fd2
+Description: Trung tâm điều khiển kiểu iOS 26
+Name: CC26 (Rootless)
+Author: therealhoodboy
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64
 Version: 1.3
