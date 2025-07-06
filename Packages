@@ -12007,6 +12007,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.cc26
+Architecture: iphoneos-arm
+Version: 0.4.9.9b
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 220
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.9b_iphoneos-arm.deb
+Size: 41726
+MD5sum: d3903ebf88fcc2933867a913f9ff5664
+SHA1: 488185a7486b20ed8af5578a2962f1cf15f4bf31
+SHA256: ea2a6596cb382de9cee6484c6bc284aa7e7e67b05e1afde47891cd8dc2400a82
+SHA512: 59f62544a5f8288018f2c5041284bb2fa90f86a60a4396b2056727a63ab44ec945e09f5b796b0f164651d987cfa8ed125438fde96c53cf2c644fe4ae133a9d01
+Description: Trung tâm điều khiển kiểu iOS 27
+Name: CC26
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: therealhoodboy
+
+Package: com.bvn.cc26
 Architecture: iphoneos-arm64
 Version: 0.4.9.9b
 Section: Tweaks
