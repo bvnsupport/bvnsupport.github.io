@@ -11940,6 +11940,50 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CamScanner.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CamScanner.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.cc26
+Architecture: iphoneos-arm
+Version: 0.4.9.6b
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 220
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.6b_iphoneos-arm.deb
+Size: 34974
+MD5sum: 8dcfad1ea92bd7fda5b975577a0bd1c0
+SHA1: 51342fb3bc49a99d9a7bfe94185063dc90e96acb
+SHA256: 9d3568435d27f9031cea9e1d443fbde1e8e6167e1f7b64899d7419d5568cc2c2
+SHA512: 8f97f3ece625c257db8d7d59c8c4fd49d22615203d4f1a058dc1299fa93b48578e9c00de8476ffafb40589274c31ca4d3390870716e6dff136620c1785146741
+Description: Trung tâm điều khiển kiểu iOS 26
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: CC26 VH
+Author: therealhoodboy
+
+Package: com.bvn.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.9.6b
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 220
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.6b_iphoneos-arm64.deb
+Size: 34876
+MD5sum: f7b82ef9523317f31bb9c41facdc73be
+SHA1: b1e85fa2e8113751926af965cb177b69cde7202c
+SHA256: 8f1fcf53889bd69eba4221f0d2785b779b0ca253e71b6f698ecb167949d85b5d
+SHA512: 9a320b4fb487d4f6369a229616661a643aaf2b476f8c4858f5ded304d800a66c0d4b379c52fc94e304822844bbdd18ab059b91bd2f1a9398d8e221e3740af50a
+Description: Trung tâm điều khiển kiểu iOS 16
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Name: CC26 (Rootless)
+Author: therealhoodboy
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64
 Version: 1.3
