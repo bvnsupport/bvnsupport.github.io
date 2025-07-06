@@ -12006,6 +12006,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.9.9b
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 220
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.9b_iphoneos-arm64.deb
+Size: 41654
+MD5sum: eda0de639ea21050fb75916d662466f7
+SHA1: 4fbfccfba3469df38750ca1412332c3a973cee71
+SHA256: 48283de02db01c569d3f9c562e11a60b1cc9f7ffa64acbd3adc51e1c400ead2a
+SHA512: 89f89084c14a00fdc5058a97f0a1ac60779ff8e02f068ddddf34d6cdbd479c14e70d794b55b03d0c9fe24d05422ee5d0d8265623fec4d733c12ef7ddc268eddb
+Description: Trung tâm điều khiển kiểu iOS 27
+Name: CC26 (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: therealhoodboy
+
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64
 Version: 1.3
