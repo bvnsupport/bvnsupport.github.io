@@ -250,6 +250,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.0xkuj.bettercccrashprotect
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.bettercccrashprotect_1.0.0_iphoneos-arm64.deb
+Size: 5280
+MD5sum: 80015963c034062b714e1ac09787a2e7
+SHA1: 7468e94075038221b9b2261c29f8432d883eaaac
+SHA256: f6bb2c007ae3278b4e78bf8d72cb76e143d18020f1dde00dcb804adb9225a833
+SHA512: cc8a1e158c97c2e5536d87409d5db843920c60bda61457e991229a0703fc2c821666a649cbf100cdfea31884e0275ad261c77b5402f20cab336ab6ea5205d5de
+Description: Prevent Weather Module with BetterCC crash your idevice
+Name: BetterCCCrashProtect
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -2012,21 +2030,22 @@ Package: com.BIENVANNHAT.bettercc
 Architecture: iphoneos-arm
 Version: 0.0.5
 Section: Tweaks
-Maintainer: Biện Văn Nhật
+Maintainer: BVN Repo
 Installed-Size: 1828
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
 Conflicts: com.miguelaka95.bettercc
 Filename: ./debs/com.BIENVANNHAT.bettercc_0.0.5_iphoneos-arm.deb
-Size: 3375980
-MD5sum: 44097968b1ab0e1cc2ff208c4f7b1680
-SHA1: d5bab5892879b22dfb4714ef141e6e096437cd66
-SHA256: 1220c6c56e879483d1bed676421c4858170d8bf9acce4e5182cb28c9a458d85c
-SHA512: c1c3be0c355d25a4e736d80b83aa182c1b501492b54d5a423c842003d031ad540076d550ba76646bfbec33b363c928b8828327a1c3ef9aafd885037ce5020661
+Size: 320058
+MD5sum: 71082eccdf126ba5c6a25cfee79be56d
+SHA1: cf556c6b8988298131bd6f7fedb1218a710cbe92
+SHA256: 4fa4dadb5bbe73c9e1dd0932d31e794b3769766be8180c3b180dbda23ab104c9
+SHA512: 94894cb25480af3938b5468f36c3bcfb70cf2237b1a228ac251e07bc8063edc89432acccfd76dbed0b55fe17de688b1a6416e07637cc6df5886f1bdf64c853ff
+Homepage: https://repo.packix.com/package/com.miguelaka95.bettercc/
 Description: Trung tâm điều khiển theo cách bạn muốn!
-Name: BetterCC VH
+Name: BetterCC VN
 Author: Miguelaka95 <miguelaka95@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/BetterCC/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/BetterCC/?p=info
+Depiction: http://bvnsupport.github.io/infodeb/Html/BetterCC.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BetterCC.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.bioprotectxs
@@ -11470,6 +11489,29 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/BeautyPlus.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BeautyPlus.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 Name: BeautyPlus Vip(Rootless)
+
+Package: com.bvn.bettercc.rootless
+Architecture: iphoneos-arm64
+Version: 0.0.55
+Section: Tweaks
+Maintainer: BvN Repo
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, com.0xkuj.bettercccrashprotect
+Filename: ./debs/com.bvn.bettercc.rootless_0.0.55_iphoneos-arm64.deb
+Size: 315348
+MD5sum: 291fe70b7b50164efbbe51c326b2c198
+SHA1: 60cb0c7eef381a06ad5faa5389747c159f543188
+SHA256: ca0681ed009c339a7f85b10b7b556e057135a7d310e9e21ee3f87cdae6685cbb
+SHA512: 2e08fcb26fa93d50d6f3f24136609c08063da336de5768dc7a5595e91491716535bc529cda91170afc3fd8412fc11c28c71ed6e52d8ed3d5d3e0c7d330a57c6d
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Name: BetterCC VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/BetterCC.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BetterCC.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Miguelaka95
 
 Package: com.bvn.betteruiswitch
 Architecture: iphoneos-arm
