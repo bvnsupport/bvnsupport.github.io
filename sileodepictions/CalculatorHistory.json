@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"CalculatorConverter\n\n- Tweak này cho phép người dùng iOS 14-16 sử dụng tính năng chuyển đổi đơn vị và tiền tệ trực tiếp trong ứng dụng Máy tính, giống như trên iOS 18.\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
+"markdown":"CalculatorHistory\n\n- Tweaks này cho phép người dùng iOS 14-17 truy cập và xem lại lịch sử các phép tính đã thực hiện trên máy tính, giống như trên iOS 18.\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,15 +21,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/CalculatorConverter/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/CalculatorHistory/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/CalculatorConverter/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/CalculatorConverter/Screenshots/3.png",
+"url":"https://bvnsupport.github.io/infodeb/CalculatorHistory/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -96,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi trên ios 14"
+"markdown":"### Phiên bản 1.2\n\n- Sửa lỗi trên ios 14"
 }
 ],
 "class":"DepictionStackView"
