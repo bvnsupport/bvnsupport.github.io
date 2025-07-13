@@ -11850,6 +11850,48 @@ Name: CAHighFPS VH(Rootless)
 Author: PoomSmart
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.calculatorconverter
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 404
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorconverter
+Filename: ./debs/com.bvn.calculatorconverter_1.0.1_iphoneos-arm.deb
+Size: 98284
+MD5sum: 3cbc2237c6f55f219f67ba9232ad4e47
+SHA1: c74fd389fc0571878b567967dae2ace5845d5279
+SHA256: 5c94f5807668c166562a5c2c9616b22bcb225214c84fda6ebb281a396712e1ed
+SHA512: 711e82cee51e899861a9e5e108881a29201ef1ef73a76ddb782b6602669ea0c6329cb1f8f3734e72f57d1840e1094a844ac1087640a906177f3c058b7654c55a
+Description: Thêm chuyển đổi đơn vị iOS 18 vào ứng dụng máy tính.
+Name: CalculatorConverter VH
+Author: fiore
+Depiction: http://bvnsupport.github.io/infodeb/Html/CalculatorConverter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorConverter.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.calculatorconverter
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 404
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorconverter
+Filename: ./debs/com.bvn.calculatorconverter_1.0.1_iphoneos-arm64.deb
+Size: 98276
+MD5sum: 9ddcfc5d3c2d8d0a9e97568b84aa4fcd
+SHA1: 3c9b7a2f8418a8c0b859b77195bd8c775c83a79c
+SHA256: 9c1310c397d7bba652e7227f4790c610523d12ac30d1d62d0921891f41b91a21
+SHA512: aacb4ee0a243fde77d7e069b7dac3cdfd077dbcf7af250d58ef9e0535092c15182b5332c8e2279eca287018112eeff1c03690dc84ce5a91a7d7b1242aff08bc9
+Description: Thêm chuyển đổi đơn vị iOS 18 vào ứng dụng máy tính.
+Name: CalculatorConverter (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CalculatorConverter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorConverter.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: fiore
+
 Package: com.bvn.callassist15.gtv
 Architecture: iphoneos-arm64
 Version: 1.0
