@@ -1,16 +1,39 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://bvnsupport.github.io/features/CarBridge.png",
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"CarBridge VH\n\n- CarBridge là một tweak giúp mang các ứng dụng iOS đến màn hình ô tô của CarPlay, cho phép người dùng chạy các ứng dụng yêu thích của mình trên hệ thống giải trí của ô tô.Một số tính năng chính của CarBridge bao gồm:\n\n- 1.Chạy ứng dụng iOS trên CarPlay*: CarBridge cho phép người dùng chạy các ứng dụng iOS trên màn hình ô tô của CarPlay, giúp tận dụng không gian và giao diện của màn hình ô tô.\n\n- 2.Tùy chỉnh giao diện*: Người dùng có thể tùy chỉnh giao diện và cách thức hoạt động của các ứng dụng trên CarPlay để phù hợp với nhu cầu và sở thích của mình\n\n- 3.Hỗ trợ nhiều ứng dụng*: CarBridge hỗ trợ nhiều ứng dụng iOS khác nhau, bao gồm cả các ứng dụng giải trí, tiện ích và hơn thế nữa\n\n- 4.Cải thiện trải nghiệm*: CarBridge giúp cải thiện trải nghiệm sử dụng ô tô bằng cách cho phép người dùng truy cập và sử dụng các ứng dụng yêu thích của mình trên màn hình ô tô \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
 "url":"https://bvnsupport.github.io/infodeb/CarBridge2/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CarBridge2/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CarBridge2/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/CarBridge2/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -18,7 +41,14 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# MỚI: Hoạt động không cần root trên iOS 15 và 16! \n\n### Chào mừng bạn đến với CarBridge .Mở bất kỳ ứng dụng nào từ điện thoại của bạn và sử dụng nó trên ô tô hỗ trợ CarPlay\n\n### Các tính năng:\n\n+ Mở bất kỳ ứng dụng nào trong CarPlay (ngoại trừ các ứng dụng truyền phát video hỗ trợ DRM)\n\n+ Hiển thị bất kỳ ứng dụng nào trên ô tô với bố cục điện thoại ban đầu của nó\n\n+ Tận dụng toàn bộ chức năng của ứng dụng mà không bị giới hạn và sử dụng các ứng dụng khác nhau trên điện thoại và ô tô của bạn\n\n+ Xem và điều khiển điện thoại của bạn ngay từ màn hình cảm ứng trên ô tổ mà không cần nhấc điện thoại lên\n\n+ CarBridge cho iOS 13/14 là bản viết lại hoàn toàn của CarBridge gốc cho iOS 10 và là bản nâng cấp trả phí do những thay đổi trong CarPlay trên iOS 13.\n\n+ CarBridge được thiết kế để sử dụng với các thiết bị CarPlay hỗ trợ màn hình cảm ứng, nếu bạn chỉ có cần điều khiển bạn vẫn có thể sử dụng ứng dụng Portal để xem màn hình điện thoại trên ô tô của mình.\n\n\n",
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -27,25 +57,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) \n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
+"title":"Thông tin "
 },
 {
 "class":"DepictionTableTextView",
-"title":"Tác giả",
-"text":"Leftyfl1p "
+"title":"Nhà phát triển",
+"text":"leftyfl1p"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.15K" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -58,12 +77,17 @@
 },
 {
 "class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"578 KB"
+},
+{
+"class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.7.10"
+"text":"iOS 13.0 đến 16.7.20"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -76,11 +100,42 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.0.15K\n\nĐã khắc phục sự cố ngăn cản việc tải trên iOS 13.Cảm ơn @MasterMike88 "
+"markdown":"### Phiên bản 2.0.15\n\n- Sửa lỗi trên iOs 13"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
