@@ -11892,6 +11892,47 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorConverter
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: fiore
 
+Package: com.bvn.calculatorhistory
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorhistory, xyz.cypwn.calculatorhistory
+Filename: ./debs/com.bvn.calculatorhistory_1.2_iphoneos-arm.deb
+Size: 43390
+MD5sum: 8eb617ca85905a1f8a7abed5ac3cf666
+SHA1: c9b75e5392164d6affd080e9c93e9068a394f1a1
+SHA256: d0936e01d019ad4fdce1a3a6b33fed53bc7d72bb0cb77f75e8cfedddf611bddb
+SHA512: 5602c546eab676e4b55357e0dacb99f5605e898767d1b4f2724826b1d93c11163753ce2d3c346643b7e6d0c8ba717535b1358268e9f5e17c8731d2db900685ac
+Description: Hiển thị lịch sử tính trong máy tính
+Name: CalculatorHistory VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/CalculatorHistory.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorHistory.json
+Author: fiore
+
+Package: com.bvn.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorhistory, xyz.cypwn.calculatorhistory
+Filename: ./debs/com.bvn.calculatorhistory_1.2_iphoneos-arm64.deb
+Size: 43532
+MD5sum: 44811bc0c411cbbec61a0c31c5abf8cb
+SHA1: 84f05972b3fa974702b013fe312424ca48f44fb4
+SHA256: 7508823715f9959004d8051d5fcca2cf087477637178ff4c7302d68600944b07
+SHA512: 378a96297208ce9027f8f900994d1a418b1b035047b97f9ff20ad21b56b4a20d55137f6810b063407a34510d2612b4ab3e4a141411f61e0ea1d58fd0a7399d58
+Description: Calculator gains history!
+Depiction: http://bvnsupport.github.io/infodeb/Html/CalculatorHistory.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorHistory.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: CalculatorHistory (Rootless)
+Author: fiore
+
 Package: com.bvn.callassist15.gtv
 Architecture: iphoneos-arm64
 Version: 1.0
