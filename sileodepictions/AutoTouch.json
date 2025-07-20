@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"AutoTouch \n\n- AutoClick cho iOS\n\n- Ghi lại, phát lại, mô phỏng hành động chạm của bạn, chạy các tập lệnh JavaScript/Lua\n\n- Sau khi cài đặt, mở AutoTouch trên màn hình chính và chọn Cài đặt > Giấy phép rồi chọn Tải xuống giấy phép... để kích hoạt AutoTouch \n\nㅤ\n\n",
+"markdown":"AutoTouch \n\n- AutoClick cho iOS\n\n- Ghi lại, phát lại, mô phỏng hành động chạm của bạn, chạy các tập lệnh JavaScript/Lua\n\n- Sau khi cài đặt, mở AutoTouch trên màn hình chính hiển thị bảng thông báo > Go To Telegram nhấn vào... sau đấy thoát ra vào lại tweak nhấn Activate Tweak \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Kent Krantz"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"8.1.0" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"8.5.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"21/3/2024"
+"text":"20/7/205"
 },
 {
 "class":"DepictionTableTextView",
@@ -83,7 +83,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -96,11 +96,42 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 8.1.0\n\n- Hỗ trợ Rootless\n\n- Kích hoạt giấy phép "
+"markdown":"### Phiên bản 8.5.5\n\n- Hỗ trợ Rootless\n\n- Kích hoạt giấy phép "
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
