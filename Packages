@@ -2739,39 +2739,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.cylinder
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 1.1.2
 Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 1212
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader, liblua5.4-0
-Filename: ./debs/com.BIENVANNHAT.cylinder_1.0.1_iphoneos-arm.deb
-Size: 233242
-MD5sum: 2f47d1f2c716cd9b81542e53a3a01f56
-SHA1: c5a95d0dead01125ad18813e6a90b9e8a6ff4134
-SHA256: 08f76fffa98e3a09bbeab0252528f9a55d2ad7b5fa7b432d872de51c355adcc7
-SHA512: aba34828ff9c6b77505da7413cec24f10468e7f93fea35a1ad3460f4e3fce79778c856333c9c154ac0fd9ce5389b7ab14cdae821910b2b6b572da249245bf3b2
-Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
-Name: Cylinder Reborn VH
-Author: Reed Weichler
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.cylinder
-Architecture: iphoneos-arm
-Version: 1.0.3
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 1384
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1305
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: ./debs/com.BIENVANNHAT.cylinder_1.0.3_iphoneos-arm.deb
-Size: 374922
-MD5sum: 34b71285ae0d94fd2be1f577dc6be67e
-SHA1: c8aa5195a97b3f067869bf41861f93927b5adc10
-SHA256: 87e6ccd8dca9b2b65a7d133f9921e04533b9117d9b2c7a9f40cc18f9c3820bac
-SHA512: 8a7fc2954debc79d80ff551c1c36e57cc6789cfadc5de1503f0ba4f0b6e7377e14bdc894892efabe0599ac3c223d294461bc09a58ddba1d6286ab6b7e5ef500a
-Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Filename: ./debs/com.BIENVANNHAT.cylinder_1.1.2_iphoneos-arm.deb
+Size: 374462
+MD5sum: d76c091b94dfe8ef20f3cc231c2b4489
+SHA1: 04560484438e86eb5b4ddc9f2fc41295696469f3
+SHA256: 2d1cb1d78f9e607971e74bfdf371920819dcb0b11a16c2d28127ba27911e70b0
+SHA512: 0feb94124637e2160d6750e27242a4c6f130241fa07e75e45a104c2c9d01c39ef220043699898be3a7b5bc7e1888696297c40ec6c35ade42f51a233d81c7737e
+Description: Make your icons dance
 Tag: compatible_min::ios11.0
-Name: Cylinder Reborn VH
 Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/Cylinder.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Cylinder.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.darkpapers
@@ -9092,6 +9076,28 @@ Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Cylinder Reborn VH(Rootless)
 
+Package: com.bienvannhat.cylinderremmade
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1253
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Replaces: com.bvn.cylinder-vh
+Filename: ./debs/com.bienvannhat.cylinderremmade_1.1.3_iphoneos-arm64.deb
+Size: 368230
+MD5sum: 761d95666be0c371ff4ba1346799e08d
+SHA1: a3f76a4884c52499a48797578627053b3e038b2b
+SHA256: bacf228b22e0a9e6825e52e3ed473a8585913a34dedb9f18a23774b88af18bf3
+SHA512: 2e8d26b8479e9ee160af6c6701aa9cd9f5c2458753a7aa7f2a1e6c8bd021c7a5299a2c441eaf010026dc04d9eb57315bc40f59e50b929a2e1767894a72cc9a5b
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Cylinder.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Cylinder.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -12801,41 +12807,6 @@ Description: Ẩn các tinh chỉnh Rootless (iphoneos-arm64) trên Cydia,Sileo,
 Name: cyarchfix
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.cylinder-vh
-Architecture: iphoneos-arm64
-Version: 1.1.1
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 1372
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: ./debs/com.bvn.cylinder-vh_1.1.1_iphoneos-arm64.deb
-Size: 357480
-MD5sum: 1180f023f504aa9172b59a7ccb001a4d
-SHA1: 6a7e7535beccf52e4a095c7cb9341a3a6561b15b
-SHA256: cb9d5860fdc6a42a017123e990603f3a97881815cb508d6b5eec08311a68ed91
-SHA512: 778929bf1b870a5c4396eac8dae701300fbef80dfa78df8f99708f52d25203732013ad9d7aca9f6d0ecb519b5f67884be85042dbadfabe6f3f9f6ecc6416e877
-Description: Make your icons dance
-Name: Cylinder Reborn VH(A9-A11)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Ryan Nair
-
-Package: com.bvn.cylinder-vh
-Architecture: iphoneos-arm64
-Version: 1.1.2
-Section: Tweaks
-Installed-Size: 604
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Conflicts: com.ryannair05.cylinder
-Filename: ./debs/com.bvn.cylinder-vh_1.1.2_iphoneos-arm64.deb
-Size: 152744
-MD5sum: 3dc997e6d2f7adfb0281a6609db6695c
-SHA1: fda2dc60c29da801ba12092661d29e57ffa22125
-SHA256: 7cd66a9a447610b635cc0f32799e9b2c7df15a9ab454c8eb40db2f0c1814b543
-SHA512: e6af65c4ce06dd54e13b970e6f7f300df1141ce9687f9d27cf804a9f065a09d78b0bcf4653548f546b87b04a7c026fff56f9f636f49ec026b55a8f813360d8a9
-Description: Make your icons dance
-Name: Cylinder Reborn VH(A9-A11)
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.darl-rl
 Architecture: iphoneos-arm
@@ -22032,21 +22003,21 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Package: com.repobvn.Bauhaus-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
-Section: Tweaks
+Section: Fonts
 Maintainer: Repo BVN
 Installed-Size: 992
 Filename: ./debs/com.repobvn.Bauhaus-Rootless_1.0.0_iphoneos-arm64.deb
-Size: 20152766
-MD5sum: 080155d57486acb10780496d44091a1b
-SHA1: 1abcfcff2b55708357c9fd51527c30ac40b26a44
-SHA256: 267a988289fee44444f2b131461fb04f6e412ea3262e9119db502122fc8500d3
-SHA512: feeca12e872261b610d3ac3394dd353df7711e2ef86ee8d679812916962d82015b7ac03e5c5d6de2ed97ad8b99d491bdc24fafb0168651c055b71668699e2499
+Size: 20152752
+MD5sum: a9fe835301a852f2fbacc9d9755f8880
+SHA1: 4fb24037cddba7e1623b2d6227792a98c234411c
+SHA256: 7b81751389bf6319501bce41d9dfc90a3cdcdae8773e0af58fa3d5f92dca361d
+SHA512: 371d67675ecac0f2b00133d222862e0cd58a747f2fd61f923413db65267a6e569dd9dd026d3c252f6163ac99c073e301d6fe7e7cd297ce0e5f2417e6ba5ab85f
 Description: Phông chữ sử dụng qua tiện ích Snowboard
-Name: Phông chữ Bauhaus(Rootless)
+Name: Bauhaus
 Author: unknow
 Depiction: http://bvnsupport.github.io/infodeb/Bauhaus/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bauhaus.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 
 Package: com.repobvn.DepthsL-Rootless
 Architecture: iphoneos-arm64
