@@ -24999,6 +24999,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Ding/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ding.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: me.bvn.stageduo
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.bvn.stageduo_1.2_iphoneos-arm64.deb
+Size: 3428032
+MD5sum: 9ac2a63fd416c43e9be4208f1f10df0c
+SHA1: 74aaf144b551ebb589e99252ff237d115e4ae006
+SHA256: 46265b4d1f1b8dfc32903dc49bd0ed5252a3ff148688d993f853f15e2b95f395
+SHA512: 21b74c55f5d2b7a8e9d0def94913d0160c6fc908a672154959799abdfc955713d1bae5d29879f00b1315931f4ee6033d151376bbe8825c697f59468373d2a00a
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage VH(Rootless)
+Author: tomt000
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: me.jjolano.fmwk.hookkit
 Architecture: iphoneos-arm
 Version: 1.0.15
