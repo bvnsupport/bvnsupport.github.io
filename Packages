@@ -25435,6 +25435,26 @@ Author: Nepeta & Baw Appie
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: me.tomt000.stageduo
+Architecture: iphoneos-arm
+Version: 1.3K
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.3K_iphoneos-arm.deb
+Size: 3426368
+MD5sum: 714bbf9e33ecdf32d1e15d29300c0955
+SHA1: 7c118c73999e119a0e73d7f8663944c86a589512
+SHA256: 7d8af9b0d0858dc2422aaf11df41ce75a99c2296e3444fbbe128b5fd9df36e64
+SHA512: b32d9ba8f47c0fd50b598f05253da08dd52afe7650517c495e2848084c60746506a20460db07efaf55867755e117f8e544c781c15e942704d6818048e5d8d0db
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage VH
+Author: tomt000
+Depiction: http://bvnsupport.github.io/infodeb/Html/Stage.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stage.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: me.tomt000.stageduo
 Architecture: iphoneos-arm64
 Version: 1.3K
 Section: Tweaks
@@ -25442,14 +25462,16 @@ Maintainer: tomt000
 Installed-Size: 4900
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
 Filename: ./debs/me.tomt000.stageduo_1.3K_iphoneos-arm64.deb
-Size: 3428038
-MD5sum: f3fdb60801fc8083a6f42dc8d9520cbb
-SHA1: bc1568a958d5b7e9e4064d23ced4259ef9c51faa
-SHA256: 6cf07c1392e8175758c3556402001287bf4694fd75aad2fdf2e739d7a45d67f2
-SHA512: 4813f0a3b38e482c67d1908adb0fff896562f1c5e03a25ea5a2f41fcbd396a4b3034f44ff450ca2512c844d8f573e585a67fb1c65d4d41038c9266faee153087
+Size: 3430176
+MD5sum: 91d683805bb6728a7afb420ebe714b49
+SHA1: 4cd7856f679740481d5af3bad79bcce3ed74d7c2
+SHA256: 57cb3097b616e5ca6b68b19962017bd29130a08e3bfd0b16193e9a93a1063f2c
+SHA512: 6ad9ff9cce5adb4da978c4878c993db070dcdc2c13ed44abdb2aef532031586ee53cc3a0c10c30d181eebd6b75d23771988911a7105d6d4a8483420fdf1b3288
 Description: Stage Manager Reimagined for iPhone
 Name: Dynamic Stage VH(Rootless)
 Author: tomt000
+Depiction: http://bvnsupport.github.io/infodeb/Html/Stage.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stage.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
