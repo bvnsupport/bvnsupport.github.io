@@ -1,0 +1,148 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Dynamic Stage VH \n\n- Dynamic Stage là sự tái hiện hiện đại của Stage Manager dành cho iPhone, mang đến sự kết hợp với Dynamic Island. Với sự tích hợp mượt mà vào iOS, bạn có thể mong đợi các cử chỉ và hoạt ảnh mượt mà giúp nâng cao trải nghiệm đa nhiệm của mình.\n\n- Đắm mình vào một ứng dụng mà không cần thoát ứng dụng khác. Dù bạn muốn vào chế độ xem chia để sử dụng ứng dụng đồng thời hay đơn giản là sử dụng Stage như một lớp phủ để xem nhanh, Dynamic Stage đảm bảo điều hướng hiệu quả và dễ dàng.\n\n- Vuốt lên từ góc dưới bên phải để truy cập Stage. Từ đây, bạn có thể thả ngón tay để khởi chạy Stage hoặc kéo nó xuống dưới ứng dụng hiện tại để kích hoạt Chế độ xem chia. Chọn bất kỳ ứng dụng nào; ứng dụng đó sẽ vẫn mở ngay cả khi bạn thu nhỏ Stage bằng cách kéo nó xuống từ cạnh trên. Để đóng ứng dụng, chỉ cần vuốt lên từ góc dưới bên phải trong khi đang ở trong Stage.\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Stage/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Stage/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Stage/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Stage/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"tomt000"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"23/7/205"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"3.4 MN"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.3\n\n- Hỗ trợ Tiếng Việt\n\n- Sửa lỗi\n\n- tải xuống tinh chỉnh miễn phí "
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
