@@ -25434,6 +25434,24 @@ Name: Axon VH(Rootless)
 Author: Nepeta & Baw Appie
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: me.tomt000.stageduo
+Architecture: iphoneos-arm64
+Version: 1.3K
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.3K_iphoneos-arm64.deb
+Size: 3428038
+MD5sum: f3fdb60801fc8083a6f42dc8d9520cbb
+SHA1: bc1568a958d5b7e9e4064d23ced4259ef9c51faa
+SHA256: 6cf07c1392e8175758c3556402001287bf4694fd75aad2fdf2e739d7a45d67f2
+SHA512: 4813f0a3b38e482c67d1908adb0fff896562f1c5e03a25ea5a2f41fcbd396a4b3034f44ff450ca2512c844d8f573e585a67fb1c65d4d41038c9266faee153087
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage VH(Rootless)
+Author: tomt000
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
 Architecture: iphoneos-arm64
 Version: 0.6-20
