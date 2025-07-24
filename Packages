@@ -18928,43 +18928,24 @@ Author: alimaulana
 
 Package: com.bvn.walegacy
 Architecture: iphoneos-arm
-Version: 0.0.3
+Version: 0.0.3-1
 Section: Tweaks
 Maintainer: BVN Repo
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.walegacy_0.0.3_iphoneos-arm.deb
-Size: 6994
-MD5sum: 53b007e53129562be24988a1cdaf95a6
-SHA1: 1aa46ec2952fac8a7a6608a5cfef12dff7ce84ce
-SHA256: 5680212058c75d1261acc446f285d7e5f2c0dd333ccd08400d8cf208e1e79197
-SHA512: c23bbdccd2f0182bfd6c3713b2e8afacf7623512a15bc1cedd19de761b56c480941a8c80bb1748ad75c251adcd23c02109bfef10b3f091317ed8152c78ba1882
-Description: Cho phép sử dụng WhatsApp trên iOS Cũ
-Name: WhatsApp Legacy
+Installed-Size: 157
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.walegacy_0.0.3-1_iphoneos-arm.deb
+Size: 7054
+MD5sum: edfa9cb19c8d814d6c3f067800c91ad0
+SHA1: d5aa7560cef9367cf6cb5701dfb393a197a59cdd
+SHA256: 75579ac1c7e1369034b8cd003c7795f028781ceda213aabd27bfb8385857cbad
+SHA512: 088be0c6962985c60d0cc09c6db0d5f283f8264441a20e7d8cdf646f1b1c95eb42c7dcf8c2f3524de835cdc49c9acaeb592b073558f409edf453f01b16a7653d
+Description: Hỗ trợ phiên bản WhatsApp Legacy bằng cách giả mạo dưới dạng cập nhật
+Author: Dayanch96 <dayanch1996@gmail.com>
+Name: WhatsApp Legacy VH
 Depiction: http://bvnsupport.github.io/infodeb/Html/WhatsApp.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/WhatsApp.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: dvntm
-
-Package: com.bvn.walegacy
-Architecture: iphoneos-arm64
-Version: 0.0.3
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.walegacy_0.0.3_iphoneos-arm64.deb
-Size: 7116
-MD5sum: 01f082a96663730c9d39672ae6a5af51
-SHA1: ac42d589d7aac316afa3178805dbefbf8a392b86
-SHA256: 2c857798239ca4e3c4f10a23e9e92db341a3195359c42582ece41589080d4e9d
-SHA512: 749bebd2282d2c2a5d848e76320d6b3ca9b87d07229aab66c19d54e8059128c4428c483020eaf06c31277b74238e21d2a3751ad60090b969954e94714ad4c2ca
-Description: Cho phép sử dụng WhatsApp trên iOS Cũ
-Name: WhatsApp Legacy
-Depiction: http://bvnsupport.github.io/infodeb/Html/WhatsApp.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/WhatsApp.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: dvntm
+dev: dvntm
 
 Package: com.bvn.wallcraftpro
 Architecture: iphoneos-arm
@@ -20572,6 +20553,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: DeepSeek Chat
 Author: deepseek
 Tags: compatible_min::ios15.0
+
+Package: com.dvntm.walegacy
+Architecture: iphoneos-arm64
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 158
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.walegacy_0.0.3-1_iphoneos-arm64.deb
+Size: 7142
+MD5sum: 052762536f9b39fc027665fb7df9d32f
+SHA1: 1cfaa7369e7bb30a4cc69e1ca041ff7fb6123e5f
+SHA256: 6f6a8d8620a8d3deaf798f57b48d75cfe9a8df323e350cdc51778bec47acfce6
+SHA512: e47f5254c2d3907b83ffb34e92ba81f8868af6513da346cd60f4eaf4997b3659973400530622f51caae074d8b5ce57d250af58debd90d9cc2e289cd6a8439dac
+Description: Legacy WhatsApp version support by spoofing as up-to-date
+Author: Dayanch96 <dayanch1996@gmail.com>
+Name: WhatsApp Legacy (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/WhatsApp.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WhatsApp.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+dev: dvntm
 
 Package: com.foxfort.backtrix
 Architecture: iphoneos-arm
