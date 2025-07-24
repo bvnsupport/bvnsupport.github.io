@@ -1,0 +1,144 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Bridge/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Bridge/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Bridge/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Bridge/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Bridge/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Bridge/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"Bridge VH \n\n- Bridge: Trải nghiệm màn hình chính Apple Watch trên iOS.Đặc điểm dễ nhận biết nhất của Apple Watch là bố cục lưới của các biểu tượng ứng dụng. Bridge là một sự thay thế hoàn toàn cho màn hình chính, kế thừa những tinh hoa của các bản chỉnh sửa huyền thoại trong những năm qua như Aeternum, Watchboard & Honey.\n\n-Lưu ý: Bridge sử dụng một chế độ xem riêng biệt để hiển thị lưới biểu tượng, vì vậy nó nên tương thích với tất cả các bản chỉnh sửa tùy chỉnh màn hình chính\n\n- Tính năng:\n\n- Hình dạng biểu tượng tròn hoặc mặc định\n\n- Huy hiệu biểu tượng\n\n- Bóng biểu tượng\n\n- Cử chỉ thu phóng bằng 2 ngón tay để phóng to/thu nhỏ lưới\n\n- Thư mục tùy chỉnh\n\n-Giao diện mờ độc đáo\n\n- Khả năng đổi tên từ menu 3D Touch\n\n- Chấm chỉ thị để cuộn nhanh\n\n- Kéo và thả để sắp xếp lại biểu tượng\n\n-  Tùy chỉnh Dock:\n\n- 3 kiểu Dock [Dock nổi, Dock Bridge hoặc ẩn]\n\n- Dock Bridge - Thay thế dock tùy chỉnh hoàn toàn\n\n- Số lượng biểu tượng không giới hạn\n\n- Kéo và thả để sắp xếp lại biểu tượng\n\n- Nền mờ với góc tròn hoặc vuông\n\n- Tùy chỉnh biểu tượng:\n\n- Menu 3D Touch cho biểu tượng\n\n- Lối tắt ứng dụng mặc định\n\n- Ẩn ứng dụng\n\n- Chèn mục khoảng cách\n\n- Thêm vào thư mục hiện có\n\n- Tạo thư mục mới\n\n- Thêm vào Dock [chỉ khi sử dụng Dock Bridge]\n\n- Sắp xếp ứng dụng trong lưới theo thứ tự bảng chữ cái hoặc ngược lại\n\n- Lớp phủ hình nền:\n\n- Chế độ OLED [nền đen thuần tuý]\n\n- Nền mờ\n\n- 3 phong cách tối, 3 phong cách sáng và hiệu ứng mờ lông vũ \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Contact me via Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"MTAC"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"24/7/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.7.11"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 1.2.1\n\nSửa lỗi."
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
