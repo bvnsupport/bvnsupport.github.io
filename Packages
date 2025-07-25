@@ -19220,39 +19220,18 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ytx
 Architecture: iphoneos-arm
-Version: 1.7.12
+Version: 1.7.16
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Replaces: com.ps.ytx,com.BIENVANNHAT.ytx
-Filename: ./debs/com.bvn.ytx_1.7.12_iphoneos-arm.deb
-Size: 6928
-MD5sum: a3e17f390ff7aeb3ca25515b913a19c0
-SHA1: c3b331db4cc50482532ed0532fb99ab664652836
-SHA256: 3c64530542aa87cdfceefa58008a8d6a2cc6669602738c542bbef84d31a13918
-SHA512: 3a26dc77e5a5ea474a8e3651f4af3f5f562cff492d6065090990186bf92b1051eea04a82adcd93cf64ac82e38bb87cceca2eb4d98e60c1eba07fe21a1f3d85b0
-Description: A YouTube improvement tweak.
-Name: YouTube X VH
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.ytx
-Architecture: iphoneos-arm
-Version: 1.7.13
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 56
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Replaces: com.ps.ytx,com.BIENVANNHAT.ytx
-Filename: ./debs/com.bvn.ytx_1.7.13_iphoneos-arm.deb
-Size: 7096
-MD5sum: 4a0b6684c0dcac476bf362d5fd068aaf
-SHA1: fa4ea655423e813e6b2ff97d6721cd2ab86e72a6
-SHA256: 837b2bd955410c4eb1edd8dbb399f9ec61e0b5e4e05d6565b88bcbcf3c6b74a1
-SHA512: 45f0325b3132c92457528e5181888563471786113e1c1237917fad11c0db9cb9c1bffebe7be494077889372d13bc702ab4b1efb805c92d94b9aee1f31235c404
+Replaces: com.ps.ytx, com.BIENVANNHAT.ytx
+Filename: ./debs/com.bvn.ytx_1.7.16_iphoneos-arm.deb
+Size: 6878
+MD5sum: 7b89869bd4b8e35deffff0ee3538a6fe
+SHA1: 4bccd9fb4c553e69b20dad68ef4a4ac3aa4e3087
+SHA256: 8c64391bf5f56e235593e24a5f136d1250ccebc3313abb6c60684aaa88adad83
+SHA512: 7b978e7e21573658cb1aa55db5157f70008d54558c92ef924e7b4639b39ee80b590831230e2edaa16107c9911315114f23019b7ca8bc5a9f2066c38c76b7990d
 Description: Một điều chỉnh cải tiến YouTube.
 Name: YouTube X VH
 Author: PoomSmart
@@ -22624,38 +22603,18 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.ytx
 Architecture: iphoneos-arm64
-Version: 1.7.12
+Version: 1.7.16
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.7.12_iphoneos-arm64.deb
-Size: 6932
-MD5sum: 5a58451fcf8afedcd7ca24912f0a54ab
-SHA1: abfe8998be4f77bdf23da4edc9c9eaf90e0adb55
-SHA256: a73b357f13769ba0641464ab50bcc29bafacb76f6a35713561f237518769a772
-SHA512: ee0ee9c42f70acdc45c392baddeea3aaa20ec021c63588a5f3d166f8914705e709f901cbaf3c770838812c52534e9a0670d6fb8c2fb4cfdeaefbd0028394d5d1
+Filename: ./debs/com.repobvn.ytx_1.7.16_iphoneos-arm64.deb
+Size: 6850
+MD5sum: ae969017a5d27fb64ab4ca75c18cafa3
+SHA1: 9f3b15767e7cdb14aefb304a908592ba20c211d3
+SHA256: 991603228a8685c2b15d2a64dae7918d0a0f310136d040c9b2d6f09d9fe6c68c
+SHA512: 775f1eaa441310aa839d327dc5926b9dff1ee5378ca2fba35fb4c9e0d03edf71dccbc91d671005fecbe0e795b7aea3c76d20d275f36de3b654aba0dd0d072203
 Description: Một điều chỉnh cải tiến YouTube.
-Name: YouTube X (Rootless)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.repobvn.ytx
-Architecture: iphoneos-arm64
-Version: 1.7.13
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.7.13_iphoneos-arm64.deb
-Size: 6974
-MD5sum: 91c1a1987a7e716aaf02d0b28d3e5fd0
-SHA1: 7041d4e1caf13b8b818d297f6e3c1e978ace0fc7
-SHA256: 2e881d0e58dea4c17e4e4cea6a177155b0041b1efb3f48070425366c8f27a147
-SHA512: 52a23b25cc974958ae2c1a422e30fa5df8b6833764f0bb137a1b639869f7bdf89a6b52f19c745fbf56fcdea2ca608843d750b906cf1b6c50b468c3f2b8ab33cf
-Description: A YouTube improvement tweak.
 Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
