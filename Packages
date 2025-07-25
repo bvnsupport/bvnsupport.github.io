@@ -25456,6 +25456,48 @@ Name: Axon VH(Rootless)
 Author: Nepeta & Baw Appie
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2204
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16, dev.midn1ght.copylog
+Filename: ./debs/me.tomt000.copylog_1.7.1_iphoneos-arm.deb
+Size: 1222206
+MD5sum: 49119539d3b824acaf5577930e7e0ee5
+SHA1: f8a6f9efcde0524fa739f01a8495a5171b53bd24
+SHA256: 9eaabd3016e0f8f0684d63bed12b9335508fa4e49597e22417c4c7308ce1bf40
+SHA512: 1586de75af363de4d04697968b2804d0ef2345368d3f88de3f5b9dc8e2e5e96f2445010c42d48d635cddcd8af1ab77fc4e789d4376d11c3f9cd0deac10436b2d
+Description: Quản lý lịch sử clipboard cho iOS!
+Name: CopyLog VH
+Author: TomT000
+Depiction: http://bvnsupport.github.io/infodeb/Html/CopyLog.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CopyLog.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm64
+Version: 1.7.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/me.tomt000.copylog_1.7.2_iphoneos-arm64.deb
+Size: 1194236
+MD5sum: d6956fd7444c1c9623fa44d9267bf175
+SHA1: b7a64f0dcf6aa64bf85f3f504105db2c105fee0e
+SHA256: 3b65a467ceff5cf5dae49bd2b84d0d3ba41748e9d3bdcd547f5bb25057d682ef
+SHA512: 194fb758ced94dfe3161de02636efbb15c61a52ae1f76d3aa436a3020f891a73c0be14e0c337159fbf8e11b9a08501f8da46260166cf66d4446e42bd03272456
+Description: Clipboard history manager for iOS!
+Name: CopyLog VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CopyLog.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CopyLog.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: TomT000
+
 Package: me.tomt000.stageduo
 Architecture: iphoneos-arm
 Version: 1.3K
