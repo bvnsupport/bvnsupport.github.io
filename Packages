@@ -16417,6 +16417,25 @@ Name: PlampyCC VH(Rootless)
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.plampyuipro
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampyuipro_1.0_iphoneos-arm64.deb
+Size: 1097920
+MD5sum: a998ffa64616b03d9ad669af0ee5fb8a
+SHA1: 3629c8105f08c7c3a623e05241a826dee54ffbe1
+SHA256: d87cee22393f89620bac9b5c9adc5789a62da595652228a83fdae0b52907ca47
+SHA512: 478c5c8a87a45fe6aaaa50f9cd272e981e688b5fbf7331f7d9c1f10d29e37e6763eef2ec1cf78860afb254ef4f6c68bf5d102efb71b49ae25f927eece40abd87
+Description: Một công cụ làm đẹp trung tâm điều khiển cho iOS 15/16. Thay đổi các biểu tượng/hiệu ứng của các mô -đun gốc, sửa đổi hình nền nền, v.v.
+Name: PlampyUIPro VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PlampyUIPro.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyUIPro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Phuc Do
+
 Package: com.bvn.pogr
 Architecture: iphoneos-arm
 Version: 0.4.0~prerelease1
@@ -18867,24 +18886,6 @@ Author: DeNsor
 Depiction: http://bvnsupport.github.io/infodeb/Html/Videostar.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Videostar.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
-
-Package: com.bvn.waktos2
-Architecture: iphoneos-arm64
-Version: 1.0.1k
-Section: Tweaks
-Maintainer: alimaulana
-Installed-Size: 1228
-Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 2.0), preferenceloader
-Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.ali.aimpro, com.icraze.nexus
-Filename: ./debs/com.bvn.waktos2_1.0.1k_iphoneos-arm64.deb
-Size: 413788
-MD5sum: b4cd7b5fe69a684e1bbb4df9e32f7f9c
-SHA1: 7330a9274af52e26540c403bbc43bfea1e14beef
-SHA256: c293a794d9d7fb061f72828a29daa168558af5f391e03ed7cab6f9b774fa6a76
-SHA512: 8aefe01dbcd523b5f911ebd749fdfd6f91ee23126963040a9969f1e720c40c426c30f2a9387e23f16727a6bec889a4a415b2b19231952a1b379c2ab37ee760fe
-Description: Android Style Lockscreen
-Name: Waktos 2
-Author: alimaulana
 
 Package: com.bvn.walegacy
 Architecture: iphoneos-arm
