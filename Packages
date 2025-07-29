@@ -1118,6 +1118,27 @@ Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.aimpro
+Architecture: iphoneos-arm
+Version: 1.1.3K
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 5708
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.17.1), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.BIENVANNHAT.aimpro_1.1.3K_iphoneos-arm.deb
+Size: 2877304
+MD5sum: c5749ce15787d94615fb5d1b254ab182
+SHA1: f30532b03bbc00e00e94dd8eddc9dd7a26f65bef
+SHA256: f95ec440e45a601cd771eee9a701b799e051ff4455165d55dc3b627b4c7ad4aa
+SHA512: 04512760c6dc5fb3235a4298194f9973087615efd5bf45392e3517fa8406e726585c19fae1a67e5f718fb5f15a5033f548d7d4c400c970841c12e52ea6812dbf
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM Pro VH
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.aimprorooess
 Architecture: iphoneos-arm64
 Version: 1.0.5
