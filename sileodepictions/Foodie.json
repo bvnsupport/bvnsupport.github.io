@@ -1,22 +1,11 @@
 {
-"minVersion":"0.1",
+"minVersion":"0.4",
 "headerImage":"https://bvnsupport.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
-{
-"class":"DepictionHeaderView",
-"title":"Mô tả & Giới thiệu"
-},
-{
-"markdown":"Foodie Pro\n\n- Mở khoá tính năng Pro cho Ứng dụng Foodie \n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -29,11 +18,16 @@
 "itemSize":"{185,400}"
 },
 {
+"markdown":"Foodie Pro\n\n- Mở khoá tính năng Pro cho ứng dụng Foodie \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
 "class":"DepictionSpacerView"
 },
 {
 "class":"DepictionHeaderView",
-"title":"Link Ứng dụng"
+"title":"Liên hệ tôi "
 },
 {
 "markdown":"[**Tải xuống Foodie**](https://apps.apple.com/vn/app/foodie-%C4%91a-d%E1%BA%A1ng-film-b%E1%BB%99-l%E1%BB%8Dc/id1076859004?l=vi) - App Store\n\nㅤ\n\n",
@@ -45,14 +39,13 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Thông tin "
+"title":"Thông tin"
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
-"text":"Dell"
+"title":"Tác giả",
+"text":"Blatant"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,21 +54,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/1/2025"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"15 KB"
+"text":"1/8/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.7.10"
+"text":"iOS 14.0 đến 16.7.11"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -88,11 +76,42 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.0.1\n\n- Hỗ trợ phiên bản mới nhất"
+"markdown":"#### 1.0\n\nThêm hỗ trợ phiên bản mới nhất."
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
