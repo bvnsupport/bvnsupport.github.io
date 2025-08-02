@@ -7,16 +7,17 @@
 "tabname":"Chi tiết",
 "views":[
 {
-  "class": "DepictionVideoView",
-  "URL": "https://bvnsupport.github.io/videos/AutoRevenueCat.mp4",
-  "aspectRatio": 1.77
+"class": "DepictionVideoView",
+"video":[
+"url": "https://bvnsupport.github.io/videos/AutoRevenueCat.mp4",
+"aspectRatio": 1.77
 }
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
 },
 {
-"markdown":"AutoRevenueCat\n\n- Mở khoá tính năng Pro cho ứng dụng Foodie \n\n",
+"markdown":"AutoRevenueCat\n\n- Tự động mở khóa đăng ký cho hầu hết các ứng dụng sử dụng RevenueCat \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
