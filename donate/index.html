@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ủng hộ — Số tài khoản</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap" role="main">
+    <header>
+      <h1>Ủng hộ qua số tài khoản</h1>
+      <p class="lead">Cảm ơn bạn nếu muốn ủng hộ 😊 — bạn có thể chuyển khoản trực tiếp theo thông tin bên dưới hoặc quét mã QR.</p>
+    </header>
+
+    <section aria-labelledby="donateHeading" class="cards">
+      <!-- Bank card 1 -->
+      <article class="card" aria-label="Tài khoản ngân hàng A">
+        <div style="display:flex;gap:12px;align-items:center;justify-content:space-between">
+          <div>
+            <div class="bank-name" id="donateHeading">Ngân hàng: MBBANk</div>
+            <div class="meta">Chi nhánh: Hà Tĩnh</div>
+          </div>
+          <div class="qr" aria-hidden="true">
+            <img src="qr1.png" alt="QR chuyển khoản ExampleBank">
+          </div>
+        </div>
+
+        <div class="acc-row" style="margin-top:12px">
+          <div class="acc-info">
+            <div class="acc-number" id="acc1">900959999</div>
+            <div class="meta">Chủ tài khoản: Biện Văn Nhật</div>
+          </div>
+          <div class="btns">
+            <button class="btn" data-copy="900959999" aria-label="Sao chép số tài khoản 900959999">Sao chép</button>
+            <button class="btn secondary" onclick="showCopyNote(this)" aria-expanded="false">Xem hướng dẫn</button>
+          </div>
+        </div>
+
+        <div class="hint">
+          Nội dung chuyển khoản: <strong>Ủng hộ — [Tên bạn]</strong>
+        </div>
+      </article>
+
+      <!-- Bank card 2 -->
+      <article class="card" aria-label="Ví điện tử MoMo">
+        <div style="display:flex;gap:12px;align-items:center;justify-content:space-between">
+          <div>
+            <div class="bank-name">Ví điện tử: MoMo</div>
+            <div class="meta">Chi nhánh: HT</div>
+          </div>
+          <div class="qr" aria-hidden="true">
+            <img src="qr2.png" alt="QR chuyển khoản MoMo">
+          </div>
+        </div>
+
+        <div class="acc-row" style="margin-top:12px">
+          <div class="acc-info">
+            <div class="acc-number" id="acc2">0888388082</div>
+            <div class="meta">Chủ tài khoản: Biện Văn Nhật</div>
+          </div>
+          <div class="btns">
+            <button class="btn" data-copy="0888388082" aria-label="Sao chép số tài khoản 0888388082">Sao chép</button>
+            <button class="btn secondary" onclick="showCopyNote(this)">Xem hướng dẫn</button>
+          </div>
+        </div>
+
+        <div class="hint">
+          Ghi chú: Ghi rõ mục đích để mình dễ phân loại.
+        </div>
+      </article>
+    </section>
+
+    <div class="footer-note">
+      Bạn có thể dán số tài khoản vào app ngân hàng hoặc quét QR để chuyển nhanh. Luôn kiểm tra kỹ tên chủ tài khoản.
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite">Đã sao chép vào clipboard</div>
+
+  <script>
+    document.querySelectorAll('button[data-copy]').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const txt = btn.getAttribute('data-copy');
+        try {
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            await navigator.clipboard.writeText(txt);
+          } else {
+            const ta = document.createElement('textarea');
+            ta.value = txt;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
+          }
+          showToast('Đã sao chép số tài khoản: ' + txt);
+        } catch {
+          showToast('Không thể sao chép — vui lòng sao chép thủ công.', true);
+        }
+      });
+    });
+
+    function showToast(message, isError = false) {
+      const t = document.getElementById('toast');
+      t.textContent = message;
+      t.classList.toggle('error', isError);
+      t.style.display = 'block';
+      setTimeout(() => t.style.display = 'none', 2500);
+    }
+
+    function showCopyNote(el) {
+      const expanded = el.getAttribute('aria-expanded') === 'true';
+      if (!expanded) {
+        showToast('Mở app ngân hàng → Chuyển khoản → Dán số TK → Kiểm tra tên → Xác nhận');
+        el.setAttribute('aria-expanded', 'true');
+        setTimeout(() => el.setAttribute('aria-expanded', 'false'), 2000);
+      }
+    }
+  </script>
+</body>
+</html>
