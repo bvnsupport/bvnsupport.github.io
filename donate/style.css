@@ -1,0 +1,209 @@
+/* ===== Reset & font ===== */
+:root {
+  --bg: #f6f8fb;
+  --card: #ffffff;
+  --accent: #0b74de;
+  --accent-hover: #095cb2;
+  --muted: #6b7280;
+  --success: #16a34a;
+  --error: #ef4444;
+  --radius: 12px;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: #111;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.wrap {
+  width: 100%;
+  max-width: 820px;
+}
+
+header {
+  margin-bottom: 18px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+p.lead {
+  margin: 6px 0 0;
+  color: var(--muted);
+}
+
+/* ===== Card layout ===== */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+  border: 1px solid rgba(15, 23, 42, 0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.1);
+}
+
+.bank-name {
+  font-weight: 700;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 6px 0;
+}
+
+/* ===== Account row ===== */
+.acc-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.acc-info {
+  flex: 1;
+}
+
+.acc-number {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace;
+  font-weight: 600;
+  font-size: 1.05rem;
+  letter-spacing: 0.5px;
+}
+
+/* ===== Buttons ===== */
+.btns {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+button.btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+button.btn:hover {
+  background: var(--accent-hover);
+}
+
+button.btn:active {
+  transform: translateY(1px);
+}
+
+button.btn.secondary {
+  background: #e6eefb;
+  color: var(--accent);
+  border: 1px solid rgba(11, 116, 222, 0.12);
+}
+
+button.btn.secondary:hover {
+  background: #d8e3f8;
+}
+
+/* ===== Hints ===== */
+.hint {
+  font-size: 0.86rem;
+  color: var(--muted);
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+/* ===== Footer note ===== */
+.footer-note {
+  margin-top: 16px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* ===== QR code box ===== */
+.qr {
+  width: 96px;
+  height: 96px;
+  border-radius: 8px;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed rgba(0, 0, 0, 0.06);
+}
+
+.qr img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 6px;
+}
+
+/* ===== Toast notification ===== */
+.toast {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  background: var(--success);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  display: none;
+  z-index: 999;
+  font-size: 0.9rem;
+}
+
+.toast.error {
+  background: var(--error);
+}
+
+/* ===== Accessibility helpers ===== */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ===== Mobile tweaks ===== */
+@media (max-width: 420px) {
+  .acc-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .qr {
+    width: 78px;
+    height: 78px;
+  }
+}
