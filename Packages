@@ -12132,6 +12132,50 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.cc26
 Architecture: iphoneos-arm
+Version: 0.4.9.10
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 204
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.10_iphoneos-arm.deb
+Size: 31360
+MD5sum: 3c4d6db931a793cab0d37a51d455c5df
+SHA1: 640903152c2a1c048820179df80c67fbeb00b83c
+SHA256: 94d69133a7669e02d15160ad2926804cd9c8fc562a011d107f26fdab95f2dec2
+SHA512: b3e5cdd3e7b8730b5110de32f191976a0321b6b301ae3fd0e3912eda62235b9b4fc19f4396428a032341654deeaa42acb260036a5dc419830ae7b4297412ffc9
+Description: A sleek reimagination of Control Center
+Name: CC26 VH
+Author: therealhoodboy
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.9.10
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 204
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.10_iphoneos-arm64.deb
+Size: 31500
+MD5sum: 901079acbfe879007f4a0ad0055cf4f2
+SHA1: 033a3f9f465d2e0b6e95903ba0cd360ff0034d2d
+SHA256: 42775204f54c7a53da644a586d36fe30e201f25522435110d3ca23cd8f586746
+SHA512: ae89c17af2a64c71aae2d5e68e7ac980080c0c960b12be9442f3af26282cc7572afd752084bd063ea88e9d6aeb8b45868be2d29f0f69700f47717e78d68ae952
+Description: A sleek reimagination of Control Center
+Name: CC26 (Rootless)
+Author: therealhoodboy
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.cc26
+Architecture: iphoneos-arm
 Version: 0.4.9.6b
 Section: Tweaks
 Maintainer: BvN Repo
