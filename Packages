@@ -15635,6 +15635,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.looky.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.looky.rootless_1.0.4k_iphoneos-arm64.deb
+Size: 86792
+MD5sum: 9e53305de9154ee928708d54162e44eb
+SHA1: 5b0cd46a9994407d28f881d82144e65046122fd9
+SHA256: b369713a46285749c3792f2c24087afaad54d6a687776477747a0e9f57fdbb95
+SHA512: 0e931b19fb2bd268054a425821fdd73abae50c2ae8a000ca3fd25437df7519477698f91056473f807d36c278fd1f573ab24586de69a4cd5dd2dfd04868f0fb31
+Description: Effortless Elegant lock screen notification experience!
+Name: Looky VH(Rootless)
+Author: EllaSP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.looky
 Architecture: iphoneos-arm
 Version: 1.0.3K
@@ -15648,6 +15668,26 @@ MD5sum: 091d5365748a51015b92c531eb03495b
 SHA1: e7d14f95fdf73db7989f9bab8a1a947a9ebe8125
 SHA256: b05486be087d2ce2a5c0bafc3fb58dabb29d1a6ae666a0b3b8322ead8d416e94
 SHA512: 00c18b90d0067b0ae8948f322eb3a858216d3bb8977939f0f07c5b92a355deddb36384ffb3c95aba7d1331c3a252800df4a79438d08eb80a6b697cd640675b64
+Description: Effortless Elegant lock screen notification experience!
+Name: Looky VH
+Author: EllaSP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.looky
+Architecture: iphoneos-arm
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.looky_1.0.4k_iphoneos-arm.deb
+Size: 85160
+MD5sum: 3e162a226ec79495a9a1d1d57bbee423
+SHA1: c7bb6d1f865f90e16c914ac9ebd3414930a5f6ed
+SHA256: 584746234f9481a4c5eab3b86b2dbda873e603ba418e20b92a3430372ca2b32e
+SHA512: 42c703a11699010f029d5f33300bf0aa10231f0f89637a25432aa1c0f813cad891b30d72842c2919706270cbf7140e27093609bda4a8e2b83629ec65e30c6d6d
 Description: Effortless Elegant lock screen notification experience!
 Name: Looky VH
 Author: EllaSP
