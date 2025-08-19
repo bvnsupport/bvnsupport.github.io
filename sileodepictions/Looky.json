@@ -62,12 +62,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"15/8/2025"
+"text":"19/8/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.7.11"
+"text":"iOS 14 đến 16.7.11"
 },
 {
 "class":"DepictionLabelView",
@@ -84,7 +84,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.5\n\nThêm tùy chọn thay đổi kích thước biểu tượng\n\nThêm tùy chọn thay đổi kích thước tiêu đề\n\nThêm tùy chọn thay đổi kích thước tin nhắn\n\nThêm hiệu ứng nhấp nháy viền mới\n\nThêm hỗ trợ ứng dụng X\n\nXóa nút tăng giảm âm lượng khi gửi thông báo thử nghiệm"
+"markdown":"#### 1.0.6\n\nThêm Huy hiệu vào bên trong ảnh đại diện WhatsApp để hiển thị biểu tượng WhatsApp"
 }
 ],
 "class":"DepictionStackView"
