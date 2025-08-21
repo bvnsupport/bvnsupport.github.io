@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Kho iPA</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0d0b1a;
+      color: #e5e5f7;
+      line-height: 1.6;
+      transition: background 0.5s, color 0.5s;
+      overflow-x: hidden;
+    }
+    body.light { background: #f4f4f9; color: #222; }
+
+    /* Nền tia sét */
+    canvas#lightning {
+      position: fixed; top:0; left:0;
+      width:100%; height:100%;
+      z-index:-1; pointer-events:none;
+    }
+
+    header {
+      display:flex; justify-content:center; align-items:center;
+      padding:10px 15px;
+      background:rgba(255,255,255,0.05);
+      box-shadow:0 0 15px rgba(160,100,255,0.4);
+      border-radius:12px;
+      margin:10px;
+      position:sticky; top:10px; z-index:10;
+    }
+    body.light header { background:rgba(0,0,0,0.05); box-shadow:0 0 15px rgba(100,100,100,0.3); }
+    nav { display:flex; align-items:center; gap:20px; flex-wrap:wrap; }
+    nav a {
+      position:relative; padding:6px 10px; border-radius:8px;
+      color:inherit; font-weight:600; text-decoration:none;
+      white-space:nowrap;
+    }
+    nav a:hover { opacity:0.8; }
+
+    /* Ripple */
+    nav a::after {
+      content:""; position:absolute; left:50%; top:50%;
+      width:200%; height:200%;
+      background:radial-gradient(circle,currentColor 20%,transparent 80%);
+      transform:translate(-50%,-50%) scale(0);
+      border-radius:50%; opacity:0.6; pointer-events:none;
+    }
+    nav a.ripple::after { animation:ripple .6s ease-out; }
+    @keyframes ripple {
+      from{transform:translate(-50%,-50%) scale(0);opacity:0.6;}
+      to{transform:translate(-50%,-50%) scale(1);opacity:0;}
+    }
+
+    /* Toggle ngay trong nav */
+    .theme-toggle {
+      cursor:pointer; font-size:20px; color:#ffd43b;
+    }
+    .theme-toggle:hover { transform:rotate(20deg) scale(1.1); color:#a87cff; }
+    body.light .theme-toggle { color:#222; }
+
+    h1 { text-align:center; margin:20px 0 10px; font-size:26px; }
+    h2 { margin:0; font-size:18px; }
+
+    /* Marquee */
+    .marquee {
+  overflow: hidden;
+  position: relative;
+  height: 30px;
+}
+
+.marquee-inner {
+  display: flex;
+  animation: scroll-left 15s linear infinite;
+}
+
+.marquee span {
+  padding-right: 50px;  /* khoảng cách giữa 2 lần lặp */
+  font-size: 16px;
+  font-weight: bold;
+  background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+}
+
+@keyframes scroll-left {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+    .search-box { text-align:center; margin:20px; }
+    .search-box input {
+      width:90%; padding:10px;
+      border-radius:10px; border:none; font-size:16px; outline:none;
+      box-shadow:0 0 15px rgba(168,124,255,0.6);
+    }
+
+    /* Grid */
+    .grid {
+      display:grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap:20px; padding:20px;
+    }
+
+    .section {
+      background:rgba(255,255,255,0.03);
+      border:1px solid rgba(255,255,255,0.15);
+      border-radius:12px;
+      padding:16px 20px;
+      box-shadow:0 0 15px rgba(168,124,255,0.4);
+      display:flex; flex-direction:column;
+      justify-content:space-between; gap:14px;
+      min-height:200px;
+    }
+    .section:hover {
+      box-shadow:0 0 25px rgba(200,150,255,0.9);
+      border-color:rgba(200,150,255,0.8);
+    }
+    body.light .section {
+      background:#fff; border-color:rgba(0,0,0,0.1);
+      box-shadow:0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .section-top {
+      display:flex; align-items:flex-start; gap:14px;
+    }
+
+    /* Icon tròn xoay – không méo */
+    .appicon-circle {
+      flex-shrink:0; width:50px; height:50px;
+      display:flex; align-items:center; justify-content:center;
+      border-radius:50%;
+      overflow:hidden;
+      box-shadow:0 0 15px rgba(168,124,255,0.8);
+    }
+    .appicon-circle img {
+      width:100%; height:100%;
+      object-fit:cover;
+      border-radius:50%;
+      animation:spin 15s linear infinite;
+    }
+    @keyframes spin {
+      from { transform: rotate(0); }
+      to   { transform: rotate(360deg); }
+    }
+
+    .content { flex:1; line-height:1.6; }
+
+    /* Nút tải: luôn nằm giữa */
+    .download-btn {
+      display:flex; justify-content:center; margin-top:auto;
+    }
+    .button {
+      display:inline-flex; align-items:center; justify-content:center;
+      padding:10px 18px; border-radius:10px;
+      background:linear-gradient(135deg,#a87cff,#6a42d4);
+      color:#fff; font-weight:700; text-decoration:none;
+      box-shadow:0 0 20px rgba(168,124,255,0.8);
+      transition:transform .2s, box-shadow .3s;
+      font-size:15px; min-width:120px;
+    }
+    .button:hover { transform:scale(1.05); }
+
+    footer { text-align:center; margin:40px 0 20px; font-size:14px; opacity:.8; }
+
+    @media(max-width:600px){
+      h1{font-size:22px;}
+      .appicon-circle{width:40px;height:40px;}
+      h2{font-size:16px;}
+      .button{font-size:14px;padding:8px 12px;}
+      nav{gap:10px;}
+      .theme-toggle{font-size:18px;}
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <canvas id="lightning"></canvas>
+
+  <header>
+    <nav>
+      <a href="#home">Trang chủ</a>
+      <a href="https://bvnsupport.github.io" target="_blank">Repo Jailbreak</a>
+      <a href="https://bvnsupport.github.io/donate" target="_blank">Ủng hộ</a> 
+      <i class="fa-solid fa-moon theme-toggle" id="themeToggle"></i>
+    </nav>
+  </header>
+
+  <h1 id="home">Kho tải iPA</h1>
+  <div class="marquee">
+  <div class="marquee-inner">
+    <span>🔥 Chào mừng bạn đến với Kho iPA – Tải về nhanh chóng, an toàn, tiện lợi 🔥</span>
+    <span>🔥 Chào mừng bạn đến với Kho iPA – Tải về nhanh chóng, an toàn, tiện lợi 🔥</span>
+  </div>
+</div>
+
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="🔍 Tìm nhanh tệp...">
+  </div>
+
+  <div class="grid">
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/ota.png" alt="iOS Blocker">
+        </div>
+        <div class="content">
+          <h2>Chặn cập nhật iOS</h2>
+          <p>Cấu hình chặn cập nhật iOS giúp ngăn thiết bị tải/cài bản cập nhật mới từ Apple.</p>
+          <p>Hướng dẫn:</p>
+          <ul>
+          <li>Tải xuống và cho phép cài đặt cấu hình</li>
+          <li>Mở Cài đặt → Cài đặt chung</li>
+          <li>Quản lý VPN, DNS & Thiết bị</li>
+         <li>Cài đặt cấu hình và khởi động lại thiết bị</li>
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://cydia.ichitaso.com/no-ota18.mobileconfig"><i class="fa-solid fa-download"></i> Tải OTA</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/troll.png" alt="TrollInstaller X ">
+        </div>
+        <div class="content">
+          <h2>TrollInstaller X </h2>
+          <ul>
+          <li>Cài TrollStore cho iOS 15.0-16.6.1. Hỗ trợ cài qua chứng chỉ hoặc Sideloadly.<br>
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="#"><i class="fa-solid fa-download"></i> Tải iPA</a>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/trollres.png" alt="TrollRestore ">
+        </div>
+        <div class="content">
+          <h2>TrollRestore </h2>
+          <ul>
+          <li>Công cụ cài đặt TrollStore thông qua PC. Yêu cầu 3uTools & tắt Tìm iPhone. Tương thích iOS 15.0 - 16.6.1 và 17.0.<br>
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://github.com/JJTech0130/TrollRestore/releases/latest/download/TrollRestore.exe"><i class="fa-solid fa-download"></i> Tải EXE</a>
+        </div>
+      </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/dopamine.png" alt="Dopamine Rootless ">
+        </div>
+        <div class="content">
+          <h2>Dopamine Rootless </h2>
+          <ul>
+          <li>v2.4.5 – Cài qua TrollStore hoặc chứng chỉ. Dopamine giúp jailbreak iOS mới, hỗ trợ cài tweak, theme qua Sileo, Zebra
+          <li> Hỗ trợ iOS 15.0 - 16.6.1
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://github.com/opa334/Dopamine/releases/download/2.4.5/Dopamine.ipa"><i class="fa-solid fa-download"></i> Tải iPA</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/dopamine-r2.png" alt="Dopamine Roothide ">
+        </div>
+        <div class="content">
+          <h2>Dopamine Roothide </h2>
+          <ul>
+          <li>v2.4.5.18 – Cài qua TrollStore. Hỗ trợ ẩn jailbreak để tránh bị các app ngân hàng, thanh toán phát hiện
+          <li> Hỗ trợ iOS 15.0 - 16.6.1
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://www.mediafire.com/file/c5vca2870rx23sn/roothide-Dopamine-mount-2.4.5.18.12052025.tipa/file"><i class="fa-solid fa-download"></i> Tải iPA</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/palera.png" alt="Palera Jailbreak">
+        </div>
+        <div class="content">
+          <h2>Palera Jailbreak </h2>
+
+          <ul>
+          <li>v2.1 – Cài qua PC, hỗ trợ jailbreak các thiết bị iOS A9 đến A11.
+          <li> Tắt diệt virus trước khi tải về
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://www.mediafire.com/folder/5mty0pz8dq20z/Winra1n+Jailbreak" class="download-btn"><i class="fa-solid fa-download"></i> Tải EXE</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/palera.png" alt="Palera Roothide">
+        </div>
+        <div class="content">
+          <h2>Palera Roothide</h2>
+          <ul>
+          <li>v2.0 – Sử dụng USB Boot
+          <li>Giúp ẩn jailbreak khỏi các ứng dụng bảo mật cao
+          <li>Hoạt động ổn định hơn Palera Rootless
+          <li>Vào Youtube gõ BVN Repo Jailbreak để xem video HD
+        </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://www.mediafire.com/folder/5v1i6lb34vplu/Roothide-palera" class="download-btn"><i class="fa-solid fa-download"></i> Tải File</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/capcut.png" alt="CapCut Pro">
+        </div>
+        <div class="content">
+          <h2>CapCut Pro</h2>
+          <ul>
+          <li>File ADBK
+
+          <li>Dùng AppsManager để khôi phục, mở khoá tính năng Pro
+
+       </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://www.mediafire.com/folder/geqbanante6fh/capcut+pro" class="download-btn"><i class="fa-solid fa-download"></i> Tải File</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/apps.png" alt="AppsManager">
+        </div>
+        <div class="content">
+          <h2>AppsManager</h2>
+          <ul>
+          <li>Cài qua TrollStore
+          <li>Sao lưu & khôi phục dữ liệu ứng dụng, bao gồm keychain.
+       </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://www.mediafire.com/file/vj56apemfwc1pha/AppsManager_1.8.4.ipa/file" class="download-btn"><i class="fa-solid fa-download"></i> Tải iPA</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/filza.png" alt="Filza File Manager">
+        </div>
+        <div class="content">
+          <h2>Filza File Manager</h2>
+          <ul>
+          <li>Cài qua TrollStore
+          <li>Truy cập toàn bộ hệ thống file iOS, hỗ trợ nén/giải nén nhiều định dạng
+       </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://drive.google.com/file/d/19Z-jONO4s611q--yarCpLTsUL-PNjrVJ/view?pli=1" class="download-btn"><i class="fa-solid fa-download"></i> Tải iPA</a>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-top">
+        <div class="appicon-circle">
+          <img src="https://bvnsupport.github.io/icon/chatgpt.png" alt="Chatgpt iOS16">
+        </div>
+        <div class="content">
+          <h2>Chatgpt iOS16</h2>
+          <ul>
+          <li>Cài qua TrollStore
+          <li>Phiên bản này hỗ trợ các thiết bị iOS 16.0-16.4
+       </div>
+      </div>
+      <div class="download-btn">
+        <a class="button" href="https://www.mediafire.com/folder/qfpx95f3w8tvi/chatgpt16" class="download-btn"><i class="fa-solid fa-download"></i> Tải iPA</a>
+      </div>
+      </div> 
+    </div>
+  </div>
+
+  <footer>
+    © 2025 • Bản quyền thuộc về <a href="https://www.facebook.com/bvnmobileservices999">Biện Văn Nhật</a>
+  </footer>
+
+  <script>
+    // Tìm kiếm
+    document.getElementById("searchInput").addEventListener("input", function() {
+      const filter = this.value.toLowerCase();
+      document.querySelectorAll(".section").forEach(sec => {
+        sec.style.display = sec.innerText.toLowerCase().includes(filter) ? "flex" : "none";
+      });
+    });
+
+    // Đổi theme
+    const themeToggle=document.getElementById("themeToggle");
+    function setTheme(isLight){
+      if(isLight){document.body.classList.add("light");themeToggle.classList.replace("fa-moon","fa-sun");}
+      else{document.body.classList.remove("light");themeToggle.classList.replace("fa-sun","fa-moon");}
+    }
+    let isLight=localStorage.getItem("theme")==="light";
+    setTheme(isLight);
+    themeToggle.addEventListener("click",()=>{isLight=!isLight;setTheme(isLight);localStorage.setItem("theme",isLight?"light":"dark");});
+
+    // Ripple
+    document.querySelectorAll("nav a").forEach(link=>{
+      link.addEventListener("click",function(){
+        this.classList.remove("ripple"); void this.offsetWidth; this.classList.add("ripple");
+      });
+    });
+
+    // Tia sét
+    const canvas=document.getElementById("lightning");const ctx=canvas.getContext("2d");
+    function resizeCanvas(){canvas.width=window.innerWidth;canvas.height=window.innerHeight;}
+    resizeCanvas(); window.addEventListener("resize",resizeCanvas);
+    function drawLightning(){
+      ctx.clearRect(0,0,canvas.width,canvas.height);
+      if(Math.random()>0.96){
+        const colors=["rgba(0,200,255,0.8)","rgba(200,100,255,0.8)","rgba(255,215,0,0.8)","rgba(255,80,150,0.8)"];
+        const color=colors[Math.floor(Math.random()*colors.length)];
+        const x=Math.random()*canvas.width;
+        ctx.beginPath(); ctx.moveTo(x,0);
+        for(let y=0;y<canvas.height;y+=20){ctx.lineTo(x+(Math.random()-0.5)*50,y);}
+        ctx.strokeStyle=color; ctx.lineWidth=2; ctx.shadowBlur=20; ctx.shadowColor=color; ctx.stroke();
+      }
+      requestAnimationFrame(drawLightning);
+    }
+    drawLightning();
+  </script>
+</body>
+</html>
