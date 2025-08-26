@@ -17035,97 +17035,17 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
 Package: com.bvn.safarix.rl
 Architecture: iphoneos-arm64
-Version: 1.9.3
-Section: Tweaks
-Maintainer: Bvn
-Installed-Size: 824
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.9.3_iphoneos-arm64.deb
-Size: 379710
-MD5sum: f615b5824b493c9d46540e364bf89a77
-SHA1: 4060f477c0ef0faafc142e8fa9b3a1db9f83caaa
-SHA256: efff9dd3ee36190bd57c0739bf2737a7a93eca1fa5bce7fdcc7098caba6f94b1
-SHA512: 0e1c1ac17643b8edca0638210c9b6a9966c9069ba8db4f8b671d8bc7220f22a84534b4f85b4cfe17be9f1443d2a7227b12ab88b7337be5f5cb6284d386adc77f
-Description: Safari Essential Features
-Name: SafariX VH(Rootless)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.rl
-Architecture: iphoneos-arm64
-Version: 1.9.5
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 824
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.9.5_iphoneos-arm64.deb
-Size: 379958
-MD5sum: bd910731f24151cb90593fda45e44206
-SHA1: b0fd5b27474cf4caf217e081e26ba9eabebd3057
-SHA256: d3c39d98fe50c8adf336f2dc029e17a3055a3f42798702f94902448a34607152
-SHA512: f4d9d036eba847d84e8979917169d325803d569b3d0c51754bf1295274904641cd5bc45cd571f1623e1c042091c92c1b75db4890b408740d7103bdc6c45d3218
-Description: Safari Essential Features
-Name: SafariX VH(Rootless)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.rl
-Architecture: iphoneos-arm64
-Version: 1.9.7
+Version: 1.9.9.1k
 Section: Tweaks
 Maintainer: 0xkuj
-Installed-Size: 908
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.9.7_iphoneos-arm64.deb
-Size: 388530
-MD5sum: bc64ca9024a1d30a62f787099ad380d9
-SHA1: 769590546d251fbf84b469be4287ed833644c060
-SHA256: f8f194b7377b33da5bcb9ed94a0b42fcde97496c11d9c48203991e9f529fb8a3
-SHA512: 53dd97b6b398b6bf4db2b8c81e6ccc2a715b3f356c0e053275f4ec1ae14ac22bdf60901c6b50e33d2b7ec318ecedb99d2eb8092421660afe4269a073358e9334
-Description: Safari Essential Features
-Name: SafariX VH(Rootless)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.rl
-Architecture: iphoneos-arm64
-Version: 1.9.8K
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 892
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.9.8K_iphoneos-arm64.deb
-Size: 401872
-MD5sum: 8b4b795a846dc560adf36312ccc87b0d
-SHA1: 37737dcbd3992f75c8fc38a7547a72dc0bc6102d
-SHA256: 6a4cf617fb7ac51f8c8c06f9a940aa0df65b417e69f27ca48645c0aaaddba511
-SHA512: b09586317d48ccfdce6fc32d0b766c67fca61dbebe965498fded976e410c16f707f317a37486daea30f8fe7d8d7998c672acba395576227454b6dc32d5f1bc40
-Description: Safari Essential Features
-Name: SafariX VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: 0xkuj
-
-Package: com.bvn.safarix.rl
-Architecture: iphoneos-arm64
-Version: 1.9.9K
-Section: Tweaks
-Maintainer: Bvn Repo
 Installed-Size: 928
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.rl_1.9.9K_iphoneos-arm64.deb
-Size: 409464
-MD5sum: e4af67c5a54a034475a17ed96cf4b87c
-SHA1: bebf2f9388fb635a55bcedf0af34f80e436483ef
-SHA256: 22ed000a14a6ea87cd7f496cc9a3ed402ef87b5a09854a8641acc7b3ce38bf4d
-SHA512: fb0d7438f08afdd7aac19ccf7d9bc2bb5d5822886e09109a636bb96c2b4ffeb448a492ab0b17d67032b3ddc7585d812ee7c141048b041d5f48572e4f12173816
+Filename: ./debs/com.bvn.safarix.rl_1.9.9.1k_iphoneos-arm64.deb
+Size: 392112
+MD5sum: 518614a0cea34563b81422ff352dba85
+SHA1: 5ca22045ad8333080e0b3acd5d8a81402f823bfe
+SHA256: d9e4e780d9b69d93295f8329d6eb4750a9d9336a87b2ae618a28a6c8280063ea
+SHA512: 867bb3c67e428041072fd73400d367309c1265e49af034391bb706fcf20efb561a65379966f3b79ec2cc643ffe7e5126a566603d344ad269bca34d8cbaed9157
 Description: Safari Essential Features
 Name: SafariX VH(Rootless)
 Author: 0xkuj
@@ -18071,41 +17991,41 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.tgextra
 Architecture: iphoneos-arm
-Version: 1.3
+Version: 1.4.0
 Section: Tweaks
-Maintainer: BVN Repo
-Filename: ./debs/com.bvn.tgextra_1.3_iphoneos-arm.deb
-Size: 9486218
-MD5sum: a6795e78ee67bebf836c71b4efa2d780
-SHA1: 344a805a85b8c2761462b32a2dd83a187d6b907b
-SHA256: a93f7668ccbb1b9c48b4dec675b7898fb10f0e9f2a336b93fd19d5b2a0f2022e
-SHA512: 71a7513f591097a545e08e825219d8fad2a783325352e5ff888a59da0d2497899edb44a008ae5579af5297c05627f4a93647f251df701ff2e6fa5c01f58cd168
-Description: Một tinh chỉnh đơn giản cho Telegram, Swiftgram, Turrit.
- - Nhấn vào biểu tượng trò chuyện 5 lần hoặc 3 ngón tay Tap để kích hoạt menu.
+Maintainer: choco
+Installed-Size: 15894
+Filename: ./debs/com.bvn.tgextra_1.4.0_iphoneos-arm.deb
+Size: 5070996
+MD5sum: 4266314038dc62d57a44eb7154063abb
+SHA1: 0f777ffbbe3420c5080b03fef9e2c6be23eb108d
+SHA256: 6973fe907a7c368f88cc0c7c41efc2a58afd6e8c48f38e7372920576629c9d23
+SHA512: ea7d21bc47569ff5a0a6a75d7ce4bc603a522851dde6216d1a587140cf1433e1134dc2af9a238b86d8fd19fddc250e196eac2e14106127862c348a7cc5f8f5e3
+Description: An simple Tweak For Telegram iOS
 Name: TGExtra VH
+Author: choco, r22i0
 Depiction: http://bvnsupport.github.io/infodeb/Html/TGExtra.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TGExtra.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: choco, waruhachi
 
 Package: com.bvn.tgextra
 Architecture: iphoneos-arm64
-Version: 1.3
+Version: 1.4.0
 Section: Tweaks
-Maintainer: BVN Repo
-Filename: ./debs/com.bvn.tgextra_1.3_iphoneos-arm64.deb
-Size: 9626586
-MD5sum: 769e5b1c127b5f9d0b9b71a2ba7e5c8a
-SHA1: 3691095f980abf7601af87f81e2fe4f626abc73d
-SHA256: 7b5ee4e00e2799aac5f9654676208f8ec8f917f43ecf01bd7de69824fcab41f9
-SHA512: 103df0595d51baa0f6a912308c271cccb95dfb9651633a6db61a3cb99d1364a7a0a1468663fc7190f70d3ec5cddac929df2624370e2ec55f1480fc87d83b9fb1
-Description: Một tinh chỉnh đơn giản cho Telegram, Swiftgram, Turrit.
- - Nhấn vào biểu tượng trò chuyện 5 lần hoặc 3 ngón tay Tap để kích hoạt menu.
-Name: TGExtra VH (Rootless)
-Author: choco, waruhachi
+Maintainer: choco
+Installed-Size: 15894
+Filename: ./debs/com.bvn.tgextra_1.4.0_iphoneos-arm64.deb
+Size: 5071088
+MD5sum: 4a84bfc70b260e3c7585aad3a38d1394
+SHA1: 92fff7e9e76b7ecbb5b43a2a87a6d1c58a407e32
+SHA256: f98cfa7fdc1ed28da6626ab9bf833529100dd786f447c031fe675a7fc5c087ca
+SHA512: 133aba07200034d68eeab5148cf63cd6c293560dbe2a1bdc65c0a8e0a6a4d12558e1aefbfb6864cee1d0e8ea0bece61f3ad9ce44691e8d058b42fb630151b50e
+Description: An simple Tweak For Telegram iOS
+Name: TGExtra VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/TGExtra.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TGExtra.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: choco, r22i0
 
 Package: com.bvn.ticktick
 Architecture: iphoneos-arm
