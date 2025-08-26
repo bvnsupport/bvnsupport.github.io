@@ -26133,48 +26133,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.rocket-ig
 Architecture: iphoneos-arm64
-Version: 3.8.32-1K
-Priority: optional
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 6620
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/vn.bvn.rocket-ig_3.8.32-1K_iphoneos-arm64.deb
-Size: 2301072
-MD5sum: 1c9cf6a302a449af9bb1233f105f2470
-SHA1: 39ae57a28c037f2c057e7eaf8d60da469a1faee3
-SHA256: 452688e436984c08105e4a849f92424f863119daa0650dffa02670e98d03a03b
-SHA512: dd57f0d3b6d879f20b538f51a0f020b184b21c7c58ce4ac428267aa25eb65d78ace9c26603904b714ea17a44b6763f224cbb93dc413cc237f8c01c1515687ca1
-Description: Lưu bài viết và xem các câu chuyện ẩn danh và làm nhiều hơn nữa
-Name: Rocket for Instagram (Rootless)
-Author: Rocket App
-Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: vn.bvn.rocket-ig
-Architecture: iphoneos-arm64
-Version: 3.8.35K
-Priority: optional
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 6684
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/vn.bvn.rocket-ig_3.8.35K_iphoneos-arm64.deb
-Size: 2310486
-MD5sum: 03b6225778d65dc116d14bfd33d2c60d
-SHA1: f689a13a38141a794fb9f6d5a9a8235de9287e4e
-SHA256: df2decbb7d86ed83a968d38cddafb7f1911eca3e27f2bb6d982f0407024616d9
-SHA512: 9b5d5c9e2ae6b949c57c22bbe57ea0014e2b60e29962e28e75ae9d282fbb583091533c1e6314faf38e771f4c3b05f4f31a4b2fa95e551119210167d19dbd4dc3
-Description: Lưu bài viết và xem các câu chuyện ẩn danh và làm nhiều hơn nữa
-Name: Rocket for Instagram VH
-Author: Rocket App
-Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: vn.bvn.rocket-ig
-Architecture: iphoneos-arm64
 Version: 3.8.36k
 Priority: optional
 Section: Tweaks
@@ -26448,23 +26406,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: ClockFonts (Rootless)
 Author: nqt1195
 
-Package: vn.bvnrepo.eqex
-Architecture: iphoneos-arm64
-Version: 2.2.2-2
-Section: Tweaks
-Maintainer: Repo BvN
-Depends: firmware (>= 15.0), mobilesubstrate, coreutils, xyz.cypwn.xinam1ne
-Filename: ./debs/vn.bvnrepo.eqex_2.2.2-2_iphoneos-arm64.deb
-Size: 7981114
-MD5sum: 738522ccfe3fc9685dbd63e488fb600a
-SHA1: c931d56f377500c5a7f279e9b18b48f008280ce0
-SHA256: b2cca1ce8f8cc9e8c23316f4d8495c4f3233ca1ad62fbefafe725ce540866e3b
-SHA512: 558b869524bf86985f8b54c926b4a4607955b171cadea0d4b134290c71445d02f1e94e072f2740b959a8f00f409881ccf5573ec1cfa6602bedb5416cd84e7ef2
-Description: System-wide parametric equalizer. Modded by Sudo for Rootless
-Author: Reed Weichler
-Name: EQE X(Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: vn.repobvm.youtubereborn
 Architecture: iphoneos-arm64
 Version: 4.1.2
@@ -26530,26 +26471,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/FloatingDockXVI.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/FloatingDockXVI.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ethan Whited
-
-Package: wallpaperloader
-Architecture: iphoneos-arm64
-Version: 1.1.2
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 172
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/wallpaperloader_1.1.2_iphoneos-arm64.deb
-Size: 18566
-MD5sum: 4a38ca2d07e019b540e84af6c97a1757
-SHA1: d95f159a4488a67fbb29e7fd80d9dd83b95d31f7
-SHA256: dfdc8f1e2e7eff04a57412ed01a2d754f1cbe4942acd4b306617dafd33672142
-SHA512: e828da273979e376c2c78bf04fc6d1f635da49f52ab062d3589f5aa1e2453f4c4c2423f3512d51b2264e912cfc2b784391d8ab9661e3395277ba0c6a4db37643
-Description: Thêm nhiều hình nền mặc định!
-Name: WallpaperLoader (Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/WallpaperLoader/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/WallpaperLoader.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Skitty
 
 Package: ws.REPOCYDIABVN.newterm3
 Architecture: iphoneos-arm
@@ -26696,25 +26617,4 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2484
 Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid
-
-Package: xyz.willy.zebra
-Architecture: iphoneos-arm
-Version: 1.1.29
-Section: Packaging
-Maintainer: Repo Cydia BVN
-Installed-Size: 12580
-Depends: dpkg, uikittools, firmware (>= 9.0)
-Filename: ./debs/xyz.willy.zebra_1.1.29_iphoneos-arm.deb
-Size: 8276548
-MD5sum: 3e78e66631cfecff9c4e5bbd6292b581
-SHA1: 5839096106145c43e66561b2785fa0ccf6294540
-SHA256: f06ad2c751290fba076229bdb4d0a75c5464603e2f650fa6580d6351acf50762
-SHA512: 27ff2331f98081284f9ddc0732454ff606764d3fdd54fc59f4497a6eb820dc4d632bb3e5f95c18ed75142dbd8876b38cb60f436fef941b17f29cb4d5b39b5364
-Description: A Useful Package Manager
-Tag: compatible::9.0-15.7
-Name: Zebra
-Author: Zebra Team <team@getzbra.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
-Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
