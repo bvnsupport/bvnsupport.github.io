@@ -22309,46 +22309,6 @@ Depiction: https://bvnsupport.github.io/depictions/Velvet.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Velvet.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.repobvn.vneidbypassjb
-Architecture: iphoneos-arm
-Version: 2.1.12
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: firmware (>=10.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.12_iphoneos-arm.deb
-Size: 23381640
-MD5sum: da313fda06a415dda8e33fdc292f151e
-SHA1: 98f6525ce14221ef86b9fd7325f6b8573915a3f6
-SHA256: ae0b774c013a94ba42a02f274c0b3d8c7dd9a4c567eed1b2462047b44b4bfa05
-SHA512: 12d4985295030f9c2f1d206a836a078f19f8051dfa3d24aee88d6f37104280fd42d0cbc902ad40ed3c4c007913da3213f14227dd6aac81f9a7b684793b7aadd8
-Description: Chặn Jailbreak Ứng dụng VNeID
-Name: Hidejb VNeID
-Author: Biện Văn Nhật
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Tags: compatible_min::ios10.0
-Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
-
-Package: com.repobvn.vneidbypassjb
-Architecture: iphoneos-arm64
-Version: 2.1.12
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Depends: firmware (>=15.0)
-Filename: ./debs/com.repobvn.vneidbypassjb_2.1.12_iphoneos-arm64.deb
-Size: 23284396
-MD5sum: b703f5cde0c210564fe6cb8c542993da
-SHA1: 9f7d702fab2d861c3f178fc174193305d2cbbb7e
-SHA256: 5c9f8d0353574b071bb69dbb51bf27077fe06ce5e17787b1388d4d4c9aa48633
-SHA512: 1da00d3fc2b468491c51e1760e913157b5cba446eaa172b27996db7b09fc3070c3c19ffff50b86bb98b86bff9d16346f8260ea7f81dd8ab47d8c79db652b9e65
-Description: Chặn Jailbreak Ứng dụng VNeID
-Name: Hidejb VNeID
-Author: Biện Văn Nhật
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Tags: compatible_min::ios15.0
-Depiction: http://bvnsupport.github.io/infodeb/HidejbVNeID/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/HidejbVNeID.json
-
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.12.7
