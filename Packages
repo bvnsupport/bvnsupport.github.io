@@ -17634,17 +17634,17 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm
-Version: 6.0.2
+Version: 6.1.3
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 1612
+Installed-Size: 1688
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
-Filename: ./debs/com.bvn.spotify_6.0.2_iphoneos-arm.deb
-Size: 578170
-MD5sum: 84cfe3ede065182025004be38ec43838
-SHA1: 42c5c08e486203a6de7ede278ff7c4f4c2a2bc30
-SHA256: b1aa916fd14386df32b5de37fa3626c20a6d8eab21238f8cf79f74794a57112a
-SHA512: 8f4140fbb477b2268447b9bc776dfd941d2fc2b0f5885498943f940cffc22bbc9613cd00876cbd7a9afe4d9533c0c0effa024378609d7f3f2c8eb9f2a2f20029
+Filename: ./debs/com.bvn.spotify_6.1.3_iphoneos-arm.deb
+Size: 609388
+MD5sum: 80e08f4d460490d36d2d17e0d4c2da8c
+SHA1: f2fe01db8384e1a2eebff2c45a12410548206ee3
+SHA256: 094f894874cbda2b0b7eb3e60ed46754af17de706aed77987e872b43d841063e
+SHA512: 531de897386ec54993354b96bae8ae35cef987dfc09429ed76eb1d134ea9e3b08b9edec2e95371d04ffeffffc2b5b6055a3f7060f7610cc9cbb44e75556ec6a4
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify VH
 Author: Eevee
@@ -17654,17 +17654,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.spotify
 Architecture: iphoneos-arm64
-Version: 6.0.2
+Version: 6.1.3
 Section: Tweaks
 Maintainer: Eevee
-Installed-Size: 1612
+Installed-Size: 1688
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
-Filename: ./debs/com.bvn.spotify_6.0.2_iphoneos-arm64.deb
-Size: 578202
-MD5sum: 9c1df19e3cc86b74901f086c476c4045
-SHA1: 4c98a8430974323616d22b348928a100be1aa4f3
-SHA256: 0d56243ec74aa35da419c1e344d0417437b81d48fe4ad8c27d429654515f1812
-SHA512: 15a9bd2de2c1dde043e80f3482cfa919b75b64b4fa2d9cec1110b3503941bd7a624f2b9614f0be3fd8486aedabdbf9f2c8e9d86404b8347352f56aa265b6d450
+Filename: ./debs/com.bvn.spotify_6.1.3_iphoneos-arm64.deb
+Size: 609332
+MD5sum: 967026cc5efeb1d302b82978a6388f57
+SHA1: be0b61ea588997249dae2cbea6f86476ce4aee7b
+SHA256: 07d8aad587d286afe22b73c99b8a7c53be5d91e5270172c1bf09c23cdf6b5f69
+SHA512: 19e312062c5ed9e239b334777ffc13daa999027c2e3826be55cb4a9d9350e19562bcf052f4cbbf71d90b898ffde706d42502b7d8be9a1a965038b785a7a364e5
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify VH(Rootless)
 Author: Eevee
