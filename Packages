@@ -18462,6 +18462,27 @@ Author: ethxnn88 <ethxnn88@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/VisibleIsland.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisibleIsland.json
 
+Package: com.bvn.vitreux
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 6160
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.jtis.vitreux, com.bvn.vitreux.r2, com.mtac.vitreux
+Filename: ./debs/com.bvn.vitreux_1.1_iphoneos-arm64.deb
+Size: 5678378
+MD5sum: 6bb8a4e02c658552fcfd9242bc5618ec
+SHA1: bdbc4b37659af0703b90313572932de5a158ca31
+SHA256: 22a7f8c6bb653920b45ba98868700a947fe64e9bfe56fbddcccc91cdca2c1060
+SHA512: f6e94254d41e94edb6f63e2704ed286fb5fefe452509c9048a1c974aa328a968fc93bc8f1d19027ed78d0f85478fd4478d93af32cb1500853420552f46479f06
+Description: A recreation of Liquid Glass
+Name: Vitreux VH(Rootless)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Html/Vitreux.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Vitreux.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.vivacutpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
