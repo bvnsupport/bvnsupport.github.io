@@ -1,0 +1,124 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Floaty/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"Floaty VH\n\n- Floaty: Biểu ngữ của bạn, được tái tưởng tượng.Mệt mỏi với những biểu ngữ lộn xộn và bỏ lỡ cảnh báo? Floaty biến trải nghiệm thông báo của bạn trở nên sống động với các bong bóng nổi tinh tế ở cạnh màn hình. Lấy cảm hứng từ tiện ích của chat heads, Floaty đảm bảo bạn không bao giờ bỏ lỡ điều quan trọng, giúp bạn kết nối mà không bị phân tâm khỏi công việc đang làm. Floaty không chỉ là một hệ thống cảnh báo; đó là một trung tâm thông báo hoàn chỉnh được xây dựng xung quanh các cử chỉ trực quan và tùy chỉnh sâu.\n\n- Tính năng chính:\n\n- Bong bóng thông báo nổi\n\n- Mỗi ứng dụng có thông báo mới sẽ có bong bóng riêng xuất hiện ở cạnh màn hình.\n\n- Cho phép xem nhanh tình trạng thông báo mà không cần mở Trung tâm thông báo\n\n- Ngăn xếp thông báo tức thì\n\n- Chạm vào bong bóng → hiện danh sách thông báo gọn gàng chỉ của ứng dụng đó\n\n- Tránh bị lẫn lộn với thông báo từ các ứng dụng khác\n\n- Cử chỉ điều khiển mạnh mẽ\n\n- Chạm và giữ hiện menu nhanh để:\n\n- Xóa thông báo của riêng app đó\n\n- Tắt tiếng\n\n- Hoặc xóa tất cả thông báo một lần\n\n- Kéo và thả: kéo bong bóng dọc theo mép màn hình, sắp xếp theo ý muốn\n\n/ Trải nghiệm giống Chat Heads\n\n- Thông báo hiển thị dưới dạng bong bóng nổi, không làm gián đoạn tác vụ đang chạy.\n\n- Giữ kết nối liên tục mà không cần rời khỏi ứng dụng đang dùng\n\n- Trung tâm thông báo hoàn chỉnh\n\n- Không chỉ thay banner mặc định, mà Floaty đóng vai trò như một trung tâm thông báo \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liê hệ tôi qua Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"ella89sp"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"9/9/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14 đến 16.7.11"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 1.2\n\nThêm tùy chọn hình dạng biểu tượng\n\nSửa lỗi giao diện thông báo bị giật lag một số lúc\n\nSửa lỗi tùy chọn kích thước biểu tượng không hoạt động"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
