@@ -13680,6 +13680,26 @@ Author: Alex
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: fix SneakyCam
 
+Package: com.bvn.floaty
+Architecture: iphoneos-arm64
+Version: 1.2k
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.floaty_1.2k_iphoneos-arm64.deb
+Size: 99846
+MD5sum: dbd3242fd06aa818d78f9d1a204ecb36
+SHA1: d14594cf3ef548acd678c6976db6bd7d087bb4fd
+SHA256: 97ad78b2ea98dcfca3796ebbb975d1263cdf41f6b821e789a3119fa508879e81
+SHA512: 2a268a3a20cfc9f6bdc7555ff4d010f70389b7511123965cba604abb542bc4de803afc0e95d455f7e236eb7b0ddf27034d6a972737ed86f43984dfe21cd998f6
+Description: Your Banners, Reimagined!
+Name: Floaty VH(Rootless)
+Author: EllaSP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Floaty.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Floaty.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.flopatch
 Architecture: iphoneos-arm
 Version: 1
@@ -18698,24 +18718,6 @@ Author: DeNsor
 Depiction: http://bvnsupport.github.io/infodeb/Html/Videostar.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Videostar.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
-
-Package: com.bvn.waktos2
-Architecture: iphoneos-arm64
-Version: 1.0.1k
-Section: Tweaks
-Maintainer: alimaulana
-Installed-Size: 1228
-Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 2.0), preferenceloader
-Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.ali.aimpro, com.icraze.nexus
-Filename: ./debs/com.bvn.waktos2_1.0.1k_iphoneos-arm64.deb
-Size: 413788
-MD5sum: b4cd7b5fe69a684e1bbb4df9e32f7f9c
-SHA1: 7330a9274af52e26540c403bbc43bfea1e14beef
-SHA256: c293a794d9d7fb061f72828a29daa168558af5f391e03ed7cab6f9b774fa6a76
-SHA512: 8aefe01dbcd523b5f911ebd749fdfd6f91ee23126963040a9969f1e720c40c426c30f2a9387e23f16727a6bec889a4a415b2b19231952a1b379c2ab37ee760fe
-Description: Android Style Lockscreen
-Name: Waktos 2
-Author: alimaulana
 
 Package: com.bvn.walegacy
 Architecture: iphoneos-arm
