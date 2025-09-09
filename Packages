@@ -15739,6 +15739,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/masknoel.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/masknoel.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.messengerfix
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1016
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.messengerfix_1.0-2+debug_iphoneos-arm.deb
+Size: 540694
+MD5sum: 713bda16107a89ae3dd424cc55812e88
+SHA1: e77d654854e05cb7b1c1cfc5c2cabc770c334f58
+SHA256: 71a872ba06a7c5aca7df594c3aef237d3bcc687903ca54620aff4b39473f2787
+SHA512: c9abb523bfe2f7de5c12a923216cc34230048b925ab7be87e7418215e85bd1694708b373f4dcea35ef5ebdfa50bbebcf472b27a84fa07189ce36f885ddd2cd34
+Description: Facebook Messenger fix for iOS 14
+Name: MessengerFix14
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/MesengerFix14.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MesengerFix14.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.messengerfix
+Architecture: iphoneos-arm64
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 1016
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.messengerfix_1.0-2+debug_iphoneos-arm64.deb
+Size: 535994
+MD5sum: fd2dc84e547eb86763c4f7885214b6d7
+SHA1: 072ceda6795c6082dab40b82f1c895935f890e4d
+SHA256: 1cbf15c1877c143a3f236619df86826b1176de8e34945ceee048ca702ca400af
+SHA512: f8ad8b5cb320797f235bc1bc91969abdbf033037019419d553b230702f7d49772e48fba6508a684efc5c6cb1b7aeb22b4d129972bf691634f0982af2fd80e8b5
+Description: Facebook Messenger fix for iOS 14
+Name: MessengerFix14+
+Depiction: http://bvnsupport.github.io/infodeb/Html/MesengerFix14.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MesengerFix14.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: 34306
+
 Package: com.bvn.migiihskpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -18718,6 +18758,24 @@ Author: DeNsor
 Depiction: http://bvnsupport.github.io/infodeb/Html/Videostar.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Videostar.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.waktos2
+Architecture: iphoneos-arm64
+Version: 1.0.1k
+Section: Tweaks
+Maintainer: alimaulana
+Installed-Size: 1228
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 2.0), preferenceloader
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.ali.aimpro, com.icraze.nexus
+Filename: ./debs/com.bvn.waktos2_1.0.1k_iphoneos-arm64.deb
+Size: 413788
+MD5sum: b4cd7b5fe69a684e1bbb4df9e32f7f9c
+SHA1: 7330a9274af52e26540c403bbc43bfea1e14beef
+SHA256: c293a794d9d7fb061f72828a29daa168558af5f391e03ed7cab6f9b774fa6a76
+SHA512: 8aefe01dbcd523b5f911ebd749fdfd6f91ee23126963040a9969f1e720c40c426c30f2a9387e23f16727a6bec889a4a415b2b19231952a1b379c2ab37ee760fe
+Description: Android Style Lockscreen
+Name: Waktos 2
+Author: alimaulana
 
 Package: com.bvn.walegacy
 Architecture: iphoneos-arm
