@@ -10,15 +10,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/Vitreux/Screenshots/1.png",
+"url":"https://bvnsupport.github.io/infodeb/FastLock/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnsupport.github.io/infodeb/Vitreux/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnsupport.github.io/infodeb/Vitreux/Screenshots/3.png",
+"url":"https://bvnsupport.github.io/infodeb/FastLock/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -26,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"FastLock VH\n\n- Tính năng:\n\n- Khóa nhanh bằng cách chạm vào nền Màn hình chính\n\n- Rung phản hồi khi khóa/mở khóa\n\n- Tự động bật Chế độ Nguồn điện thấp khi khóa\n\n- Âm thanh khóa màn hình tùy chỉnh\n\n- Âm thanh mở khóa tùy chỉnh\n\n- Điều kiện để huỷ mở khoá tự động\n\n- Tự động mở khóa bằng Face ID \n\n",
+"markdown":"FastLock VH\n\n- Tính năng:\n\n- Khóa nhanh bằng cách chạm vào nền Màn hình chính\n\n- Rung phản hồi khi khóa & mở khóa\n\n- Tự động bật Chế độ Nguồn điện thấp khi khóa\n\n- Âm thanh khóa màn hình tùy chỉnh\n\n- Âm thanh mở khóa tùy chỉnh\n\n- Điều kiện để huỷ mở khoá tự động\n\n- Tự động mở khóa bằng Face ID \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -89,7 +85,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0\n\nThêm hỗ trợ ngôn ngữ Việt Nam\n\Thêm âm thanh mở & khoá"
+"markdown":"#### 1.0\n\nThêm hỗ trợ ngôn ngữ Việt Nam "
 }
 ],
 "class":"DepictionStackView"
