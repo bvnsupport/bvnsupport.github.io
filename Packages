@@ -13601,6 +13601,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/FakeDualSIM.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.bvn.fastlock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 852
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.fastlock_1.0_iphoneos-arm.deb
+Size: 412652
+MD5sum: 34a08be82dcfffe9e5ad8766a5145c5c
+SHA1: b102e3199f73aab7c6c1f00996f374c21ca44d6b
+SHA256: e5cf817f573f916724b327276a7be36d6aeb1d03445df8b1c6e8deb7ff994d2a
+SHA512: c248be8f65ab53e80a0719d86f524e48cb030b16a6609aa419157843029b2cdeb2f67c499c8cfe94e21db5f84afca4c3746bca1b3cd16a578ee3095538d44493
+Description: Khóa màn hình bằng cử chỉ trên SpringBoard
+Name: FastLock VH
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/FastLock.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FastLock.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.fastlock
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 852
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.fastlock_1.0_iphoneos-arm64.deb
+Size: 412540
+MD5sum: 08d224bb889255020c2d30a513a59509
+SHA1: 17d5079a1aae91a3f47c870983dc1fa3503dadb3
+SHA256: d0076386bc5a01eaba68ef91ec6d80e3b95924ee385579a3340d71c456d635fc
+SHA512: 4f0f0863a0802f05d3d72d541fa4b6181f00805cdbb02897409cd64c789bb1235e8bdbfa7be9767b32dd11dba4169892cfaabe31d51e85a3a99dafd67ae2ea29
+Description: Khóa màn hình bằng cử chỉ trên SpringBoard
+Name: FastLock VH(Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/FastLock.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FastLock.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.fiona-rootless
 Architecture: iphoneos-arm64
 Version: 1.0.6R
