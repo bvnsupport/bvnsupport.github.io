@@ -1,0 +1,129 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/DoubleTap/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"DoubleTap To Lock\n\n- Tính năng:\n\n- 1 tinh chỉnh nhẹ nhàng khóa nhanh màn hình bằng cách chạm 2 lần vào nền Màn hình chính\n\n- Rung phản hồi khi khóa\n\n- Tinh chỉnh mới nhưng tính năng cũ😂 mình vừa làm nên có lỗi gì ae inbx mình ở mục liên hệ nhé \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ tôi qua Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"dvntm"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"6 kb"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"15/9/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.7.11"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 1.0\n\nLần đầu phát hành "
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
