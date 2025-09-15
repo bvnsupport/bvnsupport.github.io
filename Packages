@@ -9856,6 +9856,46 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/Christmas.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Christmas.json
 
+Package: com.bvn.DoubleTap
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.DoubleTap_1.0-1+debug_iphoneos-arm.deb
+Size: 8314
+MD5sum: b31661a793c612b7b826e1cf195ad3aa
+SHA1: ba5923ccc61390e733513477b442e83678f32dce
+SHA256: 24f05afdd5198febff53b9a0380b2505d992d91502bb018334ef05347d0214e7
+SHA512: ffed5adae6c7ecf9818ddcdb286d24634b532f62de81ee9506e10d4dea64e9d8505ea6bc3c6dcde645b341fa9c5e033d8dcbd9e6f7e26ec1e51f00a5248c404b
+Description: Double tap to lock with haptic feedback
+Name: DoubleTap To Lock
+Author: BVN
+Depiction: http://bvnsupport.github.io/infodeb/Html/DoubleTap.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DoubleTap.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.DoubleTap
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.DoubleTap_1.0-1+debug_iphoneos-arm64.deb
+Size: 8524
+MD5sum: bb6fe6a09fcb39819241fb0ee20f4cdc
+SHA1: d7736f213118a353b4eebad34d07fb3f30f64fb6
+SHA256: 8aea0e966e25fa8c2f462372dcbfac9984b0b5324f4c50310ada56db7a9ab008
+SHA512: dfb23d477dcf4cde4bfe7f7a907cfeb28f5474581ba57c1a789a12ff7584a7e90dfa0866e8ed2cd54ad4f9e44ef450f4c40f6f468bba387c3be216e04c7622e8
+Description: Double tap to lock with haptic feedback
+Name: DoubleTap To Lock
+Author: BVN Repo
+Depiction: http://bvnsupport.github.io/infodeb/Html/DoubleTap.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DoubleTap.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.Exodar
 Architecture: iphoneos-arm64
 Version: 1.0
