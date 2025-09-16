@@ -18643,6 +18643,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Vitreux.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Vitreux.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.vitreux
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 7028
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.jtis.vitreux, com.bvn.vitreux.r2, com.mtac.vitreux, byg.iosios.net.vitreux
+Filename: ./debs/com.bvn.vitreux_1.3_iphoneos-arm64.deb
+Size: 6346122
+MD5sum: 27249b979629249cc1a7dbfbb3fb0e3e
+SHA1: 15563b154eb03ed1b8fb4e94e4a0dc2c2256c5bb
+SHA256: 58ee0c1ff1607553dde529a3f3e44f1f4ca215fe0a8bfef8eeff802e53acbf73
+SHA512: dd48164e48c6ed736bee64b5f073853f3157dc39982af99bcc48ac5441fa961dd90201c485f47e114e9609eaf7e66f2d409b9c5ed6a4c25a0938b4527a6459be
+Description: A recreation of Liquid Glass
+Name: Vitreux VH(Rootless)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Html/Vitreux.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Vitreux.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.vivacutpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
