@@ -9957,18 +9957,18 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Gifisland
 Architecture: iphoneos-arm64
-Version: 1.0.1
+Version: 1.0.2
 Section: Tweaks
 Maintainer: Bvn
 Installed-Size: 356
 Depends: mobilesubstrate, oldabi
-Conflicts: com.jtis.autoscroll15, xyz.cypwn.autoscroll15, com.bvn.gifroothide
-Filename: ./debs/com.bvn.Gifisland_1.0.1_iphoneos-arm64.deb
-Size: 34706
-MD5sum: d58733855b88c9338161ad3deff1c114
-SHA1: 7ad1cd4725e08a71ac0633d5d31b28abf4b43d04
-SHA256: 7f0d4015e628b069b2c27e5678c594abf273184932d10f60dbe2ee8d65e8f2c0
-SHA512: 2393b346daf2c6ff1099e3024f99ae9d4876c016def7abde5af2b56993c5f81d2f0973a3e2e58736ce2ab82f079b557cd15a0381a4fcdfd6ae3d6f06bb9b244d
+Conflicts: com.bvn.gifroothide
+Filename: ./debs/com.bvn.Gifisland_1.0.2_iphoneos-arm64.deb
+Size: 292382
+MD5sum: 2fafb8d2ae3b27b1589c0def7ffd0ca8
+SHA1: c48ec5a68c48b1eafb79ae554a9def56c3229715
+SHA256: bd213ef7c8782f187dfacd68a03c28baeb3828683f6214056ce9a78eef04ae39
+SHA512: ad6018619975fe5b51d479a67f92845cf1b3cb6b53de2369cc060aaf805ff29c4b2192ea097358f9aad5e772bf5a59e58868ca7eba5b0055a96884072f8e82a8
 Description: Thêm Gif vào dynamic island
 Name: Gif island VH(Rootless)
 Author: liuf
@@ -13560,6 +13560,48 @@ Author: blatant
 Depiction: http://bvnsupport.github.io/infodeb/Html/epikpatch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/epikpatch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.exiwall
+Architecture: iphoneos-arm
+Version: 2.1.7
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 25632
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.4.16), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
+Filename: ./debs/com.bvn.exiwall_2.1.7_iphoneos-arm.deb
+Size: 23397480
+MD5sum: c0cb71c97026e2f4488f8baf03eb11f4
+SHA1: fe7ecd35af5a92f9f354e59ad18df1404998fcb6
+SHA256: 7bb995d2258946b3e63e21ff5e5d54ff274b791bdb5eab6a2dd315ff930c6517
+SHA512: d6aacb2e97ac0ac53ef06fc3c733e22b010efd61882684c723d0e21a8e579dfc6fa24cadfb04f174c6fc9d2bb5fedba85a86ec29c22a6f1898a96ce4ea2b9706
+Description: Depth effect for lockscreen wallpaper
+Name: Exiwall VH
+Author: FoxfortMobile
+Depiction: http://bvnsupport.github.io/infodeb/Html/Exiwall.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Exiwall.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.exiwall
+Architecture: iphoneos-arm64
+Version: 2.1.7
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 25584
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.4.16), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
+Filename: ./debs/com.bvn.exiwall_2.1.7_iphoneos-arm64.deb
+Size: 23363796
+MD5sum: f459fd5627d9ed669743337c1814b8da
+SHA1: bc3f14c7d7ec41a60b86c817a170553c959f4449
+SHA256: ea87abfb2e5e0eac27a0ea7c72596fda25ba23e1d1d7b60388d47acc4c848f77
+SHA512: 0cf59f2a182967625379c338bd30e6ffc3332a019426fcaa9f2b75656b3d5209d8b65477f47e956a758b17d75966ca5eb2bb6ebad892a2e80c990195219be606
+Description: Depth effect for lockscreen wallpaper
+Name: Exiwall VH(Rootless)
+Author: FoxfortMobile
+Depiction: http://bvnsupport.github.io/infodeb/Html/Exiwall.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Exiwall.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.facebooknoads
 Architecture: iphoneos-arm
