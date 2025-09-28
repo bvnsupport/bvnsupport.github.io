@@ -10075,78 +10075,6 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Meizu3D
 Architecture: iphoneos-arm
-Version: 1.4
-Section: Themes
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.Meizu3D_1.4_iphoneos-arm.deb
-Size: 59853622
-MD5sum: 15a6c129fb38afcc499c851ff4ae6408
-SHA1: 850b42743b8463eb86c5631e3c6aee3382792509
-SHA256: 792d91ec97778496e43b2c4dd1420bc80a59e5bfee1b97f728b00f2b46b34d47
-SHA512: 92c8632be8db4bb5c823731f670bcd7b2034445d1c69217569348bc4a2d1f86c5fe60f9f691db49d616f9742dfff103191175800db67bdfa6a2058263ba42d12
-Description: Chủ đề Meizu 3D
-Name: Meizu 3D Theme
-Author: Miss
-Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-
-Package: com.bvn.Meizu3D
-Architecture: iphoneos-arm64
-Version: 1.4
-Section: Theme Rootless
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.Meizu3D_1.4_iphoneos-arm64.deb
-Size: 59861272
-MD5sum: c6d8923d6b280546412f33d8f747cc05
-SHA1: 8d0697243e173fb4e80a9bb7def431b9973bc77f
-SHA256: 5cd2d06ce2413709e266c4591b20d9cb5a1e798f9fd26f5bd6771f20fa226a87
-SHA512: c90938414248c5176e8b305c4d4a9c824d0ebe0bd8f316aaa2e8440eaa38405a1b52a00b92f179c91a14bf2136f4da33d2dec6f04d1d4a5c764e1a466960fbe6
-Description: Chủ đề Meizu 3D
-Name: Meizu 3D Theme
-Author: Miss
-Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-
-Package: com.bvn.Meizu3D
-Architecture: iphoneos-arm
-Version: 1.5
-Section: Themes
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.Meizu3D_1.5_iphoneos-arm.deb
-Size: 61671684
-MD5sum: f88069b07c056fcedfda12ca73eb7d2a
-SHA1: 72253aa40698fe54781b9c41c52d03693ba85159
-SHA256: af155b3f6470c50e7e76a2d7d8fb9a2efb5da4a3ea26c179c0ef56a2893a5822
-SHA512: 65700b890120e5e933003ef6bc82347c824a0e914b0036980cfae8d4a995e9d7e3a523f09e5e0fc50e05dcf6cc67828ae67f7e3bea510b01d5c7aedbbaa41dc0
-Description: Chủ đề Meizu 3D
-Name: Meizu 3D Theme
-Author: Miss
-Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-
-Package: com.bvn.Meizu3D
-Architecture: iphoneos-arm64
-Version: 1.5
-Section: Theme Rootless
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.Meizu3D_1.5_iphoneos-arm64.deb
-Size: 61678894
-MD5sum: 7b873b3175d685a70ca76c52b3f2c548
-SHA1: 92f5c9f1e56206b69260e621c831fb85eb6e22dc
-SHA256: 8f30c06718ef196a5fc59f8ab156b2efeb4fe417a2f3a44fce4e051859551c84
-SHA512: 7c85687348ab8a2771f9c0ec8096c84c63016f30ee43e3de61db75db9478a3c351f08307f7e8690cc475e468415dfebf123f4c92f68767776305d0e3cf9bc790
-Description: Chủ đề Meizu 3D
-Name: Meizu 3D Theme
-Author: Miss
-Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-
-Package: com.bvn.Meizu3D
-Architecture: iphoneos-arm
 Version: 1.6
 Section: Themes
 Maintainer: Bvn Repo
@@ -10565,26 +10493,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/VQ2024.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VQ2024.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
-Package: com.bvn.VisionOS
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: Theme Rootless
-Maintainer: Repo BVN
-Depends: com.bvn.phutro
-Conflicts: xyz.cypwn.visionos, com.checOver.visionos
-Filename: ./debs/com.bvn.VisionOS_2.5_iphoneos-arm64.deb
-Size: 63349668
-MD5sum: b02b6f917dfc6018f4996f8a57cb71bf
-SHA1: e2415f07ca37d45b4b7f4eafd066c58ba1c9d9b0
-SHA256: 94877e9e58506b769ae21c477a08406a246b85464a06438b5a995dbe1d37ce72
-SHA512: d2d3b431cca50702874048053bd04d1d2634ecd8954e62d257523a615a9668817b7198aeb712029c222ea538887dddc0afb0af0d98b9576001c5191e06585cae
-Description: Chủ đề VisionOS Kích hoạt qua Tinh chỉnh Snowboard
-Name: VisionOS (Rootless)
-Author: Billie
-Depiction: http://bvnsupport.github.io/infodeb/Html/VisionOS.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisionOS.json
-Icon: file:///var/jb/Library/IconRepo/chudee1.png
-
 Package: com.bvn.VivaVideo.vip
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -10924,24 +10832,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Alpine.json
 Name: Alpine VH(Rootless)
 Author: MTAC
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.ango
-Architecture: iphoneos-arm
-Version: 6.0k
-Section: Themes
-Maintainer: BVN Repo
-Filename: ./debs/com.bvn.ango_6.0k_iphoneos-arm.deb
-Size: 69856050
-MD5sum: 63e14c498a203447de3c1477b1ec8394
-SHA1: 7e9ab0ee83ba8aba5cafa767761c776605dfb9d0
-SHA256: 84448790bd63b673c8e5d77673b79bed848883244775304d6899967c8ae0a997
-SHA512: 3085e87ac1b22e16c9c9ab718ddb2d1dd0d24008ea2e84c1848e7c2971624af3f9b540d5ebaa0a1afb2999f06deefd164a3bd74981e7a17d382f24ec4063c756
-Description: ango is made from mango
-Name: Ango Full Themes
-Author: Max Patchs
-Depiction: http://bvnsupport.github.io/infodeb/Html/Ango.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ango.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
 Package: com.bvn.ango
 Architecture: iphoneos-arm64
@@ -14597,24 +14487,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.bvn.ios26theme
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Theme Rootless
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.ios26theme_0.0.1_iphoneos-arm64.deb
-Size: 4460850
-MD5sum: 9e2cfb6c5cb4c5c7867a25d3272aa5f7
-SHA1: e01607e1513981dd3ac57857825bd5a3ea7610a1
-SHA256: 61738653f5cb8ea8f5b0d5235a01b2070f524808550a903188fa61523ee67900
-SHA512: 5b9fc376c0f9b46fd9a991f2d41b05e0c266f898f88e0b03c653815426c90195f9539bc6383f3322d1f226497e23fc343a993572d986491628347970713b43ee
-Description: Chủ đề iOS 26
-Name: iOS26 Theme
-Author: Hoang.MD
-Depiction: http://bvnsupport.github.io/infodeb/Html/iOS26.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/iOS26.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-
 Package: com.bvn.jade
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -14991,42 +14863,6 @@ Description: Crack cho các tinh chỉnh của Limneos
 Name: Limneos Crack(Rootless)
 Author: CBZ
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.linebit
-Architecture: iphoneos-arm
-Version: 1.3
-Section: Themes
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.linebit_1.3_iphoneos-arm.deb
-Size: 53083682
-MD5sum: 5f3666fad693dabf0148322842f33b82
-SHA1: d3f826af4214cdce68b8069b8d373294166a58b5
-SHA256: c05df5558ef4fb0823593f6c2e638603a5f22dd3b0cf3d8f74ef77995b5cdbde
-SHA512: f0096cda315af0c1a6aaabf73c58d0ccaa548390c421a1b8362404e5f4bc923d102b7053b93b930f761bf31bedb1f073edd51a8287fc1b758892b0b1408338b6
-Description: Linebit and Linebit Dark for iOS
-Name: Linebit Theme
-Depiction: http://bvnsupport.github.io/infodeb/Html/Linebit.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Linebit.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-Author: Edzon Diaz <edzon.dm@gmail.com>
-
-Package: com.bvn.linebit
-Architecture: iphoneos-arm64
-Version: 1.3
-Section: Theme Rootless
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.linebit_1.3_iphoneos-arm64.deb
-Size: 53091146
-MD5sum: 2a6d081cf8b03f88752796d587cdad70
-SHA1: 317aba01dd93e0c830d308941ed5a2b4d1220ba9
-SHA256: f0d84f5db6989a2f7624a1e4aa719664892ed2f829d9fc225eefb4b8a702204a
-SHA512: 9f5c6c8b9736775c48224271846ecb2750f6c26482945d6e401113606f05002cfe95eb3d16eb2199b33ec6d883b1d94e41bfb7e3fecf0467fd2e5f9bbc4eacbc
-Description: Linebit and Linebit Dark for iOS
-Name: Linebit Theme
-Depiction: http://bvnsupport.github.io/infodeb/Html/Linebit.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Linebit.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-Author: Edzon Diaz <edzon.dm@gmail.com>
 
 Package: com.bvn.little12
 Architecture: iphoneos-arm64
@@ -16268,22 +16104,6 @@ Author: Blatant
 Depiction: http://bvnsupport.github.io/infodeb/Html/PDF.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PDF.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
-
-Package: com.bvn.phutro
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: Theme Rootless
-Maintainer: Repo BVN
-Filename: ./debs/com.bvn.phutro_2.5_iphoneos-arm64.deb
-Size: 63515794
-MD5sum: da6b722fe7acbfd1f1ec06b90eba9eaf
-SHA1: eb778aaa745409637e4bbabcf7fe0d620faf76e2
-SHA256: 8c095f2bb6aca7c8c29e2697eb7329aa5f4da4b02ce36fbb96b25e666323fee6
-SHA512: b868c9d24de7283bda238fe1e7a7be7885dab973c26a4d0b49504d3b7ad21a6c2a0711cbca4102f227692ac1e732464331db17aaf9ed641245afbc15594d55ee
-Description: Chủ đề VisionOS Kích hoạt qua Tinh chỉnh Snowboard
-Name: VisionOS (Gói phụ)
-Author: Billie
-Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
