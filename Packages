@@ -2110,29 +2110,6 @@ Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.BIENVANNHAT.bypassJb
-Architecture: iphoneos-arm
-Version: 2.0
-Priority: optional
-Section: Tweaks
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Installed-Size: 611
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.17)
-Filename: ./debs/com.BIENVANNHAT.bypassJb_2.0_iphoneos-arm.deb
-Size: 121506
-MD5sum: aaa014adcfde6ad811c9d7378a32cb8c
-SHA1: 12425dcc773d483652dfdaf9094c4f0e1b1c9ad3
-SHA256: ee3850a3b3606201e48af3bfec0511f06bedf3d97bd4174dbd4e951d2257ddfb
-SHA512: 0201b4e4c494da5ecce4ddbc14bde5b4c16b929a9f85360cb5295ca63c36f51d03b633a04da06e4cfdc92a17dc0f6340baed0b2720c1de48b9dc55e93779d32b
-Description:  bypassjb Hoạt động trong một số ứng dụng không phải tất cả các ứng dụng
-Tag: purpose::extension
-Name: bypassJB Vh
-Author: Sniper @DNS_Sys <aeeo@hotmail.com>
-dev: sniper
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/bypassJB/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/bypassJB/?p=info
-
 Package: com.BIENVANNHAT.cahighfps
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -4362,26 +4339,6 @@ Name: iOSGods iAP Cracker
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.ipsw
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
-Installed-Size: 7640
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.BIENVANNHAT.ipsw_1.1_iphoneos-arm.deb
-Size: 5574188
-MD5sum: 61b282862d00c297b0188707d4d2791a
-SHA1: 8af4b9e4a7edfd75e0f3a65d346de654b22e99b5
-SHA256: 1365d46a990cf9fbabea7efa212695f5afd09cbee78926736ba1a39ce4baa7f5
-SHA512: cd1334439d3dbbc975eab1c11dc7c35f106231054e686b8494ac1dd26ca54aaba6a19abe35c4e10578cdb7fb8602de0d58e511cd5dcbf0b78e67a767e92ff7a3
-Description: Kiểm tra xem phiên bản iOS / iPadOS có còn được ký không
-Name: IPSW
-Author: Hyperixa <hyp3rixa@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/IPSW/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/IPSW/?p=info
-
 Package: com.BIENVANNHAT.jellylockreborn
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5862,50 +5819,6 @@ Description: Ẩn Jailbreak Game PUBG :NEW STATE
 Name: HideJb PUBG: NEW STATE
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Majed
-
-Package: com.BIENVANNHAT.pubgjbbypass
-Architecture: iphoneos-arm
-Version: 1.7.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 239
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.BIENVANNHAT.pubgjbbypass_1.7.0_iphoneos-arm.deb
-Size: 31228
-MD5sum: 289f007633aef557e6535bd65dead322
-SHA1: 33152e81f6b6c49ef90171643eddd260b1f84dac
-SHA256: 612df8c269fe356eb0636e5019818a9bc3923ca6d8e0b3f63dcee630e75e6639
-SHA512: a2ec1362b17e508fad85a8eb11e6b7517fc248e580a0e6f1f5118bda0eaccaba906fd0f74d4bce153479db6d5d7bf15ebde0ff916b97af6718d9ceadf1f87c29
-Description: Ẩn Jailbreak Game Pubg Mobile V1.7.0
-Tag: purpose::extension
-Author: Said Al Mujaini <sbypassdetection@gmail.com>
-Name: HideJB PUBG MOBILE
-dev: sbypassdetection
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
-
-Package: com.BIENVANNHAT.pubgjbbypass
-Architecture: iphoneos-arm
-Version: 1.8.0
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 227
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.BIENVANNHAT.pubgjbbypass_1.8.0_iphoneos-arm.deb
-Size: 30666
-MD5sum: 98a207d753675ee338c23eb0b6c3c776
-SHA1: a03442a4bd09ad3cfecfb2d2a8afe6c36f50bf13
-SHA256: d5b023633ad2398ad74966488b2eb4dc08062171fb7e6b2b4ec4511fe6f3717a
-SHA512: 769749fbbe0325514187e89f887472e8f510311857fcee688d498888ac5b4232adaa6ce5c1ee612cb045894a8d2e3ddb8144cb856f149a7535d82ee11d3a6c58
-Description: Ẩn Jailbreak Game Pubg Mobile V1.8.0
-Tag: purpose::extension
-Author: Said Al Mujaini <sbypassdetection@gmail.com>
-Name: HideJB PUBG MOBILE
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
-dev: sbypassdetection
 
 Package: com.BIENVANNHAT.ramundertime
 Architecture: iphoneos-arm
@@ -7748,31 +7661,6 @@ Description: Mở khóa độ phân giải 1440p và 2160p trong ứng dụng Yo
 Name: YTUHD SW
 Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.Bienvannhat-jb.kernbypassVN
-Architecture: iphoneos-arm
-Version: 0.0.5
-Section: System
-Maintainer: Biện Văn Nhật
-Installed-Size: 920
-Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: jp.akusio.kernbypass, com.apple.memecity
-Replaces: jp.akusio.kernbypass-unofficial
-Filename: ./debs/com.Bienvannhat-jb.kernbypassVN_0.0.5_iphoneos-arm.deb
-Size: 291292
-MD5sum: 747edb05343346c43888aa16dff7e2e6
-SHA1: 0438d02c247d5d6b584a565958ccf205d01ee4f6
-SHA256: 555b533e0efe9e1f1ea535a4fffdfb94e4a97bcf4dec49dc16e5b683bff173a4
-SHA512: c12301b45f1783e6555da87f98c1aa5af815b33875265d5501c2de4c9a81e5c7bcc13e3390f1fd61e8eda461ef8ef21b2bae4fe1aaa43bc1ff30c1899492fe87
-Description: kernel level jailbreak detection bypass.
-Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
-Author: akusio
-Name: KernBypass VN
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvannhat-jb.kernbypassVN
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.Bienvannhat-jb.kernbypassVN
-dev: akusio, Misty, Bvn, XsF1re
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.Bienvannhat.lottiestatusbar
 Architecture: iphoneos-arm
@@ -20392,46 +20280,6 @@ Tag: purpose::extension, compatible_min::iosiOS7
 Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
-
-Package: com.deepseek.chat
-Architecture: iphoneos-arm
-Version: 1.0.6
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: firmware (>=15.0)
-Filename: ./debs/com.deepseek.chat_1.0.6_iphoneos-arm.deb
-Size: 13031158
-MD5sum: 2154e3729e06e0fa75e60dfbee4ae6dd
-SHA1: 980fddba0eff3835f5baca877549deb493b5a241
-SHA256: e4e27683b6c9cdfaafdeb25542112cb7d6f85bca975f792f67f418caea64d980
-SHA512: fc46f60d9d7fd15b632c85bc9d1441eda1774f7029bc2fb7ba70e60cc35ec4bd7efc6478c54657b22b64048acf4365702d665758497a41aa4c157ad285402455
-Description: Chat GPT bên máy chủ AppStore Trung Quốc.Khả năng tìm kiếm và hỗ trợ tối ưu hơn rất nhiều so với Chat GPT. Sử dụng và tìm kiếm thứ cần tìm kiếm và so sánh sẽ thấy điều đó
-Depiction: http://bvnsupport.github.io/infodeb/Html/deepseek.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/deepseek.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: DeepSeek Chat
-Author: deepseek
-Tags: compatible_min::ios15.0
-
-Package: com.deepseek.chat
-Architecture: iphoneos-arm64
-Version: 1.0.6
-Section: Tweaks
-Maintainer: BVN Repo
-Depends: firmware (>=15.0)
-Filename: ./debs/com.deepseek.chat_1.0.6_iphoneos-arm64.deb
-Size: 13032574
-MD5sum: f16a2ce3988f6165154048e2fd01b51b
-SHA1: ac03bd2dc603eaae6b0dd6117dd7596154610a07
-SHA256: 0a5ab3c50c09921e462c61dadbc52b2056d88098f1defdf7d9d520490d5d6875
-SHA512: ebfd0edaa2a259999791b27b1c6c1b7e0708021e56f746a1c5ce2d8ea51c5da93db8dde53351b3a2b2ef13ad69e58e10eba9a7ecb3fd3a99ff8c0c30c404df4d
-Description: Chat GPT bên máy chủ AppStore Trung Quốc.Khả năng tìm kiếm và hỗ trợ tối ưu hơn rất nhiều so với Chat GPT. Sử dụng và tìm kiếm thứ cần tìm kiếm và so sánh sẽ thấy điều đó
-Depiction: http://bvnsupport.github.io/infodeb/Html/deepseek.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/deepseek.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Name: DeepSeek Chat
-Author: deepseek
-Tags: compatible_min::ios15.0
 
 Package: com.dvntm.walegacy
 Architecture: iphoneos-arm64
