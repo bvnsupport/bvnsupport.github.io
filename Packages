@@ -10316,24 +10316,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lightroom.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.LiquidGlAss
-Architecture: iphoneos-arm
-Version: 0.0.4
-Section: Themes
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.LiquidGlAss_0.0.4_iphoneos-arm.deb
-Size: 16528088
-MD5sum: 0e505b788762d3114480e69eee1349e3
-SHA1: 857b6334bd31eb4db0dbbdd6db84e90e8922291f
-SHA256: bb438874e87b9eb183e7c1c78659fe51603ce8f27e2a0ea69b8cef2a0e10b892
-SHA512: 73b509f61874e8c9fea7fa8eb286337d7b7c980b29b1d582f2ad3ec121b85ed0056fc21aeb51b31eb4788c8c7814d6844c040312fd5c58d9538dd667688b19ae
-Description: Chủ đề Liquid GlAss
-Name: Liquid GlAss Theme
-Author: Nguyên Pro & Hoang.MD
-Depiction: http://bvnsupport.github.io/infodeb/Html/LiquidGlAss.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/LiquidGlAss.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-
-Package: com.bvn.LiquidGlAss
 Architecture: iphoneos-arm64
 Version: 0.0.4
 Section: Theme Rootless
@@ -14914,24 +14896,6 @@ Author: sergy
 Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.ios26theme
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Themes
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.ios26theme_0.0.1_iphoneos-arm.deb
-Size: 4460330
-MD5sum: 44d07cb084c109e3d87017b3b1460996
-SHA1: 407cef3541472455083cd97376a3239a070e1c41
-SHA256: 598b97927220dfc50e1269d3ed91e414d5b9839de2e04afde4702c8ce7156165
-SHA512: e4628f9d752cbf4a2ff3bfe07939510be98d80abd0bfb85f18942015d94a0d7a290b1c4044b1b40b130acd95f507c9e168921f183b183dc2a2b86d79f7070f96
-Description: Chủ đề iOS 26
-Name: iOS26 Theme
-Author: Hoang.MD
-Depiction: http://bvnsupport.github.io/infodeb/Html/iOS26.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/iOS26.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
 Package: com.bvn.ios26theme
 Architecture: iphoneos-arm64
@@ -22815,26 +22779,6 @@ Name: libAPToast
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.snail.always120rl
-Architecture: iphoneos-arm64
-Version: 1.1.3-1
-Section: Tweaks
-Maintainer: BVN
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, vn.bvn.snail-crack
-Conflicts: xyz.cypwn.snail, com.snail.always120, com.snail.always120.global
-Filename: ./debs/com.snail.always120rl_1.1.3-1_iphoneos-arm64.deb
-Size: 165336
-MD5sum: 46a4e52a80e6ddcfdba66aecb893c079
-SHA1: 37c9a3599864d682a4be7277f848d64481795bfb
-SHA256: f22717a94af2cac9c26e7cfc2f17427e8cca85868c39c4a1e72a9035356aebd3
-SHA512: 080217d6bc4bc65b587738f5779a338294ba8f6df1e2b2b23650d43a8ddd1da8f09c8cc5ebbaa59b975c68a07b6b76aa9af91738858483c982511dc3d9a8aa16
-Description: Làm cho Thiết bị ProMotion iOS 15 tự động thích ứng/đạt tới 120Hz.
-Name: Always120 VH(Rootless)
-Author: Snail
-Depiction: http://bvnsupport.github.io/infodeb/Html/Always120.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Always120.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64
 Version: 1.1.0~rootless
@@ -26437,25 +26381,6 @@ Author: Uckermark
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.siriplus
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 1104
-Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, com.opa334.ccsupport, mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/vn.bvn.siriplus_1.1_iphoneos-arm.deb
-Size: 295668
-MD5sum: 0c6b9c4b20f9140b676d8460f3b7b3b6
-SHA1: c6fe9fb19a779958c31456ba167d32925b0c8e72
-SHA256: 19db9d19754d3f3757baa13a31f307ad6e9322e5447b9ae1597ff5d40e0207af
-SHA512: c94c0b851ba7c88500a63b46120aa62a26edce651e8393900f09c2698973454f4176c6c029518d6bdf9412e1c4a6083d303a7ee6dc268137ac05d3783d80411b
-Description: Thay thế Siri bằng ChatGPT/Gemini
- - Replace Siri with ChatGPT/Gemini
-Name: SiriPlus VH
-Author: Uckermark
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: vn.bvn.siriplus
 Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
@@ -26471,25 +26396,6 @@ Description: Thay thế Siri bằng ChatGPT/Gemini
  - Replace Siri with ChatGPT/Gemini
 Name: SiriPlus (Rootless)
 Author: Uckermark
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: vn.bvn.snail-crack
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/vn.bvn.snail-crack.deb
-Size: 17010
-MD5sum: e7a5c1370c1504ff3d36fde597604c7a
-SHA1: 2716a92db49d538db05677cad42b1364eb076f0a
-SHA256: c5ad2c98b09afbf0beab68163d3b0226a6574690a949748a60fc22871f236c2a
-SHA512: 3ce28f2fa1f2e08eae08868a6f4c2886878310e0ca871061a57796d7dfa90446daad6e865529851e1239a772a7f8f1b017b2e14b88a1f0f7db342a32c3994112
-Description: Kích hoạt tất cả các chỉnh sửa từ Snail Repo
- - Activate all tweaks from Snail Repo
-Name: Snail Crack(Rootless)
-Author: CBZ
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.tinge-rootless
