@@ -15002,25 +15002,6 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: AnthoPak
 Name: LastLook VH(Rootless)
 
-Package: com.bvn.latchkey
-Architecture: iphoneos-arm64
-Version: 2.3.5
-Section: Tweaks
-Maintainer: Bvn repo
-Installed-Size: 13476
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.bvn.latchkey_2.3.5_iphoneos-arm64.deb
-Size: 53939488
-MD5sum: 94fd18247c2e23435f43413526ec6439
-SHA1: 33a228565aae2c767c64558af80b4560f132ab3d
-SHA256: 2d4d9832d4821daf161b2255952eeafe21962e6f8400f95cdb6dd7f25b7e8659
-SHA512: 3ff5154f75f14e37aca8eea07de1c3495b239e5608017a66cfb8846e171ce0130a90ed60de4b256ac967d7c3caeae7727685b64ade9ad93286e40be1708ecadc
-Description: Tùy chỉnh biểu tượng và vị trí khóa. Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
-Name: Latchkey VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
-Author: Maxwell Dausch <max.dausch@gmail.com>
-
 Package: com.bvn.ldpatch
 Architecture: iphoneos-arm
 Version: 0.0.1
