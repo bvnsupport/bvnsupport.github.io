@@ -15152,17 +15152,17 @@ Name: LastLook VH(Rootless)
 
 Package: com.bvn.latchkey
 Architecture: iphoneos-arm64
-Version: 2.3.4
+Version: 2.3.5
 Section: Tweaks
 Maintainer: Bvn repo
 Installed-Size: 13476
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.bvn.latchkey_2.3.4_iphoneos-arm64.deb
-Size: 53938506
-MD5sum: 5a20bb66c68eb0c59e8fa5db7957fa64
-SHA1: 58d2b3a356fb00ab697416928cdc46022eb78c3e
-SHA256: db11d7d179cc9cbd155922ab6160f81ddb35b4ba74e2873a983118f0a8423103
-SHA512: d04b518410eb5f3807a519f9c05749a165b2156a455c92acb6a74200cb1b86f7c35e3baf09026db65e0ebcc6c9ba9a5799dd8869248dc788cd7940be446252d3
+Filename: ./debs/com.bvn.latchkey_2.3.5_iphoneos-arm64.deb
+Size: 53939488
+MD5sum: 94fd18247c2e23435f43413526ec6439
+SHA1: 33a228565aae2c767c64558af80b4560f132ab3d
+SHA256: 2d4d9832d4821daf161b2255952eeafe21962e6f8400f95cdb6dd7f25b7e8659
+SHA512: 3ff5154f75f14e37aca8eea07de1c3495b239e5608017a66cfb8846e171ce0130a90ed60de4b256ac967d7c3caeae7727685b64ade9ad93286e40be1708ecadc
 Description: Tùy chỉnh biểu tượng và vị trí khóa. Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
 Name: Latchkey VH(Rootless)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
