@@ -11713,6 +11713,27 @@ Name: CallBlocker VH(Rootless)
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.callvibration
+Architecture: iphoneos-arm64
+Version: 1.0.1-1+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate, oldabi|oldabi-stub
+Conflicts: com.BIENVANNHAT.callconnected
+Filename: ./debs/com.bvn.callvibration_1.0.1-1+debug_iphoneos-arm64.deb
+Size: 8964
+MD5sum: 3c33d0ea726280a8dab2c4a500f4a10c
+SHA1: 5f63d74fd4350b38fdfa0c629da6c6ddcdf05d42
+SHA256: 224246a71473f5d92d6400e29a0b21cbc097a791114e528af22f214fdca92f18
+SHA512: e0b59d6671a62899cd524bf77a7fa8fca15c8e80c5ab118a547d9bd7faaddef11fa4dd9c236722569f2dd902d3485a9922656cb48ba3f30de2457a9aacb26182
+Description: Rung 2 lần khi tắt cuộc gọi và rung 1 lần khi nhận cuộc gọi
+Name: Call Vibration
+Author: BVN Repo
+Depiction: http://bvnsupport.github.io/infodeb/Html/Vibration.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Vibration.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.camera360patch
 Architecture: iphoneos-arm
 Version: 0.0.1
