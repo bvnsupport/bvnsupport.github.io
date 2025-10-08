@@ -89,17 +89,17 @@ Author: JunesiPhone
 
 Package: bvn.repo.designer
 Architecture: iphoneos-arm64
-Version: 1.5.2
+Version: 1.5.5k
 Section: Tweaks
 Maintainer: BVN Repo
 Depends: mobilesubstrate, preferenceloader
 Conflicts:
-Filename: ./debs/bvn.repo.designer_1.5.2_iphoneos-arm64.deb
-Size: 14088674
-MD5sum: a593fd9038a20252388aef69557a9737
-SHA1: b2cbf987a2655ac15859500b5c3cc676a41b33d2
-SHA256: 74f85b80d717e2fe18f4e49b48336f2f25a08aea7d7a4e52b647c2fb48c0b602
-SHA512: 523be6bb6db75e2cd762207de4e9dd36ccbfb96e216bdb443294e843894040439c0c32ca1f541c353607c65dba1cf11462e365e257ee9cffb06ea6d1a19988a2
+Filename: ./debs/bvn.repo.designer_1.5.5k_iphoneos-arm64.deb
+Size: 11362128
+MD5sum: 9bfbf41a8050aba3dc3da1d2862f37a9
+SHA1: 505e454e89bc53dd77e73ed2a3b8855b5af5ffaa
+SHA256: 8358e6f6aa5638dc3eaa3df5a02402791af8167a49e1241639389a9925cef106
+SHA512: 723e349218858eba2cb0c36f64778117d3d5a88b1a3ac147d5c1b7d26db8cc96f17b38f4ef1d9a9f49daefda46c2f562273156c20979053aa62020508885b33d
 Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
 Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
