@@ -16100,6 +16100,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/PDF.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PDF.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.photopurge
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.photopurge_1.0_iphoneos-arm64.deb
+Size: 9496
+MD5sum: 58375c02ff7a3eeafdc0aa861ad21b3c
+SHA1: 5ea3d499f5964cc99cc5eb8fe085a1a887d3994c
+SHA256: d35a53d7809e25afb4e0c9dd4a56c06e3836a4c6333c666476a06715d94fe0a8
+SHA512: d9f7b573e0b35e82c1e738c337f08063d8c011db7e773aa77da91fd5ee25db93a57d7ff8d21102039a811981589f2a0607db62e1bbff0ea7aef6728b0fd4a943
+Description: Xoá hoàn toàn hình ảnh của bạn
+Name: PhotoPurge (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PhotoPurge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PhotoPurge.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: BVN
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
 Version: 1.0.2
