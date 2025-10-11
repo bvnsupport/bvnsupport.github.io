@@ -9127,7 +9127,7 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
-Version: 1.12.7
+Version: 1.12.9
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 196
@@ -9135,13 +9135,13 @@ Provides: com.spicat.youpip
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture (>= 1.0.1)
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.bienvannnat.youpip_1.12.7_iphoneos-arm.deb
-Size: 32548
-MD5sum: e89bc9cf9e5d1c8f914bcab6c3ac2d7f
-SHA1: 3615f1fa75263e3ff168144be7a69c8d47d34724
-SHA256: 65241e6fb23be4c1a7a5deae3ae2327e3399780102379c8468a4c64fe445f0ba
-SHA512: 1dd142e5fa9cf1df8732b69f237aff9232a5773fd0c3c82b18a07de9fd9a5eeb38e238e1adca10e9b34e47f2634604bcd09dd7b7603d054310bd4cb2847f8dcd
-Description: Enable native PiP in iOS YouTube app.
+Filename: ./debs/com.bienvannnat.youpip_1.12.9_iphoneos-arm.deb
+Size: 30860
+MD5sum: 36c11e5b98897292054dded2ef98cef0
+SHA1: d8fd594aef61d96c50d02d923729c9fb68b8c991
+SHA256: 2adc77ecac4479f47707590be6a6ed52f496433fa9bb8e0cfc337578d91e91e4
+SHA512: c0ed861f66dcc264a85a1fa8ec1d3289f29a9546bcc27bfd9c40f2c9f9d78725d123d305a6f0edaa69a77147ddd6d3a3483ccda1cc195d0610f07efc310dceb2
+Description: Enables native PiP in iOS YouTube app.
 Name: YouPiP VH
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
@@ -18756,22 +18756,22 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ytx
 Architecture: iphoneos-arm
-Version: 1.7.16
+Version: 1.7.17
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
 Replaces: com.ps.ytx, com.BIENVANNHAT.ytx
-Filename: ./debs/com.bvn.ytx_1.7.16_iphoneos-arm.deb
-Size: 6878
-MD5sum: 7b89869bd4b8e35deffff0ee3538a6fe
-SHA1: 4bccd9fb4c553e69b20dad68ef4a4ac3aa4e3087
-SHA256: 8c64391bf5f56e235593e24a5f136d1250ccebc3313abb6c60684aaa88adad83
-SHA512: 7b978e7e21573658cb1aa55db5157f70008d54558c92ef924e7b4639b39ee80b590831230e2edaa16107c9911315114f23019b7ca8bc5a9f2066c38c76b7990d
-Description: Một điều chỉnh cải tiến YouTube.
+Filename: ./debs/com.bvn.ytx_1.7.17_iphoneos-arm.deb
+Size: 6902
+MD5sum: 0398d1c88f0ca101d4077feaf8574df9
+SHA1: bd138cc128d4dc2510f4a79793d8ac00eb651cbf
+SHA256: 3db128534f48ec6f2fc551a8dfed65b609d43cb1dd06f6e59b58856f768a8a38
+SHA512: 0c83b7ac8c20bae2d07dc4fcce60348198312897ef019df58a0455d101ee92ab3e3524a90b6b777f850f0ce04fc814475d180239ef6d1459f0ea83515a127b3f
+Description: A YouTube improvement tweak.
 Name: YouTube X VH
 Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
+Depiction: https://bvnsupport.github.io/infodeb/YouTube
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
@@ -22036,7 +22036,7 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
-Version: 1.12.7
+Version: 1.12.9
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 212
@@ -22044,13 +22044,13 @@ Provides: com.spicat.youpip
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture (>= 1.0.1)
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.12.7_iphoneos-arm64.deb
-Size: 32408
-MD5sum: 09e8a54f28dad3c020d6784af372c7da
-SHA1: 54092b474ec8afffeaabfff43076ced562960096
-SHA256: 4bf4f7abc6c63a4bf53fdcfc47468ca5454698755bcd292db26ce315ebf49201
-SHA512: d1a7215d46b149f46ffc1bc38d990a61e2be5b1ebe70d3f4ad1e3b44f52b79d5c6b22cbb551c64756f2dc64d8b22592ac2b9b76324e93141acd38374817943da
-Description: Enable native PiP in iOS YouTube app.
+Filename: ./debs/com.repobvn.youpip_1.12.9_iphoneos-arm64.deb
+Size: 30668
+MD5sum: 483403f0c39b8453940f5f5332097ad6
+SHA1: 3106b7705bfcc2d68f7675587dafde9fc08b47d8
+SHA256: e80280f3f1ff223271ab0cd584475f35ad36c24573a0a7f2e70f41efce3ae69c
+SHA512: fff613ff97d91f1426fe6a1657c58c64293e827f81f6485121c6ffaef583e5aad9e746ea4460d651e8d5804842b715248f31537b549af6851300c38d6b6e9531
+Description: Enables native PiP in iOS YouTube app.
 Name: YouPiP (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
@@ -22059,18 +22059,18 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.ytx
 Architecture: iphoneos-arm64
-Version: 1.7.16
+Version: 1.7.17
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.7.16_iphoneos-arm64.deb
-Size: 6850
-MD5sum: ae969017a5d27fb64ab4ca75c18cafa3
-SHA1: 9f3b15767e7cdb14aefb304a908592ba20c211d3
-SHA256: 991603228a8685c2b15d2a64dae7918d0a0f310136d040c9b2d6f09d9fe6c68c
-SHA512: 775f1eaa441310aa839d327dc5926b9dff1ee5378ca2fba35fb4c9e0d03edf71dccbc91d671005fecbe0e795b7aea3c76d20d275f36de3b654aba0dd0d072203
-Description: Một điều chỉnh cải tiến YouTube.
+Filename: ./debs/com.repobvn.ytx_1.7.17_iphoneos-arm64.deb
+Size: 6870
+MD5sum: 1bb23f4fc316f8d8be1d83724bb0f204
+SHA1: f85de3adc36af05fd01de33690967dad7908c0c1
+SHA256: 85e719b8114bc783b1a573bcbac17b26070f86025f7a99843689603d2fbce4b2
+SHA512: d8f69a3b7bf908ee4ec017bfa3daa5b4bf6abac56ff5f92517ec25a653b1bd057ea5d6d1debce592a88d0e2944863633d5b04a9013a13c537592d6400db5f79c
+Description: A YouTube improvement tweak.
 Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
