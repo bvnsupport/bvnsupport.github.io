@@ -17988,6 +17988,46 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ulike.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 Author: Laxus
 
+Package: com.bvn.uptime
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 188
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.bvn.uptime_1.0.2_iphoneos-arm.deb
+Size: 34696
+MD5sum: fb84ea8c05d9f2854b7816a39b6de9f6
+SHA1: 391f76340696cb4504d648dc8bd554319f722016
+SHA256: 99683ad264148577bbf76b8f69bbd8879848ebe246fd0e4166690e22c585a32f
+SHA512: 4babff71b153fca22e2ca4774c66aca3e3d6c3f1088ec99b42d078d223b81e1e392f7d17a1be8058f9d507661298ca1687b3b902b292627a9f8fb4013437d7a3
+Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
+Name: Uptime VH
+Author: MTAC, BVN
+Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.uptime
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 188
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.bvn.uptime_1.0.2_iphoneos-arm64.deb
+Size: 34840
+MD5sum: d57b2c4ea6245277b4e4c7864a5c959b
+SHA1: 5cdf106c1520b03965017b0c7cfefe8355ce8a5a
+SHA256: 41d00b637ddb72a53f287dc4a7ec074a85b7b6ff2b521ca982f40d72ce1dc832
+SHA512: 13f487806a0a1b3a8a99d27c93dac3029b36ff4621c89f35784638c692bbe837818aa4a087ad8b553d1595d9b649b7b9380204d004a152fcafd9fc0f01fec789
+Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
+Name: Uptime VH (Rootless)
+Author: MTAC,BVN
+Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.verxina
 Architecture: iphoneos-arm64
 Version: 1.2
