@@ -10728,6 +10728,46 @@ Name: Alpine VH(Rootless)
 Author: MTAC
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ampere
+Architecture: iphoneos-arm64
+Version: 1.4-2+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 780
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.bvn.ampere_1.4-2+debug_iphoneos-arm64.deb
+Size: 206000
+MD5sum: 76607036e7975fc6a095e1cc866cf5c7
+SHA1: e607aa9b0d381dbe7c0ae147b6ecf3ac2e03f1da
+SHA256: 41f54785c743d9eab8e0d1b288f1603108e65a38ef8087f73311ee1a4e5bc3f8
+SHA512: 4a74c08bd1aeff5123667680bb80c523323936cbfcce1f8af689c8eacc7fb1ccf0041ebca7a009cd2d564a466b993e28302ce2be496d4f702876531b765185ef
+Description: iOS 16 Style Battery Indicator
+Name: Ampere VH(Rootless)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ampere.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ampere.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.ampere
+Architecture: iphoneos-arm
+Version: 1.4-3+debug
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 780
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.bvn.ampere_1.4-3+debug_iphoneos-arm.deb
+Size: 205736
+MD5sum: 77ae5ced9ea5d209a1f136b0d6c08e1d
+SHA1: 408afe0f09826a3330d5913d7f0f9ce8f5adf5e9
+SHA256: b3b6788daa86323a35ec67ab8df1427ffb3e90500e0ffe8842a2657c3f565cbe
+SHA512: d9766be61823f852954b334ce3d137e0b0be1fa604fa1db14662a36b53d6f52e1e36ac41b071fbf9f7ca01701939f68dcdce4566e2ea411a78a67597d5eee06c
+Description: iOS 16 Style Battery Indicator
+Name: Ampere VH
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ampere.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ampere.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.ango
 Architecture: iphoneos-arm64
 Version: 6.0k
