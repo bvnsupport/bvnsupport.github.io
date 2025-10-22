@@ -15497,6 +15497,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Miumin.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Miumin.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.muteplay
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.muteplay_1.0_iphoneos-arm64.deb
+Size: 5850
+MD5sum: 0af37aed7ff07e9fda8f94899807d764
+SHA1: 667a428599a2a63f8b40f19f5d66b74fd62923d0
+SHA256: 5c3e23ce75e6f8ee10ebcc262a6db52a5910d0471a7fa72e52914b584ef02be7
+SHA512: 58ea23cdece244638f0981cdfa5dddfee3333ce09ae6c306bfd355f576df413018919bd98cc76af240355530359869ffc80caaba5efea33a4166659fad3857e8
+Description: Mute notifications while playing music。
+Name: MutePlay (Rootless)
+Author: uz.ra
+Depiction: http://bvnsupport.github.io/infodeb/Html/MutePlay.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MutePlay.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.n95
 Architecture: iphoneos-arm64
 Version: 4.4
