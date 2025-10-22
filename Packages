@@ -3756,16 +3756,16 @@ Maintainer: BVN Repo
 Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4-1_iphoneos-arm64.deb
-Size: 105562
-MD5sum: ce3da1aa5e1f36ae2b82f96316eae3d9
-SHA1: 3a9f437957c2d6bb620db34e7f06508fa63d1adb
-SHA256: 1ba6a380ac1a068f21787034dc48da1be0158926141160ec4f28b2f1fe4a11ee
-SHA512: de834f6d5d977dab5ede0b7691fc8449e290675d8ebb66f04d46f4f7b85e7edfd119f401dcda2758f6bfdb7108cbc25a0e610f2c2b83580f1e81fad217b279e4
+Size: 105668
+MD5sum: 81bf53a12a4fce6af0c6de1d73c7a355
+SHA1: cc784dc5bd11e3983a31bd67226ac34594fc106f
+SHA256: 0f512f913319224c6ccaa03b0b2cd75e0bd98416bf80aea64bf970bf3a130427
+SHA512: bd8b4b5eef91641790e5fae36320d677bb26e6b21747b004462dbf3296c281911665b67037c0fe89748660686424235c967c80e118eb347b5adaaf8bf49e0724
 Description: Hide Serial Number in Settings About page.
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
 Author: ichitaso
-Name: HideSerialNumber (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: HideSerialNumber VH(Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
 dev: ichitaso
