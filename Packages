@@ -3750,17 +3750,17 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.hideserialnumber-rootless
 Architecture: iphoneos-arm64
-Version: 0.0.4
+Version: 0.0.4-1
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4_iphoneos-arm64.deb
-Size: 95112
-MD5sum: 96c842c15acdef6b7d491e7f5de0b147
-SHA1: 014f6a59a60eec4054b8142f0635cce2b91b471b
-SHA256: 73e214d730c86fe92cfc219de87ceed9507edb7e3dc20f3eaa8ebf2fe99cc063
-SHA512: c41aa36107046750925942d87ff4c26217b587c4462f256abbdcb882c1d03125d57e785d2d4db6d01a4639f0fea0c9b1d0b271a314e0c83bcbd6c62f54781196
+Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4-1_iphoneos-arm64.deb
+Size: 105562
+MD5sum: ce3da1aa5e1f36ae2b82f96316eae3d9
+SHA1: 3a9f437957c2d6bb620db34e7f06508fa63d1adb
+SHA256: 1ba6a380ac1a068f21787034dc48da1be0158926141160ec4f28b2f1fe4a11ee
+SHA512: de834f6d5d977dab5ede0b7691fc8449e290675d8ebb66f04d46f4f7b85e7edfd119f401dcda2758f6bfdb7108cbc25a0e610f2c2b83580f1e81fad217b279e4
 Description: Hide Serial Number in Settings About page.
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
 Author: ichitaso
