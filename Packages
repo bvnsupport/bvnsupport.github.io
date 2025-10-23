@@ -18016,17 +18016,17 @@ Maintainer: MTAC
 Installed-Size: 188
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.bvn.uptime_1.0.2-1_iphoneos-arm64.deb
-Size: 40516
-MD5sum: 3141abfbd30304399c9ad44f4a45d271
-SHA1: 6b57b51610670ed5cb887ed7fd73fb2406d47545
-SHA256: ac3071dff2d5035d7b6f64dcb3189e51ed4e733d7a0ccc2e4135fda5bfd5f956
-SHA512: f6a0679d32794036662732bdbf87c0a91003dd3544e333dadb576eb780a7a8dc2d4ec2b49af5ef07e6947dc1cff8506754ae858c3e68abeac870e796d63dec75
+Size: 40514
+MD5sum: 9858e2bd4302624053e31fca69963160
+SHA1: 611820acf492ae60d1b8292e5f0599c2565095df
+SHA256: ebd653498184c87e0da15ee6e5152e903e319907cede1d76ad6308967609cf50
+SHA512: ff73a66c4af8d48f432a5bf84c2764f5ce6347ca9ae6f434dab46764d3559d05fde2c2a4c4329bcad579423b581b34e012a70023df88879859ad96d976ea4216
 Description: Control Center module to view time since boot
 Name: Uptime VH(Rootless)
 Author: MTAC
 Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
- SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
- Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.uptime
 Architecture: iphoneos-arm
