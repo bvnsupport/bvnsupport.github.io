@@ -18009,6 +18009,26 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 Author: Laxus
 
 Package: com.bvn.uptime
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 188
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.bvn.uptime_1.0.2-1_iphoneos-arm64.deb
+Size: 40516
+MD5sum: 3141abfbd30304399c9ad44f4a45d271
+SHA1: 6b57b51610670ed5cb887ed7fd73fb2406d47545
+SHA256: ac3071dff2d5035d7b6f64dcb3189e51ed4e733d7a0ccc2e4135fda5bfd5f956
+SHA512: f6a0679d32794036662732bdbf87c0a91003dd3544e333dadb576eb780a7a8dc2d4ec2b49af5ef07e6947dc1cff8506754ae858c3e68abeac870e796d63dec75
+Description: Control Center module to view time since boot
+Name: Uptime VH(Rootless)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
+ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
+ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.uptime
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
@@ -18027,26 +18047,6 @@ Author: MTAC, BVN
 Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.uptime
-Architecture: iphoneos-arm64
-Version: 1.0.2
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 188
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.bvn.uptime_1.0.2_iphoneos-arm64.deb
-Size: 34840
-MD5sum: d57b2c4ea6245277b4e4c7864a5c959b
-SHA1: 5cdf106c1520b03965017b0c7cfefe8355ce8a5a
-SHA256: 41d00b637ddb72a53f287dc4a7ec074a85b7b6ff2b521ca982f40d72ce1dc832
-SHA512: 13f487806a0a1b3a8a99d27c93dac3029b36ff4621c89f35784638c692bbe837818aa4a087ad8b553d1595d9b649b7b9380204d004a152fcafd9fc0f01fec789
-Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
-Name: Uptime VH (Rootless)
-Author: MTAC,BVN
-Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.verxina
 Architecture: iphoneos-arm64
