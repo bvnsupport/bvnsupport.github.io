@@ -32,7 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Uptime VH\n\n- Hiển thị thời gian hoạt động (Uptime) của thiết bị:\n\n- Tweak này hiển thị chính xác khoảng thời gian thiết bị của bạn đã hoạt động liên tục kể từ lần khởi động hoặc reboot cuối cùng, tính bằng ngày,giờ,phút và giây.\n\n- Bạn chỉ cần vào cài đặt trung tâm điều khiển và thêm Thời gian hoạt động để hiển thị\n\n- Tùy chọn hiển thị: Widget có thể được cấu hình để hiển thị dưới dạng khối 1x1 hoặc 1x2 trong Trung tâm điều khiển,tùy theo sở thích của người dùng \n\n",
+"markdown":"Uptime VH\n\n- Các thiết bị từ Xs trở lên vui lòng cài đặt thêm Tweak Legacy arm64e Support để tăng khả năng tương thích\n\n- Hiển thị thời gian hoạt động (Uptime) của thiết bị:\n\n- Tweak này hiển thị chính xác khoảng thời gian thiết bị của bạn đã hoạt động liên tục kể từ lần khởi động hoặc reboot cuối cùng, tính bằng ngày,giờ,phút và giây.\n\n- Bạn chỉ cần vào cài đặt trung tâm điều khiển và thêm Thời gian hoạt động để hiển thị\n\n- Tùy chọn hiển thị: Widget có thể được cấu hình để hiển thị dưới dạng khối 1x1 hoặc 1x2 trong Trung tâm điều khiển,tùy theo sở thích của người dùng \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/10/2025"
+"text":"23/10/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.2\n\nLần đầu phát hành"
+"markdown":"#### 1.0.2-1\n\nSửa lỗi treo thiết bị sau khi cài đặt trên A12+"
 }
 ],
 "class":"DepictionStackView"
