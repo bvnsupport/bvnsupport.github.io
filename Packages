@@ -8306,18 +8306,18 @@ Tags: compatible_min::ios12.0
 
 Package: com.bienvannhat.RingTonesManager
 Architecture: iphoneos-arm
-Version: 1.1-4
+Version: 1.1-5
 Section: Applications
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=12.0)
-Filename: ./debs/com.bienvannhat.RingTonesManager_1.1-4_iphoneos-arm.deb
-Size: 6948716
-MD5sum: 408b23a591e726fbc4e46868f232c5ba
-SHA1: 242a1561a78da6b99977694a87b74c6348630edc
-SHA256: 5222b69b1979b465fb33c86743da7e095cdbb80b1b82217de1c2274f3be521a2
-SHA512: 03628fa036d3f832d2458163ee971ef4dd10d4ea43c1c3aa8a9c59095cc6bdc612924d5d1477eda39f949ae063f42f51ea25c54be7ca1b5864b002f469cd9025
+Filename: ./debs/com.bienvannhat.RingTonesManager_1.1-5_iphoneos-arm.deb
+Size: 6954848
+MD5sum: 69e8b628103bdaf8d77bba763e7ec4c4
+SHA1: d63280e8d91fed1f1a117e4c64f911e8b2d57cc8
+SHA256: c130dc1278940d1c606f39f53880b9532985dcbc2266f0ab15735c81debdae7f
+SHA512: c3024be251918a97e70e5898c9860d7b10da5415760b604446f5da96912982e1c48387b898585aa3b834430d8dffc9dab217716817fe4f2b2c97fab18e5c9a03
 Description: Tạo nhạc chuông ngay trên thiết bị của bạn..
-Name: RingTonesManager
+Name: RingTonesManager VH
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/RingTonesManager/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/RingTonesManager/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
@@ -10120,21 +10120,21 @@ Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64
-Version: 1.1-4
+Version: 1.1-5
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=15.0)
-Filename: ./debs/com.bvn.RingTonesManager_1.1-4_iphoneos-arm64.deb
-Size: 6883726
-MD5sum: a032b4f0b80fe2d2c0a9f566c4eded2a
-SHA1: 1351bfc9aa2a84cd9ff0a7607ee6d82ad8a189fb
-SHA256: 321a6905054122c2f26c73a6a2006efe0863e21cdbf3422e99a6e8b1c4ada532
-SHA512: 44859819e1272aafe0c8e42ea0960e7c58e4b636ac69e811959f576bafd155451b5b4ce99ba00a559812c3fcc3358d108901dc9063739ba8f9c0625dfa32f3f0
+Filename: ./debs/com.bvn.RingTonesManager_1.1-5_iphoneos-arm64.deb
+Size: 6889718
+MD5sum: 5b14dc44ea2c1839ffe5c151899096cf
+SHA1: 443a7af753cc8a5dab73fae60e55cd1b1b4b46f1
+SHA256: f4877ca003a540da07b2cdabe2608406123a681f0c645ab615bb937d744fca0a
+SHA512: 691e8b3f6e780ea65113be1b47ae2129ad1390be7096764ef52f19feb8b724cda002bcefa412acb903e980293c97517506080c5b5bdb6845b076def755192070
 Description: Tạo nhạc chuông ngay trên thiết bị của bạn..
-Name: RingTonesManager
+Name: RingTonesManager VH
 Depiction: http://bvnsupport.github.io/infodeb/RingTonesManager/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/RingTonesManager.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
 
