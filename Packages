@@ -17888,6 +17888,46 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Touch-Viz VH(Rootless)
 Author: Lessica
 
+Package: com.bvn.trollstorevn
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.trollstorevn_1.0-1+debug_iphoneos-arm.deb
+Size: 13342
+MD5sum: 4589f12649af959f75b01ae50e0942c2
+SHA1: e5afe769b8c52932f5ba48e3fbf5d71087ae750f
+SHA256: 50071b48f270b71a26d8dd7206ed24aac02e35c85d9f83901404511522bb8ec0
+SHA512: dd7c85a002e8f2b2e126a7015cefae9b268690294d2bc170ac594398e507c6b27c47263f4e90a7101e4e6f88f11e597769ac34c256aa942972cc6120b73a26f7
+Description: Việt hóa giao diện TrollStore
+Name: TrollStore (Gói Tiếng Việt)
+Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStorevh.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStorevh.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: BVN Repo
+
+Package: com.bvn.trollstorevn
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.trollstorevn_1.0-1+debug_iphoneos-arm64.deb
+Size: 13402
+MD5sum: aaf650e333be455c76a8381f0d74cf93
+SHA1: cd8c19bfb77efe7bc5f31ac0206a70f754622fc1
+SHA256: 61f9f4263b809d8f2df7cf6061774eed8da10e97f232989b0f42f0ed55128569
+SHA512: f953b3d1bd7644dc1115c2609964240f37623985714e87706ebc2ee7fdbbe2cecb7775cb462b4cc0c2d383d3d4c2f4ddcfd3f84d80e3ff3b37c6776c1983b4c3
+Description: Trollstore gói Tiếng Việt.
+Name: TrollStore (Gói Tiếng Việt)
+Author: BVN Repo
+Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStorevh.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStorevh.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
+
 Package: com.bvn.tudientflat
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -25197,24 +25237,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clang
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 dev: coolstar
-
-Package: org.coolstar.sileo
-Architecture: iphoneos-arm
-Version: 2.5
-Section: Packaging
-Maintainer: Amy While <me@anamy.gay>
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.5_iphoneos-arm.deb
-Size: 3544918
-MD5sum: 6bcb23a959b7ec09289aeca7b787b12e
-SHA1: fa5cb69975ed6642b14f82685602fc05b4ccf3b5
-SHA256: 9886491b984baa7b38de49559ce77458126524b0d9bc7aa5edbfcb5c84a84418
-SHA512: 53ae2f8e19390b0bbd853d2b33de3818e2546066c5dfbdc652db8ead13aa2087f78c90748ff96da75b18a337e35a80bcaec49757d479db289dd0e5210911f2f2
-Description: A modern APT package manager frontend
-Name: Sileo
-Author: Amy While <me@anamy.gay>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package:  org.hahalosah.nofreeapplimit
 Architecture: iphoneos-arm
