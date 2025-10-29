@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"miguelaka95"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.6" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"6/7/2025"
+"text":"29/10/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.0.5\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 0.0.6\n\n- Thêm gói phụ thuộc xinamine tăng khả năng tương thích trên Rootless"
 }
 ],
 "class":"DepictionStackView"
