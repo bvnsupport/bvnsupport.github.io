@@ -11200,16 +11200,16 @@ Name: BeautyPlus Vip(Rootless)
 
 Package: com.bvn.bettercc.rootless
 Architecture: iphoneos-arm64
-Version: 0.0.55
+Version: 0.0.6
 Section: Tweaks
 Maintainer: BvN Repo
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, com.0xkuj.bettercccrashprotect
-Filename: ./debs/com.bvn.bettercc.rootless_0.0.55_iphoneos-arm64.deb
-Size: 315348
-MD5sum: 291fe70b7b50164efbbe51c326b2c198
-SHA1: 60cb0c7eef381a06ad5faa5389747c159f543188
-SHA256: ca0681ed009c339a7f85b10b7b556e057135a7d310e9e21ee3f87cdae6685cbb
-SHA512: 2e08fcb26fa93d50d6f3f24136609c08063da336de5768dc7a5595e91491716535bc529cda91170afc3fd8412fc11c28c71ed6e52d8ed3d5d3e0c7d330a57c6d
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, com.0xkuj.bettercccrashprotect, emt.paisseon.xinamine
+Filename: ./debs/com.bvn.bettercc.rootless_0.0.6_iphoneos-arm64.deb
+Size: 321674
+MD5sum: df6d9f1e5916809bc22e30f352ff82bd
+SHA1: 8a06af48f1f3796531335fef06a5f7a6d188d7a3
+SHA256: 45de50a67c71fc5ee89d2cd46dcbb7fd35eac6ee030d4391213f4988ee7c4def
+SHA512: daeff99183ea76c74ff9fe2b482d8ebf367c2ec7787c0889be2f78069d2ba36cfecd6677ad1ef51d2b20040f23f2fff315238d073c6bda4368112dfc7adb591a
 Description: Customize your Control Center!
  Invisible Modules.
  Rearrange Connectivity Toggles.
@@ -24109,23 +24109,23 @@ Author: Evelyn
 
 Package: emt.paisseon.xinamine
 Architecture: iphoneos-arm64
-Version: 0.0.5
+Version: 0.0.5-1
 Section: System
-Maintainer: BIỆN VĂN NHẬT
+Maintainer: Bvn
 Installed-Size: 564
 Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: ./debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
-Size: 116712
-MD5sum: 9c0783cce71aee847392c3346bb2c397
-SHA1: 3e4848c2b3902a5814982cc752aa1e7dad1dfc73
-SHA256: 4b9a67b813c34f19ce55a8e19b5ab2cf170d06878cefbb224944cf9d442342b0
-SHA512: 884aae0ae4667ade17914e130ac61803ed4063e22871b31d6ee8dad8c983892f6444be6dab43dd9db34c136529b4237e9b0eef575b429825952e261cef74d3c9
+Filename: ./debs/emt.paisseon.xinamine_0.0.5-1_iphoneos-arm64.deb
+Size: 116696
+MD5sum: 0e9b943e29c515b89044853888ba0caf
+SHA1: bd95c9718bfcae7ae2426ec72ab74086ecd482b3
+SHA256: 5ec0aa023b06dda2319f086a9a95a009d267a0bdd8050320708b8279392251f4
+SHA512: 52e9cbc279b7e8998399c63db18442ce6cb2a5e93571abc80006ed187eadce6598c71e74b3938ab63070e422c878e1434fa6844044cefccf930c0000b4f40b0c
 Description: Thêm khả năng tương thích tinh chỉnh Xina với Dopamine
 Name: Xinamine (Rootless)
 Author: Sudo + Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
 
 Package: expat
 Architecture: iphoneos-arm
