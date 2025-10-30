@@ -11098,6 +11098,46 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.batterycricle
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.batterycricle_1.0.1_iphoneos-arm.deb
+Size: 14796
+MD5sum: 6cd7d1843f9c9bd9691c9fe09f3ac630
+SHA1: 85b1288481ae8c42c7441426866504fc3b2e927a
+SHA256: 6efb41481a8ad831b3d733a110b6bf19530d33709bd258bf5dfc85f05c2ce21b
+SHA512: 65c1520e98032b23f19764ae2b33c9f918e41dce216524a898edd70518b83a7568ff3f6e64b5fcf79e286567b5abb731fdc7af7afe9b2750fe1823403916de6c
+Description: Show Current Percentage Inside Cricle Battery Icon!
+Name: BatteryCircle
+Author: nqt1195
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/BatteryCircle.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryCircle.json
+
+Package: com.bvn.batterycricle
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.batterycricle_1.0.1_iphoneos-arm64.deb
+Size: 14980
+MD5sum: 515c832afbbb3436f2c6fa968491826f
+SHA1: 870a3f305b3b007a1ba8a85b9db65f663503486f
+SHA256: 08400acf100535fe41898ced58414c3d8e6d58c57fe81330a24f0a80b6a844f2
+SHA512: cab42ecfec48a1cdf788287db29ab237704faf0c7080c5b1d3283cb5def038a2aaafd2f77c751b73a62ee62959b932e98c8e817b49b7c70560d090b6885507c1
+Description: Show Current Percentage Inside Cricle Battery Icon!
+Name: BatteryCircle (Rootless)
+Author: nqt1195
+Depiction: http://bvnsupport.github.io/infodeb/Html/BatteryCircle.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryCircle.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.batteryinfo
 Architecture: iphoneos-arm
 Version: 1.1.8
