@@ -228,6 +228,26 @@ Name: BetterCCCrashProtect
 Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.Axs.ccmusic
+Architecture: iphoneos-arm64
+Version: 1.0.5K
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0), com.bvn.fixvn, com.bvn.ccmusic.vh
+Filename: ./debs/com.Axs.ccmusic_1.0.5K_iphoneos-arm64.deb
+Size: 40544
+MD5sum: f864274a2a97e9616b9bdf02e2f9f33c
+SHA1: fa48ea49ce0eb6c4d12fdd532792fdfc514e6bb2
+SHA256: 368f77cb6dd83008dd07e72e14754decdfc511e9957b342a13f959a5b5f1a9ae
+SHA512: 88674d9102909b13fbd18b65def6c104d292c1b9d1c874e943a5e213f5a288156f6521ded2fc97aaae400e39afddf0af115fee65c3636d60e4ba89e972065ab2
+Description: Thêm hoạt ảnh vào mô-đun âm nhạc trong trung tâm điều khiển
+Name: CC Music VH(Rootless)
+Author: simon
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/ccmusic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ccmusic.json
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -9552,18 +9572,18 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Gifisland
 Architecture: iphoneos-arm64
-Version: 1.0.2-1
+Version: 1.0.3
 Section: Tweaks
 Maintainer: Bvn
 Installed-Size: 356
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate, oldabi, com.bvn.fixvn
 Conflicts: com.bvn.gifroothide
-Filename: ./debs/com.bvn.Gifisland_1.0.2-1_iphoneos-arm64.deb
-Size: 310478
-MD5sum: f6e5ab6757e3a3bcafc3cc5a32f911d1
-SHA1: 5d4d33de692f5f53b793f061a08b012982d82110
-SHA256: d0c6042656810ebbdc6e81c43b57143833a1746d7790218b9f25f0780e55405a
-SHA512: 4b248ae61280bca5eca5e967fea61dd9e1d9f8f3c452ca7ffd085634f4c25f5298d51016eccea5bc74169e149cdee7bdfbdd85b6aa5ac738596b7ff2be521883
+Filename: ./debs/com.bvn.Gifisland_1.0.3_iphoneos-arm64.deb
+Size: 45470
+MD5sum: 7ddb1a0fdc907678ed2847c520096d20
+SHA1: 670da631653bdad52489c4c77e6c32629ebe21a9
+SHA256: 2865a9094bfa73abfef7b1d2a8a6c853708a845efadf8b79f8871ae6140839b0
+SHA512: 225c4bee431d3b902d14a1a4ca9bc96555381109eb439e6cb080222cf67c31228e15fc8a6cfe6dc436c947df9a42b9e00f150f732e92748f979fbd44336ebab8
 Description: Thêm Gif vào dynamic island
 Name: Gif island VH(Rootless)
 Author: liuf
@@ -12083,6 +12103,23 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ccmusic.vh
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: bvn
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ccmusic.vh_1.0_iphoneos-arm64.deb
+Size: 21980
+MD5sum: b704e7ab6f04261a3e0279be8f93ed74
+SHA1: c42ed616fdc4757308725fa9a85b66000660dda7
+SHA256: a8df5ff5e0cb9e7d0e6fd335366866a684149c3283d2d988e4eedcf80389b62a
+SHA512: 805932112dc2a92d7b5eb9e27773012eb27eb8084de3f2ef295ae50301354e1c193ec007f4c5e01f3ea924047837dda5fb82879dcabd07b44844a0d01650bf0b
+Description: Gói Tiếng Việt cho CC Music
+Name: CC Music (Gói Tiếng Việt)
+Author: BVN
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
+
 Package: com.bvn.ccmusicartwork
 Architecture: iphoneos-arm64
 Version: 2.4.0-rootless
@@ -12866,6 +12903,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Recorder.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Recorder.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.dynamicislandanimation
+Architecture: iphoneos-arm64
+Version: 1.1.8
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 432
+Depends: mobilesubstrate, com.bvn.fixvn
+Filename: ./debs/com.bvn.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
+Size: 56940
+MD5sum: bb142092b7416a1a1dfb36b0d3270171
+SHA1: aded3c7d273e4237026bd466c589bbd361155815
+SHA256: 45e83c0318ff509e780240b252497d6ff1635673d4a06875f4a5ecb6ee5293ca
+SHA512: c6e6e5403efa5f1adaca932454552ec8026c9764d5c4186d80d1ce848981187b404c8bada8169d2b0e6794f906ad222e2649957e686ec44595cb37c1a7905983
+Description: Dùng để tích hợp các hiệu ứng nhảy múa sống động từ album Đảo Linh Đông và bản ghi màn hình.
+Name: DynamicIsland Animation
+Author: Simon
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/Animation.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Animation.json
+
 Package: com.bvn.dynamicnotlands
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -13390,6 +13447,24 @@ Description: fix SneakyCam không hoạt động trên iOS 16
 Author: Alex
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: fix SneakyCam
+
+Package: com.bvn.fixvn
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: bvn
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.fixvn_1.0_iphoneos-arm64.deb
+Size: 265408
+MD5sum: 4d3a25e6cc1b616cf18dc319cccac98d
+SHA1: 8939701773f3aa551e1f38fe18c3a3609d549bb5
+SHA256: 376af7fe67c774521f588f3c433ee595eb5b65fba3165648553d280c7d446868
+SHA512: 2ad3251f209d734094d441e548343da97d9e5a49c7ffe731ef650fc2030852352bb6c9742b9ddc3713b7acce89706f22ca523b1721012030ef815c548d0508dc
+Description: Fixtrans
+Name: Fixtrans
+Author: bvn
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.floaty
 Architecture: iphoneos-arm64
