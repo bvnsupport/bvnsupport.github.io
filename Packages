@@ -9572,18 +9572,18 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Gifisland
 Architecture: iphoneos-arm64
-Version: 1.0.3
+Version: 1.0.4
 Section: Tweaks
 Maintainer: Bvn
 Installed-Size: 356
 Depends: mobilesubstrate, oldabi, com.bvn.fixvn
 Conflicts: com.bvn.gifroothide
-Filename: ./debs/com.bvn.Gifisland_1.0.3_iphoneos-arm64.deb
-Size: 45470
-MD5sum: 7ddb1a0fdc907678ed2847c520096d20
-SHA1: 670da631653bdad52489c4c77e6c32629ebe21a9
-SHA256: 2865a9094bfa73abfef7b1d2a8a6c853708a845efadf8b79f8871ae6140839b0
-SHA512: 225c4bee431d3b902d14a1a4ca9bc96555381109eb439e6cb080222cf67c31228e15fc8a6cfe6dc436c947df9a42b9e00f150f732e92748f979fbd44336ebab8
+Filename: ./debs/com.bvn.Gifisland_1.0.4_iphoneos-arm64.deb
+Size: 27582
+MD5sum: 4765c56ef2f142136e57831bd27154b1
+SHA1: 38d761e039d186286f7d0548e7e54df7b607c1e3
+SHA256: acece835582edc929cd133a6ba909158ac85753231be469f4054fd2390f3c14a
+SHA512: dac7695cb6f8ea16ba2051eeddd654bae6423c57fe6f5d8b584a36c50040bb2c67938cc3ef3be06320c370a6b80d9874aa23f8e62fd87b84e81b1c32f0c1b055
 Description: Thêm Gif vào dynamic island
 Name: Gif island VH(Rootless)
 Author: liuf
@@ -12105,16 +12105,16 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ccmusic.vh
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0.1
 Maintainer: bvn
 Installed-Size: 176
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ccmusic.vh_1.0_iphoneos-arm64.deb
-Size: 21980
-MD5sum: b704e7ab6f04261a3e0279be8f93ed74
-SHA1: c42ed616fdc4757308725fa9a85b66000660dda7
-SHA256: a8df5ff5e0cb9e7d0e6fd335366866a684149c3283d2d988e4eedcf80389b62a
-SHA512: 805932112dc2a92d7b5eb9e27773012eb27eb8084de3f2ef295ae50301354e1c193ec007f4c5e01f3ea924047837dda5fb82879dcabd07b44844a0d01650bf0b
+Filename: ./debs/com.bvn.ccmusic.vh_1.0.1_iphoneos-arm64.deb
+Size: 23166
+MD5sum: a12b2f82717332b52d7ed37944ddfb0a
+SHA1: 95ffe6ca0a0fe5162bc43301a8def2b2ad25595a
+SHA256: 1476b8693dd8600a774386bbe7e0c66bd4f5647aa00eef512c866bc4f8733a68
+SHA512: 102fba10e51b14a8b807a9399e869649b6bd52b8835c859d64a6c5fed64cbe488ec222259bb6d2fab7ef70945b019abf523c9e73f1ad3d4f9b46e83ea859dd63
 Description: Gói Tiếng Việt cho CC Music
 Name: CC Music (Gói Tiếng Việt)
 Author: BVN
