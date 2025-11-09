@@ -15303,23 +15303,23 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
 Package: com.bvn.lunartime
 Architecture: iphoneos-arm64
-Version: 1.0.2-1+debug
+Version: 1.0.3-1+debug
 Section: Tweaks
 Maintainer: BVN
-Installed-Size: 172
+Installed-Size: 176
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.lunartime_1.0.2-1+debug_iphoneos-arm64.deb
-Size: 20768
-MD5sum: f3a8869c1574454150af3d140837634a
-SHA1: 552dbf64d4dbd5949923081a814928e199fd3e16
-SHA256: 8e1f412a238b80b43ec835d8ca4da79518c9a512e5f72842d0292dee97cd081c
-SHA512: c09a0c180424423b56cc8427a37077e12f2aa35e7bb30e67d2f0787ce4265d0a46c967194f89b45d429ecf7e00df1194fd1a650b71926b472f86847804f261e9
-Description: Hiển thị "Thứ, dương - âm lịch" ở dưới đồng hồ
+Filename: ./debs/com.bvn.lunartime_1.0.3-1+debug_iphoneos-arm64.deb
+Size: 24922
+MD5sum: e32c98afbd068a1252a74ac455a062cc
+SHA1: 14e8ccbf047fc0a911411978fac3823d72d298a0
+SHA256: 577f419abb481e6b18fbe86cb3bfbf492c6a766aba16d5601debd0c0be24a668
+SHA512: d17adbbf36b5766c6db410c618bb0fa0e21e8010fbdf733d649f3dc7181261e4646e84b21a5397ff96e38fedbc8b0104cc67c102dca3eef7bf3e6acd548bcc1e
+Description: Hiển thị "Thứ, dương - âm lịch" ở dưới đồng hồ (iOS 15+ rootless)
 Name: Lunartime Pro (Rootless)
-Author: BVN
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: BVN
 
 Package: com.bvn.lynxrootless
 Architecture: iphoneos-arm64
