@@ -4601,27 +4601,6 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.lteto5g
-Architecture: iphoneos-arm64
-Version: 0.2-1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5), oldabi | oldabi-stub
-Filename: ./debs/com.BIENVANNHAT.lteto5g.deb
-Size: 5892
-MD5sum: 0fb4a253b17644151e74708c60c0a8ab
-SHA1: 41dad01beb4c81a439851e4f16d2be50418877ab
-SHA256: b5975fc6233c3cf4ce82e74bfcfcd372706daf9e88f290ffdb505fa0d95c9694
-SHA512: b5f75b6594f2d72b2214d2817b735261a921c347cf71b432342f0d624f16aba93cc05353a6428b5cc8e054b4568c1c5b9ea4ff970b144317860b1a012e71ef52
-Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
-Tag: purpose::extension
-Name: LteTo5G (Rootless)
-Author: fahlnbg
-Depiction: http://bvnsupport.github.io/infodeb/LteTo5G/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/LteTo5G.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.lteto5g
 Architecture: iphoneos-arm
 Version: 0.1
 Section: Tweaks
@@ -4639,6 +4618,26 @@ Tag: purpose::extension
 Name: LteTo5G
 Author: fahlnbg
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.lteto5g
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.lteto5g_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 9738
+MD5sum: e0136ed393bd078cf95cadc64dc56392
+SHA1: e99d42856506cd3edcaf8a22d41cabc53741b7c2
+SHA256: 67e7423e51b24bd8ff2dc13f80954472547c886f098f125704bcc08923cc4f6f
+SHA512: f27f34f7166a1be24aed005c41f8dac91075900830a228f20908e475ee5238be9c95257d37f34e5dab5dacc0b6233cef11b62114b9cec0a56417c68574360422
+Description: Hiển thị 6G thay cho 3G/4G/5G/LTE trên thanh trạng thái
+Name: LteTo6G (Rootless)
+Author: BVN
+Depiction: http://bvnsupport.github.io/infodeb/LteTo5G/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LteTo5G.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.lunartime
 Architecture: iphoneos-arm
@@ -15301,6 +15300,26 @@ Author: NQT1195
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
+Package: com.bvn.lunartime
+Architecture: iphoneos-arm64
+Version: 1.0.2-1+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.lunartime_1.0.2-1+debug_iphoneos-arm64.deb
+Size: 20768
+MD5sum: f3a8869c1574454150af3d140837634a
+SHA1: 552dbf64d4dbd5949923081a814928e199fd3e16
+SHA256: 8e1f412a238b80b43ec835d8ca4da79518c9a512e5f72842d0292dee97cd081c
+SHA512: c09a0c180424423b56cc8427a37077e12f2aa35e7bb30e67d2f0787ce4265d0a46c967194f89b45d429ecf7e00df1194fd1a650b71926b472f86847804f261e9
+Description: Hiển thị "Thứ, dương - âm lịch" ở dưới đồng hồ
+Name: Lunartime Pro (Rootless)
+Author: BVN
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.lynxrootless
 Architecture: iphoneos-arm64
