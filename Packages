@@ -13447,6 +13447,27 @@ Author: Alex
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: fix SneakyCam
 
+Package: com.bvn.fixrdarstatusbar
+Architecture: iphoneos-arm64
+Version: 1.0.1-1+debug
+Priority: optional
+Section: Tweaks
+Maintainer: BvN
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.bvn.fixrdarstatusbar_1.0.1-1+debug_iphoneos-arm64.deb
+Size: 5754
+MD5sum: 5fd033fa0a18d66002fc6fdcb9e8fd5a
+SHA1: 8d7ef747b50204da9a233629aa55ff3196d6224c
+SHA256: ed8be3c27a552837e3ca280e5438821bccd6fd7dcf2643eadcac11ca92343f45
+SHA512: e27210ee12d16288fb7423f64bcfc472b462bcf33a45dc10aa03d192032854b86de362a5bd1cab0a902b38ee5dbd7223d18578ed1305e60786b9ece502fd27e8
+Description: Sửa lỗi “Rdar đỏ” trên thanh trạng thái.
+Name: Fix Rdar Red StatusBar
+Depiction: http://bvnsupport.github.io/infodeb/Html/Rdar.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Rdar.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: BVN
+
 Package: com.bvn.fixvn
 Architecture: iphoneos-arm64
 Version: 1.0
