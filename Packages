@@ -16295,6 +16295,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PhotoPurge.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: BVN
 
+Package: com.bvn.pikachu
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 212
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bvn.pikachu_1.0.0_iphoneos-arm64.deb
+Size: 89204
+MD5sum: 93fe6eaec5b48bbab288242a1b3900b5
+SHA1: be5dfda43ac9ad8f9bab396dd355105ab026d2d6
+SHA256: 1d604f6ff4b20c09ca206d0b1d4e359e14c5574ca40c052759dc41c077f07fa1
+SHA512: 05d90ec735bce35823804829727d2defb83f4b8bf2136a701a1e91244161287544625b1dc1b2fb45c9e1bb82bfd738f797dc2987ee9936202675e5517e157164
+Description: SwitchTheme
+Name: Pikachu SwitchTheme
+Author: Wxfx8
+Depiction: http://bvnsupport.github.io/infodeb/Html/Pikachu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Pikachu.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm
 Version: 1.0.2
