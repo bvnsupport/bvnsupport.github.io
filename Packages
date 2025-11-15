@@ -468,80 +468,6 @@ Author: BIỆN VĂN NHẬT
 
 Package: com.BIENVANNHAT.Orion
 Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 8624
-Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist, com.BIENVANNHAT.libvew
-Filename: ./debs/com.BIENVANNHAT.Orion_1.0.0_iphoneos-arm.deb
-Size: 2966256
-MD5sum: 9ed6d79efdf3af67fac6bb2361ebb526
-SHA1: 0bc30eba07d4f4e67b3e3eadff4482a5c9075812
-SHA256: 4e740ac1f91be077e0b911d3973ed3b06d8962fd88c0245e628c1bfe7758240d
-SHA512: 49ff8023c502f3b578fd9bb4570ddef08a1db408b4dc18f0ff9e3d6fd00080167ba3e2cfa355492b42ab112263ad1dc06d476ab6f63fdb383252c70299de1ca6
-Description: Cấu hình mọi thứ trên thiết bị của bạn!Hiện tại 1 số chức năng mình chưa việt hoá được hết nên anh em thống cảm nhé.Ngày mai sẽ có bản Full Tiếng Việt Trên Repo.
-Name: Orion Việt Hoá
-Author: John Zarogiannis <johnzrgnns@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.Orion
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 8624
-Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist, com.BIENVANNHAT.libvew
-Filename: ./debs/com.BIENVANNHAT.Orion_1.0.1_iphoneos-arm.deb
-Size: 2970384
-MD5sum: 8dc43f08df026713f443762548477de7
-SHA1: 12b1fe5222f15576ccf7415f0868df38ed4c5992
-SHA256: 13df22c21db7f8559e913761384edd33a318a5fbbed6fc8aeef851bf31127475
-SHA512: 8a433aabcc7404e13931f27647e249d3e38a24e37f551212dc051d428761c9a2378f0098483078b2cced0b9078702119e696645ffd9b268e7ab389adaffde296
-Description: Cấu hình mọi thứ trên thiết bị của bạn!Update thếm tiếng việt,hiện tại mình chưa có thời gian để chỉnh sửa lại cho anh em dễ hiểu,Ae cứ xài tạm đi nhé,mình sẽ Update tiếp😂
-Name: Orion Việt Hoá
-Author: John Zarogiannis <johnzrgnns@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.Orion
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 234
-Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
-Filename: ./debs/com.BIENVANNHAT.Orion_1.0.2_iphoneos-arm.deb
-Size: 2974880
-MD5sum: fac4a125e003caa90a1a145dd1a68fd2
-SHA1: fc1087cca14bf4597dc57a83a425b3d5d18c5f9b
-SHA256: 7e01282285c029619cc282c2ebbef333dabf660184820bb47de44f584bc6d7d7
-SHA512: 7327720e31b231c846a6c36b62608f6e46a7b4871a6d88d124147102aa70cece0ce936f086801815793806a5994664aa60b47c8a27f0fa0087ea3ca565f1feec
-Description: Cấu hình mọi thứ trên thiết bị của bạn!Đã Update Full ngôn ngữ Việt nam😋Hỗ trợ ios 13 tới 14.5
-Name: Orion Việt Hoá
-Author: John Zarogiannis <johnzrgnns@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.Orion
-Architecture: iphoneos-arm
-Version: 1.1.0
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 8572
-Depends: firmware (>=13.0), firmware (<=14.6), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
-Filename: ./debs/com.BIENVANNHAT.Orion_1.1.0_iphoneos-arm.deb
-Size: 3030602
-MD5sum: f3d9153fc8236fe50dae796f9546366f
-SHA1: 0f5c7828dc283d8e7f726ace50e56f680706985c
-SHA256: 699971414a41fe3fb41ef1cf2c96798329cfc79544dfe2b0fc08c8b04841e163
-SHA512: 2368dee8f6032a8b1a6ae77e2af159249f5eb7a529dcc560a22ecffefab2f26670bdb1466457e128423028ffc8ce62656790ed6f93a40167bd94edb7777da3b4
-Description: Cấu hình mọi thứ trên thiết bị của bạn!
-Name: Orion Việt Hoá
-Author: John Zarogiannis <johnzrgnns@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.Orion
-Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
@@ -559,42 +485,6 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.Orion
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.PUBG
-Architecture: iphoneos-arm
-Version: 0.9.18
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 8508
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.PUBG_0.9.18_iphoneos-arm.deb
-Size: 2425788
-MD5sum: ccc6ee769fae215d315c529e0df5ec6f
-SHA1: 9a76f6dfb8a45a19802b1aeddac0a4e656ac6292
-SHA256: b0de6a9831c06cdbee494c276b414b3963eea0c075d6594353104d1d7a822c89
-SHA512: b26b76143270990bce07fce0d83eb913eeb7ee8ce34be34c5c8613cdc771f9bf144eb3b9b78567fd705258d3fbf01226a9670c863d497c14ac1b35b581ecaa92
-Description: Ẩn jailbreak Game PUBG: NEW STATE
-Name: HideJB PUBG: NEW STATE
-Author: Zahir
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.PUBG
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 8508
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.PUBG_1.0.1_iphoneos-arm.deb
-Size: 2423866
-MD5sum: 96f17cd9ae2032c83017e7a3de35b331
-SHA1: 92d43e6cd3c8817e4156da45408e4887f36199dc
-SHA256: 0b90acdf8d0f09d1305c140908fe371a2fe1bc90debbddb6d04169426190ff81
-SHA512: 6fed79d2a39a165638dcfd221cce5be27164728a4cda69daeecbaf16e88225d5c582df452a622415d870b023d65184b7b27f5323df2395f1237a406233ab7f19
-Description: Ẩn Jailbreak Game PUBG: NEW STATE
-Name: HideJb PUBG: NEW STATE
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Author: Zahir
 
 Package: com.BIENVANNHAT.Patchv6.4
 Architecture: iphoneos-arm
@@ -632,26 +522,6 @@ Author: legionfonts
 Depiction: http://support-jailbreak.github.io/infodeb/Font5/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Font5/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.SearchDots
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 488
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.BIENVANNHAT.SearchDots_1.0.0_iphoneos-arm64.deb
-Size: 120000
-MD5sum: 3689fe656cda9fc90a0b9e1719187364
-SHA1: f3d7bb439ab30c5f0576b14ee0cc51487f56e029
-SHA256: 483701a13fb5f4146f9507d56ce601c362c4c9f84e1d7947059def32e832cf70
-SHA512: 7d4989647a4f1491b268ad2f8a0ac91992bf96efc1135767ce8cad0ebecfb73c57ad879f23aed24c75ee2e2d5f8d73fb1ea44dad32ae754de898fa0cff6de0fb
-Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
-Name: SearchDots VH(Rootless)
-Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: NightwinDev
 
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm
@@ -2600,23 +2470,6 @@ SHA256: f53319fbf303dd40de3d3f22e513ad4e52cf87ca751b9ac7042ad6422a7f7327
 SHA512: d115d85f94ba59273f5d2a124f953edb83b91e0a317eb320d2b7d24128f3a5028141f5de1392f2686cfb100f1f0a83ddd646c048221a49892d3e4ddf222ae82d
 Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
 Name: DarkPapers Pack 1
-Author: alex_png <alex.png.cc@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-
-Package: com.BIENVANNHAT.darkpaperspack2
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Wallpaper
-Maintainer: Biện Văn Nhật
-Depends: com.bienvannhat.wallpaperloader
-Filename: ./debs/com.BIENVANNHAT.darkpaperspack2_1.0.0_iphoneos-arm.deb
-Size: 21040008
-MD5sum: 27ecea2dc81dc830fe95a7a41a28502e
-SHA1: c5aaf6d6ac35bf669540363d8a0d02e9d62e9d1f
-SHA256: c3a7f60c8bfd3c77b98fc59920074654b183af24c173e7acf6061cf2de38ce92
-SHA512: 0dd49118fe7c12719e1d7061760809349cf187956ed4bcfeb327a7432dc3d27ff5c3f035f51c3da36f5aea035b4945eb656fd24de42b2b0e12e6d9f0ff6b855f
-Description: Đây là một gói cần thiết cho việc tinh chỉnh DarkPapers. Nó có thể được cài đặt mà không có DarkPapers trong trường hợp bạn không muốn có gói tất cả trong đó.
-Name: DarkPapers Pack 2
 Author: alex_png <alex.png.cc@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 
