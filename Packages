@@ -149,25 +149,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: cm90.crossoveripc
-Architecture: iphoneos-arm64
-Version: 1.1-1+debug
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 364
-Depends: mobilesubstrate
-Filename: ./debs/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
-Size: 27804
-MD5sum: 86e071def90a7265ab97ffdec4e22979
-SHA1: 22e20ce507d9053ed2ea9cba5446a148e8db203c
-SHA256: 7e18d2a9dc1785612c80157ba20ea63ff56e6554fb5cd6843578b14ac1da9ec4
-SHA512: 597d722bf2e38b29a90e4597c32d04eb253d143089c10f450004754379284b481212d9f37a2e0a806f7f42febe60ac78723f7c28b6edcbb5c5a2cc4c81abcb2d
-Description: Một công cụ giao tiếp xuyên suốt quá trình để gửi và nhận tin nhắn trên iOS 15 & 16 dành cho JB Rootless
- - A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
-Name: CrossOverIPC (Rootless)
-Author: @CrazyMind90
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: cn.llld.playerbj
 Architecture: iphoneos-arm
 Version: 0.0.1K
