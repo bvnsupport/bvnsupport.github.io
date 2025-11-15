@@ -18265,22 +18265,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.verxina
 Architecture: iphoneos-arm64
-Version: 1.2
+Version: 1.3K
 Section: Tweaks
-Maintainer: BVN Repo
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis
-Filename: ./debs/com.bvn.verxina_1.2_iphoneos-arm64.deb
-Size: 10649316
-MD5sum: 1b19c25bef67323d4e5ee204651f04b1
-SHA1: 38560760bd78c5217fa36c09d9e11ef4aed40ce3
-SHA256: ca9c2686a4aecaee62212780acf366f84c261de72f8f71c5de4bd8944566fa4e
-SHA512: 6063ce2810cb5ef8dfc358c2a5c8167c400d30b6e675491f18102c16918bb82ed14d0e233802ea02e96a42735cbf05e4e872bf5946dad9e549a83fa3cdf031e4
-Description: An ez-to-access dock extension.
+Maintainer: uz.ra
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, openssl, ws.hbang.alderis
+Filename: ./debs/com.bvn.verxina_1.3K_iphoneos-arm64.deb
+Size: 401180
+MD5sum: 3135b827cedb6e0ab06d074daf868559
+SHA1: 1b04c41e5522d755b68a6b58f6eff4ff59d4d136
+SHA256: 85ea4503ade56c5dc799fcae4ccef38a6f182ca8b9cb1dcb15c2ca3b130b101f
+SHA512: 1979883e3c080df7decfbb7d1084b0bcd1e67b4122f4565af9d7ecd16f3f382a1365ce4c54c2470c4bf7b3ac5af3945d86231fafcb639d8126e18468a1ab25b2
+Description: Your dock, but better.
+Name: Verxina VH (Rootless)
+Author: uz.ra
 Depiction: http://bvnsupport.github.io/infodeb/Html/Verxina.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Verxina.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Verxina VH(Rootless)
-Author: uz.ra
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.vibetok
 Architecture: iphoneos-arm
