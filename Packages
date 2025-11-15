@@ -20264,46 +20264,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Backtrix/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Backtrix?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.foxfort.foxforttools
-Architecture: iphoneos-arm
-Version: 1.2.23R
-Section: Development
-Maintainer: Biện Văn Nhật
-Installed-Size: 2380
-Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.2.3), com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, com.bo7ios.translomatic
-Filename: ./debs/com.foxfort.foxforttools_1.2.23R_iphoneos-arm.deb
-Size: 1078326
-MD5sum: bfff58d30851ae90a02d637f19e94e0d
-SHA1: 3777c228e04f182edc57398424e58a12acdc0d09
-SHA256: 10d32797f0e710f837b3926cbe784db7a8a940a8c3dd350901a0e4ee6634e51a
-SHA512: 290f16f31a38e0774bb6a1d5de09fa360b78a1d057f5123cdde1711dcdc2836b17d4c9de033bd41480aa5396a5c32f265ed79151dfd3ef4b4a7cebfdad24fd6b
-Description: Công cụ trợ giúp cho các chỉnh sửa Foxfort
-Tag: role::developer
-Name: FoxFort Tools
-Author: FoxfortMobile
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-
-Package: com.foxfort.libfoxfortutils
-Architecture: iphoneos-arm
-Version: 1.2.3R
-Section: Development
-Maintainer: Biện Văn Nhật
-Installed-Size: 980
-Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
-Filename: ./debs/com.foxfort.libfoxfortutils_1.2.3R_iphoneos-arm.deb
-Size: 404424
-MD5sum: 20512e4bb5fba515570b44afa5ea3260
-SHA1: e7673036b0a47151fe7660b12e18ecbe75d7e01e
-SHA256: df5bdfa944bb15751e376d6121c6e2b0f57b3f79348ea82c543c95c39ec24211
-SHA512: 3edd706492f401b3ec46ea92914e29b5f6defc3cf90ccbed13dec40e79dfacc45f2b2d114506d134b79cec8494ea46977737a9b67f4afe714e5b0b84cb0d4338
-Description: thư viện cho các chỉnh sửa Foxfort
-Tag: role::developer
-Name: libfoxfortutils
-Author: FoxfortMobile
-Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
-
 Package: com.gamegod.igg.rootless
 Architecture: iphoneos-arm64
 Version: 0.4.3
@@ -20742,26 +20702,6 @@ Description: Collection of classes used in my tweaks.
 Name: Phoenix (Rootless)
 Author: Nebbs
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
-Version: 3.0.8k
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, oldabi, ws.hbang.alderis, firmware (>= 12)
-Filename: ./debs/com.johnzaro.networkspeed13_3.0.8k_iphoneos-arm64.deb
-Size: 502966
-MD5sum: c9594a75b1ef259c392ff3e98872287e
-SHA1: cd3ee5d89237a2a21d52ed64efa66f2f106669b8
-SHA256: 2cd9cc0bcfaf1fd15ce9813bdd8e5bc540fe4e622bdd24b9275bc623707b23cd
-SHA512: 8eaf5ad94859b85b153e180cf7fe46d3fafc9b1c7cb6277ce7986c48707dc72d0e874c40ee80bd42c2cd6a4e19166f5a8146dfb46adb3c93046abb58616bdce6
-Description: Hiển thị tốc độ mạng
-Name: NetworkSpeed VH(Rootless)
-Author: Johnzaro & lclrc
-Depiction: http://bvnsupport.github.io/infodeb/Html/NetworkSpeed.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/NetworkSpeed.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
@@ -24058,24 +23998,6 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.yan.anitime
 Architecture: iphoneos-arm64
-Version: 1.0.1K
-Section: Tweaks
-Maintainer: yan
-Installed-Size: 1488
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
-Filename: ./debs/com.yan.anitime_1.0.1K_iphoneos-arm64.deb
-Size: 598402
-MD5sum: 07149f3d7e98ac063e0430db991c7b3c
-SHA1: 8b899ce0284804d45e19009f459e540756720270
-SHA256: aca1204fc00ad1cbc20328adadcd8226642266addfa2667447c72d8ed1e5b8f9
-SHA512: c9f8c32b0fed71abf200d659e02d39a770eeeeb4f5722c13a4beacbdcc595ae6ba89f81d502871869c8e8986fa9c0660473c2858afba53988a60778ad058593d
-Description: Nhân vật anime hoạt hình làm chữ số trên đồng hồ của bạn.
-Name: AniTime (Rootless)
-Author: yan
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.yan.anitime
-Architecture: iphoneos-arm64
 Version: 1.0.2K
 Section: Tweaks
 Maintainer: yan
@@ -24109,24 +24031,6 @@ Description: Các ký tự anime hoạt hình như các chữ số đồng hồ 
 Name: AniTime VH
 Author: yan
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.yan.anitime
-Architecture: iphoneos-arm64
-Version: 1.0K
-Section: Tweaks
-Maintainer: yan
-Installed-Size: 1488
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
-Filename: ./debs/com.yan.anitime_1.0K_iphoneos-arm64.deb
-Size: 596948
-MD5sum: 475f44a5a7630674f23a0aa78fb24397
-SHA1: 2e1aae76e0d6b41d13e0e6653f99c1f8bcb8b37d
-SHA256: 3e88a74fcfed00ceed4d450ab8279667e07a1276a189b3c2ac2436081e2ac1d3
-SHA512: 3ac320d9b0bc8a5ea44611ba34e9beff311a3f4f6e58624ad7a2556451ed474ba6ce1975858d970a3974ca8455af3237996e9d0bb48e337cc50e9459afd435e1
-Description: Các ký tự anime hoạt hình như trên chữ số đồng hồ của bạn.Crack By Repo BVN
-Name: AniTime (Rootless)
-Author: yan
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: combvnrepo.autotouch.ios8
 Architecture: iphoneos-arm64
@@ -25388,31 +25292,6 @@ Description: Support for legacy arm64e ABI in iOS 15.0+
 Author: Evelyn
 Name: Legacy arm64e Support
 
-Package: org.coolstar.llvm-clang64
-Architecture: iphoneos-arm
-Version: 5.0.1-2
-Priority: optional
-Section: Development
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 541112
-Depends: firmware (>= 9.0), cy+cpu.arm64
-Breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
-Replaces: org.coolstar.llvm-clang (<< 3.7.1-1)
-Filename: ./debs/org.coolstar.llvm-clang64_5.0.1-2_iphoneos-arm.deb
-Size: 49451386
-MD5sum: aa8ad0acd7be97390918e7d495facc91
-SHA1: a54e9ec75a06ba23424b64e6f9a36f1a6d5fa0f3
-SHA256: 3f8ca53ff4cc6ddf7a621d67780dd4b348c1d4eee6455a729b1ac52524716689
-SHA512: dcc0bf0053ee172d18d1e13748ba8f9879d52841d56121d67642261263b78285fe42389c59597a7d9d8fcffee5e2362062837358eec159e964fcff8670496c67
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-Description: LLVM, Clang, and LLD 5.0.1 for iOS/arm64
-Tag: purpose::console, cydia::obsolete
-Name: LLVM+Clang (64 Bit)
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CoolStar <coolstarorganization@gmail.com>
-dev: coolstar
-
 Package:  org.hahalosah.nofreeapplimit
 Architecture: iphoneos-arm
 Version: 0.1R
@@ -25470,24 +25349,6 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: eevee
 
 Package: org.swift.protobuf.swiftprotobuf
-Architecture: iphoneos-arm64
-Version: 1.26.0
-Section: System
-Maintainer: BVN Repo
-Installed-Size: 9564
-Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
-Size: 2867356
-MD5sum: b3a5d277f896c8026eb9bc5e01896e2d
-SHA1: 0d681d123c1fbe48aec3afa3d1565a649736427d
-SHA256: 37e4add77581aa15d4cefa3f90d3d0ff23daa75cbba86fef364ec6325c8e4637
-SHA512: b7a9b81d6fe4229c2e4e69cad68a91dc04f40e8b07c6dfd6022dcead57af39113bbb5e602efbcac3a5a135ab69ee7735f38dfa38eba0e7ecce22fe81bb5d3f35
-Description: Plugin and runtime library for using protobuf with Swift
-Tag: role::developer
-Name: SwiftProtobuf
-Author: eevee
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
-
-Package: org.swift.protobuf.swiftprotobuf
 Architecture: iphoneos-arm
 Version: 1.28.1
 Section: System
@@ -25522,24 +25383,6 @@ Tag: role::developer
 Name: SwiftProtobuf
 Author: eevee
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
-
-Package: org.swift.protobuf.swiftprotobuf
-Architecture: iphoneos-arm
-Version: 1.28.2
-Section: System
-Maintainer: eevee
-Installed-Size: 10056
-Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.2_iphoneos-arm.deb
-Size: 3018208
-MD5sum: 5831ea4b6e0df073906a342f3ac16e8d
-SHA1: fb0e27b21da1591758f8be5bf1db950e09a608aa
-SHA256: 54e2616d202e10ce08043caf00848748f1153ac9837b1cae968a75139f13e7fc
-SHA512: 671c59e91e6ba8abf75a13d6947af079d4e046729521411c4de073f1d478dbd7b909df183158719216e557ac3b55fef86abe19db975c3209b99e0596a340e6fa
-Description: Plugin and runtime library for using protobuf with Swift
-Tag: role::developer
-Name: SwiftProtobuf
-Author: eevee
-Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: org.swift.protobuf.swiftprotobuf
 Architecture: iphoneos-arm64
@@ -25684,46 +25527,6 @@ Tag: role::developer
 Name: libkdev
 Author: iKarwan <ikg_hd@bk.ru>
 
-Package: ru.rejail.adblockplus
-Architecture: iphoneos-arm
-Version: 2.4R
-Priority: optional
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 308
-Filename: ./debs/ru.rejail.adblockplus_2.4R_iphoneos-arm.deb
-Size: 76326
-MD5sum: a0820d699c8108b0d9a1d7a472037376
-SHA1: 2e2237fd4c17c2294462fe048fe202f5d5b23d39
-SHA256: 368dfadad86015d78eb89d50a1540ff3150d3236a8bc3ab3d8389ed937b6b52c
-SHA512: 72833a274bc85f6433f692d7292a6604a3d45a8f346b6a131b6f1e6a096e40d660a907514dfc9d0ba7be32878e9941e4ae698d96112e11b85f9a1af165c320fb
-Description: Chặn quảng cáo cho các chỉnh sửa ++
-Name: AdBlock +++
-Author: ReJail
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
-
-Package: ru.rejail.adblockplus
-Architecture: iphoneos-arm
-Version: 2.6R
-Priority: optional
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 308
-Filename: ./debs/ru.rejail.adblockplus_2.6R_iphoneos-arm.deb
-Size: 78818
-MD5sum: c69a41ee079b42c773c46f17b689fe52
-SHA1: c587b29e9123500b1ee6e69f74d4becce35a1266
-SHA256: a0dff312b7b733366266f4cf089ff6a77e7de1c476652ca57092034a0b7d025f
-SHA512: dc4de62637902df5a58e0c411bad7c768bdffcc736ce4057751011c384aff69e5a22c5574246637c0976ad388dda41ad36b7d0aabbb50cefbc188551a1bf368c
-Description: Chặn quảng cáo cho các chỉnh sửa ++
-Name: AdBlock +++
-Author: ReJail
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
-
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2-2
@@ -25783,35 +25586,6 @@ Name: SmartBattery 2 VH
 Author: elias
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SmartBattery/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SmartBattery/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: ru.rj.youtubelite
-Architecture: iphoneos-arm
-Version: 0.9.5
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 564
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rj.youtubelite_0.9.5_iphoneos-arm.deb
-Size: 89556
-MD5sum: 66b017fd1f38603df90a28861ddb9698
-SHA1: c35f04c0189f8b935d50628f4a34db24cc349788
-SHA256: f295b4d59837a7ca3da8c3b6a8301c2f07c0551dc5613e67cb69259fb745671e
-SHA512: 476bffa862f4958979cf9fd7f6d5efe7693d218452268c4ccbb5fa0a61632762069d0799e87b3b3a0733187496c382dce4cd55c2138bcff1c1c2fe3beaad201a
-Description: 
- - Tính năng:
- * Chặn quảng cáo 
- * Phát lại nền 
- * Ẩn nút truyền 
- * Ấn nút tải xuống 
- * Tắt cửa sổ bật lên 
- * Thay đối kiếu MiniPlayer 
- * Tắt nhấn đúp 
- * Mở rộng Menu chia sẻ 
- * Tắt tự động phát 
- * Chế độ Ipad + Hỗ trợ youtube phiên bản mới nhất!
-Name: YouTubeLite Việt Hoá
-Author: Networke <re.errornetwork@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: se.geometric.graphite
@@ -26154,25 +25928,6 @@ Author: Boo
 
 Package: vn.bvn.siriplus
 Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Bvn Repo
-Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, firmware (>= 14.0)
-Filename: ./debs/vn.bvn.siriplus_1.0_iphoneos-arm64.deb
-Size: 258456
-MD5sum: 9b04812d1993dab2177daacf25c0b2ce
-SHA1: 5d249ecebb43547e95b2d8cb34fa4e472913332d
-SHA256: 8e02bbeff48aceebf03f067d392e36069c86ec5c7cd62fd294253cce754e1551
-SHA512: 5cf6700d86a016897420fc435e78ba187372342860594c769a5330eae95d43aabff570083b2eae35a1676478a31c189c13512a0bcc8ba7fee8d2041fe940eb21
-Description: Thay thế Siri bằng ChatGPT/Gemini
-Depiction: http://bvnsupport.github.io/infodeb/Html/siriplus.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/siriplus.json
-Name: SiriPlus (Rootless)
-Author: Uckermark
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: vn.bvn.siriplus
-Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Maintainer: Bvn Repo
@@ -26371,29 +26126,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: vn.repobvm.youtubereborn
-Architecture: iphoneos-arm64
-Version: 4.2.6
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 24892
-Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, com.repobvn.ytx, com.repobvn.uyou
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs/vn.repobvm.youtubereborn_4.2.6_iphoneos-arm64.deb
-Size: 12055814
-MD5sum: 1ce18fd999088ab7b120a0525690e886
-SHA1: d6843a1166ee5c40b8627edc95026f1eae9c220c
-SHA256: 879154bf0ef619bddd4edbdf1e2b9fab142ac820cd39a7edae01ac22c65dee63
-SHA512: 5eb01a29ccfedbe633b7c1e30ff01340f1d96623ad3c9061718a21e75cf0a1bb177b7c58dfb24b6a6150f4a1eb589cbe0c022bcc9efa24a3180da4130ba39f01
-Description: YouTube Customizer
-Name: YouTube Reborn (Rootless)
-Author: Lillie
-Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: vn.repobvn.floatingdockxvi
 Architecture: iphoneos-arm64
 Version: 1.9
@@ -26413,29 +26145,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/FloatingDockXVI.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/FloatingDockXVI.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ethan Whited
-
-Package: ws.REPOCYDIABVN.newterm3
-Architecture: iphoneos-arm
-Version: 3.0~beta1
-Section: Tweaks
-Maintainer: REPO CYDIA BVN
-Installed-Size: 14891
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Conflicts: ws.hbang.newterm, ws.hbang.newterm2
-Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: ./debs/ws.REPOCYDIABVN.newterm3_3.0~beta1_iphoneos-arm.deb
-Size: 6354766
-MD5sum: d5713dca72812f3c18a690f95c663e58
-SHA1: 5c3a0993ddb75e34f7aabf43d9d452f175f54735
-SHA256: fc2a52b5da54d0b17b9fbbdaf696a2973a621647fab882a655fcfe402c1a279f
-SHA512: 036f19202ab52bc8cbd8bc288fc4cbb486e77da7a046bb8b7e09f169b258f919d2d86112408cb1897ae74ff61af53c5adfce1b410c34f4d1c6e4cb6f0cb03bd4
-Description: Powerful terminal app for iOS
-Tag: compatible_min::ios14.0
-Author: HASHBANG Productions <support@hbang.ws>
-Name: NewTerm 3(iOS 14-16)
-Support: https://hashbang.productions/support/
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: https://chariz.com/get/newterm-beta
 
 Package: ws.hbang.alderis
 Architecture: iphoneos-arm
@@ -26482,42 +26191,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: https://chariz.com/get/cephei
 Support: https://hashbang.productions/support/
 dev: hbang
-
-Package: ws.hbang.common
-Architecture: iphoneos-arm64
-Version: 2.0K
-Section: Development
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 3132
-Depends: firmware (>= 15.0)
-Filename: ./debs/ws.hbang.common_2.0K_iphoneos-arm64.deb
-Size: 353968
-MD5sum: 075e9b5a7168d0877700458d73273a18
-SHA1: 4b900979b3031b779f55d65ad727ec2513807e2d
-SHA256: 93a3df96e6e4561e81a99142b32178e828b0e3d07d76c7c3522142b3495eec61
-SHA512: 455edcda8fad9bb003f31076625324384c664cf5908ea50d288197eceb83a78c643d281f635357debf18e1e7450c53785866269848d01fe3d2315136351fdf88
-Description: Support library for tweaks
-Tag: role::developer, compatible_min::ios15.0
-Name: Cephei Tweak Support (Rootless)
-Author: HASHBANG Productions <support@hbang.ws>
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Support: https://hashbang.productions/support/
-
-Package: xyz.coolstar.wzrypj
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/xyz.coolstar.wzrypj_1.0.1_iphoneos-arm.deb
-Size: 932108
-MD5sum: 8cdb32858ed0951d8d249a0b9a8fcc0c
-SHA1: 8a9407676cfa001b06d24222c2c8914068768667
-SHA256: 65a897b2673baef5a217f3c4e6b15d599b2d9ac46ddfaf90a9284822d528e93a
-SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e213f70d763964ea3b80f43e5164a5544c6bfdee98954fefdf1cc2aeb7d
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: Hack Cam Xa Liên Quân
-Author: 1
 
 Package: xyz.cypwn.cephei-compat
 Architecture: iphoneos-arm64
