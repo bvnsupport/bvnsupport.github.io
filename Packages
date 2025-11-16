@@ -15586,6 +15586,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPasteAlerts16.jso
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.nopreferencetips
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.bvn.nopreferencetips_1.0.4_iphoneos-arm.deb
+Size: 8042
+MD5sum: d3fbefcd6921e4351f76953146e4b970
+SHA1: 3a46784e64ea3c1a0297603c27277c11674fa21a
+SHA256: 26333da92c368f6aec067b2f7a8bcbca1086efc30bce26da596f51baa713173c
+SHA512: f8f94b59bf9706355317d55dc87c1b4fda49f0167af41fd981add8e90ea0dd6a931c348eb4e4ad6ee975b6511779f011744ce0615fe9e85884d6d8df1ed0df9a
+Description: Loại bỏ thông báo khi thay pin không chính hãng,hiển thị lại % Pin
+Depiction: http://bvnsupport.github.io/infodeb/Html/NoPreferencesTips.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPreferencesTips.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: NoPreferencesTips
+Author: 苏苏
+
+Package: com.bvn.nopreferencetips
 Architecture: iphoneos-arm64
 Version: 1.0.4
 Section: Tweaks
@@ -15626,6 +15646,26 @@ Name: NotificationsGroupCount VH(Rootless)
 Author: 0xkuj
 
 Package: com.bvn.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.notificationsgroupcount_1.0.5_iphoneos-arm64.deb
+Size: 106302
+MD5sum: 9fff875cdb881af1501256cc5a268c26
+SHA1: 12fc97576f9db4a1ad61f47afb653190a7470ec3
+SHA256: 373f8fcc0ddcdd436bb01bacdaf0545c096de7633e1d9f909ac9a978a854069b
+SHA512: d462af18b8453ff15f940cc7aba030dcda49ada36b842cb5ed6b8f4127a27909a20e5040b6dc97f9217bee2c086145250377e8b32aa57d11655a37cdcb27b410
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.notificationsgroupcount
 Architecture: iphoneos-arm
 Version: 1.0.6
 Section: Tweaks
@@ -15644,6 +15684,26 @@ Author: 0xkuj
 Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
+Size: 96854
+MD5sum: 7ee249794b68bfd650692e193eb2893d
+SHA1: 98c1d25529a9e1ce1175fd00bb2da0ffe515c215
+SHA256: 70ae92fbff01002d1f12a94c90794f260633b7e2fc51e479f4fad6bf65245fef
+SHA512: dff7041aee05cb9da510c15e7bbf6b97be9257374087d1295ff77c6fed213ec62384a15ec780541acf9608d5fff48e6f3834c03f927ec6ea8db16e9f82c49ab8
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount VH
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.notrecording
 Architecture: iphoneos-arm
@@ -15685,6 +15745,42 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/NotRecording.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334
 
+Package: com.bvn.ntspeed
+Architecture: iphoneos-arm64
+Version: 0.2~beta9
+Section: Tweaks
+Maintainer: Repo Bvn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.ntspeed.deb
+Size: 93356
+MD5sum: a8a51358dc69aaad8586073bbe532971
+SHA1: 2e6320fde37721d356d566b4cbc755fc703bbcb5
+SHA256: 3c46003834866d36d1ae26eca83fb2bcdb4c07dd89ef4ecd9e1bf1edada31f47
+SHA512: e57bcae2e3d4f050f4863d2b435014b66a867e4e27984133167ca91a520091c7a991a79ac29c40032afbc4fdea93579157ddce8058fd1a5007776e3d7ed9472d
+Description: Hiển thị tốc độ mạng ở thanh trạng thái.Hỗ trợ ios 15." tới ios 16.7
+Name: NtSpeed (Rootless)
+Author: Julioverne
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ocd
+Architecture: iphoneos-arm64
+Version: 5.4.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Filename: ./debs/com.bvn.ocd_5.4.1.1_iphoneos-arm64.deb
+Size: 467774
+MD5sum: c84ffbeb34f7837813897fa7d52e7214
+SHA1: 358953156a11494565269b4fccf76538d0057a73
+SHA256: 522f8fe51214e4f0ae35976228a35006325f04d1082ad7deaa6bc17f7ed4c385
+SHA512: 08efd6052beab12219ae376f7f2bad439300e547363ba7c92eb680cf5810ad06a1eb7808aab39f35c0a110af6c186c5f547150cf15db26bd9f84596bc5ed156a
+Description: OCD will let the option to color icon lables & badges background based on app color!
+Name: OCD VH(Rootless)
+Author: b4db1r3
+Depiction: http://bvnsupport.github.io/infodeb/Html/OCD.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OCD.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.oledkeyboard
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -15704,6 +15800,83 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/OledKeyboard.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OledKeyboard.json
 Author: dvntm
+
+Package: com.bvn.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.oledkeyboard_0.0.1_iphoneos-arm64.deb
+Size: 6428
+MD5sum: 569f50aa1ce9788020f0f757c12dce90
+SHA1: 7364711dc92453ef6b95c0839c0b886582a0d23c
+SHA256: d5d6d71100ec9bc5746a9399a7b848cf7f2d68d7123c644bcaa249ddcf50b81f
+SHA512: 50fcefab84817aa86600f98c5dc1ad8e098985a9be5617c66b0e461d0d8d9b41f4d10a0b0b847c9ced6b581f7c048c512f00390b428f6ff1043f2c7e09597a89
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/OledKeyboard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OledKeyboard.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: dvntm
+
+Package: com.bvn.onessetingsvh
+Architecture: iphoneos-arm64
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.onessetingsvh_1.0.1-1_iphoneos-arm64.deb
+Size: 6412
+MD5sum: 6308d9a5545ea441f077f98e299a0311
+SHA1: ec703cc3c007c0be075d289d9d8798544ce11331
+SHA256: 8ebe619bf54f9dd429affede66686e4076d37a06da6b3a98585b0209eab9b86a
+SHA512: 54b328a61d9061608af384fcf52cd265d090d15071b4fc2632f662eb4a6f93987139a839f440a1ad8efcefed7ecd4b2ea0d7f6398fe94078867364ec5b8adebd
+Description: Gói Tiếng Việt cho Tweaks OneSettings
+Name: OneSettings (Gói TV)
+Author: BVN
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.onessetingsvh
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.onessetingsvh_1.0.2_iphoneos-arm64.deb
+Size: 6718
+MD5sum: 632413e70ab6b74c79fd923f27d2a609
+SHA1: fc67c2295b8b6222baed2d68456459c17f9e9107
+SHA256: e5d6465fdb7296c874d95480dff7926e556e4cce94ee20d9fb5ca26b33d361a4
+SHA512: 1ea6a38c83b210e942fb86f9655eafdf6e27f000edc9e8d3c144365132eed5e661a9fcdd30134109379b3b528e8d544c6f5cbbe3096f11e0520ab39ed6877ccd
+Description: Gói Tiếng Việt cho Tweaks OneSettings
+Name: OneSettings (Gói TV)
+Author: BVN
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.passtext
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hitori.passtext
+Filename: ./debs/com.bvn.passtext_1.0.1_iphoneos-arm.deb
+Size: 144044
+MD5sum: c1dba3a97af55aeaa14e347a48ae49fb
+SHA1: 4b6714ee0d46e194506cf819f0a7f9a22d5ca76d
+SHA256: 8e457b760699d40f84b43f70a9c59efc71867a3d3129375f37b6de3bf26c2880
+SHA512: 90f24bbcc29862fe3388d84fbbe7ca51f29947530f71fa21051a0a1e2f5b78080cf5745ee40352b254863559c7148c8f1ee6c9565ede9bc652a218b95508aa15
+Description: Biến số mật mã của bạn thành từ có phong cách
+Author: Hitori <mikasa-san@outlook.jp>
+Name: PassText VH
+Depiction: http://bvnsupport.github.io/infodeb/Html/PassText.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PassText.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.passtext
 Architecture: iphoneos-arm64
@@ -15786,6 +15959,83 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PhotoPurge.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: BVN
 
+Package: com.bvn.pikachu
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 212
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bvn.pikachu_1.0.0_iphoneos-arm64.deb
+Size: 89204
+MD5sum: 93fe6eaec5b48bbab288242a1b3900b5
+SHA1: be5dfda43ac9ad8f9bab396dd355105ab026d2d6
+SHA256: 1d604f6ff4b20c09ca206d0b1d4e359e14c5574ca40c052759dc41c077f07fa1
+SHA512: 05d90ec735bce35823804829727d2defb83f4b8bf2136a701a1e91244161287544625b1dc1b2fb45c9e1bb82bfd738f797dc2987ee9936202675e5517e157164
+Description: SwitchTheme
+Name: Pikachu SwitchTheme
+Author: Wxfx8
+Depiction: http://bvnsupport.github.io/infodeb/Html/Pikachu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Pikachu.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BvN
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.2_iphoneos-arm.deb
+Size: 2040138
+MD5sum: 872b5dfecfae5e108eb72f67274ed089
+SHA1: 049df63997e1fc5959ed2e9c4421e58e1fe272c3
+SHA256: 3aa13ac12247c6d547319d65b518ef66be51804cd7e4c801fd888794e4edc1c9
+SHA512: 347ee18c915a624392189ce45e8701dd25caf0d89cf1f4739ea51bf8cbc8c2d5e283f48df369d46ddb2f06515220ac2e6c0954263a1d721993dc6378d54e0edb
+Description: Tùy chỉnh CC trên iOS15 & 16 với các biểu tượng hoạt hình .caml và hơn thế nữa
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Name: PlampyCC
+Author: sugiuta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.2_iphoneos-arm64.deb
+Size: 2040382
+MD5sum: 16151ede4cff7062b71880bde2217a7d
+SHA1: 30fba3577dae713deea87f1b306f22007c1eb85c
+SHA256: 5bea4f5677e22f340a949c49706e59fcac767cf69ff3ea1302b90e4960f2cffb
+SHA512: 25e6fedfcab2c19c540ae42c273448182ccd77c519fd941246f489110a32caa7d0d9283776097d19380e14ba66856e7ccf976d5f378f76189d384cea6575221b
+Description: Tùy chỉnh CC trên iOS15 & 16 với các biểu tượng hoạt hình .caml và hơn thế nữa
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Name: PlampyCC VH(Rootless)
+Author: sugiuta
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.plampyuipro
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampyuipro_1.0_iphoneos-arm64.deb
+Size: 1097920
+MD5sum: a998ffa64616b03d9ad669af0ee5fb8a
+SHA1: 3629c8105f08c7c3a623e05241a826dee54ffbe1
+SHA256: d87cee22393f89620bac9b5c9adc5789a62da595652228a83fdae0b52907ca47
+SHA512: 478c5c8a87a45fe6aaaa50f9cd272e981e688b5fbf7331f7d9c1f10d29e37e6763eef2ec1cf78860afb254ef4f6c68bf5d102efb71b49ae25f927eece40abd87
+Description: Một công cụ làm đẹp trung tâm điều khiển cho iOS 15/16. Thay đổi các biểu tượng/hiệu ứng của các mô -đun gốc, sửa đổi hình nền nền, v.v.
+Name: PlampyUIPro VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PlampyUIPro.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyUIPro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Phuc Do
+
 Package: com.bvn.pogr
 Architecture: iphoneos-arm
 Version: 0.4.0~prerelease1
@@ -15805,6 +16055,46 @@ Author: Ruphane
 Depiction: http://bvnsupport.github.io/infodeb/Html/PodsGrant.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PodsGrant.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.pogr
+Architecture: iphoneos-arm64
+Version: 0.4.0~prerelease3
+Section: Tweaks
+Maintainer: Bvn repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.pogr_0.4.0~prerelease3_iphoneos-arm64.deb
+Size: 99694
+MD5sum: f231ebff0bc8d90c505233bfaec0c47a
+SHA1: 9837a92ca1d8c9d402894be5e92d858f535cacf9
+SHA256: bd2047da296c72caaa1ca1daa3d117a00b5848e70edf289443944f726c4bde1e
+SHA512: bb0e38b14f7beabeca32beedbc1e1d47297c0a205767726ee136aceac6f3b7bd9a75fde1af0a0968c713975a6a3357100221ca62c0b221938552239189385daf
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant (Rootless)
+Author: Ruphane
+Depiction: http://bvnsupport.github.io/infodeb/Html/PodsGrant.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PodsGrant.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.popoutbuttons
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 473
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.bvn.popoutbuttons_1.0.1_iphoneos-arm.deb
+Size: 87422
+MD5sum: 5133b528a9f652af0c797ab391851811
+SHA1: 05b86c43d739dc4e028ddbd29a82a90d0681a56c
+SHA256: 3b46994abe455844f8887b0ae99002f161733c6db1609aa35be2f0e8f0f6f5ff
+SHA512: 6608fa7fb568e1b18b6f7aaf9e5016595a8c260df153f45be1d83034051dfba0123618f51a558fc03d665a4520ffd560c791632bc9b7840180dc4dd8b1b7e071
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: PopOutButtons VH
 
 Package: com.bvn.popoutbuttons
 Architecture: iphoneos-arm64
@@ -15845,6 +16135,1101 @@ Name: PortraitXI VH
 Depiction: http://bvnsupport.github.io/infodeb/Html/PortraitXI.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
 Author: FoxfortMobile
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.portraitxi
+Architecture: iphoneos-arm64
+Version: 4.3.3
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 14004
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.8)
+Filename: ./debs/com.bvn.portraitxi_4.3.3_iphoneos-arm64.deb
+Size: 12585582
+MD5sum: e5b76b0553d970f8105e946046adda18
+SHA1: ff503e74c9f8692b47e2109c2a10e87d4308c1d2
+SHA256: 5e970d438807b9b40bd1650975f95a920845c5640f2a4c5979497860190b6299
+SHA512: f57263f458f25c1e715a66bfabf7fe0f687162a73d5dbcb8e8a8cfd99c7a4bb4f4bd783465e9da73aa5ddc205bc24d368d43aea0e66444c8f1820a61afcb2b84
+Description: Bật chế độ chân dung cho iPhone chỉ có 1 Camera
+Name: PortraitXI VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PortraitXI.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PortraitXI.json
+Author: FoxfortMobile
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.prokeys
+Architecture: iphoneos-arm64
+Version: 1.1.2k
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, firmware (>= 15.0)
+Filename: ./debs/com.bvn.prokeys_1.1.2k_iphoneos-arm64.deb
+Size: 134120
+MD5sum: dd01c78c21bbdb8b079459defa912d6d
+SHA1: 9389f2678f355a6bd1b3ef56128e0941acb152f0
+SHA256: bf4a65536ae9cd2749322cd0a100f43698f3c5f5c02229f2ce506732c15c2593
+SHA512: 434854f85598ca91d6179752f1b128eb7a9b02c76b395d07ed3da5bd0de18381a5f42b0ea24063fc27d99b8071b643588b5b2603e4cc388479edbf81db353bfc
+Description: A Tactile RGB Keyboard for your iPhone
+Depiction: http://bvnsupport.github.io/infodeb/Html/ProKeys.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ProKeys.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: ProKeys VH(Rootless)
+Author: Justin Proulx
+
+Package: com.bvn.psexpress
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Apps Crack
+Maintainer: Bvn Repo
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.psexpress_1.0_iphoneos-arm.deb
+Size: 38048
+MD5sum: fa9836247496841b951a1686a991821a
+SHA1: cb5775a51e6a195f4a8626210cf275317401bcf5
+SHA256: 061d4808a5cf4b62eeae58856da7df23674d0eae91651c573735a190270b8fd1
+SHA512: 6f6c0090169efec2f762df64d6ef6f067e2b682157d4cbb2286d43aa9c491c6f39b322e7b4f56a6b96d5f2e882c631143385f177e1c9b150751dae73ca4164c3
+Description: Cracked By Blatant
+Name: PS Express Premium
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Express.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Express.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bvn.psexpress
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.psexpress_1.0_iphoneos-arm64.deb
+Size: 38158
+MD5sum: d4ce045552b9ff83a33846fbdab8c689
+SHA1: 7e98bd95ad4c8fa6645d1ef17fbf296033ab66ea
+SHA256: de89830aa5cd5a93196e7499c7b7372acfc04a760a8de485acd90068895c9bac
+SHA512: c5e9addc7fbe0d2bb84e553cfe3f353a385f9298b1828e44c4752a06833d369b7e3d30c9c8d4041882f05ccb9986b5dda8ccd5a8a3d36b2252d2d93f0c8c2f30
+Description: Cracked By Blatant
+Name: PS Express Premium
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Express.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Express.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.quarkvpn
+Architecture: iphoneos-arm64
+Version: 0.0.1-1+debug
+Section: Apps Crack
+Maintainer: iPlus
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.quarkvpn_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 7158
+MD5sum: 80b4810bf8b912483952b6856f7cbcb8
+SHA1: ffd6038280b7b5606c09b5deba36869cfe0ece15
+SHA256: da4c04c6b4f99b5e3c782f5729cae33231a005a822d76ac5603f6d7ef6f92de6
+SHA512: 0925d30211a1718821e273ca0c78728054c4964a7a862aa4a536a58e462420ff29d7d0b831b161daf3957a31582fecceeb643863675342851027b9dd7aa559e4
+Description: Mở khoá tính năng cho ứng dụng Quark VPN
+Name: Quark VPN Vip
+Author: iPlus
+Depiction: http://bvnsupport.github.io/infodeb/Html/Quark.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quark.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.randomiconsflip
+Architecture: iphoneos-arm64
+Version: 0.3-20
+Section: Tweaks
+Maintainer:  BVN Repo
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debs/com.bvn.randomiconsflip_0.3-20_iphoneos-arm64.deb
+Size: 19142
+MD5sum: dcfdc71758d8e8181fa0676cb1daa34b
+SHA1: 3341424ccb1da72dc31464d3364488e376bf6b1d
+SHA256: 189819987dc577dd3d5a95e3034217ae3584917eb96c2f3bb18e3a95eb747d78
+SHA512: bcb4ba22a8e5a48c2224cc2607df235da78b0d703f6be2b7282c7001c06a2357a8268222f6feed1a9fbee5f1f395be2a88cf968115a2766fa371b6c8a17ae01d
+Description: Ngẫu nhiên lật các biểu tượng trên màn hình chính
+Name: Random Icon Flip (Rootless)
+Author: Elias Limneos
+Depiction: http://bvnsupport.github.io/infodeb/Html/Random.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Random.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.recordpause
+Architecture: iphoneos-arm
+Version: 2.0.7
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 216
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.7_iphoneos-arm.deb
+Size: 34140
+MD5sum: b7e7c7ebbaba1092a6437a3cdcecf0d5
+SHA1: c3dca111877180718dcf10b8ffeb2fe7c1d42304
+SHA256: ab46879e44a81de0b3177f22367ad57731fdb012832f26b17ea573b076eec087
+SHA512: b04d0c1ce1f328cf4c7d3bd135623ab89ee06b9b41cc3a62705826d3670ac80516b6f64589638d89c8ccb1369148914ddc82ba33f4fad141dde522011c997a83
+Description: Tạm dừng/tiếp tục ghi video trong ứng dụng camera iOS.
+Name: RecordPause VH
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
+
+Package: com.bvn.recordpause
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 216
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.7_iphoneos-arm64.deb
+Size: 19818
+MD5sum: 3c430b022c523d60ecac85a55cc7d16c
+SHA1: 86c46b51cb1a119a41552d440725e52cd749b4a6
+SHA256: 98bf48ca4ec815dff1df498d271b068e301f9210ee05ef3aa3f6b300d4d84f24
+SHA512: 75599968e6e334df47c5671f658ef6c203afb15d5662432a11d4ac20c4d1b7290eb89e30bdcaa6003dfe03577ed2e57f2032ea8ecd1f981822181eaab21889e1
+Description: Tạm dừng/tiếp tục ghi video trong ứng dụng camera iOS.
+Name: RecordPause (Rootless)
+Author: PoomSmart
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
+
+Package: com.bvn.redblue
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.redblue_1.0.0_iphoneos-arm.deb
+Size: 18267968
+MD5sum: 8c69c05bbe8ad78ea8a5c9b39761ae25
+SHA1: 50e13954ebefde705993b6e42f2c42a4e7a23af5
+SHA256: 7db0f55d78631f774cdcc7003a5d1b2a36a01026b31602e699e96f0bfe7c4df5
+SHA512: 01f051db48f83088bc3a389f1a00a407e5a1f2bbe28fe32372547ef493f8926882db4f92996815cddae322e168527164eb5b081bacdc01106e99a06425fd1332
+Description: Gói Theme cho Snowboard
+Name: Red Blue
+Author: Đức Anh
+Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.redblue
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Theme Rootless
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.redblue_1.0.0_iphoneos-arm64.deb
+Size: 18270466
+MD5sum: 03b26be2b7217e417f05d01145b7abff
+SHA1: 75a0eff89811e8863cf75c5a0aaabe574c37fe79
+SHA256: 9337deb1b71c2bcb06d4e7bac11e696c87ebd3d75b2e79859c50121654694618
+SHA512: 4c578254212c126bbaeb5157be6aed1645270131c69d26212039234a69b4f618c41db7d650e770a74dd8479713f78146f9a1a0fc9c36db4859aa58aab682138d
+Description: Gói Theme cho Snowboard
+Name: Red Blue(Rootless)
+Author: Đức Anh
+Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.redblue
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Theme Rootless
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.redblue_1.0.1_iphoneos-arm64.deb
+Size: 18297914
+MD5sum: 38ae46c04b49fa148c2903312e012113
+SHA1: 3792cb949431ddea22c0edb5d21a827f6ccc16df
+SHA256: a8092cfc920f23227b6b9f51fd977f3b0f406ee2e7e07883a88ecf3fd5fd777b
+SHA512: 9b415970a5eb62156a8153f0592a7a4ae2e221092d480644ed3552578449ca615fc27929e018a19a4e5fdba71cb329a87444e44c89929a4a4ff4a6a4c1eab748
+Description: Gói Theme cho Snowboard
+Name: Red Blue(Rootless)
+Author: Đức Anh
+Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.removewidgetbg
+Architecture: iphoneos-arm64
+Version: 1.7K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 384
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.removewidgetbg_1.7K_iphoneos-arm64.deb
+Size: 44844
+MD5sum: 2f456b444b77b3aacebf62ccba5dc247
+SHA1: 18d6a2235c6dfc44b575f2d43364d58565e168de
+SHA256: 6c7ca8c81c06da193511e847abd291cd52089435c5e3f6cb755d66bb39e0e96c
+SHA512: 78a9395285034a057cdb752adfe98a102e52052253fd9f753f18a50bde15fb535faca97390d81a56fa0e08bb6f4b5b3b084d2323e0fa342ac8ff75297cdc3f9c
+Description: Xóa nền của các widget trên màn hình chính.
+Name: Remove Widget Background (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Remove.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remove.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Lessica <82flex@gmail.com>
+
+Package: com.bvn.reo
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1040
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 13.0)
+Filename: ./debs/com.bvn.reo_1.3.0_iphoneos-arm.deb
+Size: 546254
+MD5sum: 960c43c2683d6c58b5cc2fe7281c5816
+SHA1: 13ee31df9d071ffedb1920681d1c8d372956fb1f
+SHA256: e23dc5852101b82ac108bd98fe2d52354afbb83b5fa2b7c71a7449931917f3b4
+SHA512: 7e043ee3fda0e947b67c1a45eb966e65101c970bcb0ba62367303a86cc397c3fb76dc4867e70e40915c0ab880b400f1457578ec95ffc5f279b1e174b2a5839f5
+Description: Classic Music player for LS
+Name: Reo VH
+Author: Mystery
+Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.reo
+Architecture: iphoneos-arm64
+Version: 2.6.0
+Section: Tweaks
+Maintainer: Mystery
+Installed-Size: 900
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 14.0)
+Filename: ./debs/com.bvn.reo_2.6.0_iphoneos-arm64.deb
+Size: 356258
+MD5sum: aaf34ae9cacd8b95d722c87e6acfa56d
+SHA1: fb56315784be1525f9b95b967aa1b0004d878229
+SHA256: feedc23d3b6d821ef082ba1a9f3d11829e068489ec08b2e82b046a1bf500da18
+SHA512: 5f7f94344c46545a02098dbc98accf5d3e465c5a27a3fef253a8b04ee8e892bf0543238a3f1e4ba548f79bcea1563f73da5ac566b32c5fad7ed7ecb942440dd4
+Description: Classic Music player for LS
+Name: Reo VH(Rootless)
+Author: Mystery
+Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.replaced
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: ./debs/com.bvn.replaced_1.0_iphoneos-arm.deb
+Size: 4602
+MD5sum: 46ce1a889154748a309f52d8dc51ee8b
+SHA1: a60cb1ac89e3b5da63ff2d7bddda10cfa04dfe7a
+SHA256: 0f4d6f3ae9edfe6427af2f5b671f9dac5321fa04b9016758c40b0a50f7442b2b
+SHA512: c6e6e97fe182a0f009a862c6f26fd6c2c26a637e1d205ff8f79d87a4d84cec14802d353875524d0e931fa19e727959a56c466c3763822e8c9f20a79d30629cb1
+Description: Xoá thông báo linh kiện không xác định và linh kiện chính hãng trong mục giới thiệu của iPhone.
+Name: replaced
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.replaced
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: ./debs/com.bvn.replaced_1.0_iphoneos-arm64.deb
+Size: 4652
+MD5sum: 959ad55dca8ed2d2f628b5d358a9413d
+SHA1: 8403cf7b2d3fed852e518c808a551b069c03c24a
+SHA256: 247bb552d8b9f4333fc0898dbf7f672d223bc6d3a0661f37c83a59b503d56c11
+SHA512: 5a47fdbf0ea6b7f34472295ffb0f355dd4c4fe10acab314e85cb19c7612222c01575910e387238eab43c8c668fd3eb0b2916d9378a251105ca177c9451e514dc
+Description: Xoá thông báo linh kiện không xác định và linh kiện chính hãng trong mục giới thiệu của iPhone.
+Name: replaced (Rootless)
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.replyactions
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.bvn.replyactions_2.0.0_iphoneos-arm64.deb
+Size: 262822
+MD5sum: adb3d35957f0d66ae821e177c6f4c0d7
+SHA1: b1781317c79454e055419cf709f4903534a80883
+SHA256: 2b7a20685286184ffcd5f3a55c94dd0700b630ce613fa84a8e0ab158b0670d75
+SHA512: c9789f11624d17feb549b5af4c14b0e53d4cc651a6ddb09e50bc4b504d7b671af61ee9e972001af0645a1c57f2be104762f7badacd4753f333c4d0418421b511
+Description: Gửi tin nhắn một cách dễ dàng
+Name: ReplyActions VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ReplyActions.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ReplyActions.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: sergy
+
+Package: com.bvn.ring
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.bvn.ring_1.0.1_iphoneos-arm64.deb
+Size: 235230
+MD5sum: dd4bef5b4e65afe7687df7f3a1aaccbc
+SHA1: 3d8810d22a73184363d3c4d775754fb30def1a0d
+SHA256: 7743551551ffc3319aab86a5fc866e2705cd3b55df1ebc13ad085e6585cf9e29
+SHA512: 0958165207182b7646328ffb477f2072fb1880e438fd72d812ea16a322023d72ae851965a3832282c886a60fe7c4a7d06abc265833efbf6b35426d708393b5f0
+Description: Dễ dàng quản lý âm lượng chuông của bạn!
+Name: Ring VH(Rootless)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ring.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ring.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.roundfont
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: Hitori
+Depends: firmware (>=16.0)
+Filename: ./debs/com.bvn.roundfont_1.0_iphoneos-arm64.deb
+Size: 11109790
+MD5sum: afedc3bd4f54f31d32732cf916695e5d
+SHA1: 126075ad31f55e2c18b59a9e58bdbf5eead09a49
+SHA256: ede475a7018230c1f5290f2e3ab91730e42109325f9630c1162158e8120f5692
+SHA512: 05476d13875a99c621c4d8a475323f47a03e82f2971276c6c7495900da83a415413ef6d30f1fd73e86eabe53918e97dfa9215c0792b6a822ad30507099e0347e
+Description:
+Name: Apple Round Font iOS 16
+Depiction: http://bvnsupport.github.io/infodeb/Html/Apple.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Apple.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Hitori
+
+Package: com.bvn.roundprefs
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.roundprefs_1.0.9_iphoneos-arm.deb
+Size: 97362
+MD5sum: fcc72d67df252395f6362afd3734f884
+SHA1: 1e127dbfa7f51d5f292a6d539af529d8bae9357e
+SHA256: 2258011ecf227cc8ab6e98b91146af62bcc47b06c6df6004e8a6f6d1083c4e73
+SHA512: 96a1607ec40e6a2575c1fd3939203938e36a728edf0118706b757ee48bfb6a1d64e7ddd78cf9a971e27eac4eb75d6abf9c7b5c002c02d4751255157843cd5cce
+Description: Làm tròn các bảng cài đặt!
+Name: roundPrefs VH
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/roundPrefs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/roundPrefs.json
+
+Package: com.bvn.roundprefs
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.roundprefs_1.0.9_iphoneos-arm64.deb
+Size: 98328
+MD5sum: 028109efa417d5d1efa3e2c8520143cc
+SHA1: c3439c7988846bbebfae7ea58163eff3e5df7ab7
+SHA256: 54375e3ae676a2d55e29aa4578af4611fe8b694334eac4ce1a2ae8d507cdcb17
+SHA512: 5cc2b8c1a616c51f2de53ef05b96632b1d5b9262e7685880f4298ce01d8ffea3205c186192059352aea4cde442ca7abf43459e0cd8280f11895629942523521a
+Description: Làm tròn các bảng cài đặt!
+Name: roundPrefs VH(Rootless)
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/roundPrefs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/roundPrefs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.safariblocker
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safariblocker_1.3.1_iphoneos-arm64.deb
+Size: 69600
+MD5sum: f055ec3b8c24b6a9f486f328acbdf31a
+SHA1: d24514b2e093b4cb62dd07f5162084ff76a54124
+SHA256: 5c7894a2cab99bce66e061310ef212f2675547a69d7c7062e010d79a9496c735
+SHA512: 4e1bdba4cbbfba9a1e9286e1090ba66e733b14b0f9cfd7863ae09c426cd53df816e6a274a16ce860907d7656781c1ceb48c4becc3f1e8db16a175e0693c7bfdb
+Description: Chặn các tab mới bằng các tùy chọn!
+Name: SafariBlocker VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariBlocker.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
+
+Package: com.bvn.safarix.rl
+Architecture: iphoneos-arm64
+Version: 1.9.9.2k
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.rl_1.9.9.2k_iphoneos-arm64.deb
+Size: 318450
+MD5sum: 2ad2123262d45676796fcc0b021b074e
+SHA1: 380183ecc250a0db836bf883f9797455e715ab86
+SHA256: 8177c08816e6af26fa938aeb135602001851d389721245e34b8470baf0b5d519
+SHA512: f773dc8c58353a213e64a42e69ab4c6935207acaa3fb2991858ae52c645358328b28e34dace5cf889cba457c3055c56c7ca4e9c2f024eb27ec526d306995c73a
+Description: Safari Essential Features
+Name: SafariX VH(Rootless)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.senri
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
+Filename: ./debs/com.bvn.senri_1.1_iphoneos-arm.deb
+Size: 509502
+MD5sum: 3b5770924e91fc55c66fb22fdf0239a5
+SHA1: 56b7fca82cf45a63ed91a928634a2a8cb2355e1b
+SHA256: 9a8fb0a3d0c96ddc236d49e17c67739090c4481a98d60425ff33eadb6044a0a8
+SHA512: 7bc53c3140d2d9bc051376ce075ea565442278b196df9d100cb6c0c8515977527bd6f2c64a09131df61adf26a9dc25e556a55c314fc42628ae594ba99500fb10
+Description: Không bao giờ mất Thông báo của bạn nữa.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Senri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
+Author: Antoine
+Name: Senri VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.senri
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 1740
+Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
+Filename: ./debs/com.bvn.senri_1.1_iphoneos-arm64.deb
+Size: 509694
+MD5sum: cbfa1b66a847972227cf86f0e5298e7c
+SHA1: 80082abe5c0916f12f349e26f2b7863afa024bfc
+SHA256: 4378718bbd888218eab41d3a4c2e4c1a19cfdfdd50e3514ce2ad6acd99f82d2f
+SHA512: 91226c19902d4c24b96d5130947bcba462d93031adfd89503d5676d92e6fd9bf8e8eb102b03b74d0b1cc10cb626e61bdad07e67778b32520a980cdb067b0e72a
+Description: Không bao giờ mất Thông báo của bạn nữa.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Senri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
+Author: Antoine <hanzikashi@gmail.com>
+Name: Senri VH(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.settingswidgetsrl
+Architecture: iphoneos-arm64
+Version: 1.2.3-1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.settingswidgetsrl_1.2.3-1_iphoneos-arm64.deb
+Size: 97386
+MD5sum: daf08ef7973a88c748030701e2b68d4c
+SHA1: 96a2d7e7e8b249aaf5b7eab946ca6422ba362ce1
+SHA256: f5984dd324b83676c1b10e8850037d1fbc437a784c081ebd7ee7f1e14029bf72
+SHA512: 30986cf9dbdf40e223cadda97f9841918c749d690180ca57ee96761d8a270d5ab90a7dae20acef6a80411b7f53cff99d2c18aab51738fe9c4ff4ae144bcba94c
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/SettingsWidgets/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsWidgets.json
+Author: shepgoba
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.shortmoji2
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, ws.hbang.common, com.rpetrich.rocketbootstrap, xyz.cypwn.cephei-compat, xyz.cypwn.xinam1ne
+Conflicts: xyz.cypwn.shortmoji, xyz.cypwn.shortmoji2
+Replaces: xyz.cypwn.shortmoji
+Filename: ./debs/com.bvn.shortmoji2_2.0.1_iphoneos-arm64.deb
+Size: 2563344
+MD5sum: 84c5ae76ad26d1898585eeadffaed77b
+SHA1: be98e0ce655ac07c760ff775668f45ffe3e72634
+SHA256: 0269e56fd3a160ebcac99114637194113f8c57680d3f1ebc57ad6f04355fd702
+SHA512: f9786069c989e314fff6082595c74edee8bc7dd15444b0f58be4c08a2fe0496818122c454e33703c764b14988b67b0d78740f733f40afe2cce0448e0498ba8e9
+Description: #1 Keyboard Tweak.
+Depiction: https://bvnsupport.github.io/depictions/Shortmoji.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Shortmoji.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Shortmoji 2 VH(Rootless)
+Author: MiRO
+
+Package: com.bvn.showtouch
+Architecture: iphoneos-arm64
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1432
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 546830
+MD5sum: d071130094fb04b84ce9fd881e8055be
+SHA1: 99c1cceca2e634f678f08e3706bcbe79fcab3d73
+SHA256: 2d2c74c46a8728e2d7e699273b629cfc7be86a0c21620e58a34a046ab20f9bb2
+SHA512: 11ff904af8ddd4c5d9b6d3e955f64938a72a9589e6d4e2dff20ba0b037d56ddda97ad9947eb0c1854e2ab27732dd1d2c8b8caf17294d4903eca08d5c535695c0
+Description: Hiển thị nơi bạn chạm vào màn hình
+ - Shows where you touch the screen
+Name: ShowTouch (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: LonestarX
+
+Package: com.bvn.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.silentnotifs_0.0.2_iphoneos-arm.deb
+Size: 5372
+MD5sum: 40ce46cd2c73121635f3f5118ea81f09
+SHA1: c6cc17c1ca01b7d13f47c75cf2ab03f6e239fd02
+SHA256: fe5f30b9bfc44002d7bc40a52b7b05832a227d2a49fc27fde3925b9ac4c77266
+SHA512: 8c79d2bb4ad82ddeb2200925b079450cb2e610b33654267112e00a6bb03af2e4c9c3d109286f63864ccf9eb68b527260468de590380f8d721f07d26b3ceab504
+Description: Giữ thông báo im lặng trong khi phương tiện đang phát
+Name: SilentNotifs
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 5522
+MD5sum: 0376fb6f7cb3918a397c876088e7149e
+SHA1: 8b1653ebdbdb095e1c2f6cd4bbb5cc5c5c78386c
+SHA256: d8e219e196b152922adff226f9acb1be07165ac54322967cac3fbcd8f548df14
+SHA512: 54f278df66dc337f98ad42be2a2b6bd6904a5c366bb30011fb993f3e87a9dc5ffa0b8f3730dea3b00c86945eed5f1f9b3f889f623b51717b883746a4fac11719
+Description: Giữ thông báo im lặng trong khi phương tiện đang phát
+Name: SilentNotifs (Rootless)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.singlemutes
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: 82Flex
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/com.bvn.singlemutes_1.4_iphoneos-arm64.deb
+Size: 33850
+MD5sum: 2bbd64751d43e4b6e9d862efae80b348
+SHA1: b3921b3fbe01824a07b5f32c7498f4ec7c612f24
+SHA256: 4c43eced4601106a800c6cdc8ed5694f234538238ced4d10a86652832a252d0a
+SHA512: f5347666d2429774c9caf08fe7fd8c8bf3519ea64aa3d4e4e528aef90032deb0edfc2a9bcf4a09c8bb0ee973dd02621c3d542e58cc08c62c8fb2a60f52642b78
+Description: Hiển một biểu tượng tắt tiếng trên thanh trạng thái của iOS.
+ * Just a single mute icon on the status bar of iOS.
+Name: Single Mute VH(Rootless)
+Author: 82Flex
+Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.smallboards
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smallboards_1.1_iphoneos-arm64.deb
+Size: 5378
+MD5sum: 6e01b4a6fc15d5983d90c92183c680f6
+SHA1: c9c48c6225934dc6d13e3126e716f2a36d9b330b
+SHA256: 5bd8f51c6f644edafb738a0f8c08c167580593c836181f1afe209581a61de649
+SHA512: 42c908b222a63350b039603921fb86963b859498bb8a87f77c27b7b91af77916d500ca58b896869020338da8373e11de860c7b986f802a48b1ecc007fd6a8ccb
+Description: Sửa lỗi bàn phím bị cao khi fake cử chỉ iPhone X
+Name: SmallBoard (Rootless)
+Author: iCraze
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/SmallBoard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SmallBoard.json
+
+Package: com.bvn.smpro
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Cracks
+Maintainer: BVN Rep
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smpro_0.0.1_iphoneos-arm.deb
+Size: 4670
+MD5sum: 5239323e3b504b02f0303cb8d27363ce
+SHA1: 198ab19ad09bf201c408cee67ae4c5d3aca8552f
+SHA256: e4b631ba9a27e259f0a18481028e089aeb72cc85c647b7efe3405af40a200738
+SHA512: 4e5ec34f736a856849694be03d9ead654d485da1fca0b541e6e7ec451f2c769979d7296b7bc017fab18a32de470eaf032ee2c56cd6c1746c549b3ab0ea6eec46
+Description: Crack for SM Pro app. Free IAPs
+Name: SMPRO Crack
+Depiction: http://bvnsupport.github.io/infodeb/Html/SMPRO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SMPRO.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+Author: CyPwn
+
+Package: com.bvn.smpro
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smpro_0.0.1_iphoneos-arm64.deb
+Size: 4892
+MD5sum: 6de1623d0eb93daad7e3683f9b56052c
+SHA1: 900c3cf7cdf64fd97854c71efcee68955e0aebab
+SHA256: 45aaa322a543d6fb74cdcf060239911a105c6959e6ea65e7dfb8f4ecee885e63
+SHA512: 95bd0a0d117fcabed6e587714baefd51596e7ba78d119a6e6c6a2c0fb482c73fc0002ac792cd1e66f7204eef14a904b8cfdfa2f42dc6277e9ce9429f464bb4dd
+Description: Crack for SM Pro app. Free IAPs
+Name: SMPRO Crack
+Author: CyPwn
+Depiction: http://bvnsupport.github.io/infodeb/Html/SMPRO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SMPRO.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.snapeditpatch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snapeditpatch_1.0_iphoneos-arm.deb
+Size: 38764
+MD5sum: 911b5412ee2af10693bb8d30d4b57b67
+SHA1: b9ed3a5f457b6bbc03953cd2d8f10997b124ec67
+SHA256: 769369e3d0bfc886a8842300f83dd50d475c2730ed979a5b5035f84af631294c
+SHA512: 62f8c2bea05bcaa60ede41684b662a2c14aa9ae1bc9aa556e5e564305d30edbab29133829b931758371e8065b74be341dcf0cd7976bfb59863ccbf025a7e8b26
+Description: Snapedit crack by Blatan
+Name: SnapEdit Pro
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bvn.snapeditpatch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Apps Crack
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snapeditpatch_1.0_iphoneos-arm64.deb
+Size: 38880
+MD5sum: ba0f26ebcc6a8da7cd382949508098c1
+SHA1: 60c20ec191d7b222701d0b9eedb753300058eec3
+SHA256: 6f3397b92512960cc981d631be5a51336e77c58a7fb2adf7e873caaafda96be9
+SHA512: b9e1d245e876f297601942a6414beee6e65331d819762074a812bb6192c9e0dfece5bbb624f46259c49a76ebb09e5bf8dfa69cd88aa1cc27ad995670400d9bc2
+Description: Cracked By Blatant
+Name: SnapEdit Pro
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.snapper3
+Architecture: iphoneos-arm64
+Version: 1.0k
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
+Filename: ./debs/com.bvn.snapper3_1.0k_iphoneos-arm64.deb
+Size: 1136690
+MD5sum: 88f5175ff82c19e24a6c70842d05e022
+SHA1: 8bc873937994ecfc48c76e28069ab29e79a388b1
+SHA256: 44da216922ebe3ee25aceba58a32bbf617e9db91cabd7a0b5ec939989e06f363
+SHA512: 27fdb09d7150dc4bd0cc57276dcd4573a002fb8a30ca30f2f3aef052c7a57ef4ce9fe5f6be1f621572bf4c5b2b2c87aeca4896a472feb7dc388038177c9baff1
+Description: Snapper 3 is a toolbox for screenshots on iOS.
+Name: Snapper 3 VH(Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Jonathan Winger-lang
+
+Package: com.bvn.snmessenger
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 776
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debs/com.bvn.snmessenger_2.0.0_iphoneos-arm.deb
+Size: 465628
+MD5sum: 08a73b76bbcf356e75ae676e04252742
+SHA1: 6dc231f3298d5e7ee875b42167a43556df728d5e
+SHA256: b320fb60e1c609af386bfc1f541c952cb3d47a7dec677615ffc74a69c5995555
+SHA512: e608cbb5db09a26d297078086da9bba4c078b79fe9d73c9742e23c5dd29feff32bea00bd384ca952feaed407c44241820f033fa75911042a1b03398eb8597720
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger VH
+Author: NguyenASang
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.snmessenger
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 792
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debs/com.bvn.snmessenger_2.0.0_iphoneos-arm64.deb
+Size: 465902
+MD5sum: 5d91717b123e14a193ab0e81005abdde
+SHA1: 0ec7e9dfe596892c58c9e56ecd265fb30d36be6f
+SHA256: 507de099658b1952f49ae1022a8dfdf867205db3637c6a2effc7ca250e74b34f
+SHA512: e289c82a12d3e129344121c80b8b5e8119f8e75cbaa9acf4510b0920f3ecd33883046978df895ab9a639b7bacd19326cca1e9de1213f0dbe738446269e13a184
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger VH(Rootless)
+Author: NguyenASang
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.snowai
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Apps Crack
+Maintainer: Bvn Repo
+Installed-Size: 2856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snowai_1.0_iphoneos-arm.deb
+Size: 825594
+MD5sum: ac0bfab208f2a7f76f8ae56c98e8a601
+SHA1: 3e42344f14bd923b414d077aa5fc3c6fd43c9c17
+SHA256: 36f4affa16a3a3cf2dd7034178fe82b4fc02a581ee993dc7c2b2a0a0c474f204
+SHA512: e8079b8f584522c4cbfebd44583a884df5008e5514cdf78d7f49032bc07bc7055388e7e7d3ac55bbfaa3df2cd9d3f820caf6b4149b670993003aea5cd0154acd
+Description: Cracked By Blatant
+Name: SNOW AI VIP
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNOW.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNOW.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bvn.snowai
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Apps Crack
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snowai_1.0_iphoneos-arm64.deb
+Size: 839214
+MD5sum: cd0459d73a4b00d402d88c99ff82baf1
+SHA1: 29bd10016226618dd6288571fe42b70303819fbc
+SHA256: 9dd8bb06c4f6001ab852e87c379a77a989f4f776b667a5f478c7ad14807ee42f
+SHA512: e71ef5c74c8c84b397b8fa61edafa704a56196e5bd11b9f89daf968d7270b8dbf0cd08fba70da198c2f6b18e986d5cfa49982211cf702d56028594970382df33
+Description: Cracked By Blatant
+Name: SNOW AI VIP
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNOW.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNOW.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.sodapatch
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.sodapatch_0.0.1_iphoneos-arm.deb
+Size: 125264
+MD5sum: d3d46b932bc0fa5b2e2b8246e4d94cfc
+SHA1: 37a0659069bd7622071a593c00036d2b4f5268cf
+SHA256: 675f08656f630f1c1165f3ac4a83519a71c2476f168fde6483cf28f92c929c0c
+SHA512: 41cf5651a2dd5fdb0395b465acae431320dc1e24ac2a535d1a33339bdb18a69d0e8edafecad1221af76845b82c35ec9f8433ffed3569394fd4d5bbfde3da4e45
+Description: Unlock SODA VIP annual subscription
+Name: SODA Vip
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SODA.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SODA.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bvn.sodapatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.sodapatch_0.0.1_iphoneos-arm64.deb
+Size: 125390
+MD5sum: 66712640053da7816145a1fff135736b
+SHA1: da64f60eba3d049cc3215822bfb0fe83f1792c25
+SHA256: ca8c8ebf5aed2fbb1283abe05d240055878203fd46fdf3b148269e0c7ca961d4
+SHA512: ef381188fb39d339c9cf4734ce94e8faef297b3362308517989d9efa14535129c1a57c0775d710939cb7492708d27693ce8be7c238721366db7a196f8f68d312
+Description: Unlock SODA VIP annual subscription
+Name: SODA Vip
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SODA.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SODA.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.sodapatch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Apps Crack
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 373820
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.sodapatch_1.0_iphoneos-arm.deb
+Size: 536748
+MD5sum: ffd5a1451c3172c5ee40d77389f1b857
+SHA1: da9c53750aae873fb5270815eda8719ed087727a
+SHA256: 87bc2884f718d04af352bb4b2812235466cf1bb024588165d85aeaa9a09f8d71
+SHA512: 4b05ea10c7caf7ff1946c9bb990fee21027dbc9f82c29ed97dcada9a29acd48184e047a1a3daa717cae029693ff0df069e5c507baa49dbb8671109b47608f0ae
+Description: Unlock VIP
+Name: SODA VIP
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SODA.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SODA.json
+Icon: file:///Applications/Cydia.app/Sections/appcrack.png
+
+Package: com.bvn.sodapatch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Apps Crack
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 373820
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.sodapatch_1.0_iphoneos-arm64.deb
+Size: 536704
+MD5sum: 01273609514808adc091c13c4159ff8b
+SHA1: 8d5292812c010fecb982b423ce201fa4c08f30ee
+SHA256: cc6dd69c4f2e84d6ecc4784268afae496c0975d4f9fff9db26ae4e53fe4ea9ee
+SHA512: de2f54799a153a1c5923babda3fdf8fc86009c09fadc8a502cd0ba271e9a07e3c331fa81d0bcae7adfc42514ec292c99e260693ebeb9197141d8ba75aee85932
+Description: Unlock VIP
+Name: SODA VIP
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SODA.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SODA.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.solsticer
+Architecture: iphoneos-arm
+Version: 3.0.7K
+Section: Themes
+Maintainer: Bvn repo
+Installed-Size: 65137
+Filename: ./debs/com.bvn.solsticer_3.0.7K_iphoneos-arm.deb
+Size: 61699416
+MD5sum: d3ade557a3d9ebb5fa48572c42e2f804
+SHA1: 597e1610ee907cee5fc50fd15196ed87df910c96
+SHA256: f27edd9e74fe41dbda83f1955fd6f05461ba54485550317350ba6f28e99762d4
+SHA512: 18031d3904b741d3224315eac56cb580669bdd3945808150f7fd0b980159713fee9d1e17cb0dd032545f381564514ef5e2d32a42d496f1eeff238377cdd49237
+Description: Solstice Theme 3650 icons
+Author: Rifai <icons-requests@hotmail.com>
+Name: Solstice Theme
+Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
+Package: com.bvn.splitviewpro
+Architecture: iphoneos-arm
+Version: 0.0.3-1-49
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.bvn.splitviewpro_0.0.3-1-49_iphoneos-arm.deb
+Size: 253722
+MD5sum: 5b8810c138a71e58db724548946faecf
+SHA1: d35cc961ff6c8af8132d90b73866a1e5d57fc9c9
+SHA256: cce425d892d22f89ed181840cd95b304a9a03878a3c78265eb431f47eb2f924f
+SHA512: 7ac31adb644fce45a39b3cd77bb95f7b43301c33bdd489ca1c28ee51b33fa25f2eb0c12a759f9bc88cb03c39ed8ec569c5d461dae5fcda3aaf164bf63a95d167
+Description: Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến.
+Depiction: http://bvnsupport.github.io/infodeb/Html/split.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
+Name: Split View Pro VH
+Author: sunshinesong
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.spotify
+Architecture: iphoneos-arm
+Version: 6.1.5
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1688
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify_6.1.5_iphoneos-arm.deb
+Size: 615054
+MD5sum: 644ea5a1622bcbbf43c51d664cee9dfa
+SHA1: e27dcd26d2027312f2cd486fb7fa9f55f0b7ecd5
+SHA256: b454fcdb8046b7b0357d2d819357715665899d7daaaa146d47d49e501b47c80e
+SHA512: 842fa7b3e7db2d41d87a053257f21ce42646f2d9a745ca43a776f036ae03fc8ede91dae8acd842064e734ba4307886a7d84677c0a20c3ca6dc12304dbe0d3a84
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.stella
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.bvn.stella_1.1.3_iphoneos-arm64.deb
+Size: 495630
+MD5sum: 4bea894f8e724fbbe754fb262ed57c0f
+SHA1: eeb5c2fd0b16e45b88eb6f29f1e276fd431c69cc
+SHA256: 5850082050b652fa46259a29040450afce314d1c8c90004a7c9135c11d32649a
+SHA512: e7b6dff1b14ba6129161b909e972e7daa3790e119ee101efea847c39c6b1567b6360834b8e308a17861575abb39aab6253507e905a24f873b6e042b4dde5b8d6
+Description: Hãy để tuyết rơi trên thiết bị của bạn!
+Name: Stella (Rootless)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.strangerwp
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Wallpaper
+Maintainer: BVN
+Depends: mobilesubstrate, wallpaperloader
+Filename: ./debs/com.bvn.strangerwp_1.0_iphoneos-arm64.deb
+Size: 12331192
+MD5sum: cab210000e6d4d379774d8f37492213b
+SHA1: ec0af26541daa316d0efdeb40fab3a448c5c5e34
+SHA256: e06fc0bb4b9f715a3671c5815ee93357da9b241cdcfca3cc5cec88b668cf243e
+SHA512: 26fab7bef8782d9022f24700dd5928fd996fd441535d03c273f5da64e90c3931be661219d41f0f762c6d63da5684037376f9aee91319b488814dbdb9284a645e
+Description: Một hình nền Tối / sáng Stranger.
+Name: Stranger Things Wallpaper
+Depiction: http://bvnsupport.github.io/infodeb/Stranger/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stranger.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Author: Skitty
+
+Package: com.bvn.susudaynightswitch
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Axs
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bvn.susudaynightswitch_1.2_iphoneos-arm64.deb
+Size: 94536
+MD5sum: ba189c9a30ca71ff2fe283095489706e
+SHA1: f60c9afdf911adc2a3231672882ed3505e5f204b
+SHA256: 817e77d5f2e4722fafdb831dfa3eebb02845fc02dc5a25af05ff712c7ba5c1ab
+SHA512: fa17963bd1d7ff4d74ab04399bd7b406e92c89b0add9a775e34f0ac28c6bfc24ad209f3736de3087c4fff192f6759224ecda6a0a7361ffefda6a04110e06a3ab
+Description: Add some style to your switches
+Name: DayNightSwitch (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Finn Gaida
+
+Package: com.bvn.switchtheme
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.switchtheme_1.0.0_iphoneos-arm.deb
+Size: 79454
+MD5sum: 83c97f1a985264153f551ad3a4ebf5a4
+SHA1: d991b20daf1a1cc712b97a2708683e581d2a9f42
+SHA256: 3e8bacd89e17dfd0a519f52790c6bdae76a148e77560bd8c694a2f46fb49f782
+SHA512: 8fa86d103fac824d20283bb91f4705282d413afa2ebb442b72ac87250f164231bfc971dbacf4618ca367deb2e7f65d10d0e1f8f5ddf0513a0d26bd39041a656b
+Description: Thay đồi nút công tắc bật /Tắt
+Name: SwitchTheme
+Author: 白衣
+Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvn.tinge
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bvn.tinge_1.1_iphoneos-arm.deb
+Size: 58350
+MD5sum: 490d4bc6a4a82173356f0e68840d412a
+SHA1: 7bfc1292403f7a694184b9c87b5e2c557c45187e
+SHA256: 14cdf06e9703cd0d89ae371e92f292d8e9ff107e39803a24ff93e12a6278711b
+SHA512: 634e8f01aa6bc1b08e158498cbf1d277459a080b32aed9921c7db2f7b9e8327f2ca266636ea31e770d430e9367c09d7072d007785e8ed5639c0e8d6d44c351e3
+Description: Color your badges with Perfection!
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Tinge VH
+Author: P2KDev
+
+Package: com.bvn.touchvis
+Architecture: iphoneos-arm64
+Version: 2.8.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.touchvis_2.8.1_iphoneos-arm64.deb
+Size: 1075828
+MD5sum: 3aab8035e0562fb446adbb31d96b1d4d
+SHA1: 31e9bf158ba64bc0e9a83bd7c8b2f313a6454a7c
+SHA256: 0e5f45d04f651ce29694c0d339c3f283446e112da75f02a87d77b8fc4519b913
+SHA512: 366be2b2eccf0f06ff431bf5959ad6ac0becebbb9e70583a715d4a3198ad5265efe88c05834e5e13d96fc5596efa1a5873c41fd9d51df0427d1c7e1347d2ed08
+Description: Hiển thị các tương tác cảm ứng của bạn! Crack bởi CBZ
+Depiction: http://bvnsupport.github.io/infodeb/Html/touchvis.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/touchvis.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Touch-Viz VH(Rootless)
+Author: Lessica
+
+Package: com.bvn.tweakhub
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.tweakhub_1.0.2_iphoneos-arm.deb
+Size: 77270
+MD5sum: 0cfd144a38be4f8e9d6729c5fb85a98e
+SHA1: ad38cf940812a0d79939a773eb759dd82ebafa6e
+SHA256: 08185fd9a38ad07bd26381b0d573bd05daa850e133d0cb3357a89553a8ea4a6b
+SHA512: faf7f62475e438450a6451f273656f350395d8e8873639d98ea2f380b40044d65dfb67811c3300113d0acb1247c35ecb56717ac77361756823796f33504fb6f4
+Description: Liệt kê tất cả các chỉnh sửa đã cài đặt và truy cập trực tiếp vào cài đặt của chúng. Với tinh chỉnh này, bạn có thể xem cửa sổ bật lên hiển thị tất cả các chỉnh sửa đã cài đặt trên hệ thống của bạn. Truy cập nhanh vào cài đặt của từng tweak chỉ bằng một cú chạm.
+Depiction: http://bvnsupport.github.io/infodeb/TweakHub/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TweakHub.json
+Name: TweakHub VH
+Author: SOPPPra
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.verxina
