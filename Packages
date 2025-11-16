@@ -19900,6 +19900,22 @@ Name: GSCore (Rootless)
 Author: Ginsu
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.ginsu.libgscommon
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Filename: ./debs/com.ginsu.libgscommon_1.0.0-1_iphoneos-arm.deb
+Size: 42870
+MD5sum: 32e50124add86bf8ba73bbc988ad569e
+SHA1: 833d4e07eed59a8f6865a339bdb1ddcf58ae30eb
+SHA256: 586e032e6ddec482a997f85582be60d29f05c07d707313134519a3a13e7004a0
+SHA512: 5a6e2f3e9a7f988c4faa8c2f6cf27b5c56d834eea90bd6a28e4e4c7cb8c3c4f036279f0a7006b57b070dbc3e8eabacbace76d0dc4fef18478bc158ed398a3d82
+Description: Các đoạn bit và mảnh được sử dụng bởi các chỉnh sửa của Ginsu.
+Name: GSCommon
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm
 Version: 4.8.0
@@ -20006,6 +20022,27 @@ Taq: cydia::commercial, compatible_min::ios15.0
 
 Package: com.iarrays.libiarrays.rootless
 Architecture: iphoneos-arm64
+Version: 1.0.16-beta-14
+Section: Development
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 640
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide, org.mr.libiarraysrl
+Filename: ./debs/com.iarrays.libiarrays.rootless_1.0.16-beta-14_iphoneos-arm64.deb
+Size: 201982
+MD5sum: 567672b6e854fd5930ce704cb62eb9ef
+SHA1: d0f65e28116d4a4d26544a3d90202772f7649fa0
+SHA256: dbff9b47e6100a4104c3b482fda2abe52c484a4eede211302adfd96aede255fc
+SHA512: 7c51991e6a918335f9ed4ff33ee28c8331f5b3f14dce0243c6aa1caf3760296d9faaa1748bfe7468a24636975a7e4ecd94a7860f00cb80b2efea429904bdd5a4
+Homepage: http://iarrays.com/
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: com.iarrays.libiarrays.rootless
+Architecture: iphoneos-arm64
 Version: 1.0.16-beta-15K
 Section: Development
 Maintainer: IArrays <support@iarrays.com>
@@ -20024,6 +20061,53 @@ Name: libiarrays (Rootless)
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/phattrienn1.png
+
+Package: com.iarrays.libiarrays
+Architecture: iphoneos-arm
+Version: 1.0.16-beta-11
+Section: Development
+Maintainer: BVN
+Installed-Size: 800
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1,  com.bienvannhat.libiarrays
+Replaces: com.bienvannhat.libiarrays
+Filename: ./debs/com.iarrays.libiarrays_1.0.16-beta-11_iphoneos-arm.deb
+Size: 292456
+MD5sum: 27aefef406b9ea7682c3ad15778153b6
+SHA1: 9087d7625b37523e9d37dbbdc9a090d722f835cd
+SHA256: 270d9758200de1d431ee8518dcc1308169b2892c3bce51d14396ec7cd0fb153f
+SHA512: 952006074a839efd5197bcd2021d1ddec5e200f1d39e0569e68613e7f25001e4e8734c2fc391f08f692d77cfba46ab788f2526be7a99f96cd3457a897d635686
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 136
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debs/com.ichitaso.iconorder_1.0.3_iphoneos-arm.deb
+Size: 14802
+MD5sum: 70553a5dc79e7c9ee1544a2d8dd58d34
+SHA1: 6ef883c1a9b5a9c1eaaba41fd757738bbf9ed3ea
+SHA256: 70fbe04a832ebc2992d6a473ff9f3ff182e02b6f6e9b57a722ca22ad2262c3b6
+SHA512: c75c3c7b6f8dee5a8ce8b5136d3a1d03db07744d29ba7137a57f66b358325c2232e4c4b3cbf2c4f87f06f97463a86e1fec7c556ce6fb5590b4161efb7377a402
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+dev: ichitaso
 
 Package: com.ichitaso.iconorder
 Architecture: iphoneos-arm64
@@ -20051,6 +20135,104 @@ SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 dev: ichitaso
 
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.4
+Section: System
+Maintainer: REPO BVN
+Installed-Size: 168
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.4_iphoneos-arm64.deb
+Size: 19588
+MD5sum: b2044b6bbcd72094b25d0b83f1666bdc
+SHA1: f3ff2db1dca21e7dd166d5bf8bceaa5cb4215a0c
+SHA256: 43760643689e8cfd059ef3b7b679789711ac39f6ee8a822103ee332051d895fe
+SHA512: 431a1873febdb321f76682fc3652534631f60613ef0a9c516d52c858b934ea3073f7f2c2a46223e25c7eebc9f609fc5d145eb40cb87a617f3fd7f94e48adcd1d
+Description: Chặn cập nhật phần mềm
+Name: OTADisabler (Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/OTADisabler.json
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Author: ichitaso
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.5-1
+Section: System
+Maintainer: BVN Repo
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.5-1_iphoneos-arm64.deb
+Size: 19588
+MD5sum: 6334ffe69447b173184293fd490f5f23
+SHA1: 83f3daf154d874f12f9084bb67267c14ff350cb3
+SHA256: 85ad52435a010633178fd4ff88f36034f20968b9cd316701887c0d09439a81db
+SHA512: 8a78c771e59a6a1e4ac2cc34000deee315872ca49bcb10cc706c2e9f480113f27dba8202f374eb915ccedae28aa0831d899da16ad305b8990aee4ddb80443ecb
+Description: Vô hiệu hóa OTA và xóa huy hiệu trên màn hình chính, v.v.
+Name: OTADisabler (Rootless)
+Author: ichitaso
+Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.6R
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.6R_iphoneos-arm64.deb
+Size: 19688
+MD5sum: c72a762fe98354d224e560cc62f62e57
+SHA1: 5f79c4a3a73bd762f754f163060c11acc55fc1ac
+SHA256: 03349f7542aca3bd519d69a75f7bfa8ec31c7ea39af23635a0cc6fa35c0a9cf8
+SHA512: aa17cd2e073f56222da19f1360461d21b4d271126d2a789d4c8490048c2a9498b946f6e002bb1d1e3edfeea4047f071e58bc84ed7a6180f92d1e5755cd3290c5
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler (Rootless)
+Author: ichitaso
+Depiction: http://bvnsupport.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OTADisabler.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
+Package: com.icraze.hestia
+Architecture: iphoneos-arm
+Version: 1.7R
+Section: Tweaks
+Maintainer: BIEN VAN NHAT
+Installed-Size: 1488
+Depends: mobilesubstrate (>= 0.9.5000), sed, firmware (>= 11.0), com.spark.libsparkapplist, preferenceloader
+Filename: ./debs/com.icraze.hestia_1.7R_iphoneos-arm.deb
+Size: 456026
+MD5sum: 3138a005f545e58e032ef1a2274e5316
+SHA1: 7650a1ff437eead954cce415b32d704bc0df7666
+SHA256: f087c4ac4d904c7a60551cbcdbf7eaf0a9bdecef91751fd88e55d74ce8a1be21
+SHA512: 9844f009fa50dec9bc120e84167a861696b2617d8604db2652be8fc3683c34702f668404a7385cc84e7c4615e5f151a8098bbb443d13099ddff0368a396069d9
+Description: Bỏ qua phát hiện bẻ khóa toàn cầu
+Name: Hestia VH
+Author: iCraze
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Hestia/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Hestia/?p=info
+
+Package: com.itznebbs.phoenix
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: System
+Maintainer: BVN
+Installed-Size: 404
+Depends: firmware (>=15.0)
+Filename: ./debs/com.itznebbs.phoenix_1.0.deb
+Size: 85898
+MD5sum: 0b5c34cf99e73b2e178404f5d4c9d7d3
+SHA1: b5cd7376ce8beacc219deef2c54b13f74944c3d1
+SHA256: 804fffb52d7ef4143497d4ae035ac8d00c28bcdc560c5ac6b9b1041d7e7087ab
+SHA512: 3b5722ae82129bfc3d672d91ee3a839ccff109a7219f0fd70069fdbc68f1d740ac5773e756d51b1a4b33eff230401412b7df617f0b68a1c192ebac79aa1d337b
+Description: Collection of classes used in my tweaks.
+Name: Phoenix (Rootless)
+Author: Nebbs
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b
@@ -20074,6 +20256,165 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p= com.juliover
 dev: elijahfrederickson
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.linusyang.appsyncnew
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 104
+Provides: appsync
+Depends: mobilesubstrate,com.supportjailbreakvn.antiprofilesrevoke
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
+Filename: ./debs/com.linusyang.appsyncnew_1.4_iphoneos-arm.deb
+Size: 9594
+MD5sum: dc05a644ca55ec83358d5b29b78732e9
+SHA1: 095569e0a4edc81b1da2d938ef173c868f2c5372
+SHA256: 83e59a570424fa01b12ebba3263ded30efd42182afbd6f934dea70031edc57a3
+SHA512: 211ca8c162220b71eb34cc6401037598371288d9c32c7f6cdc485bb7e98faa891dc95a56cf948b07b43ba818e26526867b0890288cb789d4079c09ae460ab10a
+Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ trợ từ ios 7=>14
+Name: AppSync New
+Author: Linus Yang
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 4.0~release
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.matchstic.xenhtml_4.0~release_iphoneos-arm.deb
+Size: 3721168
+MD5sum: 30ccda736e0ae2faefe001f097e5b76f
+SHA1: b41094b8bafec8b886e929f07e5dd2b468b2aba5
+SHA256: bf7593ba9ee25f710a34b7a899815488ac6ad8df05808315edec04668e61e742
+SHA512: 88dafe88b1fe2dce4f30d16ccee1c3e6c77b78c9cf08db007babba9f80e7765f5b888d70ec99fc33580911a04c0b8eed3ff1646187e3f9ee4f95d37c00b8877f
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Name: Xen HTML VH
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
+SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.miro.fbfreeze
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1292
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), xyz.cypwn.xinam1ne, xyz.cypwn.cephei-compat
+Filename: ./debs/com.miro.fbfreeze_2.1_iphoneos-arm64.deb
+Size: 400936
+MD5sum: cf270769b8b250326373707d0e1a576f
+SHA1: ae2583d36cbae4736eef4efde04b48f61f73bbc6
+SHA256: 7fa6de88cdf967a653edcc1e1711a5f7721ce40aa6e10ea194df89779e0d750a
+SHA512: 39d5ddd09cece3b62ea9fba377c13641707a0c9eb7072fb929b320f3d6e60a45aa17e785483725b406e597130df804cbade279fd73a0b1e3e9357704dbe9ce18
+Description: Không hiển thị "đã đọc/xem" cho tin nhắn trên ứng dụng Facebook Messenger.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: FBFreeze (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FBFreeze.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FBFreeze.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.liblottie
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: System
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1516
+Depends: firmware (>=11.0)
+Filename: ./debs/com.miro.liblottie_1.0.2_iphoneos-arm64.deb
+Size: 227472
+MD5sum: a8ae25c227ead3ef0ca97796cc0ed7f6
+SHA1: 9c6b4dbb15746b33e7564c5e542f1aa7cbda2416
+SHA256: 583a9e6a1c9c31d8303724e4c00954f856d3a094438ea95758453ae4c19d012d
+SHA512: 864559a6a0e87730d12cc715c210d865008227b636d37de59c8209c8d81bd6ee390f7023fe0548e8882654c4dcedeb849b90f1223a5656f6db4c193ebd11c50c
+Description: Lottie animations library.
+Tag: role::developer, compatible_min::ios11, compatible_max::ios14
+Name: libLottie
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.liblottie
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.libmiro
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1876
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiro_1.1_iphoneos-arm.deb
+Size: 284732
+MD5sum: 06c19a82232dbda35aaf78e9f62a6217
+SHA1: c5ddce5e45328b4da1006ba8077dc0a5ca321965
+SHA256: 0ec54e6d70b4b2beff2faabc6b38018d1de544b94f3a18e16b7a2aaa43dc6c3d
+SHA512: dbfac16c5ee4ed9fd2f21eb967ccd4a624a048a9293c7c0132cf4db80504e81ed33f8dc98949c592291da1f98ec11a88d23945216660cbca3e32a2a2db1259fc
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiRO
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.libmiro
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1876
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiro_1.1_iphoneos-arm64.deb
+Size: 516578
+MD5sum: 81ea813c69af02b16917182d902ed901
+SHA1: 931ac5af3ef03ac545ef18fae7b75559f7084943
+SHA256: 6188c8537113c57225ba4a609a75b10188ac8da237dfb538c9949d03257904d1
+SHA512: 7a7d36cf29ba3f7c671adfa940c5eb621625a5d35a0df7680e2930642ab026b8813532b4557f67ed249d06c3f59cf992081ba1cc593956e6129b7168283c3e08
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiRO
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: com.miro.libmiroprefs
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1140
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiroprefs_1.1_iphoneos-arm64.deb
+Size: 357128
+MD5sum: 1c9185e853066207d298bde15b81c819
+SHA1: 8616338c5c087dc81feaa94be95390868b430c61
+SHA256: 42f0606d824ed61a5953da38a77d99c4ba747b9ed31dd25e4c726bad93967fd9
+SHA512: d29c597953f6dc6444cf2c6a49400e713e8c13a4eb09b519b3959a1ba1a8a88a32cf46acfc8dcf5d637d2a89f54f817496ae4c393b243fda10d433d4b9162095
+Description: Shared library for my tweaks' preferences.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROPrefs
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+
+Package: com.miro.lottiestatusbar
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 3252
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.cephei-compat, xyz.cypwn.xinam1ne
+Filename: ./debs/com.miro.lottiestatusbar_1.0.7_iphoneos-arm64.deb
+Size: 1682166
+MD5sum: 977ad31007892578d99a66bdf3bac08e
+SHA1: 51f47685f13a0827dcc9492e6810ccf00de159f5
+SHA256: d8b870b2037e2fae8e645e97fb3b073e2655323e1b1edbf21909a20626da5a36
+SHA512: ea5ec07a7045d7e4c234fb0fdeb390d03c8d4460afc71b318ba6e13e35cdbf88b1eb897e45c7c14dd074e0ccb2fca588b0bdd83390bd2302c3345f185ac32e95
+Description: Lottie StatusBar là một tỉnh chỉnh về hoạt ảnh có thể cho phép bạn chạy Hiệu ứng Lotties lên các Biểu tượng trên Thanh trạng thái của bạn
+Name: LottieStatusBar (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MiRO
+
 Package: com.miro.tranzlo
 Architecture: iphoneos-arm
 Version: 3.5R
@@ -20094,6 +20435,26 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Tranzlo/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Tranzlo/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.6.4
+Section: Development
+Maintainer: MrGcGamer
+Installed-Size: 380
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm.deb
+Size: 105626
+MD5sum: 86eb5c834516ce63dece049cbd85d924
+SHA1: 983140709b09d8f7086e86cc0425b04ead2cafbf
+SHA256: 550b5b453b4802530f2c82c3818a810801fbed1036cb176f18cf21801d10799f
+SHA512: aaa616e2e999abb5fbae9a3f2444f108ac95be69035931fb76a65ba08ff647cbc2c3f1bbe502984305843e9bdfacbd6a05cba7119a7fde36362c075fb64d9b66
+Description: An awesome library of some sort!!
+Tag: role::developer
+Name: LibGcUniversal
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: MrGcGamer
 
 Package: com.muirey03.libimagepicker
 Architecture: iphoneos-arm
@@ -20134,6 +20495,25 @@ Author: Muirey03 <tommy.muir@btinternet.com>
 dev: muirey03
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
+Package: com.nan.bindfs
+Architecture: iphoneos-arm64
+Version: 0.4.1-1
+Section: Terminal_Support
+Maintainer: BVN Repo
+Depends: coreutils, sed, plutil, firmware (>> 14.0)
+Conflicts: mobilesubstrate (= 999)
+Filename: ./debs/com.nan.bindfs_0.4.1-1_iphoneos-arm64.deb
+Size: 9926
+MD5sum: a8e733b278b9f5379ac2f6e839561062
+SHA1: 2bfc097cfac596f8b08a9290dcd75ddad9b834c6
+SHA256: 055c82bf1c37fc5aba5669f916780261e51aa79f047155ca6ea5d20c9e555edb
+SHA512: ce80b2c75c507719cf8030d008dc760bfb968bc2ac934618174404f6704ded23e308129715ef2f4a5ee22630ad6449a5a938a32edc2d5e8eccd25d4646e649a3
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (Dopamine)
+Author: 无尽伤痛都锁进黑夜 & zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
 Package: com.niceios.nicebarx
 Architecture: iphoneos-arm
 Version: 3.0.0.5R
@@ -20155,6 +20535,71 @@ Name: NiceBarX(iOS11-12 Free)
 Author: niceios
 Sponsor: niceios
 
+Package: com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 1.0.10
+Section: Development
+Maintainer: BVN Repo
+Installed-Size: 306
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm.deb
+Size: 73856
+MD5sum: 0a0fef2f5395dd3e34f2012d9298d230
+SHA1: 1c3e2756f694c683a364bc5dcbede14246068ce8
+SHA256: 89675fc63f2067133ae5a807738d27e78c16e592407d11bb0c99a64fe724ce5b
+SHA512: 2c6599ce6a49fc2f459bed88693648af3655da5978cd9250628fa0a2d321a86a335897a5f8b1f008de2c30e0e4da7b7ad395abb3342a86386fce6aa501462475
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Description: A modern AppList alternative
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Name: AltList
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.0.11
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.11_iphoneos-arm64.deb
+Size: 45436
+MD5sum: 6b2e3c1c4815a9d7b3d4a341daf81488
+SHA1: f7742112830355a78f463a844c4c8bde077de10c
+SHA256: a20c1e35b6a5e82a28e863a4b887e7b2879e8762181dc44bb2ab5dc7005c6c85
+SHA512: 8658e9ed798b72510fdc321c9c9c63e7775042b3fbcc33e652169b8d3932d05a20970f4f24f4d8c77406fa88ed643b3beaeb60323e2361fff869630ff5f75db5
+Description: A modern AppList alternative
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Version: 1.3.13-2
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 560
+Provides: com.ioscreatix.silo
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.3.13-2_iphoneos-arm64.deb
+Size: 93656
+MD5sum: f6fab5693c56d6e8c61ae684e846059d
+SHA1: f89ab6763e63ae131060b94815df09c32225f3b2
+SHA256: a4e76334f78f9bcd628e46bd415b53e3001a2364020cb8572bcb7eb07cf19366
+SHA512: 51a0b571d253dcf6f67e64956f226f33a4f4a0a8f0619a1c6381c23cefd40e370721c81e298cd7f8cfd0b32fd0a856d6d57dc36051ecd2edd2fa2bb341a07bf9
+Description: Support tweak for CC modules!
+Name: CCSupport
+Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
 Package: com.opa334.libsandy
 Architecture: iphoneos-arm
 Version: 1.0.5-2
@@ -20174,6 +20619,63 @@ Name: libSandy
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: opa334
+
+Package: com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: System
+Maintainer: opa334
+Installed-Size: 264
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.4_iphoneos-arm64.deb
+Size: 20764
+MD5sum: b8626074a8f10258c34a6cbb114bef06
+SHA1: c7f3a466527f1427fbe326391e4817c7dcdc5bf9
+SHA256: 7cf3f29063393caf5f00fff9c0993b3037a4154e77cf715459874c8309e251a1
+SHA512: 0a1d650fc19b16ac1f5c653ad8f4dbd1243fbdd24df13f17c36207a4777c4b18d2d9584cdb4aa066d0f92a25dcf5d23c04fc033a493108b4c3f26e4ba726beca
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Name: libSandy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.opa334.libundirect
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: System
+Maintainer: opa334
+Installed-Size: 168
+Filename: ./debs/com.opa334.libundirect_1.1.6_iphoneos-arm64.deb
+Size: 13498
+MD5sum: c26ff11f5b5626f357b25567c9818c71
+SHA1: debb165bccd1242fe5dc26c75dbc80d3646d3e67
+SHA256: 16648226d0b588b0cad890b422a2d4ec51104afdac6097bdda6981df759088b3
+SHA512: 3ec25cf690cbfbb7f0dfe0d13a6d57efbde6119171c97a55806bc965b5ccee1dfa1cc28b6799108ade66d4b533d9efa1ee55ac60998c7cf78e9d0783231b2374
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: role::developer
+Name: libundirect
+Author: opa334
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64
+Version: 2.0.7-1
+Section: Applications
+Maintainer: opa334
+Installed-Size: 4280
+Filename: ./debs/com.opa334.trollstorehelper_2.0.7-1_iphoneos-arm64.deb
+Size: 2278480
+MD5sum: ff4978f26a5a4c095a4b050d2b6f63d7
+SHA1: a4196fb3d2fc1cc1a5ec18411f2f884eb9ef0d5b
+SHA256: a6fd8cad59aeae7392a1f922b636f6eb8ef54c0393a29a6c2ed5039043315a77
+SHA512: 2f44c9bcb7fd0a48439b418a5df9b0d16637bdb4e1bf34aea11543085ede17f7d0c9e97884f154f383288252ed59975dc2ac4486193011b30c815fabbe71268c
+Description: Tiện ích trợ giúp cài đặt và quản lý TrollStore!
+Name: TrollStore Helper
+Author: opa334
+Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStore.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStore.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.p2kdev.deleteforeverxs
 Architecture: iphoneos-arm64
@@ -20210,6 +20712,734 @@ Tag: role::developer
 Name: libPDDokdo
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: Soongyu Kwon
+
+Package: com.powen.permasignerios
+Architecture: iphoneos-arm
+Version: 0.2.4
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Pre-Depends: firmware (>= 14.0)
+Depends: firmware (>=14.0), dpkg, ldid , bash, plutil | com.bingner.plutil
+Filename: ./debs/com.powen.permasignerios_0.2.4_iphoneos-arm.deb
+Size: 4746028
+MD5sum: 60e884b00e2c674914a62674e76f17ea
+SHA1: ffd77d319810702467e22d94b5a5563be4dccf02
+SHA256: 76acef792a1c47344a17353eefff8e876f283d33ec70f67872d8ce9e3dc63911
+SHA512: 862f80d7fee6f71fe23123ec2eab8cd06d4625bd53bdcc9ec9da6fc3f7fcd3a04a2b0584f1141638952f4a5f4c362e22618ded59cc1edc1470284d0980a8e36c
+Description: permasigner on iOS
+Tag: role::enduser
+Name: permasigneriOS
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/permasigneriOS/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/permasigneriOS/?p=info
+Tags: compatible_min::ios14.0, compatible_max::ios15.4.1
+Author: Powen <powen0966091716@gmail.com>
+SomeOtherEntryToControl: True
+
+Package: com.ps.forceinpicture
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.forceinpicture_1.0_iphoneos-arm.deb
+Size: 6106
+MD5sum: da4fec53e80457aa95608d7276cb267d
+SHA1: a1d7843622005a0918487c921c910ec48ada6ed9
+SHA256: 6efdedd369593572245a2e83cb59aaedbd124719ef2fe520b4b30c7853c99175
+SHA512: 3dd1fdc0032537e70aee493bef579c70cd5d87a4aaf599f7f33d0702b34587c2c33708b0891357898fa128079780928a5835052163f7ae22bd27a7d152958c56
+Description: "Programmatically" enable picture in picture feature.
+Name: ForceInPicture
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Author: PoomSmart
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm
+Version: 0.0.7.5R
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.letmeblock_0.0.7.5R_iphoneos-arm.deb
+Size: 8200
+MD5sum: 74bab0495cd48b0ac0e57d8586efef6f
+SHA1: f9ffa697108681a075054a3dd0fa53e478b112ab
+SHA256: 256294b81bbed46a8a357ed28169cb4742b858a6a7da67d95c7e47e9c825d429
+SHA512: d0468d48f64d118c1b3a4ffc36089123b8b605f4c0548bc9a82b6f8b74d7359ee2385801271cd1abb74a530698843d1366b86a106db9bd1bba69b893906abbfb
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: PoomSmart
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Filename: ./debs/com.ps.letmeblock_1.2.1_iphoneos-arm64.deb
+Size: 8316
+MD5sum: 74e8d96a72a380b89a0cb522e6112c53
+SHA1: 67c9a15cdec959bcf916b372491390e1df44c657
+SHA256: a8f8c43393528bedfab6ce53fbcbd7c520e1aa695de60e9a30c1fb9798c04edf
+SHA512: bb9c9281989893535661dfe5f6b4af86c721d684eedfd3d546ea9fac6a1ed8e33a9997ef6c1d819f160da181c1d3ad7dc7df43b189640c903480f913d0a43115
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Filename: ./debs/com.ps.letmeblock_1.3.0_iphoneos-arm64.deb
+Size: 9718
+MD5sum: 44199a5c194b12cb30b6734c5fe995e4
+SHA1: 6098f88f13857300687f0e6e9d0c71bfc7e3bc50
+SHA256: dda2639a210157c40681b8a076a7c497d1fe151e2994e137163e1e5c283aa9c1
+SHA512: cf52c3bb5759b23c46139dd0f72219c350607b5f50826953e646a5ddaccf4730095f66d87aba683aee8e4ac42f7c95a535ab83d23674b60c06111cdf9975596a
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock (Rootless)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ps.noytpremium
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.noytpremium_1.0.4_iphoneos-arm.deb
+Size: 3060
+MD5sum: 1467e2ee079eacb342c828f17aba9123
+SHA1: 86b362f1c77529a920057c08b689e4276ed796ec
+SHA256: 6f03a4e1ebfd813aca5c6348e56a043f5127106b11c1b7020e46269e04085691
+SHA512: 8cf270b54bcb466f4aad1026225c1f85989b1e077b66f648675303d2f90be4e51f53e3a10b1ebd438276bff1f60b95acd9ee4099950d0cab2781e671cdc1a2df
+Description: Remove YouTube Premium upsells.
+Name: NoYTPremium
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.ps.yougroupsettings
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: PoomSmart <unicorn03.glimmer@icloud.com>
+Installed-Size: 106
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.yougroupsettings_1.0.2_iphoneos-arm64.deb
+Size: 6070
+MD5sum: 73c7a11c6c846c47ced2b24a7572ebbd
+SHA1: e9db24cac82b6c57cc92360af9de20d42c19c004
+SHA256: ed1ed679366fa01955a798f893f6c95693acc09be943b322a2490777c1ff968c
+SHA512: b1f47084d1d6a7ff97776ae4be1141b4d8734cd7b602b9e4de52fc57c2a9e89639ea3466faa7d24357842597349bf0ea5a590cf91c5aa979cc03493ce6f780bb
+Description: Allow tweak-made settings to be grouped and displayed in iOS YouTube app.
+Tag: compatible_min::ios11.0
+Author: PoomSmart <unicorn03.glimmer@icloud.com>
+Name: YouGroupSettings (Rootless)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ps.youspeed
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.2.0)
+Conflicts: com.lyvendia.ytspeed
+Filename: ./debs/com.ps.youspeed_1.3.0_iphoneos-arm.deb
+Size: 9910
+MD5sum: d7ec79431728b0d97a3316929b19911a
+SHA1: 58c84d54e15cbacc4be7eacd369f188d57172dc3
+SHA256: 27825756e864de5800ea6cb4601bd803b4334f65c3772ebb37dc7a34d3a9e1d1
+SHA512: aaaf871651f39752f2353e0e977c7a903720cf2118cb96da846c33609e64ee2458a397814004809ff4269bc5b1120beb2322d30fbd3dc4285d83ede1e1201869
+Description: View/change video speed in iOS YouTube app faster, and more speed options.
+Name: YouSpeed
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youspeed.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youspeed.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.ps.ytabgoodies
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.youremembercaption, com.ps.ytsystemappearance, com.ps.youarethere
+Filename: ./debs/com.ps.ytabgoodies_1.0.5_iphoneos-arm.deb
+Size: 3024
+MD5sum: f1ee75b1274d20fae061a3d98f986fbb
+SHA1: 565cd7ccb2ac17600a813ad676b7558ba2e4f8b1
+SHA256: fec4a9ae7353756f4eb1c12e965275228cf36f8aa5c49845b264fb09bab58fad
+SHA512: a18eeb0ce1ca8f935bfe49ab6d3a944fcea1c856c9844560ee30fa8273366e038109a57f382a4d723fee24362f7fea293be06a517df7b68ea7fd74cfc6c89266
+Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
+Name: YTABGoodies
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.ps.ytabgoodies
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.youremembercaption, com.ps.ytsystemappearance, com.ps.youarethere
+Filename: ./debs/com.ps.ytabgoodies_1.0.5_iphoneos-arm64.deb
+Size: 3122
+MD5sum: aa1fdc7968bd72a9f9151179b9227a3e
+SHA1: 04f179a1957c13e9c2736a522e99ac1c423778ba
+SHA256: 703cc1d0a361b33d5cde88d194a68e1036931b962e4a15742ce1f2dd67d717c0
+SHA512: 983b2146c8f0c860a2a6891bd088b17852acb14e89e8a9d740404235662c5c6dfafe14a8fdfe7ad50a1cb5173382f0159221fa230f85e9a2ea85a0b9baf8c08f
+Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
+Name: YTABGoodies
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.ps.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytclassicvideoquality_1.5.1_iphoneos-arm.deb
+Size: 5890
+MD5sum: 3f2ab0aee3615a8f54ab1ad4d68397c8
+SHA1: 38683584b313cd5b47ab618630cdf5d780fc32e2
+SHA256: 4a88a9b22dea00a6900ce7abd62cd423b231431376e0561a1a535e3525b197fe
+SHA512: 05e6f134001c12e30b8db1e937cfdfb6103e099b69b29ef135cf0285bed898f306752663a87747125e4b415d211177b11c59164b3ff904581518ef53a083f2f8
+Description: Revert to the original video quality selector in YouTube app.
+Name: YTClassicVideoQuality
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytclassicvideoquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytclassicvideoquality.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.1.1_iphoneos-arm.deb
+Size: 17270
+MD5sum: 3f21ebf449e5e0db68cc4e5ef4c8a590
+SHA1: c9f01ab4dfc7f10e9fa0e861a6bc665dbca90f6e
+SHA256: 4337c34ffd907b9c608a135df65e5a87e3531d80b0d1c80c20d8697b21e500f6
+SHA512: 4d62a19286e9282f9b1eba7f2b1a57ea77ad92066e63e3aa9caee1b93b67c10ba1ff2f435e8c8896bea65263dc62c82275b6a02a31c613155a75b8d85c65b763
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.1.1_iphoneos-arm64.deb
+Size: 17200
+MD5sum: 23b3db8e3ec88b6aa4540fc7f1665cd0
+SHA1: a24f4a84ffed0466330ddfd3358a5e6fe371bf9d
+SHA256: bb7eedb8ce6a792eff67dcbaa54734abe785e022b0cf4a635d075fc9b893014c
+SHA512: 005702ed04830df9477268eb993cf6c5c71e066521708d67c4ebbdfb55f2f0535073caaace6537375430a641f7bd57b020bea10b98ca2339a665243ceefbf5ed
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm
+Version: 2.2.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.2.2_iphoneos-arm.deb
+Size: 17818
+MD5sum: eb311ad748d6dc5c1ddbfbc948959f05
+SHA1: f4df0baa5119f721d21368143d3eca708f51a5f8
+SHA256: 7dc27c4fbff7ba0ce299489b922ecc1c3590c78915bbbed8d289204af4478486
+SHA512: 76192916f4eced6c6855f879adf85af3c27aeb12eb4eb5eb929fdb66255e40d7fb10b3c5443802213b7ab81ca3d2b5f54aec1b93bcc181eed6d2dd399de89369
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.reobvn.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 169268
+MD5sum: 79ba2470f4df35693ae478185331510a
+SHA1: fc66c4bd26d3d90ec81e60b2ff83892e8b0db208
+SHA256: 15af7ef24abc30dd189bc4f448ae7561ef975179e27802267b0cd5b3b0e9ac22
+SHA512: 75347c0d07274b2c856a3bbddfd6cd2f25b5953ccd83d6d31c1f8bf5f14e9e122a24b2193dbaa39f7ae975bafb7edcc3d9be02b19846766cfe15b5d10457aabd
+Description: Advanced Tweak Configuration!
+Name: Choicy (Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
+Version: 1.5.2-2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1122
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.reobvn.choicy_1.5.2-2_iphoneos-arm64.deb
+Size: 271872
+MD5sum: 0f9c441feff2fb3c7e5dcfdae0846214
+SHA1: 3279ba359546ddc00472aa67b7546b207cc74117
+SHA256: 91d61c91d9037e960ef3601d3539920272bee374afe06fb8a1d2d75d187b55f9
+SHA512: 4fd5cee35990b84efcceb24d1193c4ac34a2f57dcb6a00a3d373bad67f60acf5f5ed37acca0ac671577e96ed29a2f86a499be065fd2433f4810839df9e772623
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy VH(Rootless)
+Depiction: http://bvnsupport.github.io/infodeb/Choicy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Choicy.json
+dev: opa334
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.reoobvn.iconrotation-rootless
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.reoobvn.iconrotation-rootless_1.1_iphoneos-arm64.deb
+Size: 8942
+MD5sum: 7a1eb9673de6ae89ecb44ba3052fa792
+SHA1: 118ab50cec5a91cfe06cde1168037180c870f560
+SHA256: 8a8dfd02de3dd5d7a730c934822110ade79bb48c9e61e68d6079a5d392fe7c9a
+SHA512: 16c94e12b58dd0e26f1b4328ed89e5a681c57ab5ccc1c1a9e38376f90ea74bea6983a12801614c9fbdb0f28624cad92fc749f19cec17736622201243a9b95ded
+Description: Xoay ngang màn hình chính của bạn
+Name: IconRotation (Rootless)
+Author: Paisseon
+Depiction: https://support-jailbreak.github.io/depictions/IconRotation.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/IconRotation.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.pullover-rootfull
+Architecture: iphoneos-arm
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootfull_2.1.6_iphoneos-arm.deb
+Size: 980410
+MD5sum: 2707f91314cfc2f5da44e96af1e1b1c4
+SHA1: 73aaca2c21f4896bccfbc712094cf0da833e4df9
+SHA256: dc7e0a215e39e436e5fd80ed17ccf101841c4c2e376432caf54d9eb09a562477
+SHA512: 902be38c0e94cc4a7eaec2dbe961ac9d19f5af525bd9840ec5b1559951801f5ec1666d843061583e6497548c14a9ba0ef129284e2466cc9a004a0a7924fb4e24
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro VH(Rootfull iOS16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.pullover-rootless
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-rootless_2.1.6_iphoneos-arm64.deb
+Size: 980706
+MD5sum: 40dc306dfc42554c92e7dd61793d5a43
+SHA1: 167da8a3118a69c02c6d5df1b201941d5dfc4d28
+SHA256: e97b8cdd25067d82cd809189ca17b10735b07319652fb5e63932e722cc70ddae
+SHA512: 8f290bccf33c89d1621ec94f937081fcca86274d1284db263496f0035c74cc682003f5c45437b854e4529da4e665b0bc1cdc17f809046921c7791b4a143dd9b0
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro VH(Rootless iOS 15/16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.satella-rootless
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 456
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.reoobvn.satella-rootless_1.9.0_iphoneos-arm64.deb
+Size: 111978
+MD5sum: 89c42de7f32769e7b664a0a974f8e3ca
+SHA1: 63206586cceb0894d0b551ba9a2c1fb0c7195130
+SHA256: 9c9002af2e7c4d2c4e63962c7cae903a5ba65ddcf609866c601e42558838b423
+SHA512: ac1577e8abe33ae340d2797f9c000f2a6a0d83525e436b65e58ef0dfb2559666ae02ded5ac0bf1b0d37aadc625c3a55fa22811f84862c615551d2a6faf0c0b2b
+Description: Cracker mua hàng trong ứng dụng hiện đại
+Depiction: http://bvnsupport.github.io/infodeb/Satella/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Satella.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Satella (Rootless)
+Author: Paisseon
+
+Package: com.reoobvn.shuffle-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.reoobvn.shuffle-rootless_1.6.2_iphoneos-arm64.deb
+Size: 348880
+MD5sum: 0bdf45c1734b29e3a3b1de918478f5b4
+SHA1: c124463687c9e90474b591ab767761a9478ab92e
+SHA256: f878384cc5934cc6011a7e0c35007c92d04a7dbac3b00d76bda33b39702dd819
+SHA512: c930461c5c947432838e966205b1f469e1939512fbaeb7dfd191b78b3bdcf0077e76fd5a673a4a0a227394ad0e110695aea908ffdba7e82bcbd6a92472ba4fdf
+Description: Shuffle
+Name: Shuffle VH (Rootless)
+Author: CreatureSurvive
+Depiction: https://support-jailbreak.github.io/depictions/Shuffle1.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shuffle1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm
+Version: 1.4.4
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 13548
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.4_iphoneos-arm.deb
+Size: 7093138
+MD5sum: e38a0c40c1f61085e7b4c885a19e112f
+SHA1: e3d6c17a3cea6e761a32fdb7b1f29f4976d605af
+SHA256: 6ee06debd991bc184a43d877904fc1bf793ce47145f28b2407a62d93a17a64eb
+SHA512: f52a5ce74d47cd5d6df11dbeb9945cac11797f1efd2e77ae7680bf0cdd717319e40cc5fa857857d27911139a5a5e35c10e0e45e68cafc858de8df8be07016fc1
+Description: Xem và quản lý dữ liệu ứng dụng từ Màn hình chính của bạn
+Name: AppData VH
+Author: Fouad Raheb
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.4
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.4_iphoneos-arm64.deb
+Size: 7093152
+MD5sum: d44e39b15c59e0e5f9020bc3fc2a4838
+SHA1: 81d7c0e225be457b275da222d3aee873b6c7eefd
+SHA256: 28b9a44a787de5a0ac248e63b4abe67bb2268374b1bdda557f6c4538373a1eb1
+SHA512: d76b667f29f16718945cd603853d6b8f0bfba15717b6be4983acf10aa801f59a8aa798755b8c76263367d6e522a09b2bda916b78740523674a2886b8a85f62e2
+Description: Xem và quản lý dữ liệu ứng dụng từ Màn hình chính của bạn
+Name: AppData (Rootless)
+Author: Fouad Raheb
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.repobvn.Bauhaus-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Fonts
+Maintainer: Repo BVN
+Installed-Size: 992
+Filename: ./debs/com.repobvn.Bauhaus-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 20152752
+MD5sum: a9fe835301a852f2fbacc9d9755f8880
+SHA1: 4fb24037cddba7e1623b2d6227792a98c234411c
+SHA256: 7b81751389bf6319501bce41d9dfc90a3cdcdae8773e0af58fa3d5f92dca361d
+SHA512: 371d67675ecac0f2b00133d222862e0cd58a747f2fd61f923413db65267a6e569dd9dd026d3c252f6163ac99c073e301d6fe7e7cd297ce0e5f2417e6ba5ab85f
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Bauhaus
+Author: unknow
+Depiction: http://bvnsupport.github.io/infodeb/Bauhaus/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bauhaus.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+
+Package: com.repobvn.DepthsL-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.DepthsL-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 19558740
+MD5sum: a226f0f96e1ed8581a6ac725b18e7bdc
+SHA1: 3eda1d456eae79b2d2ce49f3af254101e60b1f02
+SHA256: e31203d2a14c9b8efd6468dedca9285c20cb0f0cb68313a0ccbae7aca4647654
+SHA512: 12062d6da31e8c2b884ee83cdfda1361c4006f2d77992a8f46397a77359da32d4ea6015fb24f8d0707d5e95d1b923146d9c4f4a02d5bcd4e691d2eba7132941f
+Description: Chủ đề bàn phím cho Laetus
+Name: DepthsL (Rootless)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/DepthsL/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DepthsL.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.repobvn.DustryBlue-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.DustryBlue-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4918080
+MD5sum: beffdc518cdf0031c7209cf5c9774cf6
+SHA1: c236fb447eef6899c3cfcd64520da39ccc9d27de
+SHA256: c4668f3208efa811575947695e62cc8dd8d8c325a6372e024c675599d3242062
+SHA512: 708823ead81ecaf2d6df0135a18cc5c5fe4656f4f82227a099ed56fc808d5c2fbea9932a260eb31c8372efbb12dd4f6e823fa3f0bab10342f71b67382862298c
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Blue (Rootless)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/Dustry/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dustry.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+
+Package: com.repobvn.GoodWifi-rootless
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.repobvn.GoodWifi-rootless_0.1_iphoneos-arm64.deb
+Size: 65422
+MD5sum: 25b0f57f83704da1c548dd60adc2c73c
+SHA1: 23a821bb7865dabdda67bbac2193601ba1b92dcb
+SHA256: 9e9da9135b1abaa0828e6fb52f2486666963c605b5e492d62dbfae7707dd20bf
+SHA512: ee0768a3ffb8452c4e9a1b62ed35029b7abf6e7ecc93bb8175577a06b3db641864ab25f1e833eed20c275c34713c01f4720f42431703644ca8adf23bbca61f99
+Description: Hiển thị mật khảu Wifi đã kết nối
+Name: GoodWifi (Rootless)
+Author: Julioverne
+Depiction: https://support-jailbreak.github.io/depictions/GoodWifi.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/GoodWifi.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.LetMeKnow-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.repobvn.LetMeKnow-rootless_1.4.2_iphoneos-arm64.deb
+Size: 30618
+MD5sum: af2be82797476b9c8a0f9d9a9fcfb187
+SHA1: 0cc7f533ff6d0581442c3b98a87c8a0590824635
+SHA256: 61afdc9696b3ee25d7d69d2adba69be0945ab74520c1f03ce3540261250df75d
+SHA512: 89a2bb237fa3ad95c53a92dfd076f45237c0a3d8cff25d44272fb22a7eca18df96bc70c77d4e598ac5a11535d0cbe7ec10bb8943de61faa98ba5317012fa7610
+Description: Rung khi kết nối hoặc ngắt cuộc gọi.
+Name: LetMeKnow VH (Rootless)
+Author: P2KDev
+Depiction: https://support-jailbreak.github.io/depictions/LetMeKnow.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/LetMeKnow.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.a-font-rootless
+Architecture: iphoneos-arm64
+Version: 1.10
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.a-font-rootless_1.10_iphoneos-arm64.deb
+Size: 838860
+MD5sum: aa20d430f3a91ed25d7bf5a87d74e53b
+SHA1: 9cbd3a82ce7f83578d1b448209e678bd537445c9
+SHA256: f1578f08c0659e743de1e104447060ceefc43b52478a9193b1796c8c7a2747db
+SHA512: 963acf487bd3c90a03c1fb0b4e85c1b45f4745ae58d211477952692868823601460fcc4f00d9d5aaf43b7f18d45083fc70908def057b259fbef84cb34eac8909
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH(Rootless)
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.atriarootless
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 733
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/com.repobvn.atriarootless.deb
+Size: 270038
+MD5sum: 5529e4c3a1716f9b66961affc0a627bc
+SHA1: 44e89a2578a7b4624f7ec2667284abd5b1d97679
+SHA256: 6934688296968cde5129ea8454c3389d4e087b66f8a27d910a675c3cba40e1f4
+SHA512: 219539747edb0b2480aa937cb6c04f55529a59ae0f5e94fc3f06bd38cf1bd71ac767e87c658ec2a0330f2e9637d26eaffd00436530d096aee4d1510530ff6ad2
+Description: Trình chỉnh sửa bố cục màn hình chính phù hợp cho iOS 15.0-16.4.1
+Tag: compatible_min::ios15.0
+Author: ren7995 <lau7995ren@gmail.com>
+Name: Atria VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/atria2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/atria.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.centeredlabels-rootless
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Filename: ./debs/com.repobvn.centeredlabels-rootless_1.3_iphoneos-arm64.deb
+Size: 17098
+MD5sum: 316e8ef7d362fafe55651fdce0d60ffc
+SHA1: 6f7d15a8f75ee72f19615bc3b812684998a52edd
+SHA256: 787fdfbccd613796e4d340e84e410187c8ab08da8fe6d93b5999f27cb67d8b84
+SHA512: c61a97f1b5b7dc5000b8ae630e393fd0b5351928e24b68e89f8c6c3728173e24a7a703f6c3da1ca6c6de418c3c55c4afbcf91ea66366988f53ecdc2bf76a2a98
+Homepage: https://support-jailbreak.github.io
+Description: Căn giữa tất cả các mục trong trang Cài đặt của bạn.
+Tag: role::enduser
+Name: CenteredLabels (Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/CenteredLabels.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CenteredLabels.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
+Package: com.repobvn.dodo
+Architecture: iphoneos-arm64
+Version: 4.0.8.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 8488
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore
+Filename: ./debs/com.repobvn.dodo_4.0.8.1_iphoneos-arm64.deb
+Size: 1819858
+MD5sum: 47fd07443f85fdf33dbb69068b156690
+SHA1: 1b8876e10a66ae0aa73c6402befb7a90ec66c8ea
+SHA256: a6e0d52a666e4e5f77a37bb0b867e2f6110728e6807d07d9f63165a8c18fbef9
+SHA512: 7fcd94166beedc536d2cea9a4c89f74d4b43558e7eb52cc84a70596ce67b6ebc56aa0003b2aa736942df380551e6ec2124285924f373ab12a97d7571dd73658f
+Description: Thiết kế lại Màn hình khóa hoàn hảo.
+Name: Dodo (Rootless)
+Author: Ginsu
+Depiction: https://support-jailbreak.github.io/depictions/Dodo.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dodo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.instagramnoads-rootless
+Architecture: iphoneos-arm64
+Version: 1.3-5
+Section: Tweaks
+Maintainer: Repo bvn
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.repobvn.instagramnoads-rootless_1.3-5_iphoneos-arm64.deb
+Size: 182292
+MD5sum: 0d143bdae72486a065874ba647121a08
+SHA1: 9c0d9569fd23ded0bb8ab9a5616a900bafd8045d
+SHA256: 6e1a3e8c9314a5819b84d397f22879344d4198e3652f00eee67022c94fcabd04
+SHA512: 77b3c8f59a50c102a2c6e96950b2167f7e0b2875b8277c96d1c26237e34702db7701e0ec93d5e499dc0acec7900e2ca3001763690836fd68c334226e032dc628
+Description: Chặn quảng cáo Instagram,thêm tính năng nhấn đúp để lưu ảnh và Video.Hỗ trợ phiên bản 277.0 trở lên.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Instagram NoAds (Rootless)
+Author: Netskao
+
+Package: com.repobvn.killapps-rootless
+Architecture: iphoneos-arm64
+Version: 1.2-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2160
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.killapps-rootless_1.2-2_iphoneos-arm64.deb
+Size: 1683470
+MD5sum: 2ae0b60d4c57e135b3f84371427ab3ef
+SHA1: abe90d9a389e17d85f212a2493662385471bd316
+SHA256: 13285cf765843cddd28104b12921a8c17330d3990e761463b1ebbd00171c0dfb
+SHA512: b447bed317cddc232c6fb407423558f8d54b913cf9bcbcadc6743b65db99e3322a908c4360bce54ec699ade678d4c8b1cc811a80c177283856e200769f05ed10
+Description: Thêm chức năng xóa nhanh tất cả ứng dụng trong đa nhiệm.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: KillApps (Rootless)
+Author: Netskao
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 138450
+MD5sum: 20f4008b3243f1cb3776f028939b8c9f
+SHA1: 54eb65138635096e5a2b9781e7145a265eff34c6
+SHA256: 1f3dbec40e2b91f97a4a6529970caf7bc1dd37b589dbba0bf50a3d350001dd4a
+SHA512: 531c28be71c1de6a22896acb4de6e22a768d86467d4d9bc3e7ac6d9d018847014bf4f5fef8c0f05edfdb224481042bf33d1a213d217163b179b5043ecb2eee92
+Description: Tùy chỉnh trang cài đặt ios
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 3.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.sop.settingsrevamp
+Filename: ./debs/com.repobvn.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 295486
+MD5sum: a7819d2b5233ea885e628d55c2a8993b
+SHA1: f17ac256bd09cbd7b76fae8665d5b3c1e5a424a5
+SHA256: 9a3d65125d02e5fca73cfedf09e7676d7667d4933167b2c5bd1dd4ae909f8840
+SHA512: b9687d43079ce9f689dca1045fa162265f08f0addbad06576a3c9439a007150a2df1f3b5901aa026bf3ed014a968302da7d9d63ba68c5067986e8406da134252
+Description: Customize the ios settings page
+Name: SettingsRevamp VH(Rootless)
+Author: SOPPPra
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: vn.bvn.aerial
 Architecture: iphoneos-arm64
