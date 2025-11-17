@@ -9800,6 +9800,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/MediaConverter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/MediaConverter.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.Meizu3D
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Theme Rootless
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.Meizu3D_1.6_iphoneos-arm64.deb
+Size: 61678910
+MD5sum: 01cd57fcc04cc95e04feb74fd400ae76
+SHA1: 250d686481fee2c7017cf5aa87391056fa332271
+SHA256: 8a3da331e2e1a4757272a7f6f7a7cc34cace50438a06cabc8c3dd2b86e49f8c8
+SHA512: 1f9d3bf7a637b713693657a7f168837b7c9830c0772a2f7ae7d4e3a50631f3a999ee8d9e7cee37c086521fdc86e33f42db0e5be19a863919118446c938895bb0
+Description: Chủ đề Meizu 3D
+Name: Meizu 3D Theme
+Author: Miss
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.Os26.dark
 Architecture: iphoneos-arm
 Version: 0.2~beta
@@ -19365,29 +19383,6 @@ Name: Trích FILE IPA
 Author: c0pyn1nja
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.bvnsupport-youtuberebon.youtuberebornviethoa
-Architecture: iphoneos-arm
-Version: 4.2.6
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 24892
-Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, com.repobvn.ytx, com.repobvn.uyou
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs/com.bvnsupport-youtuberebon.youtuberebornviethoa_4.2.6_iphoneos-arm.deb
-Size: 12048908
-MD5sum: fae4cf568d97c57603e4e4c77f1d4fc5
-SHA1: f69a2750853163d4a5edd6f30900425ee0edca08
-SHA256: d993fd55932d4ff85a9c0b43747a7681e044a5f10ef57a78f90301285636169f
-SHA512: 42db925b2eb923c7355a7d520c3683f1bb4e5d8fc11c27b061db08826bf95f9f364c852f175e2cdc51ac6411f2b6475e28e45c46b904d6146b32968c0541ac7b
-Description: YouTube Customizer
-Name: YouTube Reborn VH
-Author: Lillie
-Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.bvnsupport-yt.cercube
 Architecture: iphoneos-arm
 Version: 5.3.10R
@@ -25089,29 +25084,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClockFonts.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: ClockFonts (Rootless)
 Author: nqt1195
-
-Package: vn.repobvm.youtubereborn
-Architecture: iphoneos-arm64
-Version: 4.1.2
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 24784
-Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs/vn.repobvm.youtubereborn_4.1.2_iphoneos-arm64.deb
-Size: 11988194
-MD5sum: f6f0ce2862101afd9bb13dccf45b5272
-SHA1: 0ccfde34fa193086b0df1a13a21f2ca8364735a5
-SHA256: af2460200fc7645a549ccd23e4fed856a468be677bcc5bf12fd98d5fc93450af
-SHA512: abb2bfcabc32ff45d315e92e7cc0a2a8c1af5824ceee78b66d577735bba7805c7e2b488988bdab65df2664b82e7f1b9b5cbe1021ab91030b1c5bab03ac3e5620
-Description: YouTube Customizer
-Name: YouTube Reborn (Rootless)
-Author: Lillie
-Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.repobvn.floatingdockxvi
 Architecture: iphoneos-arm64
