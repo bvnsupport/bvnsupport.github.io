@@ -10640,6 +10640,27 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3 VH(Rootless)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.appdatavn
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Priority: optional
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.appdatavn_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 15044
+MD5sum: 230d53ef7a5fb540e554b7195976f11f
+SHA1: 338b179b93d9cd129fdb96f6750712aee0d1c83f
+SHA256: df234067356cade2e8e548fcac04d927b6ac141946b9ddee14b4dc1ef77fe9e6
+SHA512: 37144c02e8fa0c80335c8ea3b21d07b53bb8e4db5866a4fbcbba13b304dd674f249efb698bf10c84d5ca6bf1abe53d0c1ea8e6d9e6e1529d5e923b77e6731086
+Description: Việt hoá AppData
+Name: AppData (Gói Tiếng Việt)
+Author: BVN Repo
+Depiction: http://bvnsupport.github.io/infodeb/Html/AppDatavh.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppDatavh.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
+
 Package: com.bvn.applecard
 Architecture: iphoneos-arm64
 Version: 3.3.3-end
