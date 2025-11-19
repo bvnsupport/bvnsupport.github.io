@@ -1962,111 +1962,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Campy/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Campy/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.carbridge13
-Architecture: iphoneos-arm
-Version: 2.0.10
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 7156
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.BIENVANNHAT.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 1915296
-MD5sum: 3fa8df84dfd2a2c19900a3f7e6bcdc4b
-SHA1: b58a61167cf42805791fbef17a5ec45ef5365151
-SHA256: c7d322cd67f2fa340aab7a0520825aaac5cf9740e8b5553a1841a3fe746d1eb0
-SHA512: 5ac858066641d2932f255f38773d24473e172ad4483cae2c2dc10bdd3fdbd4df5cf11b6b4cf7b28a8079ed52ee3efc7d50eee830804ef47ef0322706261dd10a
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Name: CarBridge VH
-Author: leftyfl1p
-
-Package: com.BIENVANNHAT.carbridge13
-Architecture: iphoneos-arm
-Version: 2.0.13K
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.BIENVANNHAT.carbridge13_2.0.13K_iphoneos-arm.deb
-Size: 1870694
-MD5sum: 690952c7b4f1c15269abd17e20b47ff0
-SHA1: 29a9feb056db529d87acb2a25e26ba0d205b5288
-SHA256: ce02dff9fa7ccd9cefa2b935c696251427d9d06f7d849439958d2ba359d5862d
-SHA512: b615727a1a6af1d7b5b9b88925851dff44fc21d30f3af719efdb5b9c4f23a2db4c37b73bef41978d60f2ec5aab27b1752c12514b4aa9b20ceb7fdc2c52c844e0
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.carbridge13
-Architecture: iphoneos-arm
-Version: 2.0.14K
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.BIENVANNHAT.carbridge13_2.0.14K_iphoneos-arm.deb
-Size: 1875284
-MD5sum: 62ff4d6035930e0628d2b388bbd8e24e
-SHA1: 20542f593ec83e7a01a3f045aff0140e2231bc3f
-SHA256: 25d55971f443232d676b4da93dce94967c629b6f875020947fbfe5050c5ddb36
-SHA512: 5b027754e9a08dfef63a651b9e565e822f324770edf477bdb510635c0202c4b63180aac55f3b159724c408286bd5dff2185fb26cd459b22d253004bdae798171
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.carbridge13
-Architecture: iphoneos-arm
-Version: 2.0.15k
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.BIENVANNHAT.carbridge13_2.0.15k_iphoneos-arm.deb
-Size: 1891558
-MD5sum: dfc52669f908b633aa806e981e74b905
-SHA1: 1027e7d14cbc038bbc1c9ca51aeeaf2d9cda5b54
-SHA256: 651b0fc4c3fcbec60296472f808dc193ed0e4df1d2b703b66ba9c2a558133363
-SHA512: f8675b33f6cff270b93dae4fe616fe5bd2d94289e712bf8ad9a50ebe76ac4066c2ce88beb21abe5ca0a420a10c54079850fb56fe260e8572e3f9d042453a0df2
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.carbridge13
-Architecture: iphoneos-arm
-Version: 2.0.9~1
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 1572
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.BIENVANNHAT.carbridge13_2.0.9~1_iphoneos-arm.deb
-Size: 410176
-MD5sum: beef6b7289d6838865f10037a8e9808c
-SHA1: 00b18df069ac8fc515bafaa997ecedce73556ca1
-SHA256: 91686c6a22db7a2f6ddbeecca15845bcdcc44f6f6c0cd5c8d9383415e20157e5
-SHA512: 5f8e430e2b7a59b40937c74f897dd57feffb976aad2c9d04cac5cee391118c640e3ba0b89132ff1441187c2babb24badd9c53184d32fc513b293311ff05c568e
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH
-Author: leftyfl1p <carbridgetweak@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/CarBridge/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/CarBridge/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.carplayenable
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -7814,48 +7709,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AudioRecorder.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
-
-Package: com.Repobvn.carbridge13-rootless
-Architecture: iphoneos-arm64
-Version: 2.0.11
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 7324
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.Repobvn.carbridge13-rootless_2.0.11_iphoneos-arm64.deb
-Size: 1890050
-MD5sum: 1fffc13115cce894e0d73d12bf4586b9
-SHA1: 91fd88082967bb35913a57072e13a1bfdbfe75bc
-SHA256: 121b3a33066f6bdc56255090fddb91b06fa07a403edb2c254905b6843091ec0b
-SHA512: ae09ee9bbd876f79408cab3895d11f085831ce835ccd23321ca9f0601acb3ebac043bf2ab21f5ae95ccbd00d902fea49d915bade25bf177ab22ca7f70af1273d
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH(Rootless)
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.Repobvn.carbridge13-rootless
-Architecture: iphoneos-arm64
-Version: 2.0.12-2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.Repobvn.carbridge13-rootless_2.0.12-2_iphoneos-arm64.deb
-Size: 1891500
-MD5sum: 00e61e7527f27497388bc85c039ddb5d
-SHA1: 20c9911c46117a595bb1c04a0f11f28b7449dd7d
-SHA256: b0ab73aef8ecdc8f980daa1654c2414a6ac81109114b036431c9043c0f623c77
-SHA512: d3ba27a2076a9e3888a864038a45e46c9ea4e9015062564c00f0476cba27985cf9bdd489402f85d72d5464d1adde2b15204bbb477ad87fca34e989bb9ed59b1d
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH (Rootless)
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.Repobvn.cconandoff
 Architecture: iphoneos-arm64
@@ -21254,27 +21107,6 @@ Author: Spark
 Depiction: http://support-jailbreak.github.io/infodeb/AutoUnlockX1/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AutoUnlockX1.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.carbridge13-rootless
-Architecture: iphoneos-arm64
-Version: 2.0.15K
-Section: Tweaks
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.repobvn.carbridge13-rootless_2.0.15K_iphoneos-arm64.deb
-Size: 1839388
-MD5sum: a08c4e6663663eb2119292b74dedf6a9
-SHA1: ac89db0e33bfbb198b1809d9f518d660fffb01fd
-SHA256: 2bc570876918f3c6107f8fb64151ff414e6c0499b3d77103ed0b8165388eddb8
-SHA512: 6b2bdc3d821119caea751b71bbf366c5f3536b25af445264b1fc99bb3e99749c5ddb4f7524e85f49ab4754f31a9b5548f6ef1591dfbe847dc7a59e83615baca9
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH(Rootless)
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.cask3-rootless
 Architecture: iphoneos-arm64
