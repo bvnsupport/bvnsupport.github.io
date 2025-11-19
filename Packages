@@ -15293,26 +15293,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Miumin.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Miumin.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.bvn.muteplay
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.muteplay_1.0_iphoneos-arm64.deb
-Size: 6178
-MD5sum: ea99583f3958268b9c3481a0d679fb9b
-SHA1: bd2633dbece31836acd9573bbadbdf84a0be8daf
-SHA256: 1c25c494cc57e5b1ec0d49fa6b0f7f57b52b16afeef0c6ed95b837e6dd12f6d5
-SHA512: eaae93fb1d57a04adfce7aeb0b5f5b6e1c37d0e914310e6668ed7f06268a05ef8cf3cc7efd348e0a50a662e0ce4372513363b17af09d2c3aaafd1494d45d95eb
-Description: Mute notifications while playing music。
-Name: MutePlay (Rootless)
-Author: uz.ra
-Depiction: http://bvnsupport.github.io/infodeb/Html/MutePlay.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/MutePlay.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: com.bvn.n95
 Architecture: iphoneos-arm64
 Version: 4.4
@@ -17843,26 +17823,6 @@ Author: MTAC, BVN
 Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bvn.verxina
-Architecture: iphoneos-arm64
-Version: 1.3K
-Section: Tweaks
-Maintainer: uz.ra
-Installed-Size: 1400
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, openssl, ws.hbang.alderis
-Filename: ./debs/com.bvn.verxina_1.3K_iphoneos-arm64.deb
-Size: 401180
-MD5sum: 3135b827cedb6e0ab06d074daf868559
-SHA1: 1b04c41e5522d755b68a6b58f6eff4ff59d4d136
-SHA256: 85ea4503ade56c5dc799fcae4ccef38a6f182ca8b9cb1dcb15c2ca3b130b101f
-SHA512: 1979883e3c080df7decfbb7d1084b0bcd1e67b4122f4565af9d7ecd16f3f382a1365ce4c54c2470c4bf7b3ac5af3945d86231fafcb639d8126e18468a1ab25b2
-Description: Your dock, but better.
-Name: Verxina VH (Rootless)
-Author: uz.ra
-Depiction: http://bvnsupport.github.io/infodeb/Html/Verxina.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Verxina.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.vibetok
 Architecture: iphoneos-arm
@@ -20630,24 +20590,6 @@ Author: opa334
 Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStore.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStore.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.p2kdev.deleteforeverxs
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.deleteforeverxs_1.1_iphoneos-arm64.deb
-Size: 10000
-MD5sum: 996a5f77efd1191996d685458a22210b
-SHA1: 8bad4ef7389c6bacea4ab2943c80a3bf5d7a9613
-SHA256: f8d3464b5f91756a6deffdd4b5dbd767bb0e8b4bf52f28ff8da94d8758c16c63
-SHA512: 37c910d06a3b99b1fba5de56841b9e6f0596c4c49ee1bc2347313098e0325022868e2e7b6f282c19db64569f8ae375eaaccc827d8f8d968e8db6e79ba8bc2daf
-Description: Xoá ảnh hoàn toàn,không cần phải vào mục đã xoá để xoá
-Name: DeleteForeverXS (Rootless)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: P2KDev <p2kdev@gmail.com>
 
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
@@ -24626,46 +24568,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/T9Dialer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/T9Dialer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Jordan Koch
-
-Package: vn.bvn.aerial
-Architecture: iphoneos-arm64
-Version: 1.1K
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 692
-Depends: mobilesubstrate
-Filename: ./debs/vn.bvn.aerial_1.1K_iphoneos-arm64.deb
-Size: 218440
-MD5sum: dfdb0c8f6e43e43e284f8cb5cbaee39c
-SHA1: 3c7d3b06c30db3d9123e0f1f81a5ad2434e79f6e
-SHA256: 5c60734ba5f5f1103375d11294286115f08d6f0d5ee84ad4db4f6277c3df3ed5
-SHA512: 64a71dab4aa98d599904c1995f0fbbf05ae706548e91c35ffc3068722d58ce4e11b3eea1de81e6d69173fb6ea1e168240dfb7e9cc56d2c85ea6f1357d4d4acf5
-Description: Stage Manager, redesigned for iOS
-Name: Aerial VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Aerial.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Aerial.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: uz.ra
-
-Package: vn.bvn.aerial
-Architecture: iphoneos-arm64
-Version: 1.2K
-Section: Tweaks
-Maintainer: bvn
-Installed-Size: 692
-Depends: mobilesubstrate
-Filename: ./debs/vn.bvn.aerial_1.2K_iphoneos-arm64.deb
-Size: 227160
-MD5sum: 23609e827250874c989e9370905dad42
-SHA1: 9b7c9f7e162f3cc61ec1f2c11223fb9ac914c554
-SHA256: 347d97b055b1f538a457d6b571144944fc3549331809e97a6d324f1b85e7843f
-SHA512: fe655cdbb036980b2011722394915df74d54513ce3393391936c59ec60a7d58fbc493e4c4ef0f9235b21d548a532d50976a07a0d9847ab54e234a9540f4e61a6
-Description: Stage Manager, redesigned for iOS
-Name: Aerial VH(Rootless)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Aerial.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Aerial.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: uz.ra
 
 Package: vn.bvn.bigsurcenter
 Architecture: iphoneos-arm64
