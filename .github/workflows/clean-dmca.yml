@@ -1,0 +1,37 @@
+name: Clean DMCA Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install git-filter-repo
+        run: |
+          sudo pip install git-filter-repo
+
+      - name: Remove DMCA files from history
+        run: |
+          git-filter-repo \
+            --path debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4-1_iphoneos-arm64.deb \
+            --path debs/com.BIENVANNHAT.hideserialnumber_0.0.4_iphoneos-arm.deb \
+            --path debs/com.BIENVANNHAT.youtubepatcher_0.3_iphoneos-arm.deb \
+            --path debs/com.BIENVANNHAT.carbridge13_2.0.9~1_iphoneos-arm.deb \
+            --path debs/com.BIENVANNHAT.carbridge13_2.0.15k_iphoneos-arm.deb \
+            --path debs/com.BIENVANNHAT.carbridge13_2.0.14K_iphoneos-arm.deb \
+            --path debs/com.BIENVANNHAT.carbridge13_2.0.13K_iphoneos-arm.deb \
+            --path debs/com.BIENVANNHAT.carbridge13_2.0.10_iphoneos-arm.deb \
+            --path debs/com.Repobvn.carbridge13-rootless_2.0.12-2_iphoneos-arm64.deb \
+            --path debs/com.Repobvn.carbridge13-rootless_2.0.11_iphoneos-arm64.deb \
+            --invert-paths
+
+      - name: Force push cleaned history
+        run: |
+          git push origin --force
