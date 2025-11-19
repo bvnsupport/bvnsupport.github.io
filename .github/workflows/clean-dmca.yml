@@ -15,7 +15,7 @@ jobs:
 
       - name: Install git-filter-repo
         run: |
-          sudo pip install git-filter-repo
+          pip install git-filter-repo
 
       - name: Remove DMCA files from history
         run: |
