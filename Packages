@@ -10642,19 +10642,19 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.appdatavn
 Architecture: iphoneos-arm64
-Version: 1.0.1-1+debug
+Version: 1.0.2
 Priority: optional
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.appdatavn_1.0.1-1+debug_iphoneos-arm64.deb
-Size: 16916
-MD5sum: b3d93f50e8149b6243d4a516128b49eb
-SHA1: 3c41ad1367c1c2ae890b025d6cf8bd3574ef29c6
-SHA256: 248a2ead11c81af939e49757b3ad7b917dbcd8e752d8fbda333d020bb4004f5b
-SHA512: bf41e6b95c87bc91b11d9041b7142039996e365c0140015bd95ccfddafc7231919f279fc31758fb7fc3df5cba34833e2b630e415cda4babbc6b16d29d67bbb74
-Description: Việt hoá AppData
+Filename: ./debs/com.bvn.appdatavn_1.0.2_iphoneos-arm64.deb
+Size: 18682
+MD5sum: de3ed97e8c533a1add86da82e11d9eda
+SHA1: 1a3e7f3a995b1b289c354cf89a288053ffd6b2c3
+SHA256: bac1407b1c0f6706489848740986a68556af7dcd31b424fb00187b6f7db52686
+SHA512: 064b16faae63f9b908b112a682178bd9c8061d704c56368075054cb44e9974ec5ab9a21b5f93197ea0ecd84a883461ac2246c349f19b774813922f353177a744
+Description: Việt hoá AppData (Settings + popup MANAGE trên màn hình chính)
 Name: AppData (Gói Tiếng Việt)
 Author: BVN Repo
 Depiction: http://bvnsupport.github.io/infodeb/Html/AppDatavh.html
