@@ -3602,50 +3602,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Heartlines/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Heartlines/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.BIENVANNHAT.hideserialnumber-rootless
-Architecture: iphoneos-arm64
-Version: 0.0.4-1
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 472
-Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: ./debs/com.BIENVANNHAT.hideserialnumber-rootless_0.0.4-1_iphoneos-arm64.deb
-Size: 105668
-MD5sum: 81bf53a12a4fce6af0c6de1d73c7a355
-SHA1: cc784dc5bd11e3983a31bd67226ac34594fc106f
-SHA256: 0f512f913319224c6ccaa03b0b2cd75e0bd98416bf80aea64bf970bf3a130427
-SHA512: bd8b4b5eef91641790e5fae36320d677bb26e6b21747b004462dbf3296c281911665b67037c0fe89748660686424235c967c80e118eb347b5adaaf8bf49e0724
-Description: Hide Serial Number in Settings About page.
-Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
-Author: ichitaso
-Name: HideSerialNumber VH(Rootless)
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
-dev: ichitaso
-
-Package: com.BIENVANNHAT.hideserialnumber
-Architecture: iphoneos-arm
-Version: 0.0.4
-Section: Tweaks
-Maintainer: ichitaso
-Installed-Size: 408
-Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: ./debs/com.BIENVANNHAT.hideserialnumber_0.0.4_iphoneos-arm.deb
-Size: 100338
-MD5sum: 9a37992c2be31643a7b5b43172ab62fa
-SHA1: 87b77ad66e32bb060263de769f175b8cd178727c
-SHA256: 4526e75553da7e5c049e46410e69121dbe10081da9b0414e5d476fb03e579454
-SHA512: 6d2aa5c184cd4dc51e676684a53722a349e29c82e9c1a5f3f45ff4b7b47aa070e25282f61b184df5c38f27bc49b5161e03cce74ad30e8c6200c6037761755623
-Description: Hide Serial Number in Settings About page.
-Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
-Author: ichitaso
-Name: HideSerialNumber
-Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-dev: ichitaso
-
 Package: com.BIENVANNHAT.homebarsizer
 Architecture: iphoneos-arm64
 Version: 1.1.1
@@ -7008,24 +6964,6 @@ Description: Chủ đề cho FrontPage
 Name: Windows 10
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: JunesiPhone <junesgraphics@gmail.com>
-
-Package: com.BIENVANNHAT.youtubepatcher
-Architecture: iphoneos-arm
-Version: 0.3
-Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.youtubepatcher_0.3_iphoneos-arm.deb
-Size: 5108
-MD5sum: cdbba004bb17b9232fc2a7ecd5c592ca
-SHA1: 036f1f67d28f6988a8f8614cd310074bcfc78bda
-SHA256: 5d2e9f697d927035ce3f07093eec0b51fb1047f5024f4e2b46c41e649c093e6e
-SHA512: f39334fb4d854a8b5a57e17eb00780ca0ba77fd3db6bb378a7ef4085932d420c00ed18a711e0d8aa5b2afde481d3cedf51a52c9a3867ce80b515f78c9d356cbc
-Description: Chặn quảng cáo Youtube&phát lại nền.Hỗ trợ ios 10=>14.7&Youtube Phiên bản mới nhất
-Name: YouTubePatcher VH
-Author: ichitaso
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.zephyr
 Architecture: iphoneos-arm
