@@ -17364,41 +17364,41 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.tgextra
 Architecture: iphoneos-arm
-Version: 1.4.0
+Version: 1.7.0
 Section: Tweaks
 Maintainer: choco
-Installed-Size: 15894
-Filename: ./debs/com.bvn.tgextra_1.4.0_iphoneos-arm.deb
-Size: 5070996
-MD5sum: 4266314038dc62d57a44eb7154063abb
-SHA1: 0f777ffbbe3420c5080b03fef9e2c6be23eb108d
-SHA256: 6973fe907a7c368f88cc0c7c41efc2a58afd6e8c48f38e7372920576629c9d23
-SHA512: ea7d21bc47569ff5a0a6a75d7ce4bc603a522851dde6216d1a587140cf1433e1134dc2af9a238b86d8fd19fddc250e196eac2e14106127862c348a7cc5f8f5e3
+Installed-Size: 13544
+Filename: ./debs/com.bvn.tgextra_1.7.0_iphoneos-arm.deb
+Size: 4481966
+MD5sum: 2aa97ceeaa55cd77c5a4e93e5ee17d8c
+SHA1: d34c364be7dc0531669e399672d54685f05c34c8
+SHA256: 63ec422e9df5fd19e0601b58b2d5506de1a0d10dc1a6475071a1a1403931864d
+SHA512: c7aa5924b1600f7646401c944ef1789da94243012ffe205980d89d8a222ebb41769a68518cf35c82d0478f2380c43eafc204e2aab1e3bf9c2b22d0c9b3e4f70b
 Description: An simple Tweak For Telegram iOS
 Name: TGExtra VH
-Author: choco, r22i0
+Author: choco
 Depiction: http://bvnsupport.github.io/infodeb/Html/TGExtra.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TGExtra.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvn.tgextra
 Architecture: iphoneos-arm64
-Version: 1.4.0
+Version: 1.7.0
 Section: Tweaks
 Maintainer: choco
-Installed-Size: 15894
-Filename: ./debs/com.bvn.tgextra_1.4.0_iphoneos-arm64.deb
-Size: 5071088
-MD5sum: 4a84bfc70b260e3c7585aad3a38d1394
-SHA1: 92fff7e9e76b7ecbb5b43a2a87a6d1c58a407e32
-SHA256: f98cfa7fdc1ed28da6626ab9bf833529100dd786f447c031fe675a7fc5c087ca
-SHA512: 133aba07200034d68eeab5148cf63cd6c293560dbe2a1bdc65c0a8e0a6a4d12558e1aefbfb6864cee1d0e8ea0bece61f3ad9ce44691e8d058b42fb630151b50e
+Installed-Size: 13544
+Filename: ./debs/com.bvn.tgextra_1.7.0_iphoneos-arm64.deb
+Size: 4482078
+MD5sum: b17818e5d62b3c8c6d44cb90e9bc5251
+SHA1: f03e0e7f63ccad9b6f0771895ea2e55a443b6ee8
+SHA256: f4ad3de0d145a7ab50c6d69e6faafc32a57152ff9687e5b86294f5039366f2e9
+SHA512: c2190428fc57d361233f20bf8577748484ed9e41e3ee1760f119c2b325b5e5750f8617ec3bc77ec70cdf03d25ef06c3a708aef9f538318fa6ab3b7a57f49b995
 Description: An simple Tweak For Telegram iOS
 Name: TGExtra VH(Rootless)
+Author: choco
 Depiction: http://bvnsupport.github.io/infodeb/Html/TGExtra.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TGExtra.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: choco, r22i0
 
 Package: com.bvn.ticktick
 Architecture: iphoneos-arm
