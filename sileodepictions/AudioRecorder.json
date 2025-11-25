@@ -1,0 +1,129 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"AudioRecorder VH\n\n- Ghi âm cuộc tất cả cuộc hội thoại của bạn!\n\n- Ghi âm mọi cuộc hội thoại cho iOS của bạn, các tính năng như:\n\n- Ghi lại các cuộc gọi từ MỌI dịch vụ CallKit,Điện thoại, FaceTime, Skype, Viber, Messenger, Tango, LINE, BOTIM, Instagram, v.v\n\n- Ghi lại giọng nói: Ghi lại giọng nói từ micrô của thiết bị bằng các hành động kích hoạt tức thì\n\n- Ghi lại âm thanh hệ thống: Ghi lại bất kỳ âm thanh nào phát ra từ thiết bị,những gì bạn nghe thấy\n\n- Tự động đồng bộ hóa các bản ghi vào tài khoản Dropbox hoặc Google Drive của bạn\n\n- Chỉ định danh bạ để luôn tự động ghi lại các cuộc gọi\n\n- Chia sẻ nhiều bản ghi cùng một lúc, zip và chia sẻ\n\n- Chia sẻ bản ghi của bạn với tất cả các ứng dụng được hỗ trợ trên thiết bị của bạn\n\n- Gửi bản ghi của bạn qua email,iMessage hoặc đến tất cả các ứng dụng được hỗ trợ trên thiết bị của bạn\n\n- Sử dụng trình duyệt web của bạn để dễ dàng sao chép tất cả các cuộc gọi từ điện thoại sang máy tính của bạn\n\n- Chỉ định các phương thức kích hoạt để hiển thị giao diện ghi\n\n- Quản lý tự động ghi âm trên mỗi ứng dụng\n\n- Trình phát được cải tiến và trình hiển thị tích hợp để ghi lại phát lại Ghi lại các cuộc gọi điện thoại thường xuyên trực tiếp trên iPhone của bạn! Đồng thời ghi lại các cuộc gọi âm thanh,video FaceTime, cuộc gọi Viber, Instagram, Skype, Facebook Messenger, Tango hoặc LINE hoặc Cuộc gọi video,phần âm thanh,miễn là Âm thanh hệ thống, đến từ mọi nơi trên thiết bị! [Bài hát, trang web, v.v \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/AudioRecorder-rl/Screenshots/7.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"ỦNG HỘ TÔI😙"
+},
+{
+"markdown":"[**Nhấp vào đây**](https://bvnsupport.github.io/infodeb/THONGTINTHANHTOAN/?p=info) - ✌️\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Limneos"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.0-71K" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"29/9/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"868 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 18.0"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 5.0-71K\n\n- Sửa lỗi trên Rootless JB\n\n Hỗ trợ iOS 18"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

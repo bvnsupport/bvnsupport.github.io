@@ -1,0 +1,109 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực\n\n- Các tính năng bao gồm:\n\n- Xem kích thước và phiên bản gói ứng dụng\n\n- Xem và sao chép số ID nhận dạng gói ứng dụng\n\n- Chỉnh sửa tên biểu tượng ứng dụng\n\n- Xóa hoặc cập nhật số huy hiệu ứng dụng\n\n- Kiểm tra kích thước dữ liệu,bộ đệm của ứng dụng và xóa chúng\n\n- Hạ cấp ứng dụng\n\n- Giảm tải ứng dụng bằng cách gỡ cài đặt ứng dụng và giữ lại dữ liệu\n\n- Đặt lại quyền ứng dụng\n\n- Truy cập gói ứng dụng và vùng chứa dữ liệu\n\n- Truy cập các nhóm vùng chứa ứng dụng\n\n- Mở trang AppStore của ứng dụng\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/AppData/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/AppData/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin tinh chỉnh"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Fouad Rahed"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.4" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"30/10/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"7,4 MB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 1024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.4.4\n\n- Cho phép các ứng dụng được cài đặt trên TrollStore thiết lập lại dữ liệu và quyền"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

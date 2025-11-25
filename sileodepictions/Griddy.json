@@ -1,0 +1,109 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Griddy\n\n- Không có cấu hình tuỳ chỉnh trong cài đặt\n\n- Sử dụng Griddy để đặt biểu tượng ở mọi nơi trên MHC\n\n- Các tính năng chính:\n\n- Điều khiển kéo và thả trực quan\n\n- Hỗ trợ cho bất kỳ biểu tượng hoặc tiện ích có kích thước nào\n\n- Bố cục riêng biệt cho hướng dọc và hướng ngang\n\n- Lưu bố cục giữa các lần Respring và khởi động lại \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Griddy/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Griddy/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"mikifp"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.5" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tinh chỉnh"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"22/12/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"67 kb"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.7.10"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.5\n\n- Đã khắc phục sự cố với các biểu tượng trên thanh dock nổi tạo ra nhiều hàng\n\n- Đã khắc phục sự cố lưu dữ liệu Griddy ở vị trí sai\n\n- Đã khắc phục sự cố liên quan đến việc tạo bản xem trước thư mục không chính xác\n\n- Cải thiện độ ổn định tổng thể"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

@@ -1,0 +1,101 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/aim/Screenshots/1.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/aim/Screenshots/2.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/aim/Screenshots/3.jpg",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Tinh chỉnh AIM VH (Rootless) \n\n### Màn hình khoá phong cách iOS16.\n\n### Các tính năng:\n\n+ Thời gian\n\n+ Tuỳ chỉnh phông chữ\n\n+ Tuỳ chỉnh kích thước phông chữ\n\n+ Tuỳ chỉnh màu\n\n+ Vị trí Cao&Thấp\n\n+ Ngày\n\n+ Tuỳ chỉnh phông chữ\n\n+ Tuỳ chỉnh kích thước phông chữ\n\n+ Tuỳ chỉnh màu\n\n+ Vị trí Cao&Thấp\n\n+ Căn chỉnh\n\n+ Tùy chọn ngày (Kiểu: chữ hoa, chữ thường, viết hoa, không có)\n\n+ Tiện ích (Widget)\n\n+ Tuỳ chỉnh tiện ích\n\n+ Tuỳ chỉnh màu\n\n+ Vị trí Cao & Thấp\n\n+ Lưu ý: Đặt phông chữ tùy chỉnh trong /Library/Application Support/AIMFont (định dạng .ttf/.otf/.woff).\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"alimaulana "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"19/6/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 15.7.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.3\n\nHỗ trợ Rootless Jailbreak "
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

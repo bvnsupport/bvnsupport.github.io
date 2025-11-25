@@ -1,0 +1,117 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"LastLook VH\n\n- Tinh chỉnh này làm đẹp cho Màn hình khoá \n\n- Hiển thị một màn hình cuối khi bạn khóa thiết bị.Bạn có thường khóa điện thoại\n\n- Bạn có thường xuyên khóa điện thoại của mình sau đó mở khóa điện thoại ngay lập tức kiểm tra chủ đề thời gian nếu bạn có thông báo hoặc quản lý?\n\n- Nếu có,thì LastLook là dành cho bạn! Hữu ích, cái nhìn tuyệt đẹp mỗi khi bạn khóa điện thoại, nó sẽ hiển thị nội dung từ Trung tâm thông báo của bạn trong vài giây, khi bạn làm mờ hình nền để có một cái nhìn rõ ràng.Và đối với những người bạn có cơ hội có màn hình OLED, nó sẽ còn đẹp hơn nữa!\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/LastLook/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Anthopak"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"4.2.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"14/1/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"567 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 16.7.10"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Bvn Repo",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 4.2.2\n\n- Sửa lỗi\n\n- Thêm Tiếng Việt"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Bvn Repo",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

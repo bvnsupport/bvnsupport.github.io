@@ -1,0 +1,125 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Immortalizer\n\n- Cho phép ứng dụng của bạn chạy liên tục ở chế độ nền\n\n-  Bạn có thấy chán khi một số ứng dụng luôn phải ở chế độ nền để thực hiện một số việc nhất định không\n\n- Hoặc, bạn muốn giữ cho các ứng dụng không bị treo ở chế độ nền\n\n- Đừng lo lắng nữa. Immortalizer sẽ giúp bạn\n\n- Các tính năng:\n\n- Bật,tắt chế độ nền ứng dụng[nền trước]thông qua menu ngữ cảnh cảm ứng 3D\n\n- Hoạt động ngay cả khi màn hình tắt,thiết bị bị khóa, do đó không phải lo lắng về việc hao pin\n\n- Có tùy chọn để có chỉ báo,thông báo toast tùy thuộc vào trạng thái của ứng dụng\n\n- Cho phép bạn bật thông báo trên một số ứng dụng không hiển thị thông báo khi ở chế độ nền trước \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Immortalizer/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Immortalizer/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Immortalizer/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Immortalizer/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Immortalizer/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Immortalizer/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ tôi"
+},
+{
+"markdown":"[**Mua cho tôi 1 ly Cafe**](https://support-jailbreak.github.io/infodeb/DONATE/) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"sergy"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.0-1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"15/11/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"212 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.7.10"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.0.0-1\n\n- Đã sửa lỗi xung đột với một số chỉnh sửa liên quan đến thông báo [Glance]\n\n- Đã sửa lỗi nút Tắt của Mô-đun CC không phản hồi\n\n- Đã sửa lỗi khiến một số ứng dụng bị treo/đóng băng\n\n- Đã sửa lỗi bàn phím không hoạt động\n\n- Đã thêm Hỗ trợ CC cho các hành động nhanh chóng\n\n- Đã thêm tùy chọn khóa ứng dụng trong trình chuyển đổi ứng dụng\n\n- Đã thêm tùy chọn để có chỉ báo khóa trên cả SpringBoard và trình chuyển đổi ứng dụng"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

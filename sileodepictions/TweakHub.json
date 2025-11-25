@@ -1,0 +1,113 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Tinh chỉnh TweakHub\n\n- TweakHub là một công cụ mở cài đặt trước tinh chỉnh từ Màn hình chính\n\n- TweakHub là một tinh chỉnh bẻ khóa cải tiến mới sẽ giúp bạn dễ dàng truy cập các bảng tùy chọn cho tất cả các tinh chỉnh đã cài đặt trực tiếp từ Màn hình chính. Hãy tạm biệt việc điều hướng qua ứng dụng Cài đặt và thay vào đó hãy sử dụng tinh chỉnh TweakHub để đơn giản hóa quy trình, giúp quy trình trở nên thuận tiện hơn bao giờ hết. Tất cả các bản jailbreak không root đều được hỗ trợ.\n\n- Sau khi hoàn tất cài đặt TweakHub, một ngăn tùy chọn mới sẽ tích hợp vào ứng dụng Cài đặt của bạn, cấp cho bạn toàn quyền kiểm soát chức năng của nó. Trong giao diện trực quan này, bạn có quyền không chỉ kích hoạt tinh chỉnh mà còn tùy chỉnh các khía cạnh khác nhau trong hành vi của nó. \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/TweakHub/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/TweakHub/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/TweakHub/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"sopppra"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"14/9/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"212 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 13.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.2\n\n- Hỗ trợ rootless jb"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

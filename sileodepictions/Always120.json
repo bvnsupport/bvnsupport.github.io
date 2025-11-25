@@ -1,0 +1,109 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Always120 VH\n\n- Như đã biết, Apple đã giới thiệu hỗ trợ tốc độ làm mới cao bắt đầu từ iPhone 13&14 Pro trở lên. Tuy nhiên, nhiều ứng dụng của bên thứ ba chưa tương thích với tốc độ làm mới 120Hz và hệ thống mặc định là 80Hz do đến những cân nhắc như mức sử dụng pin\n\n- Trên hệ thống iOS 15&16, Tinh chỉnh có thể bật chế độ thích ứng toàn cầu cho tất cả các ứng dụng, trong đó tốc độ làm mới là 120Hz khi chế độ xem chuyển động và 0Hz khi chế độ xem đứng yên\n\n- Nó cho phép khóa tốc độ làm mới ở 120Hz cho các ứng dụng cụ thể, đảm bảo tốc độ làm mới nhất quán mọi lúc\n\n- Khả năng tương thích của Tinh chỉnh: Tinh chỉnh tương thích với các thiết bị đã bẻ khóa chạy iOS 15 và hỗ trợ các mẫu có tốc độ làm mới cao như iPhone 13 Pro,Pro Max\n\n- Đối với các mẫu có tốc độ làm mới không cao, nó có thể điều chỉnh hoặc khóa tốc độ làm mới ở 60Hz một cách hiệu quả và ổn định, đảm bảo hiệu suất tối ưu. Các mẫu được thử nghiệm bao gồm iPhone XR trên iOS 15.1 và iPhone X trên iOS 16.1.2\n\n- Xin lưu ý Ngay cả khi Tinh chỉnh này được bật, khi bạn kích hoạt Chế độ nguồn điện thấp, Apple sẽ buộc giảm tốc độ làm mới màn hình xuống 80Hz để duy trì mức sử dụng pin\n\n- Tinh chỉnh này được thiết kế để sử dụng mà không cần bật Chế độ nguồn điện thấp. chẳng hạn như bộ hẹn giờ nổi hoặc cửa sổ nổi, có thể không cung cấp kết quả chính xác\n\n- Tinh chỉnh cũng cung cấp biểu tượng tốc độ làm mới cho biết có thể được bật hoặc tắt để theo dõi chính xác hơn. Hãy tham khảo ảnh chụp màn hình bên dưới \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/Always120/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/Always120/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Snail"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.3" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"22/2/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"578 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.5.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.3\n\n- Sửa lỗi"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

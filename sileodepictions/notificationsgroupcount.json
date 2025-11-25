@@ -1,0 +1,105 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"NotificationsGroupCount\n\n- Đếm số lượng thông báo được nhóm lại trên màn hình khóa của bạn!\n\n- Ý tưởng ban đầu của bản chỉnh sửa này xuất phát từ iOS 18.1, của Apple và được tôi mang đến chiếc điện thoại đã bẻ khóa gần nhất của bạn\n\n- Sau đây là những gì tinh chỉnh có thể làm:\n\n- Thêm huy hiệu vào ngăn xếp thông báo, hiển thị số lượng thông báo trong nhóm\n\n- Cho phép bạn kiểm soát hiệu ứng bóng đổ của huy hiệu để dễ nhìn hơn\n\n- Cung cấp ba chế độ phối màu khác nhau:\n\n- 1.Màu tùy chỉnh: Chọn màu nền và màu chữ của riêng bạn\n\n- 2.Màu dựa trên hình nền:Tự động khớp với màu trung bình của hình nền màn hình khoá\n\n- 3.Màu dựa trên biểu tượng [mặc định]:Thích ứng với màu của biểu tượng ứng dụng bên dưới huy hiệu để có giao diện gọn gàng \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/notificationsgroupcount/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Oxkuj"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.6" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"28/11/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"567 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.7.10"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.6\n\n- Nhiều bản sửa lỗi căn chỉnh hơn, rất cảm ơn p2kdev"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

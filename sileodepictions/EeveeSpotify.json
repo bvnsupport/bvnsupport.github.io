@@ -1,0 +1,148 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnsupport.github.io/features/Eevee.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"EeveeSpotify\n\n- Tinh chỉnh Spotify Premium miễn phí giống Spotilife\n\n- Tinh chỉnh hiện có thể chặn các yêu cầu của Spotify để tải dữ liệu người dùng, giải tuần tự hóa dữ liệu đó và sửa đổi các tham số trong thời gian thực\n\n- Để kích hoạt chế độ Premium bạn cần vào cài đặt của EveeSpotify mục Patching Method và tích vào chế độ Dynamic\n\n- Tùy chọn Không kích hoạt Premium [dành cho người dùng có đăng ký Premium đang hoạt động]\n\n- Xem hình ảnh phía dưới để biết rõ Hơn \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnsupport.github.io/infodeb/EeveeSpotify/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Eevee"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.2.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"17/11/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"567 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 6.2.2\n\n- Đã thêm hỗ trợ cho Spotify 9.0.96\n\n- Đã sửa lỗi lời bài hát không hiển thị cho các bản nhạc cục bộ\n\n- Đã sửa lỗi lời bài hát trống khi khởi chạy ứng dụng\n\n- Có thể đã sửa lỗi Bài hát phát ngẫu nhiên Đặt lại Dữ liệu trong cài đặt EeveeSpotify"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{        
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by BVN Repo",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

@@ -1,0 +1,97 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/BetterCCXI/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/BetterCCXI/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# BetterCCXI – Tuỳ biến giao diện Control Center trên iOS 15 \n\n### Các tính năng:\n\n+ Theo mặc định thì Control Center trên iOS 15 bạn chỉ có thể thêm bớt các các biểu tượng tính năng, ngoài ra không thể tuỳ biến được gì nhiều. Tuy nhiên Tweak BetterCCXI có thể giúp bạn khắc phục điều này. BetterCCXI được viết bởi nhà phát triển ATWiiks cho phép bạn giải quyết một số thiếu sót trên giao diện Control Center của iOS 15. Một trong những điểm hay nhất của BetterCCXI là có thể thay đổi module các kết nối và module âm nhạc (điều mà iOS gốc không cho phép). \n\n+ Để bạn dễ dàng hiểu rõ hơn thì bạn hãy xem ảnh phía trên, hãy chú ý đến giao diện nghe nhạc, nó có thể chiếm 2 cột, 3 cột hay 4 cột tuỳ ý bạn, trong khi mặc định bạn không thể thay đổi toàn bộ cụm Control Center phía trên .\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) \n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"ATWiiks "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"23/6/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.4.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.6.0\n\nHỗ trợ Rootless Jailbreak "
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
